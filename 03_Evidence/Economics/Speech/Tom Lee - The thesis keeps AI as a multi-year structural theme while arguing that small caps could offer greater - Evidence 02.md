@@ -1,7 +1,7 @@
 ﻿---
 tags: [evidence]
 source_claim: "[[02_Claims/Economics/Tom Lee - The thesis keeps AI as a multi-year structural theme while arguing that small caps could offer greater]]"
-source_video: "[[Fundstrat’s Tom Lee S&P Tech at Record High — Is AI Still Undervalued]]"
+source_video: "[[Fundstrat's Tom Lee S&P Tech at Record High - Is AI Still Undervalued]]"
 speaker: "[[Tom Lee]]"
 evidence_type: speech_fact
 speech_status: done

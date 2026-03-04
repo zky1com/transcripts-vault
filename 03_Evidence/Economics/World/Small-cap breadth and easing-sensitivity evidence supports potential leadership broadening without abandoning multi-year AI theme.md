@@ -15,7 +15,7 @@ review_status: done
 review_method: manual_online_check
 reviewed_on: 2026-02-26
 review_notes: Small-cap and policy-path evidence supports broadening-without-theme-abandonment framing.
-source_video: "[[Fundstrat’s Tom Lee S&P Tech at Record High — Is AI Still Undervalued]]"
+source_video: "[[Fundstrat's Tom Lee S&P Tech at Record High - Is AI Still Undervalued]]"
 ---
 
 # Small-cap breadth and easing-sensitivity evidence supports potential leadership broadening without abandoning multi-year AI theme
