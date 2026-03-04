@@ -1,0 +1,72 @@
+﻿---
+title: "AI Tech Giant Anthropic CEO Dario Amodei announces major investments in India at AI impact summit"
+people_mentioned: ["Ireina Gos", "Prime Minister Modi", "Bletchley Park", "Anthropic India", "Xstep Foundation", "Central Square Foundation", "New Delhi Frontier"]
+channel: "ANI News"
+video_id: "2nzw_myvzQg"
+url: "https://www.youtube.com/watch?v=2nzw_myvzQg"
+publish_date: 2026-02-19
+duration: "5:26"
+word_count: 773
+content_type: "keynote"
+delivery_mode: "knowledge"
+broad_category: "ai"
+subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+series_name: ""
+episode_id: ""
+primary_person: "Ireina Gos"
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Ireina Gos - Anthropic"]
+organizations_mentioned: ["ANI News"]
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: ["Anthropic"]
+topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "valuation"]
+tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "valuation"]
+pipeline_stage: speech_done
+claims_status: done
+evidence_status: pending
+claims_count: 2
+evidence_count: 6
+batch_id: ""
+last_processed_at: "2026-03-03"
+speech_status: done
+world_status: pending
+speech_evidence_count: 6
+world_evidence_count: 0
+---
+## Summary
+
+The discussion centers on india, global, economic. The global south, starting with India and diffusing out to the rest of the global south. One dynamic that we have observed is that technology and practices pioneered in India have historically set a standard for the global south and. As part of our anthropic economic futures program and anthropic economic index, we publish statistical insights into how AI impacts jobs in the economy.
+
+## Key Insights
+
+
+- The global south, starting with India and diffusing out to the rest of the global south.
+- One dynamic that we have observed is that technology and practices pioneered in India have historically set a standard for the global south and have helped.
+- As part of our anthropic economic futures program and anthropic economic index, we publish statistical insights into how AI impacts jobs in the economy.
+- Even more, we see a particularly strong opportunity to work with India on studying the economic questions as part of the New Delhi Frontier AI impact.
+- We believe that AI will greatly grow the economic pie including in India and the global south.
+- As a sign of our commitment, we just this week opened an office in Bengaluru and hired Ireina Gos who has spent who has spent three.
+
+## People Mentioned
+
+
+- [[Ireina Gos]]
+
+
+
+
+## Claims
+
+- [[Dario Amodei - AI capability and societal-risk urgency are scaling together on short timelines]]
+- [[Dario Amodei - Anthropic is committing to India as a strategic AI investment and build ecosystem]]
+
+## Full Transcript
+<details>
+<summary>Click to expand full transcript (773 words)</summary>
+
+First, I want to thank Prime Minister Modi for bringing us together. The energy and ambition in this room and across India are incredible. I've been spending the last few days meeting with Indian builders and enterprises and the energy to build together here is palpable, unlike anywhere else. Um, this is the fourth AI summit we've held since the tradition was initiated at Bletchley Park back in 2023, which I still remember. And in those 2.5 years, the advances in the technology have been absolutely staggering. Along with those, the advances in the commercial applications and the societal and ethical questions around the technology have only grown more urgent. My fundamental view is that AI has been on an exponential for the la for the last 10 years um and as part of a sort of Moore's law for intelligence and that we are now well advanced on that curve and there are only a small number of years for AI models surpassing the cognitive capabilities of most humans for most things. We're increasingly close to what I've called a country of geniuses in a data center. a set of AI agents that are more capable than most humans at most things and can coordinate at superhuman speed. That level of capability is something the world has never seen before and brings a very wide range of both opportunities and concerns for humanity. On the positive side, we have the potential to cure diseases that have been incurable for thousands of years, to radically improve humans health, and to lift billions out of poverty, including in the global south, and create a better world for everyone. On the side of risks, I'm concerned about the autonomous behavior of AI models, their potential for misuse by individuals and governments, and their potential for economic displacement. India has an absolutely central role to play in these questions and challenges both on the side of the opportunities and on the side of the risks. As a sign of our commitment, we just this week opened an office in Bengaluru and hired Ireina Gos who has spent who has spent three decades building businesses in India as our managing director for Anthropic India. We've also announced partnerships with major Indian enterprises this week including Infosys and others on the opportunities. One dynamic that we have observed is that technology and practices pioneered in India have historically set a standard for the global south and have helped to diffuse technology and humanitarian benefits through the global south. We're therefore partnering with, we have been partnering with for several months nonprofits such as the Xstep Foundation, Prome and Central Square Foundation to use our models to advance digital infrastructure, education, agricultural efficiency, and health in the hopes of spreading AI's benefits across the global south, starting with India and diffusing out to the rest of the global south. We're also partnering with Karia and the collective intelligence project to build evaluations and metrics of our model claude's performance on India's many regional languages on practical and locally relevant tasks we'll benchmark like agriculture legal tasks and educational content on the risks India is the world's largest democracy and can be a partner and leader in addressing the global security and economic risks of the technology we'd like to work with India on testing and evaluation of models for safety and security risks in the tradition that was started by many global and national AI security institutes that have been stood up around the world. Even more, we see a particularly strong opportunity to work with India on studying the economic questions as part of the New Delhi Frontier AI impact commitments which we're excited to join. As part of our anthropic economic futures program and anthropic economic index, we publish statistical insights into how AI impacts jobs in the economy. We're excited to increasingly share this information, exchange information with the Indian government to share insights and inform evidence-based policym, convene meetings with economists, labor leaders and policy makers to adjust to to to adapt to the economic impacts of AI. We believe that AI will greatly grow the economic pie including in India and the global south. But that because it is happening so fast, it may lead to a time of disruption and we need to work together between companies and the government to better manage that time of disruption and bring better prosperity smoothly to all. Um I and anthropic are very grateful to be part of all these efforts and I'm honored to be here and working on these questions with all of you.
+
+</details>

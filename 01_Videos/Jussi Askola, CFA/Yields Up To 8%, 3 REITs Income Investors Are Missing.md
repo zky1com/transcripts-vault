@@ -1,0 +1,76 @@
+﻿---
+title: "Yields Up To 8%, 3 REITs Income Investors Are Missing"
+people_mentioned: ["Yosan Investment Firm", "Hayatt Landlord", "Nest Le", "High Yet Landlord"]
+channel: "Jussi Askola, CFA"
+video_id: "_np0RcExXgw"
+url: "https://www.youtube.com/watch?v=_np0RcExXgw"
+publish_date: 2025-12-22
+duration: "11:18"
+word_count: 2281
+content_type: "solo-talk"
+delivery_mode: "opinion"
+broad_category: "finance-investing"
+subcategories: ["valuation", "risk-management", "market-data"]
+series_name: ""
+episode_id: ""
+primary_person: "Yosan Investment Firm"
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Yosan Investment Firm"]
+organizations_mentioned: ["Jussi Askola, CFA"]
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: ["valuation", "risk-management", "market-data", "ai-safety", "ai-regulation"]
+tags: ["valuation", "risk-management", "market-data", "ai-safety", "ai-regulation"]
+pipeline_stage: video_only
+claims_status: pending
+evidence_status: pending
+claims_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-03"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
+---
+
+
+## Summary
+
+The discussion centers on dividend, rate, yield. On top of that, I think that the rate has about 20% of additional upside as yield starve investors come back to the rate. Now, this rate is offering a 7% dividend yield. It's today offering a 6% dividend yield.
+
+## Key Insights
+
+
+- On top of that, I think that the rate has about 20% of additional upside as yield starve investors come back to the rate sector following.
+- Now, this rate is offering a 7% dividend yield.
+- It's today offering a 6% dividend yield.
+- However, I think the preferred equity is very compelling right now, offering an 8% dividend yield, trading at a roughly 20% uh discount to par, which.
+- In today's video, I'm going to highlight three of my favorite high yielding rates offering 6 to 8% dividend yields to buy today.
+- Despite that, this rate is still today trading at a 6% dividend yield.
+
+## People Mentioned
+
+
+- [[Yosan Investment Firm]]
+
+- [[Hayatt Landlord]]
+
+- [[Nest Le]]
+
+- [[High Yet Landlord]]
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (2281 words)</summary>
+
+Fixed income investments have been very popular in recent years and it's easy to understand why. Interest rates were hiked at an unprecedented pace even as we face significant uncertainty. As a result, investors could suddenly earn higher yields on money market funds, treasuries, and bonds than on dividend paying sectors like rates and utilities. And this led to historic capital rotations from equities into fixed income. As a result of this, there's now a record 7 trillion sitting in money market funds. That's the most ever recorded. But things are now changing fast once again. At the time of this recording, the Fed has already cut interest rates two times in 2025 and is expected to cut for a third time on December 10th. That's on top of already having cut interest rates three times in 2024. And it's now expected to cut another three times in 2026, bringing the short end of the curve all the way down to 2.75%. There is a huge difference between being able to earn a 5% yield on money market funds and only earning two and a half or 3%. And therefore, I now expect fixed income investments to become a lot less desirable as we go into 2026. And therefore, we could now see another capital rotation, but this time the other way around with a lot of capital from fixed income going back into higher yielding equity sectors. I think that rates are particularly compelling here as they are still currently trading at near decade low valuations and offering historically high dividend yields after suffering a 4-year long bare market. It's not uncommon to find even high quality rates offering sustainable dividend yields in the range of 6 to 8%. But potentially not for much longer as interest rates are cut down to lower levels and some of that capital currently sitting in money market funds, treasuries, and bonds make its way back into the rate sector expect to get beat up to much higher levels. In today's video, I'm going to highlight three of my favorite high yielding rates offering 6 to 8% dividend yields to buy today. Hey, this is Yosan Investment Firm that specializes in rate investing. And before I go into today's video's picks, I wanted to remind you that we're currently sharing all our top picks for 2026 with the members of Hayatt Landlord and you can get access to all of it for free with a twoe free trial. If you join us today using the first link in the description, you won't be charged anything for the first 14 days. You can cancel anytime, no questions asked. And so if you cancel within those first 14 days because you don't want to continue with the service, you won't be charged anything, but you'll still get access to our top picks for 2026. It's a no risk offer for you. And I'm simply betting that some of you will see enough value in our research to stick around with us for the long run. Okay, so the first read I want to discuss in today's video is NNN rate, ticker symbol NN. It's today offering a 6% dividend yield. I think it's the perfect example to illustrate just how cheap RITs have gotten because NNN is arguably one of the blest blue chips in the entire REIT sector. And despite that, this rate is still today trading at a 6% dividend yield. This rate has the second longest dividend growth track record in the whole REIT sector at 36 years. It achieved this exceptional track record by targeting serviceoriented netlist properties such as quick service restaurants, convenience stores, home improvement stores, car washes. And what's so compelling about these properties is that they're typically structured as what we call triple net. And with a triple net lease, typically the lease term is very long at 15 to 20 years. Even today, NNN has about 10 years left on its leases on average. The landlords also has no responsibilities. And what this means is that the tenant typically covers all property expenses including even property taxes, insurance, the maintenance of the property. And so the cash flow is highly consistent and predictable. And on top of that, typically leases include about 2% annual rent escalations resulting in steady rent growth even through recessions. The best proof of this is that the rate was able to hike its dividend even in years 2000, 2008, 2009, and even during the pandemic of 2020, which was arguably the worst possible crisis for these type of properties given that its tenants were not even able to operate their businesses for a little while. And despite that, NNN rate was still able to hike its dividend. The rates management team is also famous for being one of the most conservative in the Nest Le's pure group. Typically only raising equity when they can reinvest it at a significant positive spread all while maintaining a fortress balance sheet with the longest debt maturities in the whole netly pure group currently at 12 years. I'll put a table on the screen comparing those average debt maturities of NNN rate to some of its peers like agra realy corporation realy income and others and you'll see there that they are much shorter than those of NNN rate. The RE then also retains about 30% of its cash flow which combined with its annual rent escalators has historically resulted in four to 5% annual FFO per share growth. And we expect more of that for many years to come. And so when you now add together the yield and the growth, so the 6% dividend yield with let's say 4% of FFO per share growth per year, you're getting a 10% annual expected total return assuming that the company's FFO multiple remains intact. That on its own is very attractive in my opinion coming from such a defensive blue cheap rate. But on top of that, I think that the rate has about 20% of additional upside as yield starve investors come back to the rate sector following rate cuts and NN rate reprices at closer to a 5% dividend yield. That makes the risk-to-reward of NNN rate very compelling in my opinion, especially for conservative income-seeking investors given that it's offering a very nice mixture of yield, growth, upside, and safety. For all these reasons, we currently own a position as part of our retirement portfolio at High Yet Landlord. Hey, before I go to the second pick, can you please do me a huge favor and click the like button and also let me know in the comment section below what reads I should cover next and I'll get back to you as soon as possible with another video. Okay, the second read I'm going to discuss is called Sila Realy Trust symbol S I L A. And now we're going up in the yields. Now, this rate is offering a 7% dividend yield. This came public quite recently via a direct listing in 2024. And because it's so new, I think that it still hasn't gotten the attention it deserves and it's causing its valuation to trade at lower levels than it really should. Sila is a netly trade just like NNET, but instead of targeting serviceoriented retail properties, it's mostly targeting healthcare properties such as medical office buildings, rehab facilities, and surgical facilities. And just like in the case of NN, Sila is also using triple net leases, which currently have about 10 years left on them on average the landlord. So, Sila is not responsible for most property expenses and the leases include about 2% annual rent escalations. And what I like about Sila's portfolio in particular is that its rent coverage ratios are quite high at 5.3 times on average, which means that its tenants are able to easily cover rent payments with their profits. And then on top of that, these properties enjoy very substantial long-term tailwinds as the population keeps aging at a rapid pace. The read then combines this lowrisk investment strategy with a sectorle leading balance sheet with one of the lowest leverage rates. Currently, its debt to IBIDA is about 3.6 time. And I'll put a chart on the screen to show you how it compares to other net list and healthcare rates. This low leverage now puts the rate in a strong position to keep acquiring new properties earning large positive spreads of it cost of capital. And this is especially true given that the rate is also retaining about 25% of its cash flow. All in all, I think that the rate should be able to grow its FFO per share by about four to 6% per year on average. And when you combine that with the 7% dividend yield, you're getting a very attractive expected annual total return. But once again here, I think that on top of that, there's also some upside as interest rates are cut and more fixed income investors deploy some of their capital into higher yielding equity sectors like REITs. I expect Sila to repric at closer to a five to five and a half% dividend yield. And that could add another 25 to 30% upside to the total of returns. And so once again, Sila here is offering a very attractive combination of yield, growth, upside, and safety, which makes its riskreward very compelling in my opinion. Even then, Sila is of course a new listing. It doesn't have the long track record of NNN rate. It's much smaller in size. It's not as well diversified and therefore it is riskier. Are you getting compensated for these higher risk with a higher dividend yield and more upside potential? And for this reason, we hold sideline our core portfolio at high landlord which aims to maximize total returns unlike our retirement portfolio which aims to maximize safe income. Each can be very attractive depending on your risk tolerance and your return objectives. Okay. And now we go to the third pick of today's video which is the highest yielder. is currently offering an 8% dividend yield and that is Gladstone Land Series A preferred shares ticker symbol LNDP. Gladstone Land is a smaller rate with higher leverage. But you'll note here that we're not positioning ourself in the common equity of the company. Instead, we are going higher in the capital stack and investing in the preferred equity which is also heavily discounted. Currently trading at a 20% discount to its par value and offering an 8% dividend yield. I think that the common equity of the company is highly risky because of the high leverage of the company. Its current loan to value is about 70% when you include the preferred equity. However, I feel much more comfortable holding the preferred equity given that we enjoy the 30% common equity buffer. And while the rate has high leverage, it is focusing on a more defensive asset class which is farmland. Everyone needs to eat and that won't change anytime soon. Not with a recession or any technological advancement. will always need to eat and this sector is facing a persistent supply demand imbalance in that the world's population keeps growing at a rapid pace but the supply of farmland is strictly limited. Moreover, farmland has historically been one of the best inflation hedges in the world consistently beating the rate of the CPI. And while it is true that leverage is on the high side and it is something to closely monitor, the debt maturities of the company are fairly long and well staggered with minimal maturities before 2029. The RET alto has a very good track record of common dividend payments. It has consistently hiked its dividend since going public and this should give some reassurance to preferred shareholders given that the preferred dividend needs to be paid in full before even a scent of common dividend can be paid. Finally, the company insiders own about 9% of the common equity which means that they have significant skin in the game. So once again, I think that the common equity is very risky here and personally I'm not interested in it despite it being quite heavily discounted. However, I think the preferred equity is very compelling right now, offering an 8% dividend yield, trading at a roughly 20% uh discount to par, which could lead to some 25 30% upside eventually as it recovers closer to par value. And that's a very compelling expected total return coming from a defensive lower yielding asset class like farmland. To end this video, I still wanted to point out that there are of course much higher yielding opportunities out there. There are some REITs that offer dividend yields of up to 15%. But the point of today's video was that there are even high quality REITs that offer sustainable 6 to 8% dividend yields. And that's exactly what we are today targeting at High Landlord. We're always looking for the best balance of yield, growth, upside, and safety because that's how you maximize your riskreward and can potentially achieve market outperformance. Once more, if you want to access my full portfolio as well as our top picks for 2026, you can join us for a twoe free trial. is the first link in the description of this video. Let me know in the comment section below what reads I should cover next. Consider clicking the like button if you enjoyed this content. Thank you very much for your support and see you at my next one. Bye-bye.
+
+</details>

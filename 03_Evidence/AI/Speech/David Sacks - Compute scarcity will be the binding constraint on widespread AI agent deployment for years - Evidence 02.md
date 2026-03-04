@@ -1,0 +1,30 @@
+﻿---
+tags: [evidence]
+source_claim: "[[02_Claims/AI/David Sacks - Compute scarcity will be the binding constraint on widespread AI agent deployment for years]]"
+source_video: "[[China is building its own Nvidia – and US trade policy is forcing their hand!]]"
+speaker: "[[David Sacks]]"
+evidence_type: speech_fact
+speech_status: done
+world_status: pending
+review_status: done
+validation_status: done
+date: "2025-03-31"
+title: "David Sacks - Compute scarcity will be the binding constraint on widespread AI agent deployment for years - Evidence 02"
+review_method: transcript_structural_check
+reviewed_on: 2026-02-25
+review_notes: Bulk transcript QA passed (quote block + claim link + video link present).
+---
+
+# David Sacks - Compute scarcity will be the binding constraint on widespread AI agent deployment for years - Evidence 02
+
+## Core Evidence
+Transcript: "In a world where we all have agents doing things for us all day long, it's going to be a long time before we have enough compute in the ground for that to be a really widespread reality."
+
+## Transcript Quote
+> Transcript: "In a world where we all have agents doing things for us all day long, it's going to be a long time before we have enough compute in the ground for that to be a really widespread reality."
+
+## Why This Supports The Claim
+This evidence item is extracted from the claim note's ## Evidence Cited section and preserves a transcript-backed support point.
+
+## Limits
+Speech fact only; external verification is still needed for world-fact validation.

@@ -1,0 +1,76 @@
+﻿---
+title: "Morgan Stanley's Wilson Bullish on Stocks for 2026"
+people_mentioned: ["Morgan Stanley", "Michael Asset", "Walden Waller", "Bill Ackman"]
+channel: "Bloomberg Television"
+video_id: "sj8tHn6lGAs"
+url: "https://www.youtube.com/watch?v=sj8tHn6lGAs"
+publish_date: 2025-11-24
+duration: "10:08"
+word_count: 2374
+content_type: "news"
+delivery_mode: "news-report"
+broad_category: "ai"
+subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+series_name: ""
+episode_id: ""
+primary_person: "Morgan Stanley"
+host_names: ["Bloomberg Television"]
+interviewer_names: ["Bloomberg Television"]
+interviewee_profiles: ["Morgan Stanley - Bloomberg"]
+speaker_profiles: []
+organizations_mentioned: ["Bloomberg Television"]
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: ["Bloomberg"]
+topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+pipeline_stage: video_only
+claims_status: pending
+evidence_status: pending
+claims_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-03"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
+---
+
+
+## Summary
+
+The discussion centers on mean, more, it's. There's always going to be a challenge on the return you're going to get. I would say if we don't get at least one of those items surprising the markets, meaning more than three cuts or we get. What's been going on, right?
+
+## Key Insights
+
+
+- There's always going to be a challenge on the return you're going to get.
+- I would say if we don't get at least one of those items surprising the markets, meaning more than three cuts or we get more balance.
+- No, we need the latter, and I think we're going to get there one of two ways.
+- That data then will allow the Fed to cut more or signal they're going to cut more.
+- We think the market we wrote about this back in September or early October, we thought the market was going to have a 10 to 15%.
+- If you do get that posturing from the Fed that maybe they cut in December, but it's a meeting by meeting approach, they're not necessarily going.
+
+## People Mentioned
+
+
+- [[Morgan Stanley]]
+
+- [[Michael Asset]]
+
+- [[Walden Waller]]
+
+- [[Bill Ackman]]
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (2374 words)</summary>
+
+The team at Morgan Stanley releasing their outlook for 2026, writing We raise our S&P 500 price target to 7800, driven by strong earnings growth. We believe that we're in the midst of a new bull market and earnings cycle, especially for many of the lagging areas. Michael Asset of Morgan Stanley joins me now. Wonderful to see you, Mike. Thanks, Alison. So let's start on the optimism you have and optimistic for quite a while talking about the rotation into the adopters, not just the tech behemoths. Why are you getting even more optimistic as the year goes on? Well, I would say it's just a changing it's an evolving narrative we've had, which is that we think that the policy still misunderstood. Right. That they essentially came in this year, did the growth negative stuff first, and now we're looking at the growth positive stuff. I'm not worried about the economy. Where I am a little bit worried about is that the Fed is going to dragging its feet. So I would agree with Neil's comment, like the Fed needs to cut, but not to save the economy, but to see the full rotation into these lagging parts of the market, the interest rate sensitive parts of the market, which is really our story for 2028 or 26, we think the seven 800 is dependent on the earnings cycle broadening out. So there's a lot to unpack there. I want to start with you agreeing with Neil, because Neil had a pretty negative assessment of the overall economy, saying he suspects the train's already left the station with respect to the pain from the Fed, keeping rates where they are for as long as they have and that we could be looking at a recession. You seem to disagree on that. So where's the nuance here? What's the difference between preventing recession and really allowing the the the rotation into some of these other names? Yeah, I mean, I think our view has been differentiated that we think we had have had a recession. We went through a rolling recession in the private economy. So I would agree with Neil that the economy is weak, but but it's rebalancing now towards the private economy. I mean, many parts of the economy have been suffering housing, all the interest rates that durable goods, you know, consumer goods which have been under pressure, commodity sectors, transportation, there's been no volume going through the economy, no velocity in the real economy. And the way that the administration is changing the policy in addition to the Fed now cutting, hopefully next year, you'll see the private economy now doing much better. The government no longer crowding out these areas that have been under pressure. But we do need to get that trend that the Fed needs to do more. The Fed needs to cut rates and they need to probably provide some balance sheet and say one of the things that Neil talked about was his fear that even if they cut in December, they're not going to lay out a path for continuous cuts. And Fed Governor Walden Waller seemingly enforcing that, speaking on Fox moments ago, saying you might see more of a meeting by meeting approach once you get to January. If you do get that posturing from the Fed that maybe they cut in December, but it's a meeting by meeting approach, they're not necessarily going to cut in every single one. Is that enough to allow for that rotation or do you need a clear path of cuts to get it? No, we need the latter, and I think we're going to get there one of two ways. Either the data, you know, the labor data is going to basically support our view or my view that we had a rate of change trough in the labor markets in April. Okay. And so that data then will allow the Fed to cut more or signal they're going to cut more. The second one is that we get more financial stress. Okay. That's what's been going on. We think the market we wrote about this back in September or early October, we thought the market was going to have a 10 to 15% correction because the liquidity wasn't there, that the balance sheet was tightening. And we think there's evidence that that correction is well advanced. Okay. All the momentum stocks, you know, crypto obviously is the topic of the day, down 30% for Bitcoin. I mean, these things are telling you that the market is worried about this liquidity. So so as usual, the markets will dictate the Fed's timing. So if the market really wants and look, markets are like children, right? They have a little temper tantrum and then and then the Fed will respond to that. So there's this like a mini 2018 in that regard. Right. You have that you kind of go into end of the year and then there's stress in some of these financial metrics that the Fed cares about, and then they provide more balance sheet. So we think there's a sort of this this tug of war going back and forth, but ultimately it resolves in a more dovish policy path. On the point of crypto, a lot was made, I mean, even from Bill Ackman basically saying things that he thought weren't correlated all of a sudden were that Fannie and Freddie were selling off because the people who were buying crypto were the same people in those names did last week, in the week before this episode. Given how much crypto fall shows some vulnerability within the market structure, within who owns these stocks and how fragile and weak some of those hands are. I don't think it's showing anything new. I think this has been their whole time, right? I mean, people waking up to the idea that liquidity is important for the market. I mean, obviously, I don't know what they're doing. I mean, that's kind of crazy. I mean, of course, liquidity matters. I mean, liquidity is in especially the last ten years or so, I think that the hard part about liquidity, it's sort of this sort of nebulous thing. It's hard to measure. And I've spent a lot like the last two or three years trying to develop a better skill set around that. And I think we've got a better handle. But I would I would I would say it's still is one of these things that's sort of the invisible hand. And so what you have to do is you have to look at the market to tell you when liquidity is tight or not. So you keep mentioning the balance sheet. Are you saying QE is going to start again? Well, they may not call it QE, but yeah, the balance sheet needs to expand not only to support. Financial markets, but to support the better growth that I think is coming next year. Right. So if CapEx really picks up for the first time in ten years, Okay, let's be honest, we haven't seen much capital spending, but the big beautiful bills incenting that, that's a usage of capital that needs to be supplied by somebody. So the balance sheet needs to grow just to help to help the economy and the markets. And so we can call it QE, call it not QE, but generally they need to expand that. How much is a 7800 target predicated on the idea of the Fed cutting rates and using its balance sheet to help support liquidity? It's very important. I mean, I would say if we don't get at least one of those items surprising the markets, meaning more than three cuts or we get more balance sheet expansion, call it QE, call it something else. Okay, yield curve, control, whatever you want to call it. Okay. If we don't get some combination of that, then we're not going to reach our target. So I'm assuming that we get there either through the labor data or through some financial stress. So it has been so far that the trade has maintained any kind of equity valuation, despite the fact that people are getting increasingly worried about an economy that you think already has gone through recession. I just wonder, do you think that ship sailed in terms of leadership, pick things up? Do you think that if we don't get the real economy re accelerating, you cannot get the multiples that we currently have been seeing on the big tech names? Yeah, I think it's one in the same. I mean, obviously the investment in AI is on the premise that it will lead to higher productivity, adoption and all that works. I mean, that's the way technology investment works. So you're not going to have these stocks are not going to work. The leaders aren't going to work If the foundation itself isn't being supported by the technology investment, we assume that is going to happen in 2026. That is part of our thesis. Okay. But it's not without risk. So our job is to lay out our our narrative, which we have conviction in, but then to highlight these risks in the short term or in the medium term that could do that, that could throw that narrative off. Editor Danny also joined us earlier, just saying that some of the air is being taken out of the air bubble. And to him that meant that the melt up that we've been seeing is going to be harder to come by. Has something changed, at least with blind willingness to continue to buy air related stocks regardless of how much they're spending and what the return on that spend is? Well, I mean, this is a natural evolution of any capital spending cycle. There's always going to be a challenge on the return you're going to get. And this is you know, we've seen this multiple times. We saw it a year ago. We've talked about this, you know, multiple times in July of 2024. That was the peak in sort of the in air CapEx deceleration. So this is an ebb and flow. We're not what I like to look at is air spenders. How are those stocks reacting? Is the market enforcing discipline on the big spenders, which then trickles down into the CapEx beneficiaries? But we think this is going to happen. I mean, the money's been raised now, so we know the debt markets are now involved and so that money's not going to sit on these balances. It's going to be spent. The question is, what's the payoff look like and what's the timing of that payoff? We think some we'll see some of that in 2026, 2027. And so now it's just this transition year, you're kind of trading back and forth. So I want to make it clear we think there's a broadening out. It doesn't mean that all the stuff gets killed and everything else does really, really well. It can work in harmony. In fact, it needs to work in harmony to some degree. If you do get a scenario, though, where let's say I don't know Medha, that seems to be one of the poster children for not getting that return doesn't get it as much and they need to pull back on their spending, but everybody else is still spending. Do you only need one pillar to fall to really hurt this trade or can just any sort of spending happening within this trade, regardless of who the winner is, continue to lift all the boats? Well, look, I mean, look what's been going on, right? So we've seen a massive bifurcation or a dispersion in the performance of not only the hyperscalers, but names within that. To me, that's healthy. That's like not a reason to win. Like there's no trophies here. To me, you have to actually win the game. But all of these companies are competing for the trophy. So in that competition, I think we continue to see this velocity of spend and then we're going to see the most exciting part about this I spend to me is we don't even know yet, okay, these new businesses that are going to be created, these new industries that are going to be created, the efficiencies we're going to get in areas like health care or education or manufacturing that's on the come. That's where the real wealth creation is going to be coming from. So next year or maybe the end of this year, when we find out who the next Fed chair is going to be, how much will that matter to you in terms of whether your books will get realized? I mean, who will necessarily be good for that and who might be a little more problematic for that? You probably like I like my answer, but it doesn't matter to me because ultimately the market's going to tell the Fed what to do. I mean, that's my general. That's always been my view. People hate it, but like the I'm a markets person, okay? The markets dominate the markets. Tell investors what to do. Right. So the markets will, you know, kind of force their hand. If the markets believe they need more liquidity, they will force if the market believes it needs more rate cuts, it will force it because we've become so financialized at this point. Right. The Fed now is basically obligated to make sure that we have financial stability to some degree. And they're also they have an obligation to help Treasury fund the government. So I don't believe the Fed is independent. I believe they're they're trying to work, you know, in the best interest of Americans. I'm not saying they're dictated by the White House, but. They are not independent of the markets. They're not independent of the funding requirements of the US government. Okay. So they, the Treasury and the Fed will work together to do the best they can to solve those issues.
+
+</details>

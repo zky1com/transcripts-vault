@@ -1,0 +1,70 @@
+﻿---
+title: "Is Coca Cola Stock a Buy Now? | Coca Cola (KO) Stock Analysis! |"
+people_mentioned: ["Warren Buffett"]
+channel: "Dividendology"
+video_id: "jFMJmjnLHqU"
+url: "https://www.youtube.com/watch?v=jFMJmjnLHqU"
+publish_date: 2026-01-07
+duration: "10:00"
+word_count: 1977
+content_type: "solo-talk"
+delivery_mode: "knowledge"
+broad_category: "finance-investing"
+subcategories: ["portfolio-management", "stock-analysis", "valuation", "risk-management", "market-data"]
+series_name: ""
+episode_id: ""
+primary_person: "Warren Buffett"
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Warren Buffett - Google"]
+organizations_mentioned: ["Dividendology"]
+locations_mentioned: []
+tools_mentioned: ["Google Sheets"]
+companies_mentioned: ["Google"]
+topics: ["portfolio-management", "stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "ai-regulation"]
+tags: ["portfolio-management", "stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "ai-regulation"]
+pipeline_stage: video_only
+claims_status: pending
+evidence_status: pending
+claims_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-03"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
+---
+
+
+## Summary
+
+The discussion centers on coca-cola, growth, dividend. It means fundamentally speaking, the business was still doing very well because 10.8 8 billion in free cash flow without that deposit would indicate. If they're targeting a payout ratio or free cash payout ratio of around 80% and they want to keep it in that range, then. It's certainly a more mature company, but we can see for 2025 2026, they're projecting around 5 to 6% organic revenue growth, which is.
+
+## Key Insights
+
+
+- It means fundamentally speaking, the business was still doing very well because 10.8 8 billion in free cash flow without that deposit would indicate that there.
+- If they're targeting a payout ratio or free cash payout ratio of around 80% and they want to keep it in that range, then they can.
+- It's certainly a more mature company, but we can see for 2025 2026, they're projecting around 5 to 6% organic revenue growth, which is in line.
+- What we can see right now is Coca-Cola has about a 3% starting dividend yield combined with dividend growth that has probably been slightly above inflation.
+- Of course, there's a great history of dividend growth, Coca-Cola is a dividend king, meaning they have over 50 consecutive years of dividend increases.
+- The growth looks better fundamentally speaking they're much more sound and even the valuation when you account for growth looks a bit more attractive for Coca-Cola.
+
+## People Mentioned
+
+
+- [[Warren Buffett]]
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1977 words)</summary>
+
+How should we view Coca-Cola stock in 2026? Now, for reference, over the last year, they've actually done decent, but have underperformed the broader market. They're currently up about 11.77%, but if we look at them in the last 6 months, they're actually down by about 4.32%. And at one point, they were trading as high as around $74, $73 per share, currently trading closer to around $68 per share. Now, let's put this into perspective. Let's compare them to their pure Coca-Cola. So, we'll use the stock comparison sheet from ticker data and look at Coca-Cola and look at Pepsi. Now, there's plenty we can make note of, but what we have to really make note of is the performance between these two stocks over the last 1 and 5 years has been drastically different. Coca-Cola has still lagged the market. They've done better when you include dividends, but Pepsi has underperformed by a wide margin. It's starting to become concerning for quite a few people, and we need to dive into why this is. Now, for reference, as you probably already know, historically speaking, Coca-Cola has been just a phenomenal dividend stock. It's been one of the larger positions in Warren Buffett's portfolio for a long time. But there's a couple of interesting things on the sheet that we can see. Now, like always, if you'd like to download any of these spreadsheets and get access to the ticker data add-on in Google Sheets that allows you to automatically import stock financials directly into your spreadsheet, then you can head over to tickerdata.com at the link in the description. There's a 7-day free trial. But what we can see right now is Coca-Cola has about a 3% starting dividend yield combined with dividend growth that has probably been slightly above inflation over the last 5 and 10 years. And of course, there's a great history of dividend growth, Coca-Cola is a dividend king, meaning they have over 50 consecutive years of dividend increases. And while the earnings payout ratio looks decent, the free cash payout ratio at first glance looks like a major red flag, sitting at 176%. Now, why is this such a red flag? Well, we have to remember the five ways that management can allocate capital. How can they use free cash flow? One, they could reinvest back into the business. Two, they could pay down debt. Three, attempt mergers and acquisitions. Or four, buy back shares. Or five, pay out dividends. Now, more mature companies like Coca-Cola are oftent times going to elect to pay out dividends. But if a company is paying out more in dividends than it's generating in free cash flow, that's absolutely not sustainable. So, let's take a look at our free cash flow versus dividends paid out and see what's going on. Now, what we can see is for the majority of the past decade, free cash flow has been covering the dividend payments for CocaCola. But what happened in 2024? And also keep in mind they haven't reported full 2025 data yet. That's why we're looking at 2024. Well, 2024 free cash flow was about 4.7 billion while dividends paid out was sitting at 8.3 billion. So, yes, as we already know, the dividends were slightly increasing every single year at a low singledigit rate, just like they always have. But free cash flow fell off a cliff. Why was this the case? Well, let's start doing a little digging. To start, if we look at revenue, we can see revenue continued to climb in 2024, so toplines weren't the problem. We can see margins remain steady. So, that wasn't the problem either. This is why it's so important to actually dive into what's going on with the business. Because what you'll notice when you dive into the investor's presentation is they make note that free cash flow excluding the IRS tax litigation deposit was actually sitting at 10.8 billion. Now without diving too deep into the details, essentially this deposit was resulted from a longunning dispute over how Coca-Cola's overseas income should be taxed in the US. And this dates back all the way to around 2007. But basically, in August of 2024, the US tax court sided with the IRS and stated Coca-Cola owed about 2.7 billion in additional federal income tax from 2007 to 2009. But when you include interest in penalties, the amount ballooned all the way up to around 6 billion. So obviously not what you want to hear if you're a shareholder of Coca-Cola, but there's very good news. It means fundamentally speaking, the business was still doing very well because 10.8 8 billion in free cash flow without that deposit would indicate that there is significant growth in free cash flow from 2023 to 2024. In fact, that means free cash flow was close to a record year. 2021 free cash flow was about 11.2 billion. So, they're back on the trajectory of growth. Now, again, if we compare this to Pepsi, it's a different story. While on the surface, the dividend metrics for Pepsi look better. the starting yield above 4% higher dividend growth. What we can see is their free cash payout ratio is actually at 100% as well. But they don't have the same excuse that Coca-Cola has, which in reality starts to mean that Pepsi's dividend is in a bit of a more risky situation than Coca-Cola. And on top of this, Pepsi's revenue and earnings growth is essentially projected to be 0 to 1 or even 2% over the next year, which means they really can't afford to grow that dividend any. So reality tells us that Coca-Cola's dividend metrics are much better. Now what we do also have to account for when we look at Coca-Cola is especially in comparison to Pepsi is the projected growth looks significantly better. Now it's still not a high growth stock by any means. It's certainly a more mature company, but we can see for 2025 2026, they're projecting around 5 to 6% organic revenue growth, which is in line with their long-term growth model, suggesting around 4 to 6% organic revenue growth. So, yes, when we look at the valuation between these two stocks, what you can see is it looks like Coca-Cola is trading at a higher multiple than Pepsi, but when you account for the projected earnings growth of the business, we can see the 3-year EPS cagger for Coca-Cola is projected to be about 7.2% 2% while Pepsi's at 4.69% and to be honest I believe that's a little bit optimistic for Pepsi. So in reality relative to the earnings growth of the business I do think Coca-Cola looks a little more attractive. So we've established at least fundamentally speaking right now that the business of Coca-Cola looks more attractive than Pepsi. The growth looks better fundamentally speaking they're much more sound and even the valuation when you account for growth looks a bit more attractive for Coca-Cola. But still, are they trading at an interesting price at $67.94? Well, let's run it through a valuation. We'll go ahead and plug in Coca-Cola. And for a more mature company like Coca-Cola, we'll start by using the dividend discount model. Essentially valuing the stock based on how much they're paying out in dividends and how much that dividend will grow in the future. Now, what we can see is assuming 0% growth, the stock would be worth about $24 per share. So, obviously, the market is pricing in dividend growth. And historically speaking, that dividend has grown at a rate of about 4 to 4 1.5% over the past 5 to 10 years, which we have to keep in mind. If they're targeting a payout ratio or free cash payout ratio of around 80% and they want to keep it in that range, then they can only sustainably grow the dividend at the rate that free cash flow is growing. And what we've learned from management, if top lines are growing at about 5 to 6% and margins remain relatively stable, maybe they'll continue to grow free cash flow at a rate of around 3.5 to 4%. So naturally speaking, it would be reasonable to assume that that's about the rate the dividend will grow at moving forward. So at a dividend growth rate of 3.5%, the stock is still only worth $42.23. And even if we bump it up to about 4%, it only gets to about $47.15. So, what do we know about Coca-Cola? This is a stock that is constantly trading at a premium. It's getting the Buffett premium. Now, you could argue potentially that some of this is justified due to how durable the business model has proven to be. I mean, the company's been around for a very long time and survived different periods of economic turmoil and continued to grow. So, as it relates to the PE multiple, we have to remember it's not just earnings growth that the market is pricing in, it's the predictability of that future earnings growth. And for a stock like Coca-Cola, yes, earnings aren't growing relatively fast, but they are very, very predictable. You can feel highly confident that really what Coca-Cola is going to produce is going to be very close to what management has guided towards. Compare that to a stock like Novo Nordisk, which although they have relatively high earnings growth projections, management has had to revise their guidance over four different times in the past year. What this tells us is the market loves predictability. It doesn't get talked about often, but it's absolutely true. Now, for me personally though, paying a PE multiple, a forward PE multiple of 23.13 for a stock only growing earnings and free cash flow maybe at a rate of around 4% still doesn't sound like the most attractive opportunity in my opinion, even with the starting yield sitting close to around 3%. So, how has the company historically been valued? Well, let's zoom out and look at our historical PE multiple. Now, we need to remove the outlier in 2017. And what we can see is the average PE multiple over the last decade is actually sitting at about 27.24 when for the trailing 12 months it's only sitting at 22.43. So at least compared to how the company's historically traded, they actually are at a valuation that's about 17 to 18% lower. So potentially the market has accounted for some of that lower earnings growth moving forward. So, when I look at a stock like Coca-Cola, yes, the company absolutely looks like a more attractive business than Pepsi right now, especially due to their capital allocation priorities and the sustainability of those dividend payments. And it even looks like the valuation is a little more reasonable than Pepsi right now as well. But even then, you're still having to pay a pretty significant premium to get access to what many consider one of the higher quality businesses, or at least maybe one of the more durable businesses. For me, the price to buy Coca-Cola right now is just a bit too high, especially since we have to look at everything through the lens of opportunity cost. What other opportunities are there on the market? So, let me know what you think of Coca-Cola in the comments down below. And again, like always, if you'd like to download any of these spreadsheets and get access to the Ticker Data add-on in Google Sheets that allows you to automatically import stock financials directly into your spreadsheet, then you can head over to tickerdata.com at the link in the description. So, with all that being said, thank you guys so much for watching and please don't forget to like and subscribe to the
+
+</details>

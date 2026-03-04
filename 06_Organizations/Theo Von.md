@@ -1,0 +1,12 @@
+---
+tags: [organization]
+---
+
+# Theo Von
+
+```dataview
+TABLE title as "Title", channel as "Channel", publish_date as "Date"
+FROM "Videos"
+WHERE contains(organizations_mentioned, "Theo Von")
+SORT publish_date DESC
+```

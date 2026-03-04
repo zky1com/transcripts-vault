@@ -1,0 +1,74 @@
+﻿---
+title: "Premium Living in Norway | Oslo's Holmenkollen Apartment Tour"
+people_mentioned: ["Yelston Bolik", "Hol Mcllen", "In Norway"]
+channel: "Sander Recommends"
+video_id: "Ekttxxy31lY"
+url: "https://www.youtube.com/watch?v=Ekttxxy31lY"
+publish_date: 2026-02-07
+duration: "15:00"
+word_count: 2130
+content_type: "interview"
+delivery_mode: "analysis"
+broad_category: "saas-startups"
+subcategories: ["saas-growth", "startup-strategy"]
+series_name: "Sander Recommends"
+episode_id: ""
+primary_person: "Yelston Bolik"
+host_names: ["Sander Recommends"]
+interviewer_names: ["Sander Recommends"]
+interviewee_profiles: ["Yelston Bolik"]
+speaker_profiles: []
+organizations_mentioned: ["Sander Recommends"]
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: ["saas-growth", "startup-strategy", "ai-safety", "b2b-marketing", "product-management"]
+tags: ["saas-growth", "startup-strategy", "ai-safety", "b2b-marketing", "product-management"]
+pipeline_stage: video_only
+claims_status: pending
+evidence_status: pending
+claims_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-03"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
+---
+
+
+## Summary
+
+The discussion centers on music, norway, it's. >> [music] [music] >> I would also like to point out [music] that the Cetra residence offers truly premium amenities for everyday living, including. [music] >> [music] >> Cetravi is a wonderful residential development project up here in Hol Mcllen which is a very established [music] and desired. [music] The price of this two-bedroom apartment [music] just over 200 square meters is 45,500,000 Norwegian per real estate in Norway.
+
+## Key Insights
+
+
+- >> [music] [music] >> I would also like to point out [music] that the Cetra residence offers truly premium amenities for everyday living, including a welle.
+- [music] >> [music] >> Cetravi is a wonderful residential development project up here in Hol Mcllen which is a very established [music] and desired area of.
+- [music] The price of this two-bedroom apartment [music] just over 200 square meters is 45,500,000 Norwegian per real estate in Norway.
+- [music] In Norway, it's always toasty inside.
+- >> [music] >> One of Norway's biggest advantages, something both locals and foreigners often mention, is [music] that everything here works.
+- [music] And the tram is only 20-minute ride down to premium shopping areas and dining and [music] restaurants and stuff.
+
+## People Mentioned
+
+
+- [[Yelston Bolik]]
+
+- [[Hol Mcllen]]
+
+- [[In Norway]]
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (2130 words)</summary>
+
+Today, Norway, just like Switzerland, has become a symbol of stability, safety, and a high quality of life. That's exactly why interest in real estate and capital [music] preservation investments in these countries keeps growing. But I'm sure [music] many of you don't realize that unlike Switzerland, Norway allows foreigners to buy property without restrictions, whether for personal use or as an investment to generate rental income. We have filmed a series of videos introducing you to real estate in Norway, exploring Scandinavian interior design and highlighting the Norwegian [music] details that make homes feel even warmer and more inviting. what Norwegians themselves call Kushi. Today, together with interior architect Marian, we will tour a modern apartment in the Cetra residence developed by Yelston Bolik in the prestigious residential suburb of Oslo [music] and discuss the Norwegian lifestyle and what makes real estate in Norway attractive to foreign investors. [music] >> [music] >> Cetravi is a wonderful residential development project up here in Hol Mcllen which is a very established [music] and desired area of Oslo. 21 [music] high-end luxurious apartments in um five buildings, terrace nestled into nature with [music] spectacular views over the Oslo fjord, over the city, over the beautiful golf course. A lot of development projects use [music] the word panorama as marketing material, but here we can actually say it. It's a wonderful panorama view, probably the best view in the whole [music] of Oslo. >> [music] >> One of Norway's biggest advantages, something both locals and foreigners often mention, is [music] that everything here works. Public transport, services, everyday systems, it's all reliable. Norwegians [music] are known for being practical and truly attentive to detail. And you can feel it right away. As we arrive at the residence, we are greeted by a robot cleaning the area on a set schedule. >> [music] >> We work a lot with sight lines, so the axises in apartments. [music] There's a central axis and when you come in, you see the daylight straight away. That's super important. [music] We care a lot about planning and that's where the projects always start for us. We worked very closely with the architects on this [music] project, Hegelan and Coxvall, and we're really happy with the layouts, generous living spaces with enough room [music] for good furnishing solutions. [music] We care about art walls, making sure that doors are placed such [music] that there's enough space to hang large pieces of art. And we care about storage. Enough storage. That's always really, really important. [music] And a lot of people that are buying these apartments are probably coming from big homes, moving into apartment living to try and make [music] life a little easier, but they still want the comforts of what they had before. >> This fireplace is powered by gas. >> Yes, it is. [music] >> What do you prefer? Gas powered or traditional wood burning? Well, a wood burning fireplace is wonderful at a cabin where you want the smell and and and all of that. But in in apartment living where it's got to be [music] practical, it's nice to not have to carry the wood in and out and clean all the ashes. Turn it on quickly and you get the atmosphere straight away. So, in apartments like this, [music] I would always do gas. >> Do you have heated floors in Norway? >> We [music] have heated floors, triple glazing, balanced ventilation. I must say I've never been cold in Norway. I'm Australian, but I've just never been cold here. And I'll never forget the time when I took my husband to Australia for the first time and he was in a in a holiday home and there was no heating and the louvered windows were drafty and the worst of all, the toilet seat was cold. He was horrified. [music] In Norway, it's always toasty inside. We live in t-shirts and bare feet. >> [music] >> I guess this is also sort of almost the best part of the apartment. [music] When we were on the on the drawing board with the architects, we called it the eagle's nest. The spot, the corner, [music] the front where you have a sort of an eye over everything [music] that's going on. >> And what about the height of the ceilings? What is the standard annoying? Well, actually in a lot of development projects this the height's often 240, but that's what's special about Cetra. We have 270 [music] in the living rooms and in the bedrooms, but it's only in the central area where we lower it a little bit due to ventilation and services. [music] This is the kitchen. Very generous kitchen with lots of storage. It's from the Italian brand Polyform. Really [music] high quality design. Big 900 wide uh drawers. Gagenau appliances. Full height fridge and full height freezer. >> Your personal choice. Gagenau mille or Bosch semens. How you distinguish them? We would always specify Gaganau and Mila [music] over Bosch and Seammens just because of the quality. In this case, we've chosen Gaganau and Bora because the Bora ventilation is a little bit more effective. >> Do you have any Norwegian or Scandinavian [music] produces >> of appliances? >> Of appliances or >> of joinery? Abs of joinery. Absolutely. Um, there's a lot of really fantastic Norwegian carpenter um, companies, but not high-end kitchen manufacturers in the same sense as you get from Italy. I must say, I can't live without the Cricket Tap. It delivers boiling water, great for cleaning, but also making cups of tea quickly. [music] And then the big kitchen island. It really acts as a room separator, which is quite nice when you have this open living dining space [music] and a breakfast bar. You know, if you're home alone or there's just the two of you, maybe you sit here and eat rather than at the big dining table. Dining areas are very [music] important and the opportunity to be able to lengthen the table is very important. [music] In Norway, we have a big celebration twice a year. Christmas is one of them, but the other [music] is the Norwegian 17th of May, the national day. And all my clients always say [music] there must be enough room for, you know, 15 to 20 people. And here we have enough space to lengthen for that. So that's [music] really great. >> It's triple glazing windows. >> Yes, it is triple glazing so that everything is very [music] warm. Beautiful big sliding door. So in the summer you can sort of have this inside outside living. The other thing that is really unique about this terrace one is the size. As you can see it's generous [music] enough to have both dining and lounge area but also the fact that it's covered [music] because you can put the heating lamps and that means that you can lengthen the summer lengthen the amount of days that you can actually use [music] the outside area. >> Can we install the grill here? >> Yes, you can. And that's why we've set up enough space and there's also a water there if there's a little sink on an outdoor kitchen. [music] So, there's absolutely the possibility for that. You can't sort of [music] not mention the incredible views. >> Do you like this area yourself? >> Yes, I do. >> But would you prefer to live in a suburbs or to be more central? [music] >> That's the thing. I kind of feel like you get both living here because it is relatively central. It is a little bit of a way up the hill, but it's 3 minutes walk to the tram. [music] And the tram is only 20-minute ride down to premium shopping areas and dining and [music] restaurants and stuff. And then it's only 12 minutes up to the most incredible network of cross-country ski trails. With Holocen, [music] you get city living close to nature that Norwegians love. >> [music] >> How can you describe Norwegian design, Norwegian style of living? >> Generally, it is Scandinavian design as everybody knows, but I would say that Norwegian interiors tend to be even warmer, even more cozy. It's warm materials, usually a lot of wood, [music] not minimalist, but not super opulent or decorative either. Norwegians [music] are very practical people. Um the interiors have to work. If they don't work, um that's sort [music] of more a problem than if they don't look good. Norwegians care a lot about this warm light. And that's got to do obviously with the cold climate and everybody feeling like they want to come inside and it has [music] to be warm and cozy. Many property development projects in Oslo don't prioritize a laundry. They often put the washing machine inside the bathroom. We really don't like that. We think that the laundry can be a really important part of a functional [music] living. And here in Cetra Bay, we have a really generous laundry with lots of bench space. [music] This is the master bedroom. [music] We have lots of storage in here. A big wardrobe on that wall. We also have a little walk-in wardrobe in there. [music] As you can see, marvelous view to wake up to. We have a very large master bathroom. There's enough room actually to put in a freestanding [music] bathtub if if somebody so wishes to. >> What is your preference? To have a bathtub or to have [music] a big shower? My personal preference is a very large shower, preferably with steam, but if you can have both, well, why not? We've had this little sort of extra [music] entrance to the bedroom so that you just don't walk straight out into the into the hallway. It feels [music] like you're really walking into a suite. This is the second bedroom, but it [music] feels more like a master bedroom as well. Beautiful view that you get to wake up to in the morning. Lots of [music] room there for in-built storage. [music] And we've also made sure that the every bedroom has their own on suite, [music] which is really practical. >> [music] [music] >> I would also like to point out [music] that the Cetra residence offers truly premium amenities for everyday living, including a welle equipped gym so you can stay in shape [music] throughout the winter. There is also a golf simulator for fans of the game. [music] In the underground garage, EV charges are already pre-installed for every parking space, so you don't need to arrange anything extra. [music] There is a dedicated bicycle parking area with a special lift. And what impressed me the most was a bicycle and pet washing station. Honestly, I have not seen this even in residences in other countries [music] that cost significantly more. There are both standard and ventilated storage rooms, providing plenty of space, not only for your personal belongings, but also for sports equipment. [music] Everything here is sold through down to the smallest detail to make your daily life as comfortable as possible. [music] The price of this two-bedroom apartment [music] just over 200 square meters is 45,500,000 Norwegian per real estate in Norway. Is it a good investment? Would you recommend to invest in the property here in Oslo? >> Yeah, I [music] absolutely think it is a good investment. I think that real estate in Norway is [music] a safe bet. First of all, I think everyone should consider investing in Norway. For the last [music] decades, it has been like a super safe investment. It has been um rise in prices almost [music] every year. I think we have one of the most regulated [music] buying processes. So, it is super safe. We have of [music] course the beautiful seasons in Norway. You said that the process of buying real estate in [music] Norway is very regulated. >> Yeah. >> Can foreigners actually buy property here in Norway. Is it allowed? >> Absolutely [music] they can. >> Watch the full video with Thomas about [music] buying and owning property in Norway on my YouTube channel. If you would like more [music] information about the apartments in the residence set and are interested in buying real estate in Norway, please get in touch with a representative of Yes [music] or me using the contact details in the video description. I would also appreciate it [music] if you could like and subscribe to my channel. This helps promote my YouTube videos and motivates [music] me to continue creating content. I look forward to seeing you soon in Norway. [music] >> [music]
+
+</details>

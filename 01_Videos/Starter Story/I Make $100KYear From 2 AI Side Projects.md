@@ -1,0 +1,76 @@
+﻿---
+title: "I Make $100K/Year From 2 AI Side Projects"
+people_mentioned: ["Pat Walls", "Starter Story", "Corsera Udacity", "Starter Story Build"]
+channel: "Starter Story"
+video_id: "CoqAxV6b6j4"
+url: "https://www.youtube.com/watch?v=CoqAxV6b6j4"
+publish_date: 2025-06-18
+duration: "13:13"
+word_count: 2338
+content_type: "solo-talk"
+delivery_mode: "knowledge"
+broad_category: "ai"
+subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+series_name: ""
+episode_id: ""
+primary_person: "Pat Walls"
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Pat Walls"]
+organizations_mentioned: ["Starter Story"]
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "b2b-marketing", "product-management"]
+tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "b2b-marketing", "product-management"]
+pipeline_stage: video_only
+claims_status: pending
+evidence_status: pending
+claims_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-03"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
+---
+
+
+## Summary
+
+The discussion centers on build, building, full-time. Build two apps that make me $8,500 per month i'm currently building these two apps alongside my full-time job right now I'm. Runs two profitable AI side projects while keeping a full-time job i only work on my apps 1 to 2 hours a. That if you're wanting to build something similar specifically AI side projects then check out Starter Story Build i put a link.
+
+## Key Insights
+
+
+- Build two apps that make me $8,500 per month i'm currently building these two apps alongside my full-time job right now I'm.
+- Runs two profitable AI side projects while keeping a full-time job i only work on my apps 1 to 2 hours a.
+- That if you're wanting to build something similar specifically AI side projects then check out Starter Story Build i put a link.
+- To build as well as maintain these apps alongside whatever you're doing full-time nowadays I mostly treat my SAS apps like they.
+- What I love about this is that you're building this on the side you've decided to keep your full-time job tell me.
+- Walk me through your tech stack and the tools and languages you've learned and you've used to build out this business it's.
+
+## People Mentioned
+
+
+- [[Pat Walls]]
+
+- [[Starter Story]]
+
+- [[Corsera Udacity]]
+
+- [[Starter Story Build]]
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (2338 words)</summary>
+
+i make 100k a year from my side projects while keeping my full-time job meet Romsri an app builder from India who runs two profitable AI side projects while keeping a full-time job i only work on my apps 1 to 2 hours a week in this video Romrey breaks down how he manages all of this and why he has no plans to quit his full-time job the reason I haven't quit my full-time job is I brought Romy onto the channel to share how he got millions of users while spending zero dollars on marketing his framework for finding profitable side project ideas and the secret to building any successful project in AI building with AI is simple because if you're building apps on the side this episode is a mustwatch i'm Pat Walls and this is Starter Story [Music] all right Ramsree welcome to the channel thank you for coming on tell me a little bit about who you are what you built and what's your story my name is Rams and I build two apps that make me $8,500 per month i'm currently building these two apps alongside my full-time job right now I'm spending about 2 hours a week on these apps and they mostly run on complete autopilot great all right tell me about some of the numbers behind these businesses superme has done lifetime revenue of about 130k USD and question is around 100k USD both of them combined are at $8,500 so approximately a little over 100k arr coming to the users 1.5 million plus users for super meme and about 150k plus users for question paying customers 400 for super meme and 18 to 200 for question what I love about this is that you're building this on the side you've decided to keep your full-time job tell me about what that's like to build profitable projects while you have a full-time job the key during the initial phases of development of these two projects was to assign one two hours of daily learning and development sas has quite a lot of components not just about building the tech aspect of it but rather there's whole suite of things payments authentication databases marketing SEO so it took me a few years to gain proficiency in all these aspects consistency is the only thing that helped you know nowadays with tools like deep research and AI assisted coding tools like wind surf cursor it has become a lot more easier to build as well as maintain these apps alongside whatever you're doing full-time nowadays I mostly treat my SAS apps like they are in autopilot mode just allocate Saturday afternoon couple of hours to do updates or quick bug fixes cool i'm curious you know you have these businesses that are doing pretty good why haven't you decided to go full-time you know buy back all your time and why did you decide to kind of keep your full-time job one thing is that I don't want to take on VC funding or take on the responsibility of hiring and maintaining a team for the sake of growth and several other aspects of life for example I have a kid retired parents so I don't want people around me to go through the same roller coaster ride of emotions and being always busy and unavailable lifestyle i don't want them to experience that let's take a step back and talk a little bit about your background i know you've done a bunch of different things walk me through your background and how you got into building apps i was full on on the MOO revolution doing every technical course on Corsera Udacity and all these platforms during 2015 to 2018 phase and when I started doing these I started getting a lot of ideas in the AI space and I thought it's about time for me to experiment so 2018 to 2020 I just got my feet wet into entrepreneurship i did not have any entrepreneurship background so I was just testing the waters so I started writing all about my experiments on LinkedIn and Twitter eventually people started following me and asking questions and waking up every day and writing online on these platforms became my point of comfort and during 2021 and 2022 is when I took all my learnings and launched a Udemy course and that made like $10,000 in revenue till now that was a good turning point for my let's say slowcooked entrepreneurship journey in 2022 2023 i learned no code tools and created the first version of question.ai no beautiful UI just two text boxes left and right then I realized the bottlenecks that I'm hitting and thought of just learning full stack with the latest and greatest tech spent 6 months and fully ported question to modern tech stack for super meme since I knew the pain of growing a solo startup I wanted to take a different route so I partnered with the fullstack developer I'm the AI guy and there's another marketer that worked out well about a year year and a half before I took up a full-time job as well and I'm quite happy that it all worked out before we finish talking about how Ramshree built his two projects I do want to highlight something important You don't need a massive budget to build a good business but you do need to know what people are searching for that's why we're excited to partner with Semrush semrush is an all-in-one marketing platform trusted by over 10 million users from indie makers to global brands it helps you understand exactly what your audience wants so you can build something smarter and market better here's how to use it in three quick steps start a free 7-day trial using the link below there's no credit card required use the keyword magic tool which has over 26.6 billion keywords to see what people are already searching for in your niche then spy on your competitors track traffic and uncover gaps where your next big idea could thrive most people think Semrush is just for SEO but it's so much more you can use it to validate new ideas create content that ranks and even find paid keywords your competitors are sleeping on so if you're serious about building products that people actually want start with Seamrush just click the first link in the description to grab your free trial all right let's get back to the video let's talk about ideas you have two successful ideas i imagine you've had some that haven't worked out how did you find these ideas and generally how do you think about finding ideas that are worth building in short to fit it in a framework get manual tasks that people currently pay for which could be significantly enhanced or substituted by existing or imminent generative AI that's where the key is so let's take for example question.ai back in 2020 the first thing that we identified was large tech companies and publishing companies do a lot of quiz creation we saw that there's potential here but AI wasn't there yet to deliver automated quiz creation from text but we could foresee that this quiz generation with AI could grow significantly in the next few years so that was our insight you should always keep a tab on where generative AI is headed so that you can identify new business use cases that the new AI technology can unlock which was previously not possible or complex or costly that's cool okay well let's talk about growth because you know a lot of these AI apps are getting built now anybody can build anything now but the next piece is getting attention getting distribution you have over a million people using one of your apps tell me about how you've approached growth and how you got your first users and grew the business build distribution before building a product by distribution I mean write about stuff that interests you or what you're working on for example for question before even building the product I used to write a lot of blogs about quiz generation create some videos on YouTube things like that every single day I used to show up on LinkedIn write about stuff that I'm working on both question.ai AI and superme.ai even before hitting any virality we completely built them in public sometimes I used to get 10 likes sometimes 100 likes 400 likes so the algorithm keeps changing all the time but consistency matters a lot that's how I found even co-founders for my app they saw my posts and we just got together so I would say the biggest thing was social media founder content sharing that's how we got all of our first users iterated on initial MVPs that we built after that we launched on product hunt and luckily with the initial set of users who were our champions through our social media they helped us and also the virality factor of AI meme generator got us to number one on product hunt on the launch day for super meme cool i like that let's get a little bit more technical well I want to hear about how you build stuff cuz you're doing this on the side and you must know a lot of different cool tech and how you built this business so walk me through your tech stack and the tools and languages you've learned and you've used to build out this business it's Nex.js for primary app development so full stack framework that's based on JavaScript for backend primarily superbase for landing pages etc we have been using typedream just to build no code landing pages and do quick rapid SEO changes and there's quite a lot of heavy development with AI assisted coding tools like wind surf cursor this is our current tech stack and on that same note walk me through some of the costs and margins how much does it cost to run this business what do the margins look like i would say we operate at a 70 to 75% profit margin the biggest cost is mostly APIs whether it is AI APIs from OpenAI Anthropic the other thing is that we have no employees aside the founders that helps us keep the costs minimal cool i like that let's go over to a little bit more of a personal note you're running two successful side projects you got a full-time job you got a family what does a typical day in the life look like for someone like you so my typical day starts at like 7:30 a.m where I wake up get my kid dressed up and I drop him to school by 9:30 I'm usually free i have a treadmill at home so I do some walking and then catching up on some AI news 12:30 I pick up my kid and we have some home-cooked lunch that's till like 2:00 p.m between 2 to 5:30 p.m is where I do bulk of my full-time job work after that I have my dinner with family and if there are any urgent pending tasks I allocate an hour from like 9:30 to 10:30 or 11:00 p.m to do work related stuff otherwise I just watch some TV or documentaries and go to bed by 11:30 or latest by 12:00 usually I don't pick up my SAS related stuff daily i just dedicate Saturday afternoon usually 2 to 5:00 p.m 2 to 4 p.m that's when I have like one or two hours to do some feature updates or just do some housekeeping tasks for the SAS apps that's cool the last question that we ask if you could sit on Romster's shoulder when he was just starting out trying to find that first app idea what advice would you give him think like a builder from day one and in today's age it is very much possible to adapt that mindset and build something quick for example even if you want to do wipe coding there are tools like lovable bold new even if you want to just purely use chained workflow app then there are automations that you can create with tools like make or n or zap year etc right so whenever you have an issue or you come across an idea that can be built build a minimum viable prototype of it using these tools the other thing is to follow tech updates very closely because you could identify new use cases that can be built on top of them but the biggest thing is to aim for solving a problem by chaining and stitching together tools and products that are out there than spending months in R&D that's very crucial all right thank you Romy for coming on to Starter Story i love what you build keep building more stuff and I hope to have you back on in the future thank you so much Pat and it's my pleasure to be absolutely here thanks Romstre for coming on the channel i personally love his approach to building lots of different side projects not taking the huge leap of quitting your full-time job and having a good lifestyle businesses and still tinkering and having fun and building stuff i personally love that if you're wanting to build something similar specifically AI side projects then check out Starter Story Build i put a link in the description but basically in 12 days you'll come up with an idea build it launch it and have a real life production app by the end this is for anyone actually serious about building stuff and potentially creating an app that could change your life i'll put the link in the description if you want to check it out but otherwise I'll see you guys in the next one peace
+
+</details>

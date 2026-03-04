@@ -1,0 +1,12 @@
+---
+tags: [topic-moc]
+---
+
+# Lead Generation
+
+```dataview
+TABLE title as "Title", channel as "Channel", publish_date as "Date"
+FROM "Videos"
+WHERE contains(tags, "lead-generation")
+SORT publish_date DESC
+```

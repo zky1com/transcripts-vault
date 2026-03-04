@@ -1,0 +1,12 @@
+---
+tags: [organization]
+---
+
+# Bryan Johnson
+
+```dataview
+TABLE title as "Title", channel as "Channel", publish_date as "Date"
+FROM "Videos"
+WHERE contains(organizations_mentioned, "Bryan Johnson")
+SORT publish_date DESC
+```
