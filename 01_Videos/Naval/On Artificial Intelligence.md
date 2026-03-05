@@ -14,8 +14,8 @@ subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding
 series_name: "Naval"
 episode_id: ""
 primary_person: ""
-host_names: ["Naval"]
-interviewer_names: ["Naval"]
+host_names: []
+interviewer_names: []
 interviewee_profiles: []
 speaker_profiles: []
 organizations_mentioned: ["Naval"]
@@ -26,15 +26,15 @@ topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 pipeline_stage: video_only
 claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
 speech_status: pending
 world_status: pending
+evidence_status: pending
+claims_count: 0
 speech_evidence_count: 0
 world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-05"
 ---
 
 
@@ -42,20 +42,22 @@ world_evidence_count: 0
 
 The discussion centers on it's, you're, more. Oh my god, you're so smart." That's because that's what most people want. I don't think the AIs are going to be figuring things out that humans cannot understand. It's so simple now you don't think of it as technology anymore.
 
+
+
 ## Key Insights
 
 
-- Art became all about well can I be surreal can I create something that expresses me a lot of art schools spun out of that that got really weird including modern art and postmodernism but also I would argue some of the greatest creativity came at that time we were freed up photography got democratized but photography itself became a form of art and there were great photographers taking many different kinds of photographs and now everyone's a photographer there are still artists who are photographers but it's not the pure domain of just a few people so the same way because AI makes it so easy to create the basic thing.
+- Oh my god, you're so smart." That's because that's what most people want.
 
-- But we're going to quickly move into an era when you can personalize your AI and it does begin to feel more and more like your personal assistant and it corresponds more to what you want, which will of course anthropomorphize the AI even more and you'll be more likely to be convinced, oh, actually this thing is alive when you've trained it to look the most like a living thing to you.
+- I don't think the AIs are going to be figuring things out that humans cannot understand.
 
-- So the same way the app store model will become even more extreme where you will have one or two giant app stores helping you filter through all of the AI slop apps out there and then at the very head there'll be a few huge apps that will become even bigger because now they can address a lot more use cases or just be a lot more polished and then there'll be a long tale of tiny little apps filling every niche imaginable.
+- It's so simple now you don't think of it as technology anymore.
 
-- But if you're thinking about super intelligence in the sense of AI will be able to do things and come up with ideas that humans cannot understand, I don't think that is going to happen because I don't believe that there are ideas that humans can't understand simply because humans can always ask questions about the idea.
+- It's going to break into two kinds of things.
 
-- So overall, I think even though AIS are going to do things that are very impressive, and they're going to do a lot of things better than humans, just like calculators are faster than any mathematician at calculations, classical computers are better at classical computer programs that any human could run in their own head.
+- Now, the interesting thing about this definition that the only true test of intelligence is if you get what you want out of life, is that.
 
-- So if you want to build a well architected application, if you want to be able to even specify a well architected application, if you want to be able to make it run at high performance, if you want it to do its best, if you want to catch the bugs early, then you're going to want to have a software engineering background.
+- We want to talk a little bit about AI and hopefully talk about it in a more timeless manner, but I think some of it's going.
 
 
 
@@ -63,16 +65,16 @@ The discussion centers on it's, you're, more. Oh my god, you're so smart." That'
 ## Key Quotes
 
 
-> You're listening to the Naval podcast for the first time in recorded history.
+> Oh my god, you're so smart." That's because that's what most people want.
 
 
-> I am actually walking around town and Naval might be doing the same.
+> I don't think the AIs are going to be figuring things out that humans cannot understand.
 
 
-> So, there might be some ambient noise, but we are going to try hard to remove that with AI and some good audio engineering.
+> It's so simple now you don't think of it as technology anymore.
 
 
-> Podcast recording is so stilted because it's like you have to sit down and you schedule something and this giant mic pointing in your face and it's not casual.
+> I think it's going to break into two kinds of things.
 
 
 
