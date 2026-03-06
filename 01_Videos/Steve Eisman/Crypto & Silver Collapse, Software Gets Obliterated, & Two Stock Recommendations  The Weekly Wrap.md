@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crypto & Silver Collapse, Software Gets Obliterated, & Two Stock Recommendations | The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Charter Communication", "Meritage Home", "Valerie Figen", "On Tuesday"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stock, down, billion. Lily reported earnings per share of $754 versus expectations of only $6.67 and revenue of 19.29 billion versus expectations of 18 billion. Now, given how much Software stocks declined last year and are now down this year, it's tempting to think about buying some of them. Salesforce is down 28% just this year and Service Now is down 33% this year.
+This episode compresses a nasty risk-off week into one frame: hard-asset reversals, software destruction, and a couple of tactical stock ideas. Eisman uses the contrast to show how quickly markets can move from thematic conviction to blunt liquidation.
 
 ## Key Insights
 
+- Correlated selling across speculative and growth-heavy areas often says more about positioning than about any one narrative.
+- Software weakness matters because it can reveal multiple compression under pressure, not just company-specific issues.
+- Tactical recommendations stand out more in a week like this because everything else is being repriced downward.
+- The wrap is most useful when it contrasts panic with where selective opportunities might still exist.
 
-- Lily reported earnings per share of $754 versus expectations of only $6.67 and revenue of 19.29 billion versus expectations of 18 billion.
-- Now, given how much Software stocks declined last year and are now down this year, it's tempting to think about buying some of them.
-- Salesforce is down 28% just this year and Service Now is down 33% this year.
-- Free cash flow yield means free cash flow per share divided by the stock price.
-- Last week, Service Now reported great numbers.
-- For similar reasons, Apple's stock went down when it reported last week.
+## Key Quotes
+
+- "Crypto and silver collapse."
+- "Software gets obliterated."
+- "Two stock recommendations."
+
+## People Mentioned
 
 ## People Mentioned
 

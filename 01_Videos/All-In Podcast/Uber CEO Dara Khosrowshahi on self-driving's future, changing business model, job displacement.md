@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Uber CEO Dara Khosrowshahi on self-driving's future, changing business model, job displacement"
 people_mentioned: ["Darra Kazer Shahi", "Uh Elon"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, we're, business. For the next 5 to seven years we're we're going to have more human drivers and delivery people just because we're going so quickly. That um there's going to ultimately if you look at the end state I think all of these cars are going to be financable. It's clear it's going to go to 20 with autonomy.
+Dara Khosrowshahi explains how Uber is positioning itself for an autonomous future without pretending the transition will be painless. The interview is strongest when it treats AVs as both a network-economics opportunity and a real labor-displacement problem.
 
 ## Key Insights
 
+- Uber's advantage in autonomy is framed as demand aggregation and utilization, not owning the best self-driving stack itself.
+- Network density matters because faster matching improves revenue per autonomous vehicle.
+- Dara is unusually direct that large-scale driver displacement will become a serious social issue.
+- The company's financial strength gives it room to invest in autonomy while still running a disciplined public-market business.
 
-- For the next 5 to seven years we're we're going to have more human drivers and delivery people just because we're going so quickly.
-- That um there's going to ultimately if you look at the end state I think all of these cars are going to be financable.
-- It's clear it's going to go to 20 with autonomy.
-- I'd say it's going to be more financial players.
-- We're going to have humans and autonomous cars together and that's going to continue for a while.
-- Longterm this is a big societal question that we're going to have to struggle with and lots of others are going to struggle with too.
+## Key Quotes
+
+- "We have over 20 partners across both mobility and delivery."
+- "Waymo is the best of the best."
+- "This will be a major societal problem."
+
+## People Mentioned
 
 ## People Mentioned
 

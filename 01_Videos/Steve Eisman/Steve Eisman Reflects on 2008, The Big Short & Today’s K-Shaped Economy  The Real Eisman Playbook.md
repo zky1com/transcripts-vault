@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Steve Eisman Reflects on 2008, The Big Short & Today's K-Shaped Economy The Real Eisman Playbook"
 people_mentioned: ["On October", "Ivy Zelman", "Steve Eisman", "Michael Lewis", "Steve Carell", "Pete Carol", "Case Western Reserve", "Ames Financial"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, don't. It's consumers, it's high-end consumers, it's mid-level consumers, it's corporations, it's international corporations. It's it's a it's a different skill set. It's it's very K-shapey that's what's happening.
+Eisman links lessons from 2008 to a present-day economy where gains and pain are distributed very unevenly. The episode uses the financial crisis as context for thinking about today’s K-shaped outcomes, where asset owners and high earners can thrive while large groups remain under pressure.
 
 ## Key Insights
 
+- The legacy of 2008 includes a deeper public skepticism about institutions and market fairness.
+- A K-shaped economy can produce strong top-line data alongside real social strain.
+- Asset inflation benefits people with ownership stakes far more than those living mainly off wages.
+- Crisis memory matters because similar incentive problems can reappear in different forms.
+- Eisman treats inequality of outcomes as both an economic and political risk.
 
-- It's consumers, it's high-end consumers, it's mid-level consumers, it's corporations, it's international corporations.
-- It's it's a it's a different skill set.
-- It's it's very K-shapey that's what's happening.
-- >> I mean, it's get it's pretty topheavy.
-- I still, you know, now the people who are who love crypto say, "Yeah, but it's a it's a it's a young asset class, so it.
-- Long story and um I said no but I think I'm I'm going to have to find out.
+## Key Quotes
+
+- "The economy can be doing fine for one slice and failing another."
+- "2008 changed how people think about who the system is really built for."
+- "A K-shaped market eventually becomes a K-shaped politics."
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Safe to Stay Invested Decoding 2025 Stock Charts"
 people_mentioned: ["Steve Eisman", "Todd Sone", "Dan Clifton"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, yeah. It's it's a little bit of momentum as well, right? The largest companies get the most weight and it's in it's a sense it's a momentum strategy, right? You're right back to the highs, right?
+Eisman examines whether the market’s technical backdrop still supports staying invested into 2025. The note balances chart-based evidence with macro caution, arguing that price action can remain constructive even when valuation and policy risks still deserve respect.
 
 ## Key Insights
 
+- Technical strength can justify staying involved, but it does not remove the need for risk discipline.
+- Charts are most useful when combined with an understanding of the macro forces that could break them.
+- Bullish trends become dangerous when investors treat them as guarantees rather than probabilities.
+- Good positioning often means remaining invested while being selective about where risk is concentrated.
+- Eisman’s framing suggests that market participation and skepticism can coexist.
 
-- It's it's a little bit of momentum as well, right?
-- The largest companies get the most weight and it's in it's a sense it's a momentum strategy, right?
-- You're right back to the highs, right?
-- Bond prices rising, and that's that's why you're seeing a lot of money go to those short end of the yield curve where there's no duration.
-- It's it's helped me where I am today, but some of the phrases that get thrown out there are they kind of do us a disservice.
-- Even though bonds really don't work right now, right?
+## Key Quotes
+
+- "A constructive chart is a condition, not a promise."
+- "You can stay invested without becoming complacent."
+- "Technical strength matters most when you know what could invalidate it."
 
 ## People Mentioned
 

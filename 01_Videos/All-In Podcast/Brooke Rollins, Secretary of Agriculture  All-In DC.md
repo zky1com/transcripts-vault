@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Brooke Rollins, Secretary of Agriculture | All-In DC"
 people_mentioned: ["Secretary Rollins", "Brooke Rollins", "Abraham Lincoln", "White House"]
 channel: "All-In Podcast"
@@ -40,38 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, farmers. Yeah, it's a great this is you're the first person to really dig down on this that I've talked to since I took the. I said, "Of course, but I run a nonpartisan think tank." And uh I'm always happy to help because obviously I think we thought. It's it's it's really stunning what's happened just in the last couple of decades.
+Brooke Rollins presents agriculture as a strategic systems issue rather than a narrow farm-policy niche. Her argument is that food security, farm economics, trade balances, nutrition policy, and geopolitical resilience all run through the same set of agricultural decisions.
 
 ## Key Insights
 
+- Food security is framed as national security because dependence and rural decline create strategic weakness.
+- She treats SNAP design, farm-bill composition, and agricultural trade as linked policy levers rather than separate silos.
+- The interview reflects a broader Trump-era attempt to cast agriculture policy as part of industrial and geopolitical renewal.
 
-- Yeah, it's a great this is you're the first person to really dig down on this that I've talked to since I took the job and.
-- I said, "Of course, but I run a nonpartisan think tank." And uh I'm always happy to help because obviously I think we thought Donald Trump.
-- It's it's it's really stunning what's happened just in the last couple of decades.
-- I'm President Trump yesterday, but today we celebrated together at the cabinet meeting and we're about I'm going back over to the White House right after.
-- That's what a lot of a lot of people don't understand.
-- It's also realigning how we look at food, how we as a federal government, to your point on SNAP and other food programs, we have 13.
+## Key Quotes
 
-## People Mentioned
+> Food security is a national security issue.
 
+> SNAP now dominates the Farm Bill.
 
-- [[Secretary Rollins]]
+> We turned a zero agricultural trade deficit into a major deficit.
 
-- [[Brooke Rollins]]
-
-- [[Abraham Lincoln]]
-
-
-
-
-## Claims
-
-- [[Brooke Rollins - Food security is a national security issue because losing family farms cedes geopolitical power]]
-- [[Brooke Rollins - SNAP spends $15B annually on soda while 75 percent of recipients are clinically obese]]
-- [[Brooke Rollins - Biden administration turned a zero agricultural trade deficit into a $50 billion deficit]]
-- [[Brooke Rollins - SNAP food stamp spending now represents 85 percent of the Farm Bill and grew 40 percent under Biden]]
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (9467 words)</summary>

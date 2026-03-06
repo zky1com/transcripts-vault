@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Is Capitalism Flawed Fixing and Regulating Free Markets"
 people_mentioned: ["John Cassidy", "New Yorker", "Milton Freeman", "Heyman Minsky", "Steve Eisman", "Real Eyesman Playbook", "Uh John Cassidy", "Real Eisman Playbook"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, capitalism. People, you know, people say, "Oh, why don't we save as much as China where people say 40 to 50%." Well, people save that. No well I mean I think it's an important aside because we think of globalization for example as something new and the. It's a bit of both.
+This episode examines whether capitalism’s failures come from the system itself or from the way incentives, regulation, and market power have evolved. Eisman approaches the question pragmatically, arguing for markets as a productive engine while also recognizing that poorly designed incentives and weak oversight can produce socially destructive outcomes.
 
 ## Key Insights
 
+- Capitalism is powerful at allocating resources, but it does not automatically produce fair or stable outcomes.
+- Regulation is most useful when it preserves competition and restrains obvious abuses rather than trying to micromanage everything.
+- Incentives shape behavior more reliably than stated values or corporate rhetoric.
+- Market concentration can undermine the benefits that defenders of free markets often assume.
+- Reform is framed as a matter of fixing distortions, not replacing the market system entirely.
 
-- People, you know, people say, "Oh, why don't we save as much as China where people say 40 to 50%." Well, people save that much in.
-- No well I mean I think it's an important aside because we think of globalization for example as something new and the.
-- Job yeah no I mean I think you're right I mean it seems to me and I I have to say.
-- People see I think it's a fair question.
-- Yeah Clinton but also the business Republicans right the constituency exactly both sides you know that because so that's where we are politically because as I.
-- On the spectrum I think that I think that's where we are and I think you know there are still people who.
+## Key Quotes
+
+- "Markets are productive, but they are not self-justifying."
+- "Bad incentives can corrupt even a system built on good principles."
+- "The argument is not markets or rules; it is which rules preserve real markets."
 
 ## People Mentioned
 

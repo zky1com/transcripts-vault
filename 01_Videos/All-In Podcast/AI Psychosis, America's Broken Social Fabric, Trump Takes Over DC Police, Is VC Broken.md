@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AI Psychosis, America's Broken Social Fabric, Trump Takes Over DC Police, Is VC Broken?"
 people_mentioned: ["Ko Kalin", "Core Four", "In Summit"]
 channel: "All-In Podcast"
@@ -38,19 +38,24 @@ world_evidence_count: 0
 ---
 ## Summary
 
-The discussion centers on it's, because, that's. Yeah, it's it's like one of those weird, you know, superhero groups that it's like a real throwback and I don't think a lot. It's it's really sad and so it's definitely an issue and I think they're going to need to put safeguards. In a venture investment, you're going to call somebody, they're going to probably haircut you by 30 to 50% and you're going to sell.
+This episode ties together several signs of institutional and social fragility: AI-delusion stories, weakening civic trust, questions about venture returns, and disputes over crime governance. The hosts disagree on whether AI is causing a new pathology or merely exposing existing mental-health and loneliness problems, but they broadly agree that new technologies are amplifying already-fragile social conditions.
 
 ## Key Insights
 
+- The hosts frame AI psychosis as either a real emerging risk or a media-amplified outlet for preexisting mental-health problems.
+- Loneliness, social atomization, and weak real-world relationships are treated as the deeper substrate beneath many of these AI pathologies.
+- Venture is increasingly being judged against public-market alternatives, making private illiquidity harder to justify without true power-law outcomes.
+- Institutional legitimacy, including around crime statistics and governance, remains a central concern across the episode.
 
-- Yeah, it's it's like one of those weird, you know, superhero groups that it's like a real throwback and I don't think a lot of people.
-- It's it's really sad and so it's definitely an issue and I think they're going to need to put safeguards.
-- In a venture investment, you're going to call somebody, they're going to probably haircut you by 30 to 50% and you're going to sell it because.
-- This AI psychosis thing, it's going to get a lot of play.
-- They're going to fall into a similar trap here in DC because I think this is going to work and.
-- It's going to provide Republicans with a very important counterpoint because I think one of the problems with crime is.
+## Key Quotes
 
-## People Mentioned
+> Something is broken.
+
+> This AI psychosis thing is going to get a lot of play.
+
+> The job of investing is to find the power law winners.
+
+## People Mentioned## People Mentioned
 
 
 - [[Ko Kalin]]

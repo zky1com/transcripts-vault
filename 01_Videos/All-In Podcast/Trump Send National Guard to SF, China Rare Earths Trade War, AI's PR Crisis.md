@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trump: Send National Guard to SF, China Rare Earths Trade War, AI's PR Crisis"
 people_mentioned: ["Mark Beni", "Brian Johnson", "David Sax", "David Saxs", "David Freeberg", "Jamal Sax"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, because, don't. Can I clarify one thing which is I think that a lot of people don't know this historical artifact which I think is so. I just think displacement is going to be more significant than we think. Even in a Tesla Model Y, it's it's le it's 10 dips.
+This episode pairs law-and-order politics with supply-chain leverage and AI reputation risk. The hosts see the National Guard discussion, rare-earth conflict, and AI backlash as connected by one broader issue: modern systems are brittle, and the public loses patience quickly when elites appear unserious.
 
 ## Key Insights
 
+- The San Francisco segment is framed as a referendum on whether local leadership can still deliver basic civic order.
+- Rare earths are discussed as a reminder that strategic dependencies remain a hard geopolitical constraint.
+- The AI PR discussion focuses on how quickly public enthusiasm can turn if deployment outruns trust.
+- Across segments, the hosts keep returning to the gap between institutional narratives and lived reality.
 
-- Can I clarify one thing which is I think that a lot of people don't know this historical artifact which I think is so fascinating which.
-- I just think displacement is going to be more significant than we think.
-- Even in a Tesla Model Y, it's it's le it's 10 dips.
-- No, it's good it's a good point.
-- Do you think it's in explaining the value of AI and how those people in those states would benefit from it or do you think it's.
-- I don't think that's one you want to use.
+## Key Quotes
+
+- "Cancel culture is over."
+- "This is really about competence."
+- "The dependency question is the real story."
+
+## People Mentioned
 
 ## People Mentioned
 

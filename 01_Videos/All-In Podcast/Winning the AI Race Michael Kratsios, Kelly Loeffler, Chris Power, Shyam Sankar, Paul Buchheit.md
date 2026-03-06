@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Winning the AI Race: Michael Kratsios, Kelly Loeffler, Chris Power, Shyam Sankar, Paul Buchheit"
 people_mentioned: ["David Saxs", "White House"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, actually, we're. I mean, I think it's great, right? If we hobble our AI innovation with a patchwork of 50 different state regimes, I think it's going to hurt us. To right on the map and I think that's the most important thing is we're going to be able to expand into.
+This panel broadens the AI race beyond frontier labs and argues that national advantage will depend on diffusion into industry, small business, finance, and robotics. The discussion is less about one winner-take-all model company and more about whether the United States can turn capability into widespread productive deployment.
 
 ## Key Insights
 
+- Frontier leadership is necessary but not sufficient if AI does not reach real operating environments.
+- Financing, underwriting, and industrial policy design can materially change adoption speed.
+- Robotics and field data are treated as essential links between software intelligence and physical productivity.
+- The panel consistently pushes back against simplistic job-loss framing in favor of role transformation.
 
-- I mean, I think it's great, right?
-- If we hobble our AI innovation with a patchwork of 50 different state regimes, I think it's going to hurt us.
-- To right on the map and I think that's the most important thing is we're going to be able to expand into.
-- That's going to be a big effort that the DOE is going to Department of Energy is going to try to do to make this better.
-- For us it's a lot about getting people inspired.
-- Do you think that English is I think it's Andre Carpathies that said this, right?
+## Key Quotes
+
+- "We're still in the very early innings of AI."
+- "Those who can harness and govern the things that are technologically superior will win."
+- "It's an infinite game."
+
+## People Mentioned
 
 ## People Mentioned
 

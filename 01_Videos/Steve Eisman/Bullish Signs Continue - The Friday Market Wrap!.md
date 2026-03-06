@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bullish Signs Continue - The Friday Market Wrap!"
 people_mentioned: ["On Saturday", "Steve Eisman", "Eisman Playbook", "Apple Podcasts", "Real Eizen Playbook", "Treasury Secretary Besson", "Godfather Part Three"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stable, coin, it's. If you buy a stable coin through a Circle or a Tether, you buy, let's say you buy $1,000 worth of stable coins, you. In stable coin world, Circle went public only on June 4th at $31 a share and reached a peak of $260 at the beginning. Now, the news of the week is that Mastercard teamed up with Fiserve to create a stable coin, and that is big competition for.
+This wrap asks whether positive signals are broadening enough to support a sustained bullish stance rather than a temporary bounce. Eisman treats optimism carefully, using the format to test whether the good news is structural or just another week of relief.
 
 ## Key Insights
 
+- Bullish signs matter most when they show up across sectors and not only in a narrow leadership group.
+- Friday wraps are useful because they force a weekly thesis check instead of endless reactive commentary.
+- Eisman tends to separate sentiment improvement from earnings-backed improvement.
+- The key question is whether the market's strength has enough underlying breadth to persist.
 
-- If you buy a stable coin through a Circle or a Tether, you buy, let's say you buy $1,000 worth of stable coins, you pay Tether.
-- In stable coin world, Circle went public only on June 4th at $31 a share and reached a peak of $260 at the beginning of the.
-- Now, the news of the week is that Mastercard teamed up with Fiserve to create a stable coin, and that is big competition for the likes.
-- By Monday night, President Trump declared a ceasefire in stable coin world.
-- Before I get to that, let me review some things about stable coin.
-- Let me just end here with a few more words on stable coin competition.
+## Key Quotes
+
+- "Bullish signs continue."
+- "The Friday market wrap."
+- "Is this strength real or just relief?"
+
+## People Mentioned
 
 ## People Mentioned
 

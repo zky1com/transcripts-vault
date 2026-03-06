@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inside Publishing's Big Shakeup AI, TikTok & the Battle Ahead The Real Eisman Playbook Episode 34"
 people_mentioned: ["Steve Eisman", "Regina Brooks", "Serendipity Literary Literary", "Jennifer Weiss", "Weiss Agency", "Anthony Zakardi", "Post Hill Books"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, book, right. >> But it's it's become it's not so much. I just think it's a it's a different breed. It's a great one.
+Eisman looks at how AI and platform distribution are disrupting publishing economics. The episode centers on the pressure created by algorithmic feeds, changing attention patterns, and generative tools that threaten to disintermediate some creators while advantaging companies that still control brand, audience, or trusted distribution.
 
 ## Key Insights
 
+- Publishing is being squeezed by both AI-generated content and platform-driven shifts in discovery.
+- TikTok-style distribution changes what gets seen, how quickly trends move, and how fragile incumbents can become.
+- Trust, editorial quality, and audience ownership may become more valuable as content abundance explodes.
+- AI lowers production costs but also intensifies the problem of differentiation.
+- Media businesses that rely entirely on rented distribution remain structurally exposed.
 
-- >> But it's it's become it's not so much.
-- I just think it's a it's a different breed.
-- It's it's kind of a sad part of our industry right now because >> um >> and I wanted to say something about that instinct.
-- Yeah, but it's it's certainly uh something that we've been asked frees up the author to continue writing books because they want to write they want.
-- You're going to see some of that happen more uh as the we roll out into the future of what book publishing is going to look.
-- It's at a level now where it's probably surpassing ebooks.
+## Key Quotes
+
+- "Abundance makes distribution and trust more valuable, not less."
+- "The platform that controls attention controls far more than traffic."
+- "AI can reduce content costs while simultaneously crushing content economics."
 
 ## People Mentioned
 

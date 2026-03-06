@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Next Revolution AI, Advertising, and the Collapse of Old Media The Real Eisman Playbook Ep 30"
 people_mentioned: ["Steve Eisman", "Muffet Nathansson", "Craig Muffett", "Michael Nathansson", "Cable One", "Ben Thompson", "Parent Co"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, they're. >> That's going I think it's going to happen because I think to the big picture point >> there's too many streaming choices, right? >> But it's not like it's it's not fixable, right? >> I think it's going to happen.
+This episode examines how AI may reshape advertising economics while accelerating the decline of older media models. Eisman treats the topic as a battle over distribution, targeting, creative production, and who captures the value when the cost of content and ad optimization falls.
 
 ## Key Insights
 
+- AI may compress creative and targeting costs while shifting bargaining power toward the strongest platforms.
+- Old media struggles because declining attention and weaker distribution control compound each other.
+- Advertising is a natural domain for AI because optimization and measurement are already central to the business.
+- The winners are likely to be firms with data, scale, and direct access to user demand.
+- Lower production costs do not guarantee better economics for all participants.
 
-- >> That's going I think it's going to happen because I think to the big picture point >> there's too many streaming choices, right?
-- >> But it's not like it's it's not fixable, right?
-- >> Well, it's going to let you talk to a It's going to have AI in your head, basically.
-- Talk to us about I mean there's so much going there's so much information in this report and so much going on in the world of.
-- There's so much going on in the world of advertising right now.
-- I'm there's there's something not quite sitting right with me right now.
+## Key Quotes
+
+- "AI does not just improve advertising; it may reorganize who gets paid in advertising."
+- "Old media was already under pressure before AI arrived."
+- "When content gets cheaper, distribution often gets more valuable."
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "NVIDIA'S Explosive Growth Can't Hide the Market's AI Panic The Weekly Wrap"
 people_mentioned: ["Nvidia Wednesday", "Home Depot", "Steve Eisman", "Nyall Ferguson", "Andrew Carnegie"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on market, fund, some. More importantly, revenue was 57 billion versus 55 billion expected and showed 62% growth versus last year and up 22% sequentially. Blue Owl has a market cap of $21 billion, and the stock is down over 40% this year. Oracle needs debt to fund at least some of its capex and it recently raised 18 billion thereby increasing its overall debt load to.
+This wrap contrasts Nvidia’s extraordinary operating performance with a market that is increasingly anxious about the sustainability of the broader AI trade. Eisman’s point is that even the strongest company in the theme cannot fully protect the group if investors begin doubting the economics of the ecosystem around it.
 
 ## Key Insights
 
+- Nvidia can keep posting exceptional numbers while the market still reduces exposure to the wider AI complex.
+- Strong fundamentals in one leader do not automatically validate every related company or valuation.
+- Panic appears when investors shift from asking who wins AI to asking whether the total spend will earn an adequate return.
+- Concentrated leadership can make the whole trade look healthier than it really is underneath.
+- The market is starting to test whether AI enthusiasm has outrun proof.
 
-- More importantly, revenue was 57 billion versus 55 billion expected and showed 62% growth versus last year and up 22% sequentially.
-- Blue Owl has a market cap of $21 billion, and the stock is down over 40% this year.
-- Oracle needs debt to fund at least some of its capex and it recently raised 18 billion thereby increasing its overall debt load to $100 billion.
-- Earnings per share was a$130 versus a 125 estimated and up over 65% versus last year.
-- Oracle needs debt to fund at least some of its capex, and it recently raised $18 billion, thereby increasing its overall debt load to $100 billion.
-- Now, while I am sure there are some good markets in the US like Dallas forward, that is completely insufficient to overcome a measly 20 basis.
+## Key Quotes
+
+- "One great company cannot by itself justify an entire theme."
+- "The panic starts when investors question the economics, not the excitement."
+- "Explosive growth at the top does not remove fragility underneath."
 
 ## People Mentioned
 

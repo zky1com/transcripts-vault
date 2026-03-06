@@ -1,4 +1,4 @@
-﻿---
+---
 title: "From Skeptic to Supporter: How This Billionaire Got â€˜Red-Pilledâ€™ by Trump"
 people_mentioned: ["New York Times", "New York Post"]
 channel: "All-In Podcast"
@@ -40,29 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on said, it's, reed. Have to watch one I'm say I'm like no I don't I'm Unshackled I'm just gonna this is just me and I'm. I said yeah you're probably right and they said well then you have to go say it on Twitter and my daughter's. Mark and I said I'm team Reed and it gets out a little you know a but well no Americans can get.
+This short episode tracks a common post-2020 elite political arc: someone who began skeptical of Trump but was pushed by media distrust, institutional overreach, and policy frustration into explicit support. The point is less Trump's personality than the mechanisms that turned a wealthy skeptic into an active political ally.
 
 ## Key Insights
 
+- Media credibility collapse is a major part of the red-pill story being told here.
+- Elite opinion shifted for some business leaders not because they became ideological conservatives, but because they lost confidence in progressive governance.
+- The conversion arc is portrayed as cumulative rather than sudden.
 
-- Have to watch one I'm say I'm like no I don't I'm Unshackled I'm just gonna this is just me and I'm.
-- I said yeah you're probably right and they said well then you have to go say it on Twitter and my daughter's.
-- Mark and I said I'm team Reed and it gets out a little you know a but well no Americans can get.
-- Off and I think that we're now in this time that I think we're having authenticity is having a moment now which.
-- Is great for me because Reed said to me I've if you Google me you'll see that there's lots and lots.
-- He said I never questioned your principles he said I know you're a highly principled person and I just want to.
+## Key Quotes
 
-## People Mentioned
+> I did not move first; the institutions moved.
 
+> Media distrust was a turning point.
 
-- [[New York Times]]
+> I was pushed from skepticism into support.
 
-- [[New York Post]]
-
-
-
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (1801 words)</summary>

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - Einstein was right to reject Copenhagen-style quantum interpretations on realist grounds — all alte..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Is Light a Particle or a Wave?]]"
+source_video: "[[Is Light a Particle or a Wave]]"
 topics: [quantum-mechanics, Deutsch, epistemology, multiverse, physics]
 date: 2021-04-19
 speech_status: pending
@@ -41,4 +41,3 @@ Naval defends Einstein's famous realist dissent from quantum mechanics ("God doe
 
 ### Speech Facts
 - None yet
-

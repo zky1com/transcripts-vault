@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sam Taylor: How I Became VP of Sales at Loom; Lessons from Dropbox | 20VC #908"
 people_mentioned: []
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Sam Taylor reflects on the path to sales leadership and what Dropbox and Loom taught him about building teams in different company contexts. The conversation is useful because it shows how sales judgment compounds across stages, not just across quotas.
+
+## Key Insights
+
+- Leadership readiness often comes from pattern recognition across multiple operating environments.
+- Dropbox and Loom provide contrasting lessons on growth, focus, and sales evolution.
+- Career progression in sales depends on learning to scale people and systems, not just personal performance.
+- The episode rewards listeners who care about career-building as much as pipeline-building.
+
+## Key Quotes
+
+- "How I became VP of sales at Loom."
+- "Lessons from Dropbox."
+- "The role gets bigger as the company gets bigger."
 
 ## Full Transcript
 

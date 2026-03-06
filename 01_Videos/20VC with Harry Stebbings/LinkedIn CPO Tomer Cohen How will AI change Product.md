@@ -1,4 +1,4 @@
-﻿---
+---
 title: "LinkedIn CPO Tomer Cohen: How will AI changeÂ Product?"
 people_mentioned: ["Tomer Cohen", "Tech Revolution"]
 channel: "20VC with Harry Stebbings"
@@ -40,25 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on products, more, need. Can learn again without beginner's mindset I think you need new skill sets in your team you think AI Talent is going. AI but it is moving to the front and that makes it a lot more visible a lot more powerful do we. Really hard for product leaders because they had a desktop first mindset and mobile really forced you to say there's only one.
+This short segment is a compact view of how AI changes product management by forcing teams to rethink interfaces, skill sets, and operating assumptions. Tomer Cohen's core point is that every major platform shift requires leaders to unlearn old defaults before they can build the next generation well.
 
 ## Key Insights
 
+- AI is moving from hidden infrastructure to visible product experience.
+- Product teams may need new structures and roles rather than just new features.
+- Previous platform shifts like mobile are useful analogies because they forced prioritization and relearning.
+- Beginner's mindset becomes a strategic advantage during major transitions.
 
-- Can learn again without beginner's mindset I think you need new skill sets in your team you think AI Talent is going.
-- AI but it is moving to the front and that makes it a lot more visible a lot more powerful do we.
-- Really hard for product leaders because they had a desktop first mindset and mobile really forced you to say there's only one.
-- Need a completely different structure for how we build and develop products I remember when we had a mobile Revolution it was.
-- Thing that you can show on the screen what is it I think every Tech Revolution requires you to unlearn so you.
-- AI has been a Matchmaker of so many products in fact a lot of what you see on LinkedIn is powered by.
+## Key Quotes
 
-## People Mentioned
-
-
-- [[Tomer Cohen]]
-
-
-
+- "AI is moving to the front."
+- "Every tech revolution requires you to unlearn so you can learn again."
+- "AI talent is going to be one of the most important talents to have in every company."
 
 ## Full Transcript
 

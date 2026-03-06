@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - The standard quantum mechanics explanation of wave-particle duality is not a good explanation — a p..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Is Light a Particle or a Wave?]]"
+source_video: "[[Is Light a Particle or a Wave]]"
 topics: [quantum-mechanics, Deutsch, epistemology, explanation, physics]
 date: 2021-04-19
 speech_status: pending
@@ -41,4 +41,3 @@ The conventional undergraduate explanation of wave-particle duality â€” tha
 
 ### Speech Facts
 - None yet
-

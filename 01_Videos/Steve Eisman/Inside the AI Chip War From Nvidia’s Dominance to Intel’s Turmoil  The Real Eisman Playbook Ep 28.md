@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inside the AI Chip War From Nvidia's Dominance to Intel's Turmoil The Real Eisman Playbook Ep 28"
 people_mentioned: ["Steve Eisman", "Real Eisman Playbook", "Stacy Rasg", "Bear Sterns", "Um Chat"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, they're. >> Well it's it's well engineered but it's just behind >> and behind years it's it's Nvidia yeah just in terms of raw performance. It's still very It's still early. It would be like it's really amazing >> what happened >> it's a few things um so and it's both on.
+This episode examines the semiconductor power structure through the contrast between Nvidia’s dominance and Intel’s continuing turmoil. Eisman frames the chip war as a test of execution, ecosystem control, and capital intensity, where leadership can compound for years but deterioration can also become hard to reverse.
 
 ## Key Insights
 
+- Nvidia’s lead is not just about chip performance; it also reflects software ecosystem strength and customer lock-in.
+- Intel’s problems show how difficult it is to recover once manufacturing and product roadmaps slip.
+- Semiconductor leadership compounds because customers optimize around what already works.
+- The AI chip race is expensive enough that capital discipline and strategic clarity matter as much as engineering.
+- Hardware winners can still be over-owned if expectations become detached from realistic outcomes.
 
-- >> Well it's it's well engineered but it's just behind >> and behind years it's it's Nvidia yeah just in terms of raw performance.
-- It's still very It's still early.
-- It would be like it's really amazing >> what happened >> it's a few things um so and it's both on.
-- It's not like it's it's these things are not trading at 100 times earnings like they were during the bubble, right?
-- I don't want to knock AMD, they're trying, but it's hard, right?
-- Again, it's it's a moving target.
+## Key Quotes
+
+- "Dominance in chips is part technology and part ecosystem gravity."
+- "Once execution breaks in semis, recovery is slow and expensive."
+- "Leadership attracts more leadership when customers standardize around the winner."
 
 ## People Mentioned
 

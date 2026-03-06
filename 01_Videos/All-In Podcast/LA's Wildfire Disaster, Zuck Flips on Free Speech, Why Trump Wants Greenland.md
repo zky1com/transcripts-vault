@@ -1,4 +1,4 @@
-﻿---
+---
 title: "LA's Wildfire Disaster, Zuck Flips on Free Speech, Why Trump Wants Greenland"
 people_mentioned: ["Rainman David", "Elizabethan English", "Trump Victory", "Allin Idol", "Postmates Niantic", "Tim Ferris", "Angel Investing", "Harvey Weinstein"]
 channel: "All-In Podcast"
@@ -40,17 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, because, don't. Know the best use of funds because right now it's it's it's misappropriated it's a crisis of competence I mean I think. What we get Bingo Sayan you agree yeah I think I think Democrats need to reclaim their party I think uh there's. More advanced civilization here or we were visited and I think about that a lot I think it's mutants I'm going.
+This episode moves across three themes: Los Angeles wildfire failures, Meta's moderation and speech-policy reset, and the strategic logic behind Greenland talk. The common thread is institutional competence: whether the subject is disaster response, platform trust, or geopolitical planning, the hosts keep returning to the question of whether leaders are making decisions early enough and clearly enough.
 
 ## Key Insights
 
+- Wildfire response is framed as a governance test, not just a natural-disaster story.
+- Meta's shift on moderation is treated as a strategic response to legitimacy and user-trust pressure.
+- Greenland is discussed less as spectacle and more as a long-horizon shipping and security asset.
+- The hosts repeatedly connect public frustration to the visible failure of institutions to do basic things well.
 
-- Know the best use of funds because right now it's it's it's misappropriated it's a crisis of competence I mean I think.
-- What we get Bingo Sayan you agree yeah I think I think Democrats need to reclaim their party I think uh there's.
-- More advanced civilization here or we were visited and I think about that a lot I think it's mutants I'm going.
-- Think they should buy Uber then it's kind of you should think Tesla should buy Uber oh yeah I think they.
-- Censor things and I think he's getting in front of that because it is going to come out and I think that.
-- Anybody giving him his flowers or champing him for this I think it's just political expediency and I think it's disgraceful that's.
+## Key Quotes
+
+- "Urban disaster response quality is increasingly interpreted as a direct referendum on local governance capability."
+- "Platform moderation policy reversals are becoming strategic responses to trust pressure."
+- "Arctic and Greenland discussion is framed as long-horizon shipping and security optionality planning."
 
 ## People Mentioned
 

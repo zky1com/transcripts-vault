@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tariffs Are Back, Apple's Big Bet, and AI's Real Impact - The Friday Market Wrap!"
 people_mentioned: ["Steve Eisman", "On Monday", "Dan Clifton", "For Mexico", "South Korea", "Take Apple", "Prime Minister Modi", "North America"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on company, stock, earnings. Now this company reported normally I would not discuss a 1 and a half billion market cap company but I have discussed this company. The company reported earnings per share of 295 versus 273 which beat estimates but it guided thirdarter earnings per share to 301 to 307. The company reported results that were below expectations and its September quarter forecast was disappointing both in terms of earnings per share and revenue.
+This wrap brings together renewed tariff risk, Apple’s strategic positioning, and the real economic impact of AI. Eisman treats these as connected examples of how policy, platform decisions, and technology spending are forcing markets to reprice winners and losers more carefully.
 
 ## Key Insights
 
+- Tariffs remain a live input into margin expectations and supply-chain decisions.
+- Apple’s big moves matter because the company is large enough to influence ecosystem economics beyond its own stock.
+- AI’s real impact should be judged by operational change and monetization, not by narrative intensity alone.
+- Markets increasingly reward companies that can convert strategic ambition into credible execution.
+- The most important technology stories are now inseparable from policy and capital allocation.
 
-- Now this company reported normally I would not discuss a 1 and a half billion market cap company but I have discussed this company because it.
-- The company reported earnings per share of 295 versus 273 which beat estimates but it guided thirdarter earnings per share to 301 to 307 when the.
-- The company reported results that were below expectations and its September quarter forecast was disappointing both in terms of earnings per share and revenue and on.
-- It was another beat and the company raised guidance by 7% and 2026 earnings per share guidance by 4%.
-- Revenue increases by 32% and earnings per share met expectations, but the stock declined 5% on Wednesday.
-- The only industrial company which is higher is the cooling company Verdive at 80%.
+## Key Quotes
+
+- "The real impact of AI is measured in business outcomes, not only in excitement."
+- "Policy can change the economics of a strategy faster than a management team can explain it."
+- "Scale matters most when a company knows what to do with it."
 
 ## People Mentioned
 

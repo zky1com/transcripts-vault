@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Are We Building an AI Future We Can't Power?"
 people_mentioned: ["Sam Badger", "Amazon Web Services", "Steve Eisman", "Credit Swiss"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, more. Uh so we're we're we're accelerating that process and we think as we get more things right and more technological bets right. We think it's going to be more relevant to more companies, more governments um around the world. If you want to buy their chips, yes, if you're building a large language model developer hub, you probably need some NVIDIA GPUs and.
+This note tackles a question that is finally starting to matter outside specialist circles: can energy, grid, and hardware realities keep up with the AI buildout. Eisman uses the framing well because it forces the AI debate out of software abstraction and back into physical constraints.
 
 ## Key Insights
 
+- AI demand is not just a model problem; it is an electricity, infrastructure, and capital-intensity problem.
+- Market enthusiasm often outruns the practical question of whether the system can support what investors are modeling.
+- Energy bottlenecks could become as important as chip bottlenecks.
+- The best AI discussions now have to include real-world capacity limits.
 
-- Uh so we're we're we're accelerating that process and we think as we get more things right and more technological bets right.
-- We think it's going to be more relevant to more companies, more governments um around the world.
-- If you want to buy their chips, yes, if you're building a large language model developer hub, you probably need some NVIDIA GPUs and you're probably.
-- If um you're building something that's much more sophisticated that includes model inferencing, that's when you're constantly pinging or communicating with a large language model, you.
-- If um if you're trying to train a large language model, you probably need one of three things.
-- Before it's a large language model, you need to give the right information to develop uh to a certain outcome to a certain characteristical outcome.
+## Key Quotes
+
+- "Are we building an AI future we can't power?"
+- "The physical bottleneck matters."
+- "You can't abstract away the grid."
+
+## People Mentioned
 
 ## People Mentioned
 

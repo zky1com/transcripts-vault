@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Broken US Healthcare System is Failing Millions of Americans with Warris Bokhari"
 people_mentioned: ["Steve Eisman", "Luigi Manion", "Wars Picari", "Realizement Playbook", "Warris Bokhari"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, because. >> And then let's say we're the same age and they're going to say, "Well, and I'm at a different I'm at I'm I'm. It's because you're 65 years old. Let's talk about what do you see is the fundamental nature of the problem in medical insurance in the United States, whether it's ACA.
+Eisman and Warris Bokhari discuss why the American healthcare system produces high costs, poor incentives, and inconsistent patient outcomes. The conversation treats healthcare as a market where complexity and misaligned payment structures create failure at scale.
 
 ## Key Insights
 
+- The healthcare system is burdened by incentive structures that reward volume, opacity, and administrative complexity.
+- High spending does not guarantee better outcomes when the system fragments responsibility.
+- Patients often face the worst part of the system at the point where they are least equipped to navigate it.
+- Reform is difficult because too many participants benefit from the current layers of inefficiency.
+- Eisman frames healthcare failure as both a policy problem and an economic drag.
 
-- >> And then let's say we're the same age and they're going to say, "Well, and I'm at a different I'm at I'm I'm at a.
-- It's because you're 65 years old.
-- Let's talk about what do you see is the fundamental nature of the problem in medical insurance in the United States, whether it's ACA, whether it's.
-- Because we you wrote me a memo that talked about how >> basically there's there's it's a long-term insurance problem but it's being priced short term.
-- You get another job, you go somewhere else and effectively you get you're different you get a different insurance, right?
-- What you're saying is if I got that from CVS, CVS gets paid more from by Etna, which owns CVS, than if I get the same.
+## Key Quotes
+
+- "The system is expensive partly because too many people are paid to keep it confusing."
+- "Complexity is not an accident in American healthcare."
+- "A system can be large, profitable, and still fail the people inside it."
 
 ## People Mentioned
 

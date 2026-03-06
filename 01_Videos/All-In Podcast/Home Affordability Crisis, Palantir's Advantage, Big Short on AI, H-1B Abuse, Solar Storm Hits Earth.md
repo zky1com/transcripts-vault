@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Home Affordability Crisis, Palantir's Advantage, Big Short on AI, H-1B Abuse, Solar Storm Hits Earth"
 people_mentioned: ["But Saxi Pooh", "Michael Burin", "Michael Bur", "Brad Gersonner", "Tim File House", "White House"]
 channel: "All-In Podcast"
@@ -40,44 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, they're, because. If you do it over three years to your point it's about 24 billion a year versus 6 years it's 12 billion a year. As a result, it's going to make housing more accessible to more people. I guess the other shirt we should take a look at is the Palunteer one because Palunteer is man it's way out there.
+This is a broad episode about bottlenecks: housing supply, enterprise moat durability, immigration abuse, and AI capital allocation. The common view is that scarcity and asymmetry drive both politics and valuation, whether the scarce thing is housing, execution capability, or trusted software.
 
 ## Key Insights
 
+- Home affordability is tied directly to supply failure, especially in places that restrict building while subsidizing demand.
+- Palantir is treated as valuable because the hosts see it as unusually difficult to substitute in its domain.
+- H-1B abuse and AI overinvestment are both discussed as examples of systems being gamed under weak incentives.
 
-- If you do it over three years to your point it's about 24 billion a year versus 6 years it's 12 billion a year.
-- As a result, it's going to make housing more accessible to more people.
-- I guess the other shirt we should take a look at is the Palunteer one because Palunteer is man it's way out there.
-- People are looking at like 30 to 45% year-over-year growth Shimath and saying, "Yeah, it's got a lot of to fill in that valuation would just.
-- If you're bringing in IT people for$4 to $80,000, it's not viable to put a 2030 $40,000 fee on top of that.
-- Some people say it's unclear the probability of that.
+## Key Quotes
 
-## People Mentioned
+> The first-time homebuyer is disappearing.
 
+> Build more and rents fall.
 
-- [[But Saxi Pooh]]
+> Some moats are real because the substitute does not exist.
 
-- [[Michael Burin]]
-
-- [[Michael Bur]]
-
-- [[Brad Gersonner]]
-
-- [[Tim File House]]
-
-
-
-
-## Claims
-
-- [[Chamath Palihapitiya - US first-time homebuyer age surged from 33 to 40 between 2021 and 2025]]
-- [[David Sacks - Rent control combined with restrictive zoning removes builder incentives and worsens affordability]]
-- [[David Friedberg - Hyperscaler AI chip depreciation extensions are justified by near-100% GPU utilization rates]]
-- [[Chamath Palihapitiya - Palantir commands extreme sales multiple because it has no substitutable enterprise software competitor]]
-- [[David Sacks - Large IT staffing firms game H-1B via mass applications that crowd out targeted high-skill hires]]
-- [[David Friedberg - Austin housing supply growth demonstrates that building more units reduces rents across all segments]]
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (10122 words)</summary>

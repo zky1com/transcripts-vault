@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jason Trennert on Populism, Policy & a Distorted Market System The Real Eisman Playbook Episode 44"
 people_mentioned: ["Jason Trenard", "Steve Eisman", "Realizing Playbook", "Martin Luther King", "New York Post", "Treasury Department"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, that's. Um, but >> yeah, it's it's it's enough. It's going to I think it's going to work. It's a it's a very big deal.
+Eisman and Jason Trennert discuss how populism and policy intervention are reshaping markets that already feel distorted by years of extraordinary monetary and fiscal measures. The conversation treats politics as a direct market input rather than a background variable.
 
 ## Key Insights
 
+- Populist pressures grow when large parts of the public feel detached from the gains enjoyed by asset markets.
+- Policy intervention can stabilize markets in the short term while distorting incentives over longer periods.
+- Investors increasingly need a political framework alongside a traditional macro framework.
+- Distortion accumulates when participants assume authorities will repeatedly backstop risk assets.
+- Market narratives are becoming harder to separate from social and political legitimacy.
 
-- Um, but >> yeah, it's it's it's enough.
-- It's going to I think it's going to work.
-- >> is that expensive it's gone up it's gone up dramatically in the last couple of years and it's always it's always.
-- It's a big it's a big deal.
-- It's it's their own their own assumptions of what it's worth.
-- >> I think it's too It's always too early.
+## Key Quotes
+
+- "Politics is no longer an overlay; it is part of the core market equation."
+- "Backstops can solve a panic and create the next distortion."
+- "Populism is what happens when financial success stops feeling widely shared."
 
 ## People Mentioned
 

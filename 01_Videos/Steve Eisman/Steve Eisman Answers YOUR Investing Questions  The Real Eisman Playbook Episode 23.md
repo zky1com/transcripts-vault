@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Steve Eisman Answers YOUR Investing Questions The Real Eisman Playbook Episode 23"
 people_mentioned: ["Real Eyesman Playbook", "Judge Richard Pner", "Oliver Wendel Holmes", "Judge Pner"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on financial, question, because. Now, after the financial crisis, as I said earlier, Congress passed DoddFrank and created the position of vice chair of financial supervision, which as. Now, I address your question at great length in my financial literacy lecture that drops in a few weeks, but right now I'll give. Now, this is just me, but since I become more positive on the US economy and become more bullish, I'm just not that interested.
+Eisman answers audience questions on investing, risk, and portfolio judgment. The value of the episode is not a list of stock picks, but a clearer picture of how he thinks: skepticism first, position sizing second, and respect for uncertainty throughout.
 
 ## Key Insights
 
+- Good investing starts with process and temperament before it gets to specific names.
+- The hardest part of portfolio management is often sizing, not idea generation.
+- Investors should prefer understandable businesses over fashionable complexity.
+- Admitting uncertainty is a strength when markets are noisy and narratives are seductive.
+- The episode reinforces that discipline is a repeatable edge.
 
-- Now, after the financial crisis, as I said earlier, Congress passed DoddFrank and created the position of vice chair of financial supervision, which as I said.
-- Now, I address your question at great length in my financial literacy lecture that drops in a few weeks, but right now I'll give you a.
-- Now, this is just me, but since I become more positive on the US economy and become more bullish, I'm just not that interested in hedging.
-- Now, I've already recorded a lecture on the financial crisis, which is different from the financial literacy lecture that I'm going to drop very soon.
-- This is a great question because there's so much information out there, but a lot of it is not available to retail investors.
-- After the financial crisis, he actually wrote a book about the financial crisis, which was pretty good.
+## Key Quotes
+
+- "Your process is what keeps one bad idea from becoming a disaster."
+- "Sizing is where many investors discover whether they are actually disciplined."
+- "Not knowing is often the beginning of better judgment."
 
 ## People Mentioned
 

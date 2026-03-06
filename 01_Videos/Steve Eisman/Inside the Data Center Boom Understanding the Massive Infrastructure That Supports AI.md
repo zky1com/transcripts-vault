@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inside the Data Center Boom: Understanding the Massive Infrastructure That Supports AI"
 people_mentioned: ["Steve Eisman", "Nick Delo", "Mafford Nathansson", "Digital Realy", "Crown Castle"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, data, equinex. Yeah, I think if you look over the last several years, I think the data center in the US data center capacity has probably. The data center industry in the US I'm going to say is in the 25 gawatt range in terms of installed capacity today um. I've been wrong the last couple years, but I think it's I think it's pretty interesting.
+This note explains the physical backbone behind the AI boom by focusing on data-center infrastructure rather than model demos or software headlines. Eisman treats compute growth as a real industrial build cycle that depends on land, cooling, transmission, backup systems, and patient capital.
 
 ## Key Insights
 
+- Data centers are long-duration infrastructure projects, not just abstract expressions of AI demand.
+- The AI buildout depends on power, cooling, and networking capacity arriving together.
+- Infrastructure bottlenecks can delay monetization even when demand for compute remains strong.
+- Companies serving the physical layer may capture more durable value than the most crowded AI software names.
+- Investors need to understand the capital intensity of the stack, not just the excitement around end products.
 
-- Yeah, I think if you look over the last several years, I think the data center in the US data center capacity has probably grown at.
-- The data center industry in the US I'm going to say is in the 25 gawatt range in terms of installed capacity today um I think.
-- I've been wrong the last couple years, but I think it's I think it's pretty interesting.
-- If we think about a data center, a data center is basically a warehouse for computers.
-- It's it's it's interesting because you know go back a few years and Microsoft was struggling to bring on as much GPU capacity as its business.
-- >> So, it's it's the newest version of a data center.
+## Key Quotes
+
+- "AI runs on concrete, steel, power, and patience."
+- "The data-center boom is a physical build story before it is a software success story."
+- "Infrastructure delays can matter more than product excitement."
 
 ## People Mentioned
 

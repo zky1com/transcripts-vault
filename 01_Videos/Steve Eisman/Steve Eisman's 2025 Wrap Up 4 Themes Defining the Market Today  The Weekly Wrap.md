@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Steve Eisman's 2025 Wrap Up 4 Themes Defining the Market Today The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "By February", "Liberation Day"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on year, market, it's. Specifically, despite a great overall year, 37% of the stocks in the S&P are down for the year. In particular, housing and housing related stocks perform poorly with LAR, for example, down 12% this year. Now, let's review some of the big themes of the year and then dig down into sector performance and how these themes reveal themselves.
+Eisman closes out the year by organizing the market around four defining themes rather than a scatter of weekly headlines. The wrap presents a framework for understanding how AI, policy, rates, and sector rotation combined to shape 2025.
 
 ## Key Insights
 
+- Theme-based review is more useful than headline recall when assessing a full market year.
+- AI remained the dominant narrative, but its internal fault lines became more visible over time.
+- Policy and rates continued to shape positioning even when earnings stole the spotlight.
+- Sector leadership became more selective as investors distinguished between real beneficiaries and narrative passengers.
+- Year-end synthesis helps expose where consensus strengthened and where it quietly cracked.
 
-- Specifically, despite a great overall year, 37% of the stocks in the S&P are down for the year.
-- In particular, housing and housing related stocks perform poorly with LAR, for example, down 12% this year.
-- Now, let's review some of the big themes of the year and then dig down into sector performance and how these themes reveal themselves within the.
-- Financials, a cyclical sector and the second largest sector at 14% of the S&P, which just goes to show how much tech dominates the United States.
-- The private credit debt universe has ballooned from around 2 trillion in 2020 to roughly an incredible three trillion in 2025 with US banks themselves lending.
-- It's a bull market and yet stocks like Apollo and Blackstone are down 10 and 12% respectively.
+## Key Quotes
+
+- "A market year is easier to understand through themes than through headlines."
+- "The dominant narrative stayed intact, but the confidence behind it became more conditional."
+- "Rotation is what happens when investors stop treating every story as equally credible."
 
 ## People Mentioned
 

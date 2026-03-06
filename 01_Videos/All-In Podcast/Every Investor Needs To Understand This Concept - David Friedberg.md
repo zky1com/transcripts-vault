@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Every Investor Needs To Understand This Concept - David Friedberg"
 people_mentioned: ["Gokul Roger"]
 channel: "All-In Podcast"
@@ -40,33 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on years, public, market. Uber went public 75 billion after 9 years as a private company and now they're worth 190 billion. Since they've been public in 5 years, they're now worth $436 billion. Eight years as a private company, 100 billion market cap at IPO added another two plus trillion dollars in the years since.
+Friedberg's argument is that investing only looks diversified and complicated from a distance; in reality, free markets are dominated by power laws. A small number of winners create most of the value, and once you identify one of them, the real mistake is often selling too early rather than concentrating.
 
 ## Key Insights
 
+- Power-law distributions make average returns a misleading guide to where actual wealth creation happens.
+- Much of the value in exceptional businesses continues to accrue after IPO, not just during the private phase.
+- Friedberg is effectively arguing for concentrated conviction once a true outlier has been identified.
 
-- Uber went public 75 billion after 9 years as a private company and now they're worth 190 billion.
-- Since they've been public in 5 years, they're now worth $436 billion.
-- Eight years as a private company, 100 billion market cap at IPO added another two plus trillion dollars in the years since.
-- The first key point I wanted to make is because of the power law, the job of investing is to find the power law winners.
-- Airbnb went public after 12 years, worth 47 billion.
-- They've created another $420 billion of equity market value in just the last 5 years, probably eclipsing all venture returns that have been made during that.
+## Key Quotes
 
-## People Mentioned
+> Every investor needs to understand power laws.
 
+> A small number of winners create most of the value.
 
-- [[Gokul Roger]]
+> Most of the value continues to accrue after IPO.
 
-
-
-
-## Claims
-
-- [[David Friedberg - Power law distributions in free markets mean a small number of compounding winners generate the vast majority of total value creation]]
-- [[David Friedberg - Most value in power law winners continues to accrete after IPO making public market concentration in identified winners highly effective]]
-- [[David Friedberg - Owning only the top 10 NASDAQ companies returned 24x over 24 years versus 9x for the full NASDAQ demonstrating the value of extreme concentration in identified winners]]
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (2507 words)</summary>

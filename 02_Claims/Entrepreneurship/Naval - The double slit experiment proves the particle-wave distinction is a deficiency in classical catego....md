@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - The double slit experiment proves the particle-wave distinction is a deficiency in classical catego..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Is Light a Particle or a Wave?]]"
+source_video: "[[Is Light a Particle or a Wave]]"
 topics: [quantum-mechanics, Deutsch, epistemology, double-slit, physics]
 date: 2021-04-19
 speech_status: pending
@@ -42,4 +42,3 @@ The historical sequence of experiments reveals that the particle/wave binary is 
 
 ### Speech Facts
 - None yet
-

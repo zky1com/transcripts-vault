@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ICE Raids, LA Riots, Strong Economic Data, Politicized Fed, Iran War with Tucker Carlson"
 people_mentioned: ["Rainman David", "Tucker Carlson", "Chimath Polio Hapia", "Zar David Saxs", "Los Angeles", "Delta Force", "Home Depot", "White House"]
 channel: "All-In Podcast"
@@ -40,47 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, right. Of course it's by design it's just Well I mean look it's you know it's just it's just overload you can't I. Pull up this quote don't make dude that's No I mean it's amazing no I mean it's it's kind of sad but. It's it's a it's a combination of both and by the way Israel is a country with 9 million people in it.
+This episode juxtaposes street disorder, macro strength, and foreign-policy risk to argue that surface-level optimism can coexist with severe institutional strain. Tucker and the hosts keep returning to the same question: can a country show strong data while still losing control of enforcement, legitimacy, and strategic restraint?
 
 ## Key Insights
 
+- The hosts argue media framing around immigration enforcement is often detached from the underlying criminal and legal details.
+- Strong economic prints do not, in their view, resolve deeper concerns about social order or policy politicization.
+- The Fed and Iran discussions both turn on whether institutions can still act as disciplined, bounded actors.
 
-- Of course it's by design it's just Well I mean look it's you know it's just it's just overload you can't I.
-- Pull up this quote don't make dude that's No I mean it's amazing no I mean it's it's kind of sad but.
-- It's it's a it's a combination of both and by the way Israel is a country with 9 million people in it.
-- They know they can't it's like intractable this is their view it's complex it's boring it's difficult and it's super hard.
-- Trying to reconcile this grand conspiracy that he wants to sing Trump i don't think it's Republican i think it's just.
-- Ignoring and the main one is Iran is not Iraq or it's not Libya it's not isolated it's a it's a central.
+## Key Quotes
 
-## People Mentioned
+> Strong data does not cancel institutional weakness.
 
+> Enforcement is part of legitimacy.
 
-- [[Rainman David]]
+> The country can look healthy on paper while getting less governable.
 
-- [[Tucker Carlson]]
-
-- [[Chimath Polio Hapia]]
-
-- [[Zar David Saxs]]
-
-- [[Los Angeles]]
-
-- [[Delta Force]]
-
-- [[Home Depot]]
-
-
-
-
-## Claims
-
-- [[Jason Calacanis - Voters approved LA ICE raids by 55 to 37 margin undermining broad-opposition media framing]]
-- [[Tucker Carlson - Tucker Carlson argues sanctuary cities constitute defiance of federal immigration enforcement duty]]
-- [[Tucker Carlson - LA ICE raid fashion wholesaler was a cartel money-laundering operation with active criminal warrants]]
-- [[David Sacks - Legal immigrants in status-adjustment backlog deserve prioritization over illegal immigration cases]]
-- [[Jason Calacanis - LAPD chief confirmed officers were overwhelmed by rioters justifying National Guard deployment]]
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (19342 words)</summary>

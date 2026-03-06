@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Stevie Case: World's First Female Pro Gamer; Hiring Tips for Sales; PLG vs Enterprise | 20VC #970"
 people_mentioned: ["Warner Brothers", "Terra Wireless", "Vanity Fair", "John Romero", "Deeply One", "George Who", "Jeff Lawson", "First Republic"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Stevie Case brings an unusually cross-disciplinary perspective to sales leadership, combining competitive psychology, hiring, and growth-model thinking. That makes the episode especially interesting on how PLG and enterprise skills differ and what kind of person thrives in each context.
+
+## Key Insights
+
+- Competitive backgrounds can build resilience and pattern recognition that transfer well into sales.
+- Hiring advice changes depending on whether the company leans PLG, enterprise, or some hybrid of both.
+- Sales leadership is partly about matching talent to motion rather than searching for one ideal rep archetype.
+- The episode stands out because it blends career narrative with operational specificity.
+
+## Key Quotes
+
+- "World's first female pro gamer."
+- "Hiring tips for sales."
+- "PLG versus enterprise."
 
 ## Full Transcript
 

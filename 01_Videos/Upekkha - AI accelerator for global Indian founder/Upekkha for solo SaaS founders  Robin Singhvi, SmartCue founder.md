@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Upekkha for solo SaaS founders | Robin Singhvi, SmartCue founder"
 people_mentioned: []
 channel: "Upekkha - AI accelerator for global Indian founder"
@@ -44,21 +44,11 @@ The discussion centers on community, help, actually. Community actually has been
 
 ## Key Insights
 
-
-- Community actually has been extremely extremely helpful and valuable to me I spent most of my professional life in the US and when I moved back to India I struggled to build a community that would help me sort of deal with the struggles of a startup founder and a solo startup founder that's when the opeika community really kind of came together to help me whether it was you know just asking questions about go to market strategies legal and compliance issues when setting up entities and businesses in India the community was always available whether on slack or in person you know I I ended up meeting a lot of Founders in Mumbai itself foreign anecdote really stands out to me during one of the community events with Topeka you know I was struggling with with trying to think through how I should use the Wadley map framework for my business and what ended up happening was I was just mentioning that to Rajan and this was during the party like everyone's kind of having a great time and he said hey do you want help now I'm I'm ready to help you now so we actually stepped away from the party spent about 45 minutes just sitting down talking through smart queue and my issues and how I should think about the the problem that I'm trying to solve that was invaluable right I had to see the partners and the community members at opeka really go out of the way to help me kind of reaffirms my faith in the community and and my decision of joining a Paycom foreign [Music]
-
-
-
+- Key insights pending regeneration.
 
 ## Key Quotes
 
-
-> Community actually has been extremely extremely helpful and valuable to me I spent most of my professional life in the US and when I moved back to India I struggled to build a community that would help me sort of deal with the struggles of a startup founder and a solo startup founder that's when the opeika community really kind of came together to help me whether it was you know just asking questions about go to market strategies legal and compliance issues when setting up entities and businesses in India the community was always available whether on slack or in person you know I I ended up meeting a lot of Founders in Mumbai itself foreign anecdote really stands out to me during one of the community events with Topeka you know I was struggling with with trying to think through how I should use the Wadley map framework for my business and what ended up happening was I was just mentioning that to Rajan and this was during the party like everyone's kind of having a great time and he said hey do you want help now I'm I'm ready to help you now so we actually stepped away from the party spent about 45 minutes just sitting down talking through smart queue and my issues and how I should think about the the problem that I'm trying to solve that was invaluable right I had to see the partners and the community members at opeka really go out of the way to help me kind of reaffirms my faith in the community and and my decision of joining a Paycom foreign [Music]
-
-
-
-
-
+> Key quotes pending regeneration.
 
 ## Full Transcript
 

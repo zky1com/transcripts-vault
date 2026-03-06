@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Klarna CEO: SaaS is Dead: Why Systems of Record Will Die in an Agentic World"
 people_mentioned: ["Service Now"]
 channel: "20VC with Harry Stebbings"
@@ -40,25 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, that's. It's actually it's it's less scary because he doesn't get angry. Slashwork it's it's one of our it's a compet Yeah. Some people going to more look for the her experience and I think if you know that's chat that's chatb to me because if.
+The Klarna CEO pushes an aggressive thesis that AI will compress headcount, rewrite software economics, and eventually undermine classic systems of record. The interview is provocative by design, but useful because it forces a concrete question: where is durable value when agents become the main interface to work.
 
 ## Key Insights
 
+- SaaS incumbents may lose power if agents abstract away the workflows users once touched directly.
+- Headcount reduction is presented as an operational consequence of AI adoption, not just a talking point.
+- Switching costs around data remain one of the biggest defenses for existing software platforms.
+- The episode matters because it links product architecture to org design and labor structure.
 
-- It's actually it's it's less scary because he doesn't get angry.
-- Slashwork it's it's one of our it's a compet Yeah.
-- Some people going to more look for the her experience and I think if you know that's chat that's chatb to me because if I'm so.
-- To some degree it's sports That's right.
-- It's it's it's the uh so that's going to differ right but the who are whose market share are we.
-- In kind of work life, it's definitely it's definitely going to be slower.
+## Key Quotes
 
-## People Mentioned
-
-
-- [[Service Now]]
-
-
-
+- "We've gone from 7,000 people to below 3,000."
+- "SaaS is dead."
+- "The next thing that's going to hit everyone bad is the switching cost of data."
 
 ## Full Transcript
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trump vs The Fed, U.S. Takes 10% Stake in Intel, Cracker Barrel Cracks The Friday Market Wrap!"
 people_mentioned: ["Steve Eisman", "Cracker Barrel", "Bill Py", "Fanny May", "Freddy Mack", "Fed Governor Lisa", "Ann Arbor", "On Tuesday"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on down, year, companies. Number nine, household and personal products down 7% year to date, weighed down by the potential impact of tariffs with Clorox down 27% and. This group is down 2% year to date. Gartner down 49%, Accenture down 27%.
+Eisman links Fed pressure, a government stake in Intel, and weakness at Cracker Barrel to illustrate how politics, industrial intervention, and consumer strain are all feeding into the same market environment. The wrap underscores how broad the current set of moving parts has become.
 
 ## Key Insights
 
+- Public pressure on the Fed can shape expectations even before it changes policy.
+- A government stake in Intel signals how strategic semiconductors have become.
+- Consumer-facing weakness at names like Cracker Barrel reflects real sensitivity in lower and middle income demand.
+- Multiple sectors are now being repriced through a policy lens.
+- Markets are increasingly forced to process macro, political, and company-specific signals at the same time.
 
-- Number nine, household and personal products down 7% year to date, weighed down by the potential impact of tariffs with Clorox down 27% and Church and.
-- Now, it's kind of odd that Equinex is down 17% for the year and its chief public competitor, Digital Realy, is down five.
-- It only has eight stocks here and seven of them were up for the year, but Target is down 28% for the year and that dragged.
-- The last group which is down the most is autos down 11% year-to date.
-- Some good ones like Tapestry are up 57% but the group is weighed down by Decker's Outdoor which is down 42% which is housing related and.
-- Number three, insurance up only 3% year to date.
+## Key Quotes
+
+- "The Fed is monetary policy, but it is also a political stage."
+- "Intel is no longer just a company story."
+- "Consumer cracks matter because they tell you where pressure is actually landing."
 
 ## People Mentioned
 

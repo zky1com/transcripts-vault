@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mark Roberge: The Framework for How Startups Should Scale into the Enterprise -Stage 2 Capital|E1176"
 people_mentioned: ["Red Sox", "Playbook Harry", "Discovery Well", "Pearson Behavior", "Dave Kellogg", "Year Without", "Finish Line", "Chris Dean"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Mark Roberge lays out enterprise scaling as a capability-building exercise rather than just a hiring exercise. His emphasis is on champions, political dynamics, and buyer mapping, which makes the episode especially relevant for founders trying to graduate from transactional deals to strategic ones.
+
+## Key Insights
+
+- Million-dollar selling requires a different skill stack than early transactional selling.
+- Teams need explicit frameworks for champions, coaches, buyers, procurement, and legal complexity.
+- Enterprise scale happens when founders learn which parts of the motion must change and which should stay standardized.
+- Roberge's advantage is turning fuzzy enterprise lore into teachable structure.
+
+## Key Quotes
+
+- "The skill necessary to get a million-dollar deal on the board is different."
+- "How do I identify and build a good champion?"
+- "You need a framework for how startups should scale into the enterprise."
 
 ## Full Transcript
 

@@ -24,12 +24,12 @@ tools_mentioned: []
 companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-pipeline_stage: video_only
-claims_status: pending
+pipeline_stage: claims_done
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 3
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
@@ -80,6 +80,13 @@ And then when you're doing it and then you figure something out about how it sho
 
 
 
+
+
+## Claims
+
+- [[Naval - True learning requires doing first — general principles absorbed without action remain hollow aphorisms you cannot apply]]
+- [[Naval - Judgment develops from reasoning to taste through iterations in reality — abstract study alone cannot build the intuition needed for good decisions]]
+- [[Naval - Principles are not mathematical — the same words mean different things in different contexts requiring judgment not mechanical application]]
 
 ## Full Transcript
 

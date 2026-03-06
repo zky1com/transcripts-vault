@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cracks Beneath the AI Boom: Is the U.S. Economy Heading For a Downturn? | The Weekly Wrap"
 people_mentioned: ["Zoran Mandami", "Steve Eisman", "On Tuesday", "On Thursday", "Zoran Mami"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on down, company, week. This week only 133 companies reported versus the more than 150 that reported last week. It raised revenue guidance a little bit, but no one cares because the AI overhang is just super powerful and the stock was down. The company reported on Tuesday and the stock was down 6%.
+This wrap questions whether AI excitement is distracting investors from weaker economic internals. Eisman uses the title well: the issue is not whether AI is real, but whether the market is using one boom to ignore broader cyclical deterioration.
 
 ## Key Insights
 
+- The most dangerous market moments often happen when one dominant theme hides weakness elsewhere.
+- AI leadership can coexist with real economic softening underneath the index level.
+- Downturn risk becomes more serious when valuations imply immunity from macro pressure.
+- The wrap tries to reconnect tech exuberance with broader business-cycle reality.
 
-- This week only 133 companies reported versus the more than 150 that reported last week.
-- It raised revenue guidance a little bit, but no one cares because the AI overhang is just super powerful and the stock was down on Tuesday.
-- The company reported on Tuesday and the stock was down 6%.
-- To add insult to injury, prior to this report, the stock was down 20% this week alone because of news reports that Apollo, the company we.
-- The company now expects revenue to grow 11% this year, which is down versus its prior expectations, and operating profit to grow even less by 7%.
-- The company reported 21 cents versus 17 cents expected and revenue of 1.18 billion versus 1.09 billion expected.
+## Key Quotes
+
+- "Cracks beneath the AI boom."
+- "Is the U.S. economy heading for a downturn?"
+- "A single hot theme can hide a lot of weakness."
+
+## People Mentioned
 
 ## People Mentioned
 

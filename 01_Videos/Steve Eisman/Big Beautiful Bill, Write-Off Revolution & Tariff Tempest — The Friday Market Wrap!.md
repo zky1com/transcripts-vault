@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Big Beautiful Bill, Write-Off Revolution & Tariff Tempest - The Friday Market Wrap!"
 people_mentioned: ["South Korea", "Elon Musk", "Steve Eisman", "Dan Clifton", "On Wednesday", "Big Beautiful Bill", "Sri Lanka", "Goldman Sachs"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on that's, bill, it's. We're going to we're going down to three and a half. Programs and so it cost the government money and it's like we're going to get rid of these programs and they're going. It's going to add 1% to GDP growth.
+This Friday wrap combines fiscal policy, tax incentives, and tariff turbulence into one picture of how government action is reshaping investor assumptions. Eisman is at his best when he asks how these policies hit actual sectors instead of staying in political slogan mode.
 
 ## Key Insights
 
+- Write-off changes matter because they alter real capital-allocation behavior, not just accounting optics.
+- Tariff volatility continues to inject uncertainty into both margins and planning cycles.
+- Big fiscal packages should be judged by transmission mechanisms, not branding.
+- The wrap format helps by forcing these policy levers into one market conversation.
 
-- We're going to we're going down to three and a half.
-- Programs and so it cost the government money and it's like we're going to get rid of these programs and they're going.
-- It's going to add 1% to GDP growth.
-- We think our basket of these cap good order companies that are going to get increased sales are really going to take off.
-- If you get income verified twice a year, you save over a hundred billion dollars uh by doing that because people will get income verified and.
-- That's number three, I think, is really critical because I know we're going to talk about healthcare and the impact of healthcare.
+## Key Quotes
+
+- "Big Beautiful Bill."
+- "Write-off revolution."
+- "Tariff tempest."
+
+## People Mentioned
 
 ## People Mentioned
 

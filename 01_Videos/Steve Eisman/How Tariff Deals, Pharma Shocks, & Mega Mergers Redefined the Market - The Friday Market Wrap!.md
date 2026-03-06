@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How Tariff Deals, Pharma Shocks, & Mega Mergers Redefined the Market - The Friday Market Wrap!"
 people_mentioned: ["Steve Eisman", "European Union", "South Korea", "On Wednesday", "True Social", "Union Pacific", "North Fork Southern", "Federal Reserve"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stock, week, quarter. There were plenty of earnings this week and many important companies reported, but by far the most important news of the week centered around. It reported a smaller than expected loss for the quarter as revenue beat estimates and sales reached 22.75 billion which was actually 35% growth. The S&P is now up over 6% by a bit and NASDAQ is up a bit over 7%.
+This market wrap tracks how tariffs, drug-sector surprises, and large corporate dealmaking reshaped investor expectations in a single week. Eisman treats the market as a machine that constantly reprices policy risk, sector winners, and the credibility of management teams responding to sudden shocks.
 
 ## Key Insights
 
+- Tariff headlines matter less for the initial announcement than for their second-order effects on margins and supply chains.
+- Pharma shocks can re-rate an entire group when investors question pricing power or competitive durability.
+- Mega mergers are interpreted both as strategic bets and as signals about management confidence in organic growth.
+- Cross-sector volatility often reflects policy uncertainty more than company-specific execution.
+- Eisman focuses on where consensus had become too comfortable before the shock hit.
 
-- There were plenty of earnings this week and many important companies reported, but by far the most important news of the week centered around tariffs.
-- It reported a smaller than expected loss for the quarter as revenue beat estimates and sales reached 22.75 billion which was actually 35% growth year-over-year.
-- The S&P is now up over 6% by a bit and NASDAQ is up a bit over 7%.
-- For the quarter, Microsoft reported earnings of $3.65 and revenue of 76.4 billion.
-- In more economic news, US economic activity rebounded in the second quarter to a quite strong 3%.
-- The stock reached a peak of $57 in June 2021 and it's now 33 and is down 12% this year alone.
+## Key Quotes
+
+- "Markets do not just price events; they price the consequences of those events."
+- "A merger can be strategy, but it can also be an admission."
+- "Policy risk moves faster than analysts update their models."
 
 ## People Mentioned
 

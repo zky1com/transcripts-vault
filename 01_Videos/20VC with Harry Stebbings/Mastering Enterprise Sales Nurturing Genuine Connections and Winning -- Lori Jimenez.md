@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mastering Enterprise Sales Nurturing Genuine Connections and Winning -- Lori Jimenez"
 people_mentioned: ["Super Bowl", "Taylor Swift"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+This short discussion with Lori Jimenez pushes back on the lazy idea that enterprise relationship-building is either all entertainment or all Zoom efficiency. Her point is that genuine connection still matters, but it has to serve real deal progress and buyer value rather than stand in for it.
+
+## Key Insights
+
+- Old-school entertainment selling still has a place, but only in a much narrower context.
+- Remote selling increased efficiency, but it did not eliminate the need for trust and human chemistry.
+- Great enterprise selling uses in-person moments selectively where they deepen an already serious process.
+- The buyer's style and preferences should determine how much relationship theater makes sense.
+
+## Key Quotes
+
+- "I don't think it's fully dead."
+- "If you do virtual right, it doesn't feel transactional."
+- "Know your buyer."
 
 ## Full Transcript
 

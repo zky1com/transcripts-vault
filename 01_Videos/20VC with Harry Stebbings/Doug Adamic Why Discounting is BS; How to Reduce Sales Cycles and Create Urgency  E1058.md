@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Doug Adamic: Why Discounting is BS; How to Reduce Sales Cycles and Create Urgency | E1058"
 people_mentioned: ["Financial Frontiers", "Audi Deloitte", "Financial Frontier", "Hack Slash", "Business Solution", "Taylor Swift", "Super Bowl"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Doug Adamic approaches sales as a craft that combines urgency, customer understanding, and operational clarity. His stance on discounting is that price cuts are often a shortcut for weak selling, especially when teams have not done enough work to quantify pain, timing, or the cost of inaction.
+
+## Key Insights
+
+- Great training can make sales feel compelling even to people who did not intend to enter the profession.
+- Sales effectiveness depends on understanding why a customer must act now, not just why the product is good.
+- Discounting often substitutes for conviction, process, or executive alignment.
+- The episode is strongest where it links urgency creation to real customer economics rather than manipulative pressure.
+
+## Key Quotes
+
+- "Discounting is BS."
+- "How do you reduce sales cycles and create urgency?"
+- "The second I got into that organization, I fell in love immediately."
 
 ## Full Transcript
 

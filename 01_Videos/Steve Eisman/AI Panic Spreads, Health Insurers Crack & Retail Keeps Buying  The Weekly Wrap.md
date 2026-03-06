@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AI Panic Spreads, Health Insurers Crack & Retail Keeps Buying  The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Nova Nordisk", "Hers Health", "Novo Nordis", "Raymond James", "Apollo Global"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on down, revenue, stocks. Coinbase reported Thursday night revenue was down 22% and the company missed earnings per share as well. A beta of 1.5 means that on a day when the market goes up or down 1%, a stock with such a beta will. Molina is down 27% just this year, and over the last 12 months, the stock is down over 50%.
+Eisman uses this wrap to hold together three apparently separate stories: AI fear, weakness in health insurers, and surprising consumer persistence. The result is really about market rotation and the tension between narrative panic and stubborn underlying demand.
 
 ## Key Insights
 
+- AI panic becomes meaningful when it starts to change sector leadership rather than just social-media sentiment.
+- Health-insurer weakness matters because it can signal both regulatory fear and margin stress.
+- Retail resilience can keep macro bears wrong for longer than they expect.
+- A good wrap shows how these stories interact instead of pretending each one is self-contained.
 
-- Coinbase reported Thursday night revenue was down 22% and the company missed earnings per share as well.
-- A beta of 1.5 means that on a day when the market goes up or down 1%, a stock with such a beta will go up.
-- Molina is down 27% just this year, and over the last 12 months, the stock is down over 50%.
-- As long as crypto prices keep going down, so will the stock price of Coinbase, which is down 38% so far this year.
-- Prior to Wednesday, the stock was already down 24% this year and was down an additional 9% on Wednesday.
-- The stock was down 10% on Tuesday and in sympathy Moody's was down 7%.
+## Key Quotes
+
+- "AI panic spreads."
+- "Health insurers crack."
+- "Retail keeps buying."
+
+## People Mentioned
 
 ## People Mentioned
 

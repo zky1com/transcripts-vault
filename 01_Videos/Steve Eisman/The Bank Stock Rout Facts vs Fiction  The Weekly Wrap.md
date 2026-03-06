@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Bank Stock Rout Facts vs Fiction The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "On Friday", "By Monday", "True Social", "On Tuesday", "Morgan Stanley", "Jaime Diamond"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on banks, bank, credit. Yes, there was deterioration in commercial credit quality at JP Morgan and City, but other banks like Wells Fargo, Bank of America, PNC, and. The large banks all beat with strong investment banking and trading helping out the larger banks and investment banks. 36 companies reported with the banks dominating and I think we are on the cusp of a major M&A wave in regional and community.
+This weekly wrap examines whether the latest selloff in bank stocks reflects genuine balance-sheet risk or another round of exaggerated market fear. Eisman focuses on how quickly sentiment can detach from the actual facts when investors begin to worry about credit quality, funding, or policy mistakes.
 
 ## Key Insights
 
+- Bank selloffs often move faster than the underlying fundamentals can be evaluated.
+- Investors need to separate liquidity stress, earnings pressure, and solvency risk rather than treating them as the same problem.
+- Financial stocks act as an early warning system, but they can also exaggerate panic.
+- Facts matter most when market narratives become emotionally charged.
+- The key question is whether the weakness is a signal of systemic stress or just another episode of crowded fear.
 
-- Yes, there was deterioration in commercial credit quality at JP Morgan and City, but other banks like Wells Fargo, Bank of America, PNC, and other regionals.
-- The large banks all beat with strong investment banking and trading helping out the larger banks and investment banks.
-- 36 companies reported with the banks dominating and I think we are on the cusp of a major M&A wave in regional and community banks for.
-- Bank of America is also a very well-run bank and is up around 18% this year, but in the low50s, Bank of America is still below.
-- On the other hand, some problematic commercial loans emerged on Thursday at two regional banks, Zans and Western Alliance.
-- For those who invest in banks and need to check the rationale for their investment decisions, I'm now going to spend a little time going into.
+## Key Quotes
+
+- "A bank-stock panic can reveal something real or simply amplify uncertainty."
+- "Liquidity, earnings, and solvency are not interchangeable words."
+- "The market often decides the mood before it studies the facts."
 
 ## People Mentioned
 

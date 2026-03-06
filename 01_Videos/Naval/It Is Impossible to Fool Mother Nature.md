@@ -96,11 +96,6 @@ And if you're exceptional at something, that does require you acknowledging that
 - [[Naval - You are entitled to your labor but not its fruits â€” attributing bad outcomes to yourself and good outcomes to luck is the correct mindset for long-term agency]]
 - [[Naval - Potential without applied effort produces nothing â€” Feynman's self-description as merely hardworking reveals that genius is necessary but not sufficient]]
 
-## Claims
-
-- [[Naval - Knowledge creation is inherently unpredictable â€” if you could predict what you would create you would have already created it]]
-- [[Naval - Pessimistic worldviews extrapolate negative trends linearly while ignoring positive trends that emerge unpredictably from creativity]]
-- [[Naval - Hawking's chemical scum framing is trivially true but misses the point â€” humans are the knowledge-creating hub of the universe with the potential to reshape reality]]
 ## Full Transcript
 
 <details>

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Steve Eisman's Masterclass on Financial Literacy The Real Eisman Playbook Episode 24"
 people_mentioned: ["Steve Eisman"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stock, stocks, because. That's why growth stocks tend to go down a lot when interest rates go up because that is a technique often used in valuing. What are safety stocks, cyclical stocks, and growth stocks? Changes in interest rates have a large impact on stocks and particularly growth stocks and financial stocks.
+This masterclass distills Eisman’s approach to financial literacy into practical building blocks: reading statements, understanding incentives, respecting leverage, and knowing the difference between a business and a stock. The goal is to sharpen judgment rather than to provide shortcuts.
 
 ## Key Insights
 
+- Financial literacy begins with understanding cash flows, balance sheets, and basic business quality.
+- Leverage magnifies both opportunity and error, which is why it demands extra caution.
+- A good company and a good stock are related but not identical concepts.
+- Investors should study incentives because management behavior often follows compensation design.
+- The episode frames literacy as a defense against manipulation and self-deception.
 
-- That's why growth stocks tend to go down a lot when interest rates go up because that is a technique often used in valuing growth stocks.
-- What are safety stocks, cyclical stocks, and growth stocks?
-- Changes in interest rates have a large impact on stocks and particularly growth stocks and financial stocks.
-- Topic seven, what are safety stocks, cyclical stocks, and growth stocks?
-- Generally, growth stocks have higher valuations than cyclical stocks or slow growth companies.
-- I now have one stock, stock A, which is $2,000 in size or a 2% position.
+## Key Quotes
+
+- "A stock is not just a ticker; it is a claim on a business."
+- "Leverage is where small mistakes become career-sized mistakes."
+- "Financial literacy is partly about learning how not to fool yourself."
 
 ## People Mentioned
 

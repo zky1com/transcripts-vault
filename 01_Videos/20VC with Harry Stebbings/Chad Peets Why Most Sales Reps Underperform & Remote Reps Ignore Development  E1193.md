@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chad Peets: Why Most Sales Reps Underperform & Remote Reps Ignore Development | E1193"
 people_mentioned: ["Mike Spicer", "Maro Lynch", "Chris Dean", "Suter Hill", "Next Generation", "Dynamics Dolly Ric", "Sutter Hill", "Keith Butler"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Chad Peets argues from a high-accountability worldview: underperformance is usually a mix of weak coaching, weak standards, and weak personal drive. He is especially critical of remote-first sales development when it reduces repetition, observation, and the small daily frictions that make people improve faster.
+
+## Key Insights
+
+- Sales playbooks should exist before senior sales leaders are hired into pre-product contexts.
+- Inside sales reps improve faster when they are physically around stronger peers and managers.
+- Exceptional performance requires sacrifice, not just good process.
+- Peets views manager responsibility and rep responsibility as intertwined rather than separate excuses.
+
+## Key Quotes
+
+- "You need a salesperson to create the sales playbook."
+- "By being in the office they are going to get better faster."
+- "You have to care and be willing to sacrifice to do exceptional things."
 
 ## Full Transcript
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hiring a Podcast Editor and Navalâ€™s Chief of Staff"
 people_mentioned: []
 channel: "Naval"

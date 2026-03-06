@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mark Goldberger: The Ultimate Guide to Enterprise Sales | E1003"
 people_mentioned: ["Rams Enterprise", "Great Recession", "Mountain View", "General Catalyst", "Rich Liu", "Carlos De", "North America", "Jason Lamkin"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Mark Goldberger frames enterprise sales as a practice-driven discipline where repetition, customer understanding, and deal mechanics all matter. The episode earns its title by staying grounded in how leaders actually train for big, complex buying cycles.
+
+## Key Insights
+
+- Winners keep practicing until mistakes disappear, not just until a pitch sounds good once.
+- Enterprise selling benefits from founder-style understanding of both the product and the market economics around it.
+- Great leaders teach the team how to reason through complexity, not just how to memorize a script.
+- The best enterprise motions combine rigor with calm execution under pressure.
+
+## Key Quotes
+
+- "Losers practice until they get it right; winners practice until they never get it wrong."
+- "The ultimate guide to enterprise sales."
+- "You need to train for complexity, not just the happy path."
 
 ## Full Transcript
 

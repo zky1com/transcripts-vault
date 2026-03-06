@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mixed Earnings and Trade Uncertainty-The Friday Market Wrap!"
 people_mentioned: ["Steve Eisman", "Eisman Playbook", "Liberation Day", "General Motors", "Hilton Hotels", "Norwegian Cruise Lines"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on company, results, guidance. Honeywell company reported good earnings per share results. It's a purely domestic company and reported a beat and strong over overall results because of strong pricing. UPS, they reported $1.49 versus $143 last year, which was a slight beat, but the company refused to update guidance because of economic uncertainty.
+This wrap tracks a week where uneven earnings and unresolved trade questions pulled investors in opposite directions. Eisman focuses on how markets struggle when company-level results and macro policy signals refuse to align into a clean narrative.
 
 ## Key Insights
 
+- Mixed earnings matter most when the market had been positioned for a broad, synchronized outcome.
+- Trade uncertainty keeps executives cautious even when near-term results still look decent.
+- Investors tend to overreact when they cannot tell whether weakness is company-specific or macro-driven.
+- Ambiguous environments reward balance-sheet strength and punish fragile expectations.
+- The market often searches for one story when the real answer is that several partial stories are true at once.
 
-- Honeywell company reported good earnings per share results.
-- It's a purely domestic company and reported a beat and strong over overall results because of strong pricing.
-- UPS, they reported $1.49 versus $143 last year, which was a slight beat, but the company refused to update guidance because of economic uncertainty.
-- The actual results for the quarter were slightly better than expected for both earnings and revenue, but the company withdrew guidance because of tariffs and it.
-- It reported a down quarter of 91 cents per share versus 96 cents per share.
-- The company reported strong results across the board including great backlog and it raised guidance a little bit.
+## Key Quotes
+
+- "When the data is mixed, conviction gets expensive."
+- "Trade uncertainty can change behavior before it changes the numbers."
+- "Markets hate ambiguity more than they hate bad news."
 
 ## People Mentioned
 

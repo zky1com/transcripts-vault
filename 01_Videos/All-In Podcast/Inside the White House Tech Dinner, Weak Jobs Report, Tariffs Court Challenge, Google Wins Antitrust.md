@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inside the White House Tech Dinner, Weak Jobs Report, Tariffs Court Challenge, Google Wins Antitrust"
 people_mentioned: ["Tom Ford", "Saxi Pooh", "Sam Altman", "Tim Cook", "White House"]
 channel: "All-In Podcast"
@@ -40,33 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, president, because. That once these tariffs are in place for a few years, I don't think they're going to get pulled back by a future president. It's a really it's it's done really well. The legal kurfuffle point which I think is a good one because I do think that the great debate that's going to.
+This episode is about power alignment between Washington and technology. The dinner itself matters less than what it symbolizes: major tech leaders are now directly inside the political operating loop while markets simultaneously process weaker jobs data, tariff litigation, and shifting antitrust outcomes.
 
 ## Key Insights
 
+- The White House tech dinner is treated as evidence that business-government coordination is no longer informal background noise.
+- Weak jobs data and tariff litigation create a macro backdrop where policy noise carries unusually high market sensitivity.
+- Google's antitrust outcome is discussed as part of the longer-term question of how much scale regulators are still willing to tolerate.
 
-- That once these tariffs are in place for a few years, I don't think they're going to get pulled back by a future president because I.
-- It's a really it's it's done really well.
-- The legal kurfuffle point which I think is a good one because I do think that the great debate that's going to.
-- I do think that's going to be the big debate that's going to come out of this.
-- The point is just I think everyone can now see that the search business is either going away or transforming into something else which is it's.
-- I And I think it's VC Rana Dbe who's the owner of the Kings is right there of the Sacramento Kings started typical and then I.
+## Key Quotes
 
-## People Mentioned
+> The dinner matters because proximity matters.
 
+> Markets are hypersensitive to policy and macro at the same time.
 
-- [[Tom Ford]]
+> Antitrust outcomes now shape strategic confidence.
 
-- [[Saxi Pooh]]
-
-- [[Sam Altman]]
-
-- [[Tim Cook]]
-
-
-
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (12567 words)</summary>

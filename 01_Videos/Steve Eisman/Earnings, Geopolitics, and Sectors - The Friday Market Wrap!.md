@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Earnings, Geopolitics, and Sectors - The Friday Market Wrap!"
 people_mentioned: ["Iran Israel", "On Monday", "Steve Eisman", "Eisman Playbook", "Apple Podcasts", "Real Emanscribe", "Nphase Energy", "First Solar"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on solar, credit, private. Shares of Nphase Energy, the bell weather of residential solar, plummeted more than 24% during the week, while First Solar, the bell weather of. Residential solar companies essentially put solar panels on your roof. This group, the residential solar group, was super hot during COVID because rates were zero and people could put a solar panel system on.
+Eisman uses this wrap to keep investors from compartmentalizing three forces that increasingly move together: company results, geopolitical shifts, and sector rotations. The value is in synthesis rather than in any single hot take.
 
 ## Key Insights
 
+- Earnings never exist in a vacuum when trade, war, and policy uncertainty are changing the cost of capital.
+- Sector calls get sharper when framed against both macro and geopolitical conditions.
+- The wrap format is useful precisely because it forces cross-category thinking.
+- Investors who isolate one variable often miss the actual driver of the move.
 
-- Shares of Nphase Energy, the bell weather of residential solar, plummeted more than 24% during the week, while First Solar, the bell weather of commercial solar.
-- Residential solar companies essentially put solar panels on your roof.
-- This group, the residential solar group, was super hot during COVID because rates were zero and people could put a solar panel system on their roof.
-- End phase which I said before is the residential solar bell weather was $340 in 2022 after an enormous rally during co it's now $35.
-- Every month, every single securization would put out every single piece of credit data that they had.
-- When it comes to private credit, there's no data because it's all private.
+## Key Quotes
+
+- "Earnings, geopolitics, and sectors."
+- "The Friday market wrap."
+- "You have to connect the forces, not just list them."
+
+## People Mentioned
 
 ## People Mentioned
 

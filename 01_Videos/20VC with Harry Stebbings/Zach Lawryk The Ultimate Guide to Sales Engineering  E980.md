@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Zach Lawryk: The Ultimate Guide to Sales Engineering | E980"
 people_mentioned: ["Box Etc", "Mari Kagan", "Common Thread", "Solutions Consultants Solutions", "Ideal World", "Lessons Learned From", "Travis Bryant", "Zach Maggie"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Zach Lawryk focuses on sales engineering as a leverage role that sits between technical truth and commercial momentum. The episode is valuable because many founders underinvest here and then wonder why deals stall when buyer questions get more detailed.
+
+## Key Insights
+
+- Sales engineering is critical when buyers need technical confidence before they can commit.
+- Great sales engineers translate complexity without flattening it into vague promises.
+- As products become more technical, the SE role becomes a bigger determinant of deal velocity and trust.
+- The episode reframes SE not as support, but as a strategic function in the enterprise motion.
+
+## Key Quotes
+
+- "The ultimate guide to sales engineering."
+- "Technical trust is part of how enterprise deals get done."
+- "Sales engineering sits between truth and momentum."
 
 ## Full Transcript
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Supercharging A New FDA: Marty Makary on Science, Power & Patients"
 people_mentioned: ["Johns Hopkins School", "Public Health", "Johns Hopkins", "Jay Bachari", "White House"]
 channel: "All-In Podcast"
@@ -27,10 +27,10 @@ tags: ["startup-strategy", "saas-growth", "ai-safety"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, we're, that's. Wouldn't be able to do a Google search because you're going to get a hit that's going to give you something that's. If you're making medical claims of a uh medicalra blank, then that's something we're going to want to take a look at and that's. It's it's in society, but it's now crept into medicine >> and it's a lot of character attacks.
+Marty Makary describes his FDA role as an attempt to push healthcare institutions back toward transparency, common sense, and scientific humility. The interview blends his COVID-era public stance with his longer-running work on price transparency and system reform.
 
 ## Key Insights
 
+- Makary sees medical dogma and paternalism as persistent structural problems, not temporary pandemic distortions.
+- Price transparency remains one of his clearest examples of a reform that should be obvious but faced institutional resistance.
+- He frames the FDA job as a chance to align patient interests, evidence, and administrative power more directly.
+- The conversation is strongest when it stays on incentives and public trust.
 
-- Wouldn't be able to do a Google search because you're going to get a hit that's going to give you something that's.
-- If you're making medical claims of a uh medicalra blank, then that's something we're going to want to take a look at and that's something you're.
-- It's it's in society, but it's now crept into medicine >> and it's a lot of character attacks.
-- I'm sure some people want may want to, but we're, you know, we're not going to regulate salt.
-- We're, you know, as a regulator, we're a referee and we want to see products come to market quickly and safely, but I think we're we're.
-- We're going to so we are going to get more drugs over the counter.
+## Key Quotes
+
+- "The sociology of medical dogma is a fascinating historical thing."
+- "We want common-sense ideas."
+- "It's been almost a year since you've been in the role."
 
 ## People Mentioned
 
@@ -67,6 +70,13 @@ The discussion centers on it's, we're, that's. Wouldn't be able to do a Google s
 
 
 
+
+## Claims
+
+- [[Marty Makary - Medical dogma and paternalism are structural problems in healthcare, not just temporary pandemic distortions]]
+- [[Marty Makary - Price transparency is an obvious healthcare reform that faced resistance because incentives were misaligned]]
+- [[Marty Makary - The FDA should be used to align patient interests evidence and administrative power more directly]]
+- [[Marty Makary - Public trust in health institutions improves when leaders show more transparency humility and common sense]]
 
 ## Full Transcript
 

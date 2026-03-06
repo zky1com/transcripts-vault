@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Consumer VibeCession & Private Credit Risk with Lakshmi Ganapathi | The Real Eisman Playbook Ep 45"
 people_mentioned: ["Steve Eisman", "Lakshmi Genopathy", "Lakshmi Ganapathi"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, okay, credit. >> It's it's it's completely opaque. It's all it's it's all it's all the everything you have spent or not spent historically. >> A 100month car loan on a It's the depreciating asset, >> right?
+Lakshmi Ganapathi joins Eisman to connect softer consumer psychology with the less visible risk accumulating in private credit. The conversation is useful because it asks whether mood and financing stress are starting to reinforce each other beneath the surface of still-resilient headline data.
 
 ## Key Insights
 
+- VibeCession language matters because sentiment shifts can show up before the hard data fully rolls over.
+- Private credit remains an area where risk can stay hidden until refinancing or defaults force recognition.
+- Consumer health and funding markets are linked more tightly than many investors want to admit.
+- The value of the episode is in pairing soft signals with structural credit analysis.
 
-- >> It's it's it's completely opaque.
-- It's all it's it's all it's all the everything you have spent or not spent historically.
-- >> A 100month car loan on a It's the depreciating asset, >> right?
-- >> Modifications is you buy a car and then you're wanted to pay five, you're supposed to pay $500 a month for the car and the.
-- It's part of the problem in the new car market.
-- It's part of the problem in the used car.
+## Key Quotes
+
+- "Consumer VibeCession."
+- "Private credit risk."
+- "What's hidden tends to matter most when liquidity tightens."
+
+## People Mentioned
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Read the Best 100 Books Over and Over Again"
 people_mentioned: ["Syaikh Sudais", "Power Stone Crusher"]
 channel: "Naval"

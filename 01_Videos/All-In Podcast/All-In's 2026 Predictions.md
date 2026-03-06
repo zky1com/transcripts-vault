@@ -1,4 +1,4 @@
-﻿---
+---
 title: "All-In's 2026 Predictions"
 people_mentioned: ["Jason Cowakanis", "Miss Crant", "Chimath Poly Hapatia", "Uh David Freedberg", "David Saxs", "Ro Kana"]
 channel: "All-In Podcast"
@@ -38,19 +38,23 @@ world_evidence_count: 0
 ---
 ## Summary
 
-The discussion centers on it's, that's, because. Think one of them is going to I think one of them is going to go for it. >> I don't think it's going to get on the ballot. This is going to be a topic throughout the year because it's not going away.
+This annual prediction episode spans politics, macro, taxes, media, and technology, but its underlying frame is straightforward: the hosts expect 2026 to be shaped by pro-growth policy, renewed political conflict over wealth and spending, and a continued reorganization of markets around AI and fiscal reality.
 
 ## Key Insights
 
+- The hosts expect inflation moderation and trade normalization to support a more pro-growth macro narrative.
+- California wealth-tax politics and federal spending remain central fault lines in their political outlook.
+- Their forecasting framework increasingly ties politics, capital markets, and AI into a single reinforcing system rather than treating them as separate topics.
 
-- Think one of them is going to I think one of them is going to go for it.
-- >> I don't think it's going to get on the ballot.
-- This is going to be a topic throughout the year because it's not going away.
-- Economic and other political factors, but I do think it's going to settle out this year and it's going to bring a bit more stability to.
-- I'm going to go deep on it." And that's what I think we're going to see happen in a big way this year.
-- >> Uh Russia Ukraine I think it's going to settle out this year.
+## Key Quotes
 
-## People Mentioned
+> This is going to be a topic throughout the year because it is not going away.
+
+> We're going to see happen in a big way this year.
+
+> Russia Ukraine I think it's going to settle out this year.
+
+## People Mentioned## People Mentioned
 
 
 - [[Jason Cowakanis]]

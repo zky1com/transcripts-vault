@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why Meta Just Froze AI Hiring & What It Really Means - David Sacks"
 people_mentioned: ["On Tuesday", "New York Times", "Meta Aqua", "Sam Waltman", "Daniel Gross"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on billion, mean, it's. If they're behind, if they're stuck down, then you have to make your company work on its own as an actual business and to. Realistically, yeah, they probably they probably sold a bunch of OpenAI equity at 300 and 500 billion. 500 goes to a billion, billion goes to two in four years.
+Sacks argues that Meta's hiring pause looks more like digestion after an overheated talent grab than a collapse in AI conviction. His broader point is that the AI boom remains real, but short bursts of extreme pricing and strategic panic should not be mistaken for the steady-state economics of the market.
 
 ## Key Insights
 
+- Hundred-million-dollar talent offers require a rare mix of peak-cycle enthusiasm and strategic fear.
+- Meta's pause is interpreted as consolidation after expensive acqui-hires, not a decision to back away from AI.
+- The segment reinforces the view that AI remains in a super-cycle but needs a more grounded cost structure.
+- Sacks distinguishes between genuine platform progress and temporary valuation euphoria.
 
-- If they're behind, if they're stuck down, then you have to make your company work on its own as an actual business and to get to.
-- Realistically, yeah, they probably they probably sold a bunch of OpenAI equity at 300 and 500 billion.
-- 500 goes to a billion, billion goes to two in four years.
-- It's just a healthy correction in sentiment here that people are realizing it's going to be a little bit harder and take more work than just.
-- It's hard to build as you know because you did it a billion dollar company that then exits for more than a billion.
-- It just feels like it could be 80% correct, 90% correct as opposed to 99% correct, which the vertical ones are actually getting very good at.
+## Key Quotes
+
+- "These types of hundred million or billion dollar job offers don't come along very often."
+- "Meta is probably digesting a little bit."
+- "It's just a healthy correction in sentiment."
+
+## People Mentioned
 
 ## People Mentioned
 

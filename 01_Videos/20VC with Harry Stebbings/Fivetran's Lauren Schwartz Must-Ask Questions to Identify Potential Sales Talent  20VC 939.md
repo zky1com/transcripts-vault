@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fivetran's Lauren Schwartz: Must-Ask Questions to Identify Potential Sales Talent | 20VC #939"
 people_mentioned: ["Fireside Chats", "Champion Who", "Professional Services", "Jason Lemkin", "Hunger Games", "Airbnb Uber", "First Republic", "Relentless Discovery"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Lauren Schwartz uses a mix of playfulness and rigor to explain how she spots future sales talent. The episode is really about signal detection: which interview questions reveal coachability, competitiveness, and pattern recognition, and which candidate answers are just polished sales theater.
+
+## Key Insights
+
+- Great sales talent often shows up first as repeat buying behavior, competition, and curiosity about persuasion.
+- Early interview questions should test how people think, not just what logos they have sold into.
+- Google- and Segment-style environments can sharpen sales judgment, but leaders still need independent hiring filters.
+- The episode is practical because it focuses on observable indicators, not abstract hiring philosophy.
+
+## Key Quotes
+
+- "I discovered sales at the age of seven."
+- "It was really about the opportunity to compete."
+- "Must-ask questions to identify potential sales talent."
 
 ## Full Transcript
 

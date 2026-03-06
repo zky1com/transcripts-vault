@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How Orlando Bravo Built One of the Most Successful Firms in Private Equity"
 people_mentioned: ["Puerto Rico", "Toma Bravo", "Orlando Bravo", "Tulsy Gabbard", "Paul Maniffort", "Hurricane Maria", "San Juan", "Climate Corp"]
 channel: "All-In Podcast"
@@ -27,10 +27,10 @@ tags: ["lead-generation", "b2b-marketing", "ai-jobs", "valuation"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,41 +40,30 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, business, because. Our first deal, it's always been one step at a time. Time because we started doing software and it's hard not to do well if you started doing software back then and. By a P firm it's like okay they're going to cut half the people and there's going to be layoffs or maybe.
+Orlando Bravo's interview is about operating discipline as much as finance. The story is not that private equity is magic, but that durable investing edge often comes from intense focus on incentives, management quality, and repeatable execution in unglamorous but mission-critical software businesses.
 
 ## Key Insights
 
+- Bravo's founder-style intensity is presented as a major reason Thoma Bravo built such a strong performance record.
+- Software private equity works best when value creation comes from operational clarity rather than financial engineering alone.
+- His immigrant and Puerto Rican background is woven into the episode as part of a discipline-and-resilience narrative.
 
-- Our first deal, it's always been one step at a time.
-- Time because we started doing software and it's hard not to do well if you started doing software back then and.
-- By a P firm it's like okay they're going to cut half the people and there's going to be layoffs or maybe.
-- It was Boeing's business and now it's Orlando's business.
-- We have another equally big or even bigger challenge which is if you look at our trajectory, it's not like one day we woke up and.
-- Now about 50% of the private equity deal volume is in technology.
+## Key Quotes
 
-## People Mentioned
+> We built a firm around focus.
 
+> Incentives drive behavior.
 
-- [[Puerto Rico]]
+> Great businesses come from operational discipline.
 
-- [[Toma Bravo]]
+## Claims
 
-- [[Orlando Bravo]]
+- [[Orlando Bravo - Private equity creates value when it turns great innovators into disciplined businesses]]
+- [[Orlando Bravo - Modern software private equity is driven more by growth and terminal value than by leverage engineering]]
+- [[Orlando Bravo - Investment firms stay sharper when they keep teams small and portfolios concentrated]]
+- [[Orlando Bravo - Puerto Rico would likely be better off as a US state than staying in its current in-between status]]
 
-- [[Tulsy Gabbard]]
-
-- [[Paul Maniffort]]
-
-- [[Hurricane Maria]]
-
-- [[San Juan]]
-
-- [[Climate Corp]]
-
-
-
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (5622 words)</summary>

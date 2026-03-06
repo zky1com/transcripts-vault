@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carlos Delatorre, CRO @Harness: Why Every Sales Rep Should Do Pipeline Generation | E1251"
 people_mentioned: ["Physically Active", "Jason Lenin", "Lone Rangers", "Dark Lonely", "David Bole", "Executive Admin", "Jamie Diamond", "Lone Ranger"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Carlos Delatorre makes the case that pipeline generation should not be delegated away from frontline sellers, especially in early and scaling companies. The deeper theme is ownership: the best reps create the conditions for a buyer to act, rather than waiting for marketing or brand gravity to do the work for them.
+
+## Key Insights
+
+- CEOs have to shape the first message and plays before a repeatable sales machine can emerge.
+- Reps cannot outsource pipeline responsibility without weakening their understanding of the market.
+- Buyers, not sellers, ultimately control purchase decisions; sales creates the environment that makes commitment easier.
+- The episode is practical because it treats sales craft as learned behavior, not innate charisma.
+
+## Key Quotes
+
+- "The CEO really has to develop the plays."
+- "I don't believe sellers sell, buyers buy."
+- "All salespeople can do is create an environment that is conducive to that purchase decision."
 
 ## Full Transcript
 

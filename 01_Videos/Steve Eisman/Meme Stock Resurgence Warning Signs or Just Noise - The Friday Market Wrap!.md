@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Meme Stock Resurgence Warning Signs or Just Noise - The Friday Market Wrap!"
 people_mentioned: ["General Motors", "Steve Eisman", "Both Verizon", "Charter Communications", "Cox Communications"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stock, companies, week. Charter reported earnings per share of $9.18 versus $849 last year, but a miss versus the estimate of $9882. The stock was down 8% on Thursday and is down 24% this year, but it is still a cult stock. The company reported 81 cents per share versus 44 cents per share and versus the estimate at only 67 cents per share.
+Eisman examines whether renewed meme-stock activity is a harmless burst of speculation or a more meaningful warning about risk appetite. The episode treats meme behavior as a temperature check on liquidity, discipline, and the market’s willingness to suspend basic valuation standards.
 
 ## Key Insights
 
+- Meme-stock rallies often signal speculative excess even when they do not immediately break the broader market.
+- Retail enthusiasm can return quickly when liquidity and narrative momentum line up.
+- Extreme pockets of speculation do not prove a bubble everywhere, but they are still informative.
+- Valuation discipline becomes harder to enforce when crowd behavior is rewarded in the short run.
+- The market’s reaction to low-quality risk says a lot about the current appetite for leverage and fantasy.
 
-- Charter reported earnings per share of $9.18 versus $849 last year, but a miss versus the estimate of $9882.
-- The stock was down 8% on Thursday and is down 24% this year, but it is still a cult stock.
-- The company reported 81 cents per share versus 44 cents per share and versus the estimate at only 67 cents per share.
-- Now, back in 2021, certain stocks attracted retail investors, companies with severely impaired business models, companies with very high short interests.
-- The company reported adjusted EPS of $2 versus $182 last year and versus the forecast of $1.92.
-- Now for a major tech company with an annual EPS growth rate above 20% that is a lowly number and yet Google reported great numbers.
+## Key Quotes
+
+- "Speculation can be noise right until it becomes information."
+- "Meme behavior is a sentiment signal even when it is not a systemic event."
+- "When valuation stops mattering in one corner, it is worth checking where else discipline is slipping."
 
 ## People Mentioned
 

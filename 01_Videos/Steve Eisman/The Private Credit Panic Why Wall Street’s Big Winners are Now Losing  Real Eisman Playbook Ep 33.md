@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Private Credit Panic Why Wall Street's Big Winners are Now Losing Real Eisman Playbook Ep 33"
 people_mentioned: ["Glenn Shore", "Steve Eisman", "Goldman Sachs"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, some. Uh it's it's it's it's finally starting to hum. Some of it's short duration, some of it's long duration. It's it's hard I don't think any of the public companies the big public companies that are big in private equity.
+Eisman examines the stress emerging in private credit and asks why a space once marketed as a cleaner alternative to public markets is now showing cracks. The note focuses on opacity, liquidity mismatch, and the tendency for easy-money eras to hide risk until refinancing conditions tighten.
 
 ## Key Insights
 
+- Private credit can look stable partly because it is not repriced as frequently as public markets.
+- Opacity becomes a weakness when investors need to understand deteriorating credit quality quickly.
+- A tightening environment exposes structures that depended on benign funding conditions.
+- Illiquidity is manageable until many participants want optionality at the same time.
+- Eisman treats private credit as an area where delayed price discovery can create false comfort.
 
-- Uh it's it's it's it's finally starting to hum.
-- Some of it's short duration, some of it's long duration.
-- It's it's hard I don't think any of the public companies the big public companies that are big in private equity.
-- >> So, if we're talking private credit, let's talk about Apollo because Paulo Apollo is the king of private credit within the group.
-- Now, I can trade, let's say, at one of the banks where I bank.
-- >> Make [laughter] me more money." And by the way, a good for the last 30 years, a good private equity fund.
+## Key Quotes
+
+- "Stability is sometimes just the absence of visible repricing."
+- "Opacity works best until investors need clarity."
+- "Private credit looks safest right before the financing environment turns against it."
 
 ## People Mentioned
 

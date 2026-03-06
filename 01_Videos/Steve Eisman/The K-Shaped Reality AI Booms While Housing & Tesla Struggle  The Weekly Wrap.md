@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The K-Shaped Reality AI Booms While Housing & Tesla Struggle The Weekly Wrap"
 people_mentioned: ["Steve Eisman"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on reported, company, earnings. Lest you think PY is alone in having problems in the home building sector, NVR, an excellent but more of a regional home builder. The company reported 296 in EPS, which was down versus last year at 335. Now both GEV and GE have done very well this [music] year with both up around 80% this year alone.
+Eisman describes a K-shaped economy where AI-linked winners keep advancing while housing-sensitive areas and names like Tesla struggle. The note argues that the market’s aggregate resilience hides a sharp split in how opportunity and pressure are being distributed.
 
 ## Key Insights
 
+- AI beneficiaries and asset-heavy growth stories are not moving in lockstep anymore.
+- A K-shaped market can reward one set of participants while another faces real deterioration.
+- Housing weakness remains a broader economic signal, not just a sector-specific issue.
+- Tesla is used as an example of how a strong brand can still meet cyclical and competitive pressure.
+- Aggregate market strength can conceal growing internal divergence.
 
-- Lest you think PY is alone in having problems in the home building sector, NVR, an excellent but more of a regional home builder, also reported.
-- The company reported 296 in EPS, which was down versus last year at 335.
-- Now both GEV and GE have done very well this [music] year with both up around 80% this year alone.
-- The company reported earnings per share of $5.87 versus $5.40, which was actually quite a large miss, but was because of a one-time tax dispute in.
-- Molina reduced 2025 earnings per share guidance by 26% and expects 2026 to only equal the now revised lower 2025 guidance.
-- Now both GEV and GE have done very well this year with both up around 80% this year alone.
+## Key Quotes
+
+- "The market is climbing, but not everyone is climbing with it."
+- "A K-shaped economy produces very different realities under one headline."
+- "Divergence is the story, not the exception."
 
 ## People Mentioned
 

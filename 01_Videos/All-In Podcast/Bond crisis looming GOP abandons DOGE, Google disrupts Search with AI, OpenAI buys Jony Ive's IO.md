@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bond crisis looming? GOP abandons DOGE, Google disrupts Search with AI, OpenAI buys Jony Ive's IO"
 people_mentioned: ["Los Angeles", "Elon Musk", "Middle East"]
 channel: "All-In Podcast"
@@ -38,39 +38,23 @@ world_evidence_count: 0
 ---
 ## Summary
 
-The discussion centers on it's, don't, that's. I don't think it's going to be one or two% better. I don't think you're going to get austerity out of Washington right now. We're all just going to debate when it happens and I think what the market is betting is that it's going to happen in.
+The hosts connect bond-market stress, AI product shifts, and industrial-policy uncertainty into one broader thesis: the next phase of markets will be more sensitive to execution quality and capital costs than to narrative alone. Search, consumer interfaces, and sovereign credibility are all up for repricing at the same time.
 
 ## Key Insights
 
+- Sustained high long-end yields are treated as a systemic threat because they raise deleveraging risk across the economy.
+- AI-first search is shifting competition toward user experience and distribution rather than just raw model capability.
+- If US policy constrains access or deployability, allied countries may increasingly adopt alternative AI stacks.
 
-- I don't think it's going to be one or two% better.
-- I don't think you're going to get austerity out of Washington right now.
-- We're all just going to debate when it happens and I think what the market is betting is that it's going to happen in the next.
-- It's it's definitely going to be a pendant or glasses.
-- I'll just say one thing because I think it's I just want to add it at the end.
-- It's also going to reduce tax revenue by 4 trillion over 10 years is the estimate and it's going to add between 3 and 5 trillion.
+## Key Quotes
 
-## People Mentioned
+> Bond-market confidence dynamics are changing.
 
+> AI-first search shifts the competitive pressure.
 
-- [[Los Angeles]]
+> Sustained high long-term yields increase deleveraging risk.
 
-- [[Elon Musk]]
-
-
-
-
-## Claims
-
-- [[David Friedberg - AI-first search shifts competitive pressure toward distribution and product experience, not only model quality]]
-- [[Chamath Palihapitiya - Fiscal expansion without offsetting adjustment can worsen bond-market confidence dynamics]]
-- [[Chamath Palihapitiya - Sovereign and institutional asset allocation may rotate if U.S. rate volatility remains structurally high]]
-- [[Chamath Palihapitiya - Sustained high long-end yields raise deleveraging risk across households, firms, and markets]]
-- [[Chamath Palihapitiya - Sustained higher long-term yields increase deleveraging risk across U.S. assets]]
-- [[David Sacks - U.S.-allied states may seek non-U.S. AI stacks if U.S. policy constraints block practical access]]
-
-
-## Full Transcript
+## Full Transcript## Full Transcript
 <details>
 <summary>Click to expand full transcript (18098 words)</summary>
 

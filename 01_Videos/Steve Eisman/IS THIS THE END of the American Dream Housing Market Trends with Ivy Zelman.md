@@ -1,4 +1,4 @@
-﻿---
+---
 title: "IS THIS THE END of the American Dream Housing Market Trends with Ivy Zelman"
 people_mentioned: ["Eisman Playbook", "Steve Eisman", "Michael Lewis", "Steve Carell", "Ivy Zelman", "Zelman Associates", "Credit Swiss", "Um Ivy"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on home, they're, because. Because there's more inventory now, people have more choices. To still survey 20% of the market because we have attrition companies get acquired but we get new builders but it's nowhere. The public home builders, and we'll talk a minute about how much better the public home builders have done than the private home builders.
+Eisman and Ivy Zelman use housing to test whether the American Dream is becoming structurally less attainable. The discussion centers on affordability, supply constraints, financing costs, and the way housing has shifted from a broad social ladder into a more exclusionary asset market.
 
 ## Key Insights
 
+- High rates and limited supply are locking many households out of ownership even when headline demand remains strong.
+- Housing affordability problems are not cyclical only; they increasingly reflect structural shortages and policy failures.
+- The market can appear healthy by price metrics while becoming less functional for first-time buyers.
+- Housing has major spillover effects on family formation, mobility, and long-term wealth building.
+- Zelman’s lens emphasizes that a durable housing problem can become a wider economic and political problem.
 
-- Because there's more inventory now, people have more choices.
-- To still survey 20% of the market because we have attrition companies get acquired but we get new builders but it's nowhere.
-- The public home builders, and we'll talk a minute about how much better the public home builders have done than the private home builders, but they.
-- Now they're really on par, which would you'd think would give them even more demand for the their product because there's a better value um equation.
-- Surprised that the home builders were doing so well because the existing home market was, as we said, sucked and mortgage rates.
-- Because now they're buying market land values as opposed to during co they were much cheaper.
+## Key Quotes
+
+- "A market can be strong on paper and broken for the people trying to enter it."
+- "Housing is not just an asset class; it is an access problem."
+- "If affordability keeps deteriorating, the American Dream becomes more slogan than reality."
 
 ## People Mentioned
 

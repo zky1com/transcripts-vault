@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - Negotiations are won by whoever cares less because desperation transfers price-setting power to the..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Turn Short-Term Games Into Long-Term Games]]"
+source_video: "[[We're at the Beginning of an Infinity of Knowledge]]"
 topics: [negotiation, game-theory, leverage, psychology, business]
 date: 2019-07-15
 speech_status: pending
@@ -42,4 +42,3 @@ In any negotiation, the party that wants the outcome more is structurally weaker
 
 ### Speech Facts
 - None yet
-

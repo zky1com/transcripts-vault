@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Howard Lutnick: How America Can Hit 6% GDP Growth in 2026"
 people_mentioned: ["Air Force One", "Marine One", "Marco Rubio", "Steve Wickoff", "Wit Coff", "In Air Force", "Air Force", "Tootsie Roll"]
 channel: "All-In Podcast"
@@ -40,41 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, you're. To make you'd say all right well over 20 years you probably make 30 billion a year right that's 30 billion. If you're going to give them welfare and you're going to give them food stamps and you're going to give them. >> It's a fail, >> right?
+Lutnick lays out a maximalist growth case: lower rates, pro-investment policy, tax reform, and deregulation could combine into a genuine acceleration in US output. The episode is fundamentally an argument that America is more bottlenecked by policy and cost structure than by underlying demand or talent.
 
 ## Key Insights
 
+- The 6% GDP case depends on policy transmission actually reaching capex, labor formation, and business confidence.
+- Growth is framed as achievable if the US stops taxing, regulating, and financing itself in self-defeating ways.
+- The hosts use Lutnick as a proxy for the most bullish pro-growth view inside the current political moment.
 
-- To make you'd say all right well over 20 years you probably make 30 billion a year right that's 30 billion.
-- If you're going to give them welfare and you're going to give them food stamps and you're going to give them.
-- Get our house in order right that's why the president talks about the external revenue service right in this case you're going.
-- No, we're going to go after it big time, right?
-- >> Think of think of steel right it's like brown dirt.
-- >> So that's a like that's a down payment, >> right?
+## Key Quotes
 
-## People Mentioned
+> America can hit six percent GDP growth.
 
+> The constraints are policy-made.
 
-- [[Air Force One]]
+> Confidence plus capex is the growth flywheel.
 
-- [[Marine One]]
-
-- [[Marco Rubio]]
-
-- [[Steve Wickoff]]
-
-- [[Wit Coff]]
-
-- [[In Air Force]]
-
-- [[Air Force]]
-
-- [[Tootsie Roll]]
-
-
-
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (14787 words)</summary>

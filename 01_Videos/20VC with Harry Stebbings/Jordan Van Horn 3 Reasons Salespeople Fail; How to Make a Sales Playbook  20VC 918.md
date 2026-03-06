@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jordan Van Horn: 3 Reasons Salespeople Fail; How to Make a Sales Playbook | 20VC #918"
 people_mentioned: []
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Jordan Van Horn explains sales failure as something that is usually diagnosable rather than mysterious. His framing is practical: build a real sales playbook, understand why reps fail, and make the operating assumptions explicit early instead of hoping performance magically emerges.
+
+## Key Insights
+
+- Reps often fail because the system around them is unclear, not just because talent is weak.
+- A sales playbook should make expectations and repeatable behaviors concrete.
+- Career stories outside tech can still build strong sales instincts if they teach customer reading and discipline.
+- The episode is strongest when it links failure analysis to manager responsibility.
+
+## Key Quotes
+
+- "Three reasons salespeople fail."
+- "How to make a sales playbook."
+- "You need to understand why the system breaks."
 
 ## Full Transcript
 

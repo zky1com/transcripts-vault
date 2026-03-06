@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Formula for Building America's Happiest City: Miami Mayor Francis Suarez | All-In Live"
 people_mentioned: ["Francis Suarez", "Miles Davis", "Philip Seymour Hoffman"]
 channel: "All-In Podcast"
@@ -40,17 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, yeah. I kind of like the first one better than the second one because the second one I mean this sort of one for one. It's it's it's a thousandx harder than building a big company. We're talking about EV tools and underground boring and all that, but I think in zoning codes and all that, it's it's going to.
+Francis Suarez pitches Miami as a case study in low-tax, pro-growth municipal governance paired with a practical homelessness strategy. The discussion is less ideological than operational: what happens when a city focuses on jobs, safety, and measurable street-level outcomes.
 
 ## Key Insights
 
+- Suarez ties homelessness reduction to both direct intervention and a broader pro-growth economic environment.
+- His model emphasizes functional zero, reunification, and rented housing rather than waiting on slow construction pipelines.
+- Miami is presented as a city trying to make governance feel legible and competent again.
+- The interview works best when it stays on execution rather than political branding.
 
-- I kind of like the first one better than the second one because the second one I mean this sort of one for one I mean.
-- It's it's it's a thousandx harder than building a big company.
-- We're talking about EV tools and underground boring and all that, but I think in zoning codes and all that, it's it's going to be computer.
-- Sort of a first principles thinking we're going to we want to do this right we want to make this work.
-- It just doesn't a year get reviewed and you're the government's responsible for reviewing 5% a year for 20 years and they reertify it or right.
-- Keep taxes low, keep people safe, lean into innovation, right?
+## Key Quotes
+
+- "Keep taxes low. Keep people safe. Lean into innovation."
+- "We were ranked the happiest city in America."
+- "We want to be the first major American city to have zero homeless."
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Kevin Egan: Biggest Lesson on Managing Sales Teams at Slack and Atlassian | E1034"
 people_mentioned: ["Technical Support", "Salesforce Dropbox", "Maggie Kim", "Control Data", "Finish Line", "My Business Solution", "Microsoft Oracle", "Sims Kevin"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Kevin Egan centers the conversation on the long-term journey rather than the short-term comp plan. His best point is that great hires are attracted to role trajectory, company quality, and total rewards, not just this year's quota math.
+
+## Key Insights
+
+- Strong candidates should care about the future scope of the company and role, not just current comp.
+- Managing sales teams well means selling the broader career arc with honesty and ambition.
+- Technical roots can be a major asset for sales leadership when the product is complex.
+- Team-building gets easier when people feel they are boarding a rocket ship, not just filling a seat.
+
+## Key Quotes
+
+- "This comp plan only represents this moment in time."
+- "It's really about a total rewards element."
+- "You're joining a rocket ship."
 
 ## Full Transcript
 

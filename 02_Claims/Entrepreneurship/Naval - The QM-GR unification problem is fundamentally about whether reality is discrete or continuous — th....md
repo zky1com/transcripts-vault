@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - The QM-GR unification problem is fundamentally about whether reality is discrete or continuous — th..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Is the Universe Discrete or Continuous?]]"
+source_video: "[[Is the Universe Discrete or Continuous]]"
 topics: [quantum-mechanics, general-relativity, physics, epistemology, unification]
 date: 2021-04-09
 speech_status: pending
@@ -41,4 +41,3 @@ The drive to unify quantum mechanics and general relativity is not merely a tech
 
 ### Speech Facts
 - None yet
-

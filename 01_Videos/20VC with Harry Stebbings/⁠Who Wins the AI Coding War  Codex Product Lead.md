@@ -1,4 +1,4 @@
-﻿---
+---
 title: "â Who Wins the AI Coding War? | Codex Product Lead"
 people_mentioned: ["Thank God", "German Enigma", "Bletchley Park"]
 channel: "20VC with Harry Stebbings"
@@ -40,27 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, that's. >> Yeah, I think that so that's why I think it's the bottleneck. If anything, like now that it's so much easier to build, um, >> but I do think, sorry, I do think like I think. It's interesting because I think on the one hand like we think about this obviously we're running a business.
+This note examines the AI coding market as a race shaped by workflow integration, developer trust, and product design rather than pure model benchmarks. A Codex product perspective matters here because coding tools win only when they fit how real developers already work.
 
 ## Key Insights
 
+- AI coding products compete on ergonomics and adoption loops, not just raw capability.
+- The market is likely to support multiple winners unless one workflow becomes overwhelmingly dominant.
+- Product leadership in this space requires balancing autonomy, trust, and clear human override.
+- The useful question is not who demos best, but who becomes part of the default stack.
 
-- >> Yeah, I think that so that's why I think it's the bottleneck.
-- If anything, like now that it's so much easier to build, um, >> but I do think, sorry, I do think like I think you're going.
-- It's interesting because I think on the one hand like we think about this obviously we're running a business.
-- As we think about AI being used outside of coding work, one of the most important things we.
-- First of all I think it's incredibly hard to define what a PM is, what a product manager is.
-- Going back to the sales and marketing thing, like I don't think that goes away because I think that's as like.
+## Key Quotes
 
-## People Mentioned
-
-
-- [[Thank God]]
-
-- [[German Enigma]]
-
-
-
+- "Who wins the AI coding war?"
+- "The default workflow is where the power accumulates."
+- "Trust matters as much as capability."
 
 ## Full Transcript
 

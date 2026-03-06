@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why the Market's Surging Despite the Headlines"
 people_mentioned: ["That April", "Steve Eisman", "Real Eman", "Chris Veron", "Todd Son"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on market, it's, right. Meta it's almost it's probably it's probably 50% and it's only a handful of stocks right so if you're just looking at. It's tempting to say. Say that again because I want I want to emphasize it because I think it's interesting.
+Eisman asks why the market keeps rising despite a steady stream of worrying headlines. His explanation is that liquidity, positioning, and selective confidence in dominant themes can overwhelm the emotional tone of the news for longer than many investors expect.
 
 ## Key Insights
 
+- Markets do not move in direct proportion to the negativity of the news cycle.
+- Positioning and liquidity can sustain rallies even when the backdrop feels unsettled.
+- Investors often key off a few dominant bullish themes and discount the rest.
+- Strength can persist while skepticism remains high, especially when many participants feel underexposed.
+- The challenge is deciding whether the surge reflects durable fundamentals or deferred risk.
 
-- Meta it's almost it's probably it's probably 50% and it's only a handful of stocks right so if you're just looking at.
-- Say that again because I want I want to emphasize it because I think it's interesting.
-- It's a sector that's actually getting better here.
-- It's tempting to say domestically the deregulatory story that's domestic.
-- Um I think one of those one of those puzzle pieces right now is gold.
-- Now there's another story I think going on here in financials.
+## Key Quotes
+
+- "Headlines can be bad while flows are good."
+- "Markets rise when enough money needs to participate, not when the news turns pleasant."
+- "A rally can be real even if the comfort behind it is thin."
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Don't Get Fooled Again: Pulitzer Winner Warns of Wall Street's Dark Side"
 people_mentioned: ["Puliter Prizewinning", "Gretchen Morgansson", "Pulitzer Prize", "Justice Department", "Steve Eisman", "New York Times", "Probably Household International", "Financial Crisis Commission"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, because, right. It's It's before It's before Vegas. It's not I don't think it's fair to say that nothing changed I mean you had DoddFrank um well no DoddFrank. It's called private equity because they don't have to disclose.
+This interview leans into Wall Street skepticism by pairing Eisman's instincts with a Pulitzer-winning perspective on financial excess and institutional darkness. The core message is cautionary: the surface sophistication of finance often conceals conflicts, incentives, and behavior patterns that repeat across cycles.
 
 ## Key Insights
 
+- Great financial journalism matters because memory in markets is notoriously short.
+- Wall Street's darker dynamics usually hide in incentive structures rather than in cartoon villainy.
+- The best warnings do not just identify misconduct; they explain why it keeps recurring.
+- Eisman is strongest in this format when he pushes beyond scandal into pattern recognition.
 
-- It's It's before It's before Vegas.
-- It's not I don't think it's fair to say that nothing changed I mean you had DoddFrank um well no DoddFrank.
-- It's called private equity because they don't have to disclose.
-- Yeah forget about that I don't want to forget about them but I want to get granular like explain to me to say that the mortality.
-- I'm going to I'm going to tell a story now.
-- I can't make a prediction that private equity is going to blow up because it's I have I have no basis to say it.
+## Key Quotes
+
+- "Don't get fooled again."
+- "Wall Street's dark side."
+- "The pattern is the story."
+
+## People Mentioned
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Larry Shurtz: How to Hire, Train & Retain the Best Vertical Teams | E1151"
 people_mentioned: ["Your Love", "Eli Lily", "Spread Way Too", "Super Playbook", "Genesis Harry", "Hyperion Oracle Salesforce", "Great Schools", "Done Right"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Larry Shurtz focuses on forecast accuracy, opportunity diligence, and the discipline needed to build strong vertical sales teams. His message is that if the forecast is wrong, the business understanding is usually wrong somewhere too.
+
+## Key Insights
+
+- Forecast quality is a direct test of whether leaders truly understand the business.
+- Vertical teams only work when training, diligence, and customer questioning get more specific, not more generic.
+- Risk balancing across opportunities matters just as much as rep effort.
+- The episode frames hiring and retention as inseparable from rigorous operating cadence.
+
+## Key Quotes
+
+- "If you can't forecast accurately, you don't truly understand your business."
+- "We might not even be asking the right questions."
+- "How to hire, train, and retain the best vertical teams."
 
 ## Full Transcript
 

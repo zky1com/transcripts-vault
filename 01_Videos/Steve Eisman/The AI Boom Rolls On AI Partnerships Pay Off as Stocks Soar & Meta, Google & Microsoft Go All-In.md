@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The AI Boom Rolls On AI Partnerships Pay Off as Stocks Soar & Meta, Google & Microsoft Go All-In"
 people_mentioned: ["Steve Eisman", "On Thursday", "On Wednesday", "On Tuesday", "Saudi Arabian", "Federal Reserve", "Saudi Arabia"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on reported, year, down. Earnings per share missed expectations by 8% and earnings per share was down a whopping 22% versus last year. Now with respect to earnings, all three, Google, Meta, and Microsoft beat on revenue and earnings per share and did so impressively. The company reported Tuesday morning, "It's clear to me that many issues remain." Now, on the positive side, revenue was up 12% versus last.
+This note tracks how AI partnerships and aggressive spending by Meta, Google, and Microsoft reinforced the market’s bullish view of the theme. Eisman acknowledges the strength of the trend while still pressing on the harder question of whether the scale of investment will translate into durable economic returns.
 
 ## Key Insights
 
+- Strategic partnerships can accelerate AI adoption by linking models, infrastructure, and distribution.
+- Heavy spending by the largest platforms signals confidence but also raises the bar for future monetization.
+- The market tends to reward coordinated momentum across multiple leaders.
+- Meta, Google, and Microsoft shape the AI narrative because they can spend, distribute, and iterate at enormous scale.
+- The unresolved issue remains whether revenue and productivity gains will justify the current capital intensity.
 
-- Earnings per share missed expectations by 8% and earnings per share was down a whopping 22% versus last year.
-- Now with respect to earnings, all three, Google, Meta, and Microsoft beat on revenue and earnings per share and did so impressively.
-- The company reported Tuesday morning, "It's clear to me that many issues remain." Now, on the positive side, revenue was up 12% versus last year, but.
-- Now compare that to Google which had cash and cash equivalents of 98.5 billion which is up from 96 billion at year end 2024 and Microsoft's.
-- This is a very troubled company and the stock went down over 40% on Wednesday alone and is down over 60% this year.
-- The stock reached 340 at the end of 2022 and has gone straight down since then, reaching, get this, $32 now, and was down 11% on.
+## Key Quotes
+
+- "The boom keeps rolling because the biggest players keep funding it."
+- "Partnerships are valuable when they speed distribution, not just publicity."
+- "The market loves coordinated confidence; the hard part is proving the returns later."
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sam Blond: Why Startups are Doing Outbound Wrong and How to Fix It | E1139"
 people_mentioned: ["Pao Alto", "My Success", "Parker Jason", "Hunger Games", "Network After", "Brandon Bole", "You Higher", "Once Again Sam"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Sam Blond argues that most startup outbound fails because teams copy tactics without understanding the buyer, the message, or the economics of the motion. His value is in stripping outbound back to fundamentals rather than treating it as a tooling contest.
+
+## Key Insights
+
+- Bad outbound is usually a strategy problem before it is a rep problem.
+- Startups often over-index on volume and under-invest in relevance and targeting.
+- Fixing outbound means reworking message, list quality, and role expectations together.
+- The episode is strongest where it distinguishes scalable outreach from noisy activity.
+
+## Key Quotes
+
+- "Startups are doing outbound wrong."
+- "How to fix it."
+- "You have to earn the right to the next sentence."
 
 ## Full Transcript
 

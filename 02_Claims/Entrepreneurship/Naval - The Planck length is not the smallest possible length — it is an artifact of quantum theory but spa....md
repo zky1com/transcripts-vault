@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - The Planck length is not the smallest possible length — it is an artifact of quantum theory but spa..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Is the Universe Discrete or Continuous?]]"
+source_video: "[[Is the Universe Discrete or Continuous]]"
 topics: [quantum-mechanics, general-relativity, physics, Planck, epistemology]
 date: 2021-04-09
 speech_status: pending
@@ -40,4 +40,3 @@ The popular science claim that the Planck length (~1.6 Ã— 10â»Â³âµ 
 
 ### Speech Facts
 - None yet
-

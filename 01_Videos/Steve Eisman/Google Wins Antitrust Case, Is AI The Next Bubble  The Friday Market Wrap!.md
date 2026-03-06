@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Google Wins Antitrust Case, Is AI The Next Bubble? | The Friday Market Wrap!"
 people_mentioned: ["Steve Eisman", "Federal Circuit", "Powers Act", "Federal Reserve Act", "International Emergency Economic", "Supreme Court"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on company, google, billion. The Google antitrust case was a problem as Google pays Apple 20 billion dollars per year to make Google's browsers a default browser on. Now, after hours, Broadcom was up 4 and a.5% after the company announced a $10 billion order from one new customer, which the company. Now, prior to this week, Salesforce was down 23%.
+This wrap ties market reaction in big tech to a broader question about whether AI enthusiasm is becoming bubble-like. Eisman uses Google’s legal and competitive position as a prompt to examine how quickly optimism can outrun economics when investors assume every AI dollar spent will inevitably earn a high return.
 
 ## Key Insights
 
+- A favorable headline for Google does not settle the larger question of whether AI spending is rationally priced.
+- Market narratives can compress legal, product, and valuation issues into a single momentum trade.
+- Bubble risk rises when investors stop distinguishing between infrastructure demand and end-user monetization.
+- Winning in AI requires more than building models; it requires durable returns on the capital deployed.
+- Friday wrap episodes repeatedly stress that short-term market relief can coexist with unresolved structural risk.
 
-- The Google antitrust case was a problem as Google pays Apple 20 billion dollars per year to make Google's browsers a default browser on Apple products.
-- Now, after hours, Broadcom was up 4 and a.5% after the company announced a $10 billion order from one new customer, which the company would not.
-- Now, prior to this week, Salesforce was down 23%.
-- Now, Broadcom reported earnings per share of $169 versus $1.24 and versus $165 expected.
-- At one point, Apple was down double-digit percentage this year, but as of now, it is almost flat for the year.
-- However, most importantly, it will not be required to sell Chrome and it can still make the 20 billion annual payment to Apple so that Google.
+## Key Quotes
+
+- "A good headline is not the same thing as a solved business model."
+- "The bubble question starts when spending outruns evidence."
+- "Markets often price certainty long before certainty exists."
 
 ## People Mentioned
 

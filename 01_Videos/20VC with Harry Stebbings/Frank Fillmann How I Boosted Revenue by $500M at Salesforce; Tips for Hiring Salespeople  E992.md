@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Frank Fillmann: How I Boosted Revenue by $500M at Salesforce; Tips for Hiring Salespeople | E992"
 people_mentioned: ["Palm Beach Florida", "Bulletproof Skin", "Jeffrey Moore", "Steve Jobs", "Known Unknown", "April May", "Jason Lamkin", "Ivory Tower"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Frank Fillmann treats sales leadership as a mix of recruiting, customer empathy, and vision creation. His central idea is that the best organizations do not merely process demand; they help customers see the future state, then recruit and coach reps who can carry that vision through a complex buying cycle.
+
+## Key Insights
+
+- Recruiting is the foundation because fast horses tend to know other fast horses.
+- Great reps can create demand by uncovering problems customers have not yet fully framed for themselves.
+- Sales leadership works best when incentives align from the rep level all the way to how the company itself is measured.
+- Fillmann puts unusual emphasis on empathy and on remembering how hard the rep's job actually is.
+
+## Key Quotes
+
+- "The best people want to teach."
+- "I knew I wanted to be in sales straight away."
+- "If I get the best people and I treat them great, the rest follows."
 
 ## Full Transcript
 

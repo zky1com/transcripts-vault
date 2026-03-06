@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Industrial Sector Explained: Data Center Growth & Rise of Vertiv | The Real Eisman Playbook Ep. 21"
 people_mentioned: ["Steve Eisman", "Steve Tusa"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, data. It's a it's it's a tough one. It's it's my it's my financial services guy. Because you're you're just not going to be able there's no company that's not that's going to be able to have this.
+Eisman uses Vertiv and the broader industrial supply chain to explain why the AI buildout is not only a software story. The conversation highlights cooling, power distribution, and equipment vendors as essential picks-and-shovels businesses benefiting from data-center demand.
 
 ## Key Insights
 
+- AI infrastructure demand is flowing into industrial names that supply power, cooling, and uptime equipment.
+- Vertiv represents the kind of less glamorous company that can capture real economic value from a boom.
+- Data centers create demand far beyond semiconductors, extending into physical plant and electrical systems.
+- Industrial beneficiaries can have stronger pricing discipline than more crowded headline AI trades.
+- Understanding the supply chain matters because the obvious winners are not always the best investments.
 
-- It's a it's it's a tough one.
-- It's it's my it's my financial services guy.
-- Because you're you're just not going to be able there's no company that's not that's going to be able to have this.
-- It's been I don't cover it now, but I think it's been operating profit north of 15% plus for like several years.
-- It's that's that's slow to come.
-- >> I've got all the answers on the during the weekend, but uh you know uh it's it's I think it's going.
+## Key Quotes
+
+- "AI is also an industrial story."
+- "The picks and shovels are often hiding outside pure software."
+- "If data centers grow, the physical layer has to grow with them."
 
 ## People Mentioned
 

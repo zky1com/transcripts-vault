@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Are Stablecoins the Next Big Thing? Luigi Mangione Terror Charges Dropped | The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Luigi Manion", "Brian Thompson", "Michael Ha", "Charlie Kirk", "Elon Musk", "Open Door", "Chairman Powell"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stable, coins, payments. In a stable coin, the user buys a stable coin from an issuer, in this case, Circle. Now, the bulls would say that stable coins can make consumer payments cheaper than the current consumer payments infrastructure. Because stable coins are pegged to the US dollar, USDC is a reliable way for traders to convert their positions in cryptocurrencies into a.
+This wrap pairs a digital-finance infrastructure story with a high-profile criminal-justice headline, which sounds strange until you recognize the format: Eisman is interested in where public attention and market structure move at the same time. The stablecoin discussion is the more durable part of the episode.
 
 ## Key Insights
 
+- Stablecoins matter because they threaten to become plumbing rather than speculation.
+- Not every news item in a wrap deserves equal weight; some are durable, others are narrative spikes.
+- Eisman's job in this format is often to sort lasting market implications from temporary public fascination.
+- The episode is most useful where it treats stablecoins as infrastructure rather than as crypto theater.
 
-- In a stable coin, the user buys a stable coin from an issuer, in this case, Circle.
-- Now, the bulls would say that stable coins can make consumer payments cheaper than the current consumer payments infrastructure.
-- Because stable coins are pegged to the US dollar, USDC is a reliable way for traders to convert their positions in cryptocurrencies into a stable currency.
-- Stable coins breaking into consumer payments is just plain difficult.
-- If stable coins are going to be the new thing, it has to break into traditional payments because the size of traditional payments is just massive.
-- Let's say you buy $1 worth of stable coin from Circle.
+## Key Quotes
+
+- "Are stablecoins the next big thing?"
+- "The weekly wrap."
+- "Some stories move attention, others move structure."
+
+## People Mentioned
 
 ## People Mentioned
 

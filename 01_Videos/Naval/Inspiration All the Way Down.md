@@ -24,12 +24,12 @@ tools_mentioned: []
 companies_mentioned: ["Tesla"]
 topics: ["content-marketing", "b2b-marketing", "ai-jobs"]
 tags: ["content-marketing", "b2b-marketing", "ai-jobs"]
-pipeline_stage: video_only
-claims_status: pending
+pipeline_stage: claims_done
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 3
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
@@ -93,6 +93,13 @@ When people would ask me a question, then I could ask a follow-up question back 
 
 
 
+
+
+## Claims
+
+- [[Naval - Good biographies work through inspiration not imitation — you cannot copy Elon's process but you can absorb his mindset]]
+- [[Naval - Principles should be kept high-level and deliberately incomplete — precision makes them less applicable not more]]
+- [[Naval - Specific advice requires context that short-form platforms cannot provide — nuanced questions need conversational dialog not tweets]]
 
 ## Full Transcript
 

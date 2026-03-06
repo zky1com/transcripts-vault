@@ -24,12 +24,12 @@ tools_mentioned: []
 companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-pipeline_stage: video_only
-claims_status: pending
+pipeline_stage: claims_done
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 3
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
@@ -89,6 +89,13 @@ for the stateofthe-art on the philosophy of knowledge which people call epistemo
 
 
 
+
+
+## Claims
+
+- [[Naval - Skip all epistemology books and go straight to Deutsch — for philosophy of knowledge he is the state of the art]]
+- [[Naval - Deutsch's theories form a coherent mutually reinforcing worldview — each piece touches upon and relies upon another]]
+- [[Naval - Deutsch invented quantum computation while trying to design a test to falsify the multiverse theory]]
 
 ## Full Transcript
 

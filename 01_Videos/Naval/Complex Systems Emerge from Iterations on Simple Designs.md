@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Complex Systems Emerge from Iterations on Simple Designs"
 people_mentioned: []
 channel: "Naval"
@@ -29,7 +29,7 @@ claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 3
+claims_count: 2
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0

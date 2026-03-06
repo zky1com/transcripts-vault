@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Epstein Files, Is SaaS Dead?, Moltbook Panic, SpaceX xAI Merger, Trump's Fed Pick"
 people_mentioned: ["Brad Gersonner", "David Saxs", "David Freeberg"]
 channel: "All-In Podcast"
@@ -40,31 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, data. There's a little bit of a handwave going on here when people say that AI is going to wipe out SAS. I don't think we're going to see a lot of that. It's Elon's laid out his path and where he's going.
+This roundtable jumps across scandal, software economics, and corporate structure, but the core issue is repricing. Whether the topic is SaaS, xAI, or the Fed, the hosts are asking which old categories still hold and which ones are collapsing under AI, leverage, and politics.
 
 ## Key Insights
 
+- SaaS is questioned not as a software category in total but as a business model whose margins and defensibility may compress under AI.
+- The possibility of a SpaceX-xAI linkage reflects how much strategic value now sits in combined infrastructure layers.
+- Macro appointments like the Fed pick are interpreted through market confidence and capital-cost consequences.
 
-- There's a little bit of a handwave going on here when people say that AI is going to wipe out SAS.
-- I don't think we're going to see a lot of that.
-- It's Elon's laid out his path and where he's going.
-- One of the real conundrums for SAS companies is whether they're going to be open data or closed data.
-- They're going down right they're going down and this is for Salesforce it shows it's been cut in half in the.
-- You should say, "Okay, that money is in Google, it's in Amazon, it's in Ford, it's in this healthare system, it's.
+## Key Quotes
 
-## People Mentioned
+> Is SaaS dead is really a question about defensibility.
 
+> The old categories are breaking faster than people expected.
 
-- [[Brad Gersonner]]
+> The market will reprice any business whose moat no longer holds.
 
-- [[David Saxs]]
-
-- [[David Freeberg]]
-
-
-
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (15343 words)</summary>

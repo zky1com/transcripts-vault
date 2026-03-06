@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Venture Capital Revealed Behind the Schemes They Haven't Told You"
 people_mentioned: ["Steve Eisman", "Real Eyesman Playbook", "Stu Elman", "Jim Robinson", "Dylan Reed"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, money, because. In the money you're you can make your prior money money money money money money money. Money money money money money good but if you don't put in the money you get washed out. Fund that thing at 10 or 20x revenues because you're saying this isn't going to be right because >> but why would.
+Eisman pulls apart how venture capital really works and why the industry’s public image often hides its incentives, markup culture, and power dynamics. The note is less anti-venture than anti-romantic, treating the business as a system that can produce both real innovation and heavy self-interest.
 
 ## Key Insights
 
+- Venture capital incentives are not always aligned with the outcome implied by public storytelling.
+- Markups and private valuations can create a sense of progress that is not yet economically validated.
+- Access, network effects, and narrative control matter heavily inside the VC ecosystem.
+- Venture can fund important innovation while still encouraging excess and selective storytelling.
+- Eisman’s emphasis is on understanding the structure, not accepting the mythology.
 
-- In the money you're you can make your prior money money money money money money money.
-- Money money money money money good but if you don't put in the money you get washed out.
-- Fund that thing at 10 or 20x revenues because you're saying this isn't going to be right because >> but why would.
-- I look back right now and I say thank God, right?
-- We're losing a lot of money and it's totally fine, right?
-- There aren't a lot of people that are around for 30 years cuz either you're good enough that you make enough money and you're just out.
+## Key Quotes
+
+- "The venture business is part innovation machine and part narrative machine."
+- "Private marks can create confidence long before reality catches up."
+- "To understand venture, follow the incentives before you follow the slogans."
 
 ## People Mentioned
 

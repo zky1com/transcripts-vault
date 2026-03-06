@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Gary Marcus on the Massive Problems Facing AI & LLM Scaling | The Real Eisman Playbook Episode 42"
 people_mentioned: ["Gary Marcus", "Steve Eisman", "Real Eman", "New Yorker", "Jeff Hinton"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, things. It's always going to be good at some things, but not good at other things. That doesn't mean it's going to be 32 and 64 and then it's going to be a trillion pounds when it goes to college. The system one is fast, it's automatic, it's statistical, it's reflexive.
+Gary Marcus joins Eisman as a skeptical counterweight to mainstream AI optimism. The episode works because Marcus does not merely criticize hype; he identifies concrete issues in scaling, reasoning, and reliability that matter to both product builders and investors.
 
 ## Key Insights
 
+- Scaling alone may not solve deeper reasoning and reliability problems in large models.
+- AI skepticism is most useful when it points to specific technical and commercial bottlenecks.
+- Eisman benefits from bringing on guests who challenge consensus rather than reinforce it.
+- The interview matters because the market often prices AI as if the remaining problems were only engineering speed bumps.
 
-- It's always going to be good at some things, but not good at other things.
-- That doesn't mean it's going to be 32 and 64 and then it's going to be a trillion pounds when it goes to college, right?
-- The system one is fast, it's automatic, it's statistical, it's reflexive.
-- Going back to your world, I think the thing is artificial intelligence really is going to transform the world like in ways we can't even imagine.
-- Get my 2% I don't have to care that much how it's all going to play out because 2% of a trillion.
-- Everything with some qualification GPT5 is going to be better than GPT4 and is going to be better than three.
+## Key Quotes
+
+- "The massive problems facing AI."
+- "LLM scaling isn't the whole answer."
+- "A lot of the hard questions are still unresolved."
+
+## People Mentioned
 
 ## People Mentioned
 

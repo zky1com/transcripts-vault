@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AI Bubble Pops, Zuck Freezes Hiring, NewsomÃ¢â‚¬â„¢s 2028 Surge, Russia/Ukraine Endgame"
 people_mentioned: ["Rainman David", "Pio Hapatia", "Mexico City"]
 channel: "All-In Podcast"
@@ -38,19 +38,25 @@ world_evidence_count: 2
 ---
 ## Summary
 
-The discussion centers on it's, trump, we're. It's going to be it's going to be really interesting. I definitely think it's a new and important form of computing and it is going to unlock tremendous value in the economy, but it's. Saxs may have encouraged it.
+This episode covers a broad set of topics, but its center of gravity is a more skeptical mid-cycle view of AI. The hosts argue that enterprise AI is moving out of the pilot hype phase into a harder sorting process where weak applications will fail, real back-office use cases will survive, and exaggerated narratives around AGI, policy panic, and market pricing are starting to correct.
 
 ## Key Insights
 
+- The hosts see most current enterprise AI spending as experimental budget deployment rather than durable adoption.
+- Probabilistic AI systems fit structured back-office workflows better than messy sales and marketing functions.
+- Recent skepticism toward AI is treated as healthy because it pushes back on magical AGI timelines and weakens panic-driven regulation.
+- They expect a churn cycle similar to prior software waves, where many AI companies disappear and a smaller number of durable winners emerge.
+- On geopolitics, Sacks argues that Ukraine peace requires realism on NATO and territory, while others emphasize how hard it is to settle entrenched conflicts.
 
-- It's going to be it's going to be really interesting.
-- I definitely think it's a new and important form of computing and it is going to unlock tremendous value in the economy, but it's going to.
-- He is great at negotiating with difficult people and I think he's going to get it done.
-- He's got a 50-50 chance of getting this done and I think other people didn't even admit it.
-- That for modern progress to happen, I think it's important for both of these two issues to get put to bed as quickly as possible.
-- In these three pillars, I think you have the basis for a comprehensive peace deal, which is again, number one, we're going for a peace deal.
+## Key Quotes
 
-## People Mentioned
+> We're in the experimentation phase.
+
+> There's a big difference between probabilistic software and deterministic software.
+
+> I still think we're in a boom, but I think there was a healthy dose of skepticism applied to some of the more fantastical claims about AI.
+
+## People Mentioned## People Mentioned
 
 
 - [[Rainman David]]

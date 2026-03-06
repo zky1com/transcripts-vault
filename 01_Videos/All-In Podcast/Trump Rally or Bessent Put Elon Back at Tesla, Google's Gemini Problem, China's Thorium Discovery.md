@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trump Rally or Bessent Put? Elon Back at Tesla, Google's Gemini Problem, China's Thorium Discovery"
 people_mentioned: ["Ben Stiller", "Jewish Tom Cruz", "Tom Cruz", "Andrew Ross Sorcin", "In Summit", "White House", "Federal Reserve"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, china. It's it's unnecessarily judgmental. If it does, I think it's going to hold up. No, I don't I don't think he's out of Doge.
+With Andrew Ross Sorkin sitting in, the conversation moves from political-market reaction to Tesla, Google's AI execution, and China's thorium headline. The recurring theme is that markets are searching for competent operators while AI and energy stories keep forcing investors to separate spectacle from durable advantage.
 
 ## Key Insights
 
+- Bessent versus rally framing shows how much policy interpretation now runs through market psychology.
+- The Tesla discussion centers on leadership focus and whether Elon's attention is a core asset or a core risk.
+- Google's Gemini segment is really about distribution strength versus perceived product slippage.
+- China's thorium story is treated less as an immediate breakthrough than as a reminder that strategic energy narratives matter.
 
-- No, I don't I don't think he's out of Doge.
-- No, no, I I could, but we're going to I think we're going to run out of time.
-- China more evil or is Russia more evil I mean, I think I think there'd be a big debate about that in.
-- Do we think it's going to impact a meta next quarter?
-- Too many times you look at the stock market and think that's reflective of what's actually happening and it's not.
-- I would leave I would leave it alone because I think it's too disruptive and it's it's too politically fraught.
+## Key Quotes
+
+- "The world's greatest moderator is here today."
+- "We'll see when it's over."
+- "You have to separate the story from the execution."
+
+## People Mentioned
 
 ## People Mentioned
 

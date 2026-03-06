@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Weekly Wrap: Market Movements, Trade News, and Earnings Highlights"
 people_mentioned: ["Steve Eisman", "Treasury Secretary Besson", "Charlie Peabody", "On May"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on company, earnings, week. Private equity or venture capital generally take 20% of the profits from the companies that they sell and that private equity then pays long-term. The investors in private equity then get back the money they put into that particular company plus the profits on the investment minus the. Q1 sales were down 11% and earnings per share were down 47% year-over-year.
+This is a broad market wrap built to connect price action, trade developments, and earnings into one coherent view instead of treating them as separate news buckets. The underlying goal is to tell viewers what mattered and what was just motion.
 
 ## Key Insights
 
+- Weekly wraps create value when they connect events to portfolio consequences rather than just reciting headlines.
+- Trade news and earnings rarely matter in isolation; their importance depends on how they change forward expectations.
+- Eisman's style is useful when he forces hierarchy onto an otherwise cluttered news week.
+- Market movement only matters if it changes the thesis, not just the mood.
 
-- Private equity or venture capital generally take 20% of the profits from the companies that they sell and that private equity then pays long-term capital gains.
-- The investors in private equity then get back the money they put into that particular company plus the profits on the investment minus the private equity.
-- Q1 sales were down 11% and earnings per share were down 47% year-over-year.
-- It's because Google pays Apple 20 plus billion dollars per year to give Google privacy of search position on Apple products.
-- Company reported basically a flat year-over-year in earnings, but they raised guidance a little bit because of cost cutting.
-- Earnings per share of 40% beat the consensus of 29, but sales of 2.99 billion missed the 3.01 billion estimate.
+## Key Quotes
+
+- "Market movements, trade news, and earnings highlights."
+- "What actually mattered this week?"
+- "The wrap is about signal, not noise."
+
+## People Mentioned
 
 ## People Mentioned
 

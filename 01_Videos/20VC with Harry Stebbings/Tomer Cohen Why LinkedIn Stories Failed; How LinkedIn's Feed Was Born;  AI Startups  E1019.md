@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tomer Cohen: Why LinkedIn Stories Failed; How LinkedIn's Feed Was Born;  AI Startups | E1019"
 people_mentioned: ["Tomer Cohen", "Reid Hoffman", "Tony Fidel", "Bill Gates", "Cutting Edge", "Hot Topic", "Building Product", "Holy Grail"]
 channel: "20VC with Harry Stebbings"
@@ -40,31 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, product, linkedin. Think it's startups where is that yeah it's it's it's a great point and I think we're we're we'll see very soon. Race to product Market fit on stories do you think that was a cool component as well um I don't think it's. Of those as the right product people I think it's inherently in the love of building and trying to create change it.
+Tomer Cohen reflects on product experimentation, failure, and platform evolution through the lens of LinkedIn. The value of the episode is that it treats product leadership as continual relearning, especially when an experiment like Stories fails and the company still has to extract the right lesson from it.
 
 ## Key Insights
 
+- Product failures can become valuable if leaders understand what user behavior they actually revealed.
+- Feed design is an example of how one core product decision can shape the entire platform.
+- AI startups change the product landscape by shifting what users expect from software experiences.
+- The episode works because it combines product history with current strategic reflection.
 
-- Think it's startups where is that yeah it's it's it's a great point and I think we're we're we'll see very soon.
-- Race to product Market fit on stories do you think that was a cool component as well um I don't think it's.
-- Of those as the right product people I think it's inherently in the love of building and trying to create change it.
-- Who did first but how important is being first in product release I don't think it's to launch I think first.
-- That this is the right product to buy it's a highly emotional job it's a really stressful job you're trying to get.
-- Do it remote as well it's there's no it's not that remote does not work but I think there's an edge to.
+## Key Quotes
 
-## People Mentioned
-
-
-- [[Tomer Cohen]]
-
-- [[Reid Hoffman]]
-
-- [[Tony Fidel]]
-
-- [[Bill Gates]]
-
-
-
+- "Why LinkedIn Stories failed."
+- "How LinkedIn's feed was born."
+- "Every platform shift forces product leaders to relearn."
 
 ## Full Transcript
 

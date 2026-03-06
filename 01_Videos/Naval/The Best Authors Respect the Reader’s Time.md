@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Best Authors Respect the Readerâ€™s Time"
 people_mentioned: ["David Deutsch", "Ted Chang", "Neil Stevenson"]
 channel: "Naval"
@@ -91,6 +91,13 @@ So I'm not just taking his word for it on high level concept but at the same tim
 
 
 
+
+
+## Claims
+
+- [[Naval - The best authors respect the reader's time — high density of ideas per paragraph is the mark of great writing]]
+- [[Naval - Lindy books on human nature are timeless while specific knowledge is timely — different reading for different purposes]]
+- [[Naval - Dense summaries beat full history volumes — high density reading is more valuable once you already have context]]
 
 ## Full Transcript
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Mystery of Stablecoins, Visa, & Fiserv's Collapse with Ken Suchoski The Real Eisman Playbook"
 people_mentioned: ["Ken Sahoski", "Steve Eisman", "Jack Henry", "Ken Suchoski"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, yeah. Think of it as a it's a you know, it's it's it's more of a bank type of model or asset manager, right? If you have >> because it's your phone, >> it's your it's your phone, it's your thumbrint, it's your >> it's your face. >> It's historically it's been right.
+Eisman and Ken Suchoski unpack stablecoins, payment rails, and the market’s reaction to Visa and Fiserv. The discussion focuses on whether stablecoins are a genuine infrastructure shift or another case where the narrative is outrunning the practical economics and regulatory path.
 
 ## Key Insights
 
+- Stablecoins are interesting because they sit at the intersection of payments, regulation, and monetary trust.
+- Incumbent payment companies face the risk of being disrupted at the margin before the full economics are clear.
+- The market tends to treat new financial infrastructure as inevitable long before the adoption path is proven.
+- Regulatory clarity remains central to whether stablecoins become a broad mainstream tool.
+- Eisman’s approach is to separate intriguing technology from investable business certainty.
 
-- Think of it as a it's a you know, it's it's it's more of a bank type of model or asset manager, right?
-- If you have >> because it's your phone, >> it's your it's your phone, it's your thumbrint, it's your >> it's your face.
-- >> So, for Tether, I think they've I mean, they don't tell you exactly who's using USDT, but I imagine that it's it's a it's a.
-- >> Yeah, I think that's I think that's fair.
-- There's a real opportunity when you look at that market Steve it's a it's a big market B2B.
-- >> Yeah, it's a it's a great question.
+## Key Quotes
+
+- "New rails are exciting, but the economics still have to survive contact with reality."
+- "Stablecoins are part technology story and part trust story."
+- "Disruption is easiest to imagine before it is forced to make money."
 
 ## People Mentioned
 

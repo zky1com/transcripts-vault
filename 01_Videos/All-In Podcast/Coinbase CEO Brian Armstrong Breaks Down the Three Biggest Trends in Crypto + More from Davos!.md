@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Coinbase CEO Brian Armstrong Breaks Down the Three Biggest Trends in Crypto + More from Davos!"
 people_mentioned: ["Jason Calakanis", "Brian Armstrong", "Black Rockck"]
 channel: "All-In Podcast"
@@ -40,36 +40,23 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, yeah. >> I think it's just like it's going to just >> Yeah. >> It's it's it's really hard. Uh, it's I don't think that's going to be as far out.
+Brian Armstrong presents crypto's next phase as a legitimacy and infrastructure story rather than a pure speculation cycle. His message is that exchanges, custody, compliance, and policy quality now matter just as much as protocol innovation if the industry is going to mature into a broad financial-services layer.
 
 ## Key Insights
 
+- Crypto adoption at institutional scale depends on trust, compliance, and operational reliability.
+- Exchanges are evolving from trading venues into broader financial platforms.
+- Jurisdictional competition will shape where crypto companies build and where users gain the safest access.
 
-- >> I think it's just like it's going to just >> Yeah.
-- Uh, it's I don't think that's going to be as far out.
-- That's why it's it's a retention mechanism, right?
-- >> Yeah, I think that's that's absolutely going to happen.
-- >> It's it's not 10 trees, but um >> it uh I think that's a really interesting way to manage how slow it is, >> right?
-- The biggest trends happening in crypto right now is number one it's the everything exchange.
+## Key Quotes
 
-## People Mentioned
+> Maturation depends on infrastructure quality and regulatory legitimacy.
 
+> The exchange is becoming a broader financial stack.
 
-- [[Jason Calakanis]]
+> Policy quality will shape crypto competition.
 
-- [[Brian Armstrong]]
-
-
-
-
-## Claims
-
-- [[Brian Armstrong - Crypto market maturation is increasingly tied to infrastructure quality and regulatory legitimacy rather than pure speculative cycles]]
-- [[Brian Armstrong - Exchange strategy is shifting from single-venue trading utility toward broader financial-service stack integration]]
-- [[Brian Armstrong - Institutional crypto adoption depends on operational trust, compliance clarity, and product reliability more than narrative momentum]]
-- [[Brian Armstrong - Global crypto competition is likely to be shaped by jurisdictional policy quality as much as by protocol innovation speed]]
-
-## Full Transcript
+## Full Transcript## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (20119 words)</summary>

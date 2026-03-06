@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The AI Revolution Winners, Losers, & The Future of Tech The Real Eisman Playbook Episode 27"
 people_mentioned: ["When Trump", "Steve Eisman", "Dan Ies", "Wed Bush Securities", "Dan Ives", "Sam Altman"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, because. That's that's our that's our thesis like how I think it's going to play out. To be 280 it's 350 next year it's going to moderate then the bubble is going to I was actually coming to. It's a it's a view of where AI is going not where it is today.
+Eisman surveys the AI landscape to separate likely winners from likely losers and to frame what the technology may change across the broader tech sector. The episode focuses on competitive structure, economics, and where value is most likely to accrue as the stack matures.
 
 ## Key Insights
 
+- Winners in AI are not guaranteed to be the companies with the best demos; they are the ones with durable economics and distribution.
+- Losers can include firms that face commoditization, cost inflation, or loss of user attention.
+- The future of tech will be shaped by how AI redistributes value across infrastructure, applications, and labor.
+- Platform control matters because ecosystems can capture more downstream value than point solutions.
+- The episode frames AI as a reorganization of the sector, not just a product cycle.
 
-- That's that's our that's our thesis like how I think it's going to play out.
-- To be 280 it's 350 next year it's going to moderate then the bubble is going to I was actually coming to.
-- It's a it's a view of where AI is going not where it is today.
-- Obviously, it's Nvidia, it's Coreweave, it's anybody involved in kind of the hardweary space, but they're going to be losers.
-- That's why it's a it's a huge piece.
-- Thing because I believe it's going to be a data entric model.
+## Key Quotes
+
+- "The future of tech will be decided by who captures the economics, not just who captures the imagination."
+- "A good demo is not a moat."
+- "AI creates winners and losers because it changes where value sits in the stack."
 
 ## People Mentioned
 

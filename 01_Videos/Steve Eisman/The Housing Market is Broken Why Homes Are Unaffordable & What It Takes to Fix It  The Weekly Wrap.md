@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Housing Market is Broken Why Homes Are Unaffordable & What It Takes to Fix It The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Several Fed", "But Bitcoin"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on home, problem, homes. Homebuilders obviously are the new home market, but building product companies are much more heavily dependent on existing home sales. Those fees are designed to defay local costs to support new home communities, but they can be exorbitant and can add 10 to 15%. With roughly 50% of homeowners with rates at 4% or less, the existing home market is locked.
+This wrap argues that the housing market remains fundamentally broken for large parts of the population, even if prices and activity still look stable on the surface. Eisman emphasizes affordability, financing, and supply as structural problems rather than temporary distortions.
 
 ## Key Insights
 
+- Housing can look resilient at the index level while remaining inaccessible to new buyers.
+- Affordability pressure is being reinforced by both high rates and persistent supply shortages.
+- A broken housing market damages mobility, family formation, and household wealth-building.
+- Policy discussions often lag the depth of the affordability problem.
+- The issue is not simply price direction; it is whether the market still performs its social function.
 
-- Homebuilders obviously are the new home market, but building product companies are much more heavily dependent on existing home sales.
-- Those fees are designed to defay local costs to support new home communities, but they can be exorbitant and can add 10 to 15% to the.
-- With roughly 50% of homeowners with rates at 4% or less, the existing home market is locked.
-- One more point, post great financial crisis, the large home builders have taken an incredible amount of market share.
-- The hope is that the Fed will cut rates, mortgage rates will go down, and new home sales will sore.
-- The other problem with a 50-year mortgage is that it will just take you that much longer to build equity in your home.
+## Key Quotes
+
+- "A functioning housing market should be measured by access, not just by prices."
+- "Affordability is no longer a side issue; it is the issue."
+- "Stability on paper can hide exclusion in practice."
 
 ## People Mentioned
 

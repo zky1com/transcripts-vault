@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Winning the AI Race Part 5 President Trump on the AI Action Plan"
 people_mentioned: ["European Union"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, we're, that's. We're going to make this industry absolutely the top because right now it's it's a beautiful baby that's born. It's a great It's a great statement. We're having to lock them up because we don't want them ever to come back, no matter how good we're doing.
+Trump frames the AI Action Plan as a national-competition agenda built around speed, deregulation, and industrial leadership. The message is straightforward: the United States should optimize for winning the AI race against China rather than slow itself down with restrictive state-level rules or fragmented licensing regimes.
 
 ## Key Insights
 
+- Trump treats AI policy as strategic competition first and sector regulation second.
+- Public-content training is framed as something the US should allow in order to keep domestic labs competitive.
+- The speech uses tariff and trade wins to reinforce the broader argument that America should act from strength.
+- The event is less technical than directional, but the direction is clear: accelerate.
 
-- We're going to make this industry absolutely the top because right now it's it's a beautiful baby that's born.
-- It's a great It's a great statement.
-- We're having to lock them up because we don't want them ever to come back, no matter how good we're doing.
-- We're going to make America great again.
-- People don't realize it's a lot of that's a lot of deals.
-- Now and I think it's going to happen.
+## Key Quotes
+
+- "The future belongs to America."
+- "We have some business to discuss."
+- "The brain power. The greatest power of them all."
+
+## People Mentioned
 
 ## People Mentioned
 

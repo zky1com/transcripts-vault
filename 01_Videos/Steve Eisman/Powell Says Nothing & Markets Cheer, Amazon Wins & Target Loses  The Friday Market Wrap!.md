@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Powell Says Nothing & Markets Cheer, Amazon Wins & Target Loses The Friday Market Wrap!"
 people_mentioned: ["Steve Eisman", "By Friday", "Fed Chairman Powell", "Jackson Hole", "Jackson Hall"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on market, week, down. This week, the market experienced a small correction with the S&P down over 1% and NASDAQ down over 2%. This week through Thursday, the market experienced a small correction with the S&P down over 1% and NASDAQ down over 2%. Home Depot total sales growth was 5%, earnings per share growth was negative 1%.
+This wrap focuses on how markets can rally even when the Fed offers little new information. Eisman contrasts that reflexive optimism with diverging outcomes at Amazon and Target, using retail performance to show how consumer strength is becoming more uneven beneath the surface.
 
 ## Key Insights
 
+- Markets often rally on the absence of bad news from the Fed as much as on any real policy shift.
+- Amazon and Target illustrate that scale, execution, and category mix now matter more than generic consumer exposure.
+- Consumer resilience is uneven and should not be inferred from one winner’s results.
+- The market’s response to Powell often reflects positioning more than fresh analysis.
+- Retail dispersion can be a useful read on household strain and demand quality.
 
-- This week, the market experienced a small correction with the S&P down over 1% and NASDAQ down over 2%.
-- This week through Thursday, the market experienced a small correction with the S&P down over 1% and NASDAQ down over 2%.
-- Home Depot total sales growth was 5%, earnings per share growth was negative 1%.
-- Lastly, Macy's, once an iconic department store company, now has a market cap of only 3.5 billion.
-- Home Depot needs lower long-term rates for existing home sales to pick up and investors are also hoping that the home improvement market will pick up.
-- Total sales growth of 3% and earnings per share to decline 2%.
+## Key Quotes
+
+- "Sometimes the market cheers because Powell did not ruin the party."
+- "One strong retailer does not mean the consumer is uniformly healthy."
+- "Positioning can matter more than substance on a Fed day."
 
 ## People Mentioned
 

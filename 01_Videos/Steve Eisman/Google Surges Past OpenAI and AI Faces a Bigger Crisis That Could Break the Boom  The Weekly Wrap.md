@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Google Surges Past OpenAI and AI Faces a Bigger Crisis That Could Break the Boom | The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Post Nvidia", "Super Micro"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on year, some, it's. Now, prior to 2021, terowatt usage in the US was growing at most 1% per year, but now it's growing 3% per year. In 3Q25 alone, Google generated 102 billion in revenue, up 16% versus last year, and 35 billion in net income, up 33% versus last. 3% of 4,200 terowatt equals 125 terowatts of growth per year at least, which is equivalent to providing electricity to multiple big cities per.
+Steve Eisman argues that Google has materially closed the perceived product gap with OpenAI while enjoying a far stronger financial position. He then shifts to the more important constraint on the AI boom: not chips, but electricity, permitting, and the slow physical buildout required to power data centers at scale.
 
 ## Key Insights
 
+- Google can absorb enormous AI spending from internal cash flow in a way OpenAI cannot.
+- Competitive advantage in AI is no longer only about model quality; balance sheet strength and distribution matter.
+- The near-term bottleneck for AI infrastructure is increasingly electrical power rather than GPU supply.
+- Data-center demand is colliding with a grid that was not designed for this step-change in consumption.
+- Eisman treats CEO mythology cautiously and argues that great operators can still leave hidden problems behind.
 
-- Now, prior to 2021, terowatt usage in the US was growing at most 1% per year, but now it's growing 3% per year.
-- In 3Q25 alone, Google generated 102 billion in revenue, up 16% versus last year, and 35 billion in net income, up 33% versus last year.
-- 3% of 4,200 terowatt equals 125 terowatts of growth per year at least, which is equivalent to providing electricity to multiple big cities per year.
-- Earnings per share were up 17% versus last year and a beat.
-- Now there is a current binding constraint in AI and it's not chips.
-- Now, Dell has a January fiscal year, which is a bit odd for a tech company.
+## Key Quotes
+
+- "The second railroad has caught up."
+- "The binding constraint is power."
+- "A superstar CEO can still leave a mess under the surface."
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nasdaq CEO Reveals the Next Era Of The Stock Market - Adena Friedman | All-In Summit"
 people_mentioned: ["Adena Freriedman", "Hey Jason"]
 channel: "All-In Podcast"
@@ -27,10 +27,10 @@ tags: ["stock-analysis", "market-data", "ai-regulation"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on markets, it's, market. It's I think that in some ways the prediction markets make these types of um these types of bets you know more accessible to. To think about these markets much more comprehensively because if we can bring that regatory paradigm across the markets and make more. >> I mean, I have to say the options markets are as much a prediction market as uh as the other prediction markets.
+Adena Friedman explains how Nasdaq has evolved from a famous exchange brand into a broader market-infrastructure and software business. The interview is really about what modern exchanges do beyond listings: technology, surveillance, workflow software, and global market plumbing.
 
 ## Key Insights
 
+- Nasdaq's identity now extends well beyond operating a stock market.
+- Exchange technology and workflow software have become major parts of the company's growth story.
+- The long-term strategy is to serve capital formation, market infrastructure, and regulation as connected businesses.
+- Friedman's framing emphasizes trust and system design more than short-term market commentary.
 
-- It's I think that in some ways the prediction markets make these types of um these types of bets you know more accessible to more people.
-- To think about these markets much more comprehensively because if we can bring that regatory paradigm across the markets and make more.
-- >> I mean, I have to say the options markets are as much a prediction market as uh as the other prediction markets.
-- Uh I think that it's important to have allow the Fed to think long term and that's why the term of the Fed chair is six.
-- First of all I think it's really good to remind all of our you know all of us why the public markets are so important for.
-- Commercial real estate's going through a cycle, but it's not it's it's going to go through a different cycle.
+## Key Quotes
+
+- "We are an architect of modern markets."
+- "NASDAQ is more than a market."
+- "What more can we do for our clients?"
 
 ## People Mentioned
 
@@ -61,6 +64,13 @@ The discussion centers on markets, it's, market. It's I think that in some ways 
 
 
 
+
+## Claims
+
+- [[Adena Friedman - Nasdaq is no longer just an exchange and now operates as broader market infrastructure and financial software]]
+- [[Adena Friedman - Tokenized equities should be brought into the regulated core market rather than left in side channels]]
+- [[Adena Friedman - Public markets matter because they let ordinary citizens own the growth of the economy]]
+- [[Adena Friedman - The burden of being public has become too different from being private and needs reform]]
 
 ## Full Transcript
 

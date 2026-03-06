@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Multicoin Capitalâ€™s Kyle Samani on Internet Capital Markets"
 people_mentioned: ["Multicoin Capitals", "Kyle Sani", "Allen Summit", "Securities Act", "Exchange Act"]
 channel: "All-In Podcast"
@@ -40,17 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on markets, capital, internet. My point in sharing this is that internet capital markets uh are going to be embedded in software everywhere and you're going to have. Today I'm going to be talking a little bit about internet and capital markets. Markets are going to become the media and the media is going to become the channel.
+Kyle Samani argues that legacy capital markets still sit on slow, rent-seeking infrastructure and that modern blockchains can replace large parts of that stack with faster, cheaper, open settlement. His case is less about crypto as a trade and more about crypto as a market-structure upgrade.
 
 ## Key Insights
 
+- The existing market system still carries layers of intermediaries that were built for trust restoration after the 1929 crash.
+- Blockchains are presented as internet-native financial rails that can shrink settlement time and reduce coordination costs.
+- Samani sees regulation as the gating variable for how quickly tokenized capital markets can become mainstream.
+- The underlying bull case is that open protocols expand access to dollar assets and private markets globally.
 
-- My point in sharing this is that internet capital markets uh are going to be embedded in software everywhere and you're going to have all new.
-- Today I'm going to be talking a little bit about internet and capital markets.
-- Markets are going to become the media and the media is going to become the channel.
-- As software has eaten the world over the last 20 years, internet capital markets are going to absorb every function of capital formation, trading, settlement, and.
-- Internet capital markets are going to have a profound effect on how we view and think about and understand markets as they become embedded into media.
-- With Internet Capital Markets, you're going to be able to have groups of people, anyone, anywhere, all trade the same asset together, all from one live.
+## Key Quotes
+
+- "You wouldn't build it on 50-year-old legacy rails."
+- "US stock trades still take two days to settle."
+- "Everyone is synchronizing using the same open protocol."
 
 ## People Mentioned
 

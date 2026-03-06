@@ -1,4 +1,4 @@
-﻿---
+---
 title: "U.S. Consumers Are Collapsing Cars, Credit, & the Chaos Ahead The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Lakshmi Ganopathy", "Uh Steve"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, credit, because. Not if that student loan defaulters whether you want whether you're going to pay your student loan back otherwise you're going to. It's a cult and that's why it's going to go 800. Get garnished whether you're going to pay your rent or mortgage whether you're going to pay your food bill or whether you're.
+This wrap argues that the U.S. consumer is under sharper pressure than topline market performance implies, with stress visible in autos, credit, and household balance sheets. Eisman focuses on the idea that consumption can weaken in stages before the broader market fully acknowledges it.
 
 ## Key Insights
 
+- Consumer weakness often shows up first in financed categories like cars and revolving credit.
+- A resilient stock market can coexist with mounting stress at the household level.
+- Credit deterioration is a useful early warning signal when income growth is not keeping pace with costs.
+- Consumer strain matters because so much of the economy still depends on continued spending.
+- The key issue is not whether cracks exist, but how quickly they spread.
 
-- Not if that student loan defaulters whether you want whether you're going to pay your student loan back otherwise you're going to.
-- It's a cult and that's why it's going to go 800.
-- Get garnished whether you're going to pay your rent or mortgage whether you're going to pay your food bill or whether you're.
-- Give me your predictions for what do you think is going to happen to both the new car market and the used car market over the.
-- We're going to see further deterioration in buy now pay later.
-- >> I think the dealerships are not going to take any more inventory and um it's going to be a standstill.
+## Key Quotes
+
+- "The consumer does not collapse all at once; the pressure builds line by line."
+- "Credit is often where stress becomes measurable first."
+- "Household weakness can hide beneath a strong index for longer than investors expect."
 
 ## People Mentioned
 

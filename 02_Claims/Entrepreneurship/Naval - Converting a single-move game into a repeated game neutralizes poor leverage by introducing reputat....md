@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - Converting a single-move game into a repeated game neutralizes poor leverage by introducing reputat..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Turn Short-Term Games Into Long-Term Games]]"
+source_video: "[[We're at the Beginning of an Infinity of Knowledge]]"
 topics: [negotiation, game-theory, reputation, long-term-thinking, trust]
 date: 2019-07-15
 speech_status: pending
@@ -41,4 +41,3 @@ When you have poor negotiating leverage or are in a low-information transaction 
 
 ### Speech Facts
 - None yet
-

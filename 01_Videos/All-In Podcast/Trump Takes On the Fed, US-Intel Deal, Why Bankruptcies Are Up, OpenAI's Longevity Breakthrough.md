@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trump Takes On the Fed, US-Intel Deal, Why Bankruptcies Are Up, OpenAI's Longevity Breakthrough"
 people_mentioned: ["Los Angeles", "Allin Summit", "David Saxs", "Chris Wright", "Donkey Kong"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, yeah, that's. I don't think that's going to go very well. It's probably unfair to say they're looking at only data that's one year old. >> So I think I think the reason why bankruptcies are up right now is because the reservoir of free money the.
+The hosts move from Fed conflict and bankruptcy data to industrial policy and a new longevity claim from OpenAI. The through-line is that macro stress, capital allocation, and scientific optimism now coexist in the same market narrative, forcing investors to think on multiple time horizons at once.
 
 ## Key Insights
 
+- The Fed segment is fundamentally about executive pressure versus market-imposed limits.
+- Rising bankruptcies are treated as a real-economy signal that easy-money assumptions are fading.
+- The US-Intel angle is framed as national-capability policy, not just corporate rescue.
+- The longevity discussion shows how quickly AI narratives now spill into biology and health.
 
-- I don't think that's going to go very well.
-- It's probably unfair to say they're looking at only data that's one year old.
-- >> So I think I think the reason why bankruptcies are up right now is because the reservoir of free money the.
-- Yeah, >> on cloud is actually technically >> Yeah, I think I bought like the cloud monster, I think, or something like that.
-- Yeah, I think it's like an interesting >> I think I've heard different things about the funding and then I've heard different things about the rule.
-- There's been one or two people who will descent and say, "I think we should have a rate cut now." And they vote and pal, it's.
+## Key Quotes
+
+- "Why bankruptcies are up."
+- "This is about the real economy starting to bite back."
+- "The scientific upside is enormous if the claim is real."
+
+## People Mentioned
 
 ## People Mentioned
 

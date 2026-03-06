@@ -1,4 +1,4 @@
-﻿---
+---
 title: "2026 Predictions with Dan Ives and Chris Verrone | The Real Eisman Playbook Episode 40"
 people_mentioned: ["Dan Ives", "Chris Veron", "Liberation Day", "Steve Eisman", "Dan Ies"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, year. I don't think it's a $55 stock next year. Whether that's two cuts next year or one cut next year, I don't think it's terribly different. It's 6 to800 cuz they >> because you think it happens.
+Steve Eisman brings in Dan Ives and Chris Verrone to compare technology enthusiasm with market-technical reality heading into 2026. The value of the episode is in the contrast: one guest reads the future through innovation and positioning, the other through structure and price action.
 
 ## Key Insights
 
+- Prediction episodes are most useful when they force different lenses into the same market outlook.
+- Dan Ives typically anchors on secular tech winners, while Verrone adds discipline around what the tape is actually saying.
+- Eisman benefits from playing moderator between theme-driven conviction and technical caution.
+- The 2026 setup is framed less as one grand call than as a set of asymmetries investors need to understand.
 
-- I don't think it's a $55 stock next year.
-- Whether that's two cuts next year or one cut next year, I don't think it's terribly different.
-- It's 6 to800 cuz they >> because you think it happens.
-- Now, it's nent, but I think it's beginning to happen in some of these consumer stocks, right?
-- In large cap I think you're going to see like what I I think names like Microsoft and Oracle could actually be significant outperformers over the.
-- Around the world whether it's G Vernova in US whether it's Seaman's energy in Europe whether it's Mitubishi heavy.
+## Key Quotes
+
+- "2026 predictions."
+- "The real Eisman playbook."
+- "You need both the narrative and the structure."
+
+## People Mentioned
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sequoiaâ€™s Roelof Botha: Why Venture Capital is Broken & How Great Companies Are Built"
 people_mentioned: ["Seoia Capitals Rolloff", "Sequoia Scouts", "Sam Altman"]
 channel: "All-In Podcast"
@@ -40,17 +40,20 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on companies, it's, company. That's part of the dynamic is that you get a firm that has one success in their fund and then they attract more capital. There's a real challenge in China right now. It's very dangerous when people think that your success in one domain just naturally makes you uh gives you the right to compete in.
+Roelof Botha argues that too much venture capital is chasing too few truly exceptional outcomes, which leaves much of the asset class stuck taking risk without enough return. The more valuable part of the interview is his explanation of how great companies are actually recognized and supported inside a disciplined partnership.
 
 ## Key Insights
 
+- Aggregate capital volume has outgrown the supply of world-class venture outcomes.
+- Consensus decision-making can improve investment quality by forcing full-firm conviction.
+- Many of the most expensive misses come from underestimating how large a category can become.
+- Long-duration ownership matters because much of the value is created after a company is already public.
 
-- That's part of the dynamic is that you get a firm that has one success in their fund and then they attract more capital because people.
-- There's a real challenge in China right now.
-- It's very dangerous when people think that your success in one domain just naturally makes you uh gives you the right to compete in other domains.
-- Um, I listened to one of the shows you guys had recently and I think there's a huge problem with the venture industry that there's too.
-- Um, and by the way, even in more recent memory, if you look at the last 10-ish years, Palto, Service Now, HubSpot, MongoDB, these companies have.
-- People will still hide behind the J curve effect and they'll say yeah my fund is only at 1.5x right.
+## Key Quotes
+
+- "Venture capital has become return-free risk."
+- "More capital does not mechanically create more great companies."
+- "Most costly mistakes are failures of imagination."
 
 ## People Mentioned
 

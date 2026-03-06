@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why AI will dwarf every tech revolution before it: robots, manufacturing, AR glasses from CES 2026"
 people_mentioned: ["General Catalyst", "Bob Sternfelds", "Hamont Tasia", "Hey Mont", "White House"]
 channel: "All-In Podcast"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, we're. Fundamentally, it's just it's just really exciting and I think it's going to accelerate from here. Um, if you're not doing that then you're not preparing yourself for this next phase and that's that's a lot of what you're see. I don't think we're actually equipping that right now.
+Recorded around CES 2026, this discussion argues that AI will exceed the impact of prior computing waves because it does not sit in one product category. Instead it compounds across robotics, manufacturing, wearables, and software, making it a general transformation layer rather than just another platform shift.
 
 ## Key Insights
 
+- The panel treats AI as the umbrella technology under which many CES categories now make sense.
+- Robots, manufacturing systems, and AR are all framed as downstream expressions of the same core capability jump.
+- The hosts emphasize that this cycle is broader than mobile or cloud because it affects both digital and physical labor.
+- The conversation is explicitly future-facing and designed to place consumer gadgets inside a larger systems story.
 
-- Fundamentally, it's just it's just really exciting and I think it's going to accelerate from here.
-- Um, if you're not doing that then you're not preparing yourself for this next phase and that's that's a lot of what you're see you're already.
-- I don't think we're actually equipping that right now.
-- It's going to take some time.
-- That's ultimately the transition we're going through uh in what does innovation actually mean.
-- What do you think, you know, we're going to look back on this year and laugh at in 30 years?
+## Key Quotes
+
+- "AI is going to have the most important transformation of our lifetimes."
+- "Everything we've seen over the last 30 years is going to be dwarfed."
+- "No topic can be banned."
+
+## People Mentioned
 
 ## People Mentioned
 

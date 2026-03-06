@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inside America's Economic Divide AI, Tariffs, & The Fed The Real Eisman Playbook Episode 29"
 people_mentioned: ["Steve Leeman", "Steve Eisman", "Real Eisman Playbook", "Josh Brown"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, don't. >> Well, right now I think people are >> AMD today, right? What's going on right now the Fed was a little bit tight is a little bit tight. I don't think they're strictly political, but I think that it's a bit like the way, to use a really strange metaphor, that they.
+This episode connects AI enthusiasm, trade policy, and Federal Reserve positioning to a widening economic divide inside the United States. Eisman examines how asset owners, workers, and different regions experience the same macro environment very differently, making headline economic strength a poor proxy for broad-based health.
 
 ## Key Insights
 
+- AI-driven gains are accruing unevenly across industries and income groups.
+- Tariffs can protect certain constituencies while raising costs elsewhere in the system.
+- Fed policy influences asset prices quickly, but its benefits do not transmit evenly through the real economy.
+- Economic resilience at the index level can coexist with pressure at the household and regional level.
+- Investors need to separate macro averages from distributional reality.
 
-- >> Well, right now I think people are >> AMD today, right?
-- What's going on right now the Fed was a little bit tight is a little bit tight.
-- I don't think they're strictly political, but I think that it's a bit like the way, to use a really strange metaphor, that they think a.
-- >> I think there's two things going on.
-- Um and I think that's helping out right now.
-- I don't know if that answers your question, but I think it's I don't think they talk about it.
+## Key Quotes
+
+- "One economy can look strong in aggregate and fractured underneath."
+- "The same policy can help one group and hurt another."
+- "Indexes do not tell you how evenly prosperity is being distributed."
 
 ## People Mentioned
 

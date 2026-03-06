@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Flight to Safety Begins, Private Credit Cracks & the Software Bloodbath Continues | The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Blue Owl", "Warner Brothers"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stock, recession, market. This is no time for a software company to provide mixed guidance and the stock was down over 6% after hours. This year however the S&P 500 info sector is down 4% for the year and because of AI fears the software sub sector is. When you look at a chart of a stock or the market, to me it expresses what all the investors think about the company.
+This wrap is framed around capital retreat: investors are moving toward safety while private credit and software both start showing visible stress. Eisman uses the combination well because it suggests that risk repricing may be broadening across very different pockets of the market.
 
 ## Key Insights
 
+- Flight-to-safety moves become more important when they show up alongside credit cracks, not just equity fear.
+- Private credit remains a likely source of delayed recognition risk.
+- Software bloodbaths are often less about one company and more about the collapse of category assumptions.
+- The key issue is whether stress is still contained or starting to spread systemically.
 
-- This is no time for a software company to provide mixed guidance and the stock was down over 6% after hours.
-- This year however the S&P 500 info sector is down 4% for the year and because of AI fears the software sub sector is down 20%.
-- When you look at a chart of a stock or the market, to me it expresses what all the investors think about the company or the.
-- If there was a recession, I would not be buying a stock like United Healthcare just because historically it's done well in a recession.
-- This is a 20 billion market cap company with revenue growth of only 5%.
-- Each time the market feared a recession and each time the market was wrong and retail was right to buy the dip.
+## Key Quotes
+
+- "Flight to safety begins."
+- "Private credit cracks."
+- "The software bloodbath continues."
+
+## People Mentioned
 
 ## People Mentioned
 

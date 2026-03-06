@@ -1,4 +1,4 @@
-﻿---
+---
 title: "1929 vs 2025: Andrew Ross Sorkin on Crashes, Bubbles & Lessons Learned"
 people_mentioned: ["Andrew Ross Sorcin", "But Andrew", "Southern California", "Too Big"]
 channel: "All-In Podcast"
@@ -38,19 +38,25 @@ world_evidence_count: 0
 ---
 ## Summary
 
-The discussion centers on it's, that's, right. It's a real economy thing because I think if you if you x out the mag 7 Yeah. It's always going on. Do you think you think that's true?
+This interview uses Andrew Ross Sorkin's book on 1929 to compare the social mechanics of bubbles across eras rather than to claim a literal repeat of the Great Crash. The discussion focuses on leverage, democratized speculation, media amplification, debt, and policy mistakes, while also asking how much of today's market structure is genuinely safer versus merely differently fragile.
 
 ## Key Insights
 
+- The hosts treat 1929 as a character-driven case study in speculative excess, not just a date in economic history.
+- Margin lending, weak disclosure, celebrity finance culture, and democratized access to speculation all helped create the 1929 setup.
+- Sorkin argues that speculation is not inherently bad; it is the partner of innovation, but it becomes dangerous when risk controls disappear.
+- The modern economy may rhyme with 1929 in debt and enthusiasm, but current institutions and regulations make the comparison imperfect.
+- The deeper policy question is how to preserve productive speculation without allowing leverage and politics to destabilize the real economy.
 
-- It's a real economy thing because I think if you if you x out the mag 7 Yeah.
-- Because I think what to your point which is an important one, people think it was like a okay stocks went down, right?
-- I you look I think I think you look at a lot of the things going on right now just with how much debt we have.
-- I don't think I think it's supposed to be the book's supposed to be like a beach read.
-- We're going to have to take a lot more time.
-- People think the word speculation is like a dirty word.
+## Key Quotes
 
-## People Mentioned
+> Speculation is the twin of innovation.
+
+> Everybody wants more.
+
+> The question becomes, how do you create an environment where you can have speculation, encourage it, but not let it get out of control?
+
+## People Mentioned## People Mentioned
 
 
 - [[Andrew Ross Sorcin]]

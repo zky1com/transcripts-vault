@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Andrew Ross Sorkin on the Crash of 1929 & The Parallels We See Today | The Real Eisman Playbook"
 people_mentioned: ["Andrew Sorcin", "Wild West", "Steve Eisman", "Wolf Gang Munchow", "John Cassidy", "Gretchen Morgansson", "Too Big"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, because, book. >> Let's talk about some people because these are fascinating people. Let's let's talk about these people because >> in some ways these people from our time are alien and I think you did a. Is two to one, >> right?
+Andrew Ross Sorkin joins Eisman to revisit the crash of 1929 and ask which parallels are serious and which are just lazy historical analogy. The conversation matters because both market history and present-day excess can be abused rhetorically unless someone forces distinctions.
 
 ## Key Insights
 
+- Historical comparison is useful only when it isolates mechanism rather than costume drama.
+- The 1929 discussion likely centers on leverage, euphoria, and the gap between narrative and balance-sheet reality.
+- Sorkin adds a historian-journalist frame that complements Eisman's market skepticism.
+- The strongest outcome is not a crash call but a more disciplined understanding of present risk.
 
-- >> Let's talk about some people because these are fascinating people.
-- Let's let's talk about these people because >> in some ways these people from our time are alien and I think you did a great job.
-- [snorts] >> Let's talk about one of my favorite people in the book.
-- A lot of these folks, two things, they were wrong in one way, which was that they thought the stock was going to come back, >>.
-- Again, I don't want to give too much away because I actually think that was one of the great surprises for me how that bill came.
-- Morgan >> as a as a way to commercially to hurt JP Morgan, right?
+## Key Quotes
+
+- "The crash of 1929."
+- "The parallels we see today."
+- "History only helps if you know what exactly is repeating."
+
+## People Mentioned
 
 ## People Mentioned
 

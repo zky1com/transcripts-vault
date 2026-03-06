@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Itâ€™s Easy to Extrapolate How Things Will Get Worse"
 people_mentioned: []
 channel: "Naval"
@@ -24,8 +24,8 @@ tools_mentioned: []
 companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-pipeline_stage: claims_done
-claims_status: done
+pipeline_stage: video_only
+claims_status: pending
 speech_status: pending
 world_status: pending
 evidence_status: pending

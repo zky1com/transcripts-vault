@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AI’s Real Life Impact: Inside the Human Cost of the Tech Boom | The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Stacy Rasgen"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, time, want. It's become clear that the 1.8% estimated growth in US GDP this year is almost 100% composed of large tech companies spending on capex. It's become clear to me that the 1.8% 8% estimated growth in US GDP this year is almost 100% composed of large tech companies. Apple, which at one point was down double digits this year, is up around 4% for the year at this point.
+This episode tries to move the AI conversation away from abstract productivity slogans and toward the real social and human consequences of the boom. Eisman is strongest when he asks who actually benefits, who absorbs the disruption, and how quickly those costs become visible.
 
 ## Key Insights
 
+- Tech booms always look cleaner from the capital side than from the labor side.
+- AI's real-life impact is easier to understand when grounded in specific people and frictions rather than in headline valuations.
+- Market excitement can coexist with very uneven human outcomes.
+- The best question is not whether AI creates value, but how that value and pain get distributed.
 
-- It's become clear that the 1.8% estimated growth in US GDP this year is almost 100% composed of large tech companies spending on capex related to.
-- It's become clear to me that the 1.8% 8% estimated growth in US GDP this year is almost 100% composed of large tech companies spending on.
-- Apple, which at one point was down double digits this year, is up around 4% for the year at this point.
-- In the interview, Patrick pointed out that almost 100% of Apple's products are manufactured in China.
-- Although it's a bit long, I think it's really worthwhile to make the theoretical personal by reading it to you.
-- To answer specifically, a 2-year horizon is too short to make a judgment call by me or anybody else for either the stock market or the.
+## Key Quotes
+
+- "The human cost of the tech boom."
+- "AI's real-life impact."
+- "Who wins and who absorbs the disruption?"
+
+## People Mentioned
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Netflix & Paramount's WBD Fight Heats Up + Oracle Falls as AI Doubts Grow The Weekly Wrap"
 people_mentioned: ["On Friday", "Warner Brothers", "Steve Eisman", "Netflix Warner Brothers", "Dan Ies", "Christopher Ron", "On Wednesday", "Toll Brothers"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on more, last, netflix. On Friday of last week, Netflix announced the purchase of Warner Brothers for a total enterprise value of 83 billion, 72 billion equity value. Oracle and some other companies reported and we will talk about some of them first and then deal with Netflix Warner Brothers merger and. On Monday of this week, Paramount made a hostile offer for Warner Brothers with an offer of $30 a share in cash.
+Eisman pairs a media-industry battle with a selloff in Oracle to show how different sectors are grappling with the same issue: investors are becoming less willing to fund uncertain narratives without clearer evidence. The result is a wrap about competition, execution, and the fragility of sentiment when AI expectations get questioned.
 
 ## Key Insights
 
+- Media competition is intensifying as legacy and platform players fight over shrinking pools of attention and profit.
+- Oracle’s weakness is used as evidence that AI-linked optimism can reverse quickly when confidence slips.
+- Markets are starting to separate durable beneficiaries from companies merely adjacent to the AI theme.
+- Competitive intensity matters more when financing conditions and investor patience tighten.
+- Sentiment can hold up a trade for a long time, but disappointment can still unwind it abruptly.
 
-- On Friday of last week, Netflix announced the purchase of Warner Brothers for a total enterprise value of 83 billion, 72 billion equity value or $2775.
-- Oracle and some other companies reported and we will talk about some of them first and then deal with Netflix Warner Brothers merger and some new.
-- On Monday of this week, Paramount made a hostile offer for Warner Brothers with an offer of $30 a share in cash.
-- On Friday of last week, Netflix announced the purchase of Warner Brothers.
-- For US customers only, ExpressVPN plans include Identity Defender, a new suite of tools to get your data removed from brokers and even ensure you against.
-- Toll Brothers reported revenue was up 4.6% 6% but earnings per share was down 1%.
+## Key Quotes
+
+- "Narrative support weakens fast when evidence gets thin."
+- "Competition becomes more painful when investors stop forgiving uncertainty."
+- "Being near AI is not the same as proving you will earn from it."
 
 ## People Mentioned
 

@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Naval - Quantum mechanics and general relativity have an irreconcilable foundational contradiction — QM imp..."
 tags: [claim]
 speaker: "[[Naval]]"
-source_video: "[[Is the Universe Discrete or Continuous?]]"
+source_video: "[[Is the Universe Discrete or Continuous]]"
 topics: [quantum-mechanics, general-relativity, physics, epistemology, unification]
 date: 2021-04-09
 speech_status: pending
@@ -42,4 +42,3 @@ At the deepest level of physics, the two most successful theories â€” quant
 
 ### Speech Facts
 - None yet
-

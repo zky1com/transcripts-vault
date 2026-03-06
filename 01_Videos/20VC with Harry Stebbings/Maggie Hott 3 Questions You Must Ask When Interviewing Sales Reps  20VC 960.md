@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Maggie Hott: 3 Questions You Must Ask When Interviewing Sales Reps | 20VC #960"
 people_mentioned: ["Peace Corps", "Africa Scotland Spain", "Kevin Harts", "Hey Kevin", "Do It", "Specific Enterprise", "Lauren Schwarz", "Lauren God"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Maggie Hott approaches sales interviewing as a pattern-recognition exercise grounded in coachability, competitive drive, and human adaptability. Her global upbringing story gives the episode a useful frame: great sellers often learn early how to build trust quickly in unfamiliar situations.
+
+## Key Insights
+
+- Interview questions should reveal how someone thinks, learns, and builds rapport under uncertainty.
+- Nontraditional backgrounds can produce unusually strong sales instincts.
+- Sales hiring improves when leaders test for behavior and self-awareness rather than only pedigree.
+- Maggie's approach is practical because it turns abstract talent talk into concrete interview prompts.
+
+## Key Quotes
+
+- "Three questions you must ask when interviewing sales reps."
+- "You really had to learn how to make new friends fast."
+- "No one really wakes up and says I'm going to go into sales."
 
 ## Full Transcript
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Shutdown Ends, Burry's New AI Warning & Disney Stumbles The Weekly Wrap"
 people_mentioned: ["Michael Bur", "Steve Eisman", "On Monday", "Suppose Meta", "Glen Shaw"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on year, company, earnings. The company reported earnings per share of a dollar versus 91 cents last year, 10% growth, and versus a consensus of 98 cents. Anyway, Paramount reported it posted revenue of 6.7 billion, which was flat versus last year, but the company outlined an additional 1.5 billion in. Now it is doing so over 6 years or expensing only 12.5 billion each year for 6 years.
+This weekly wrap covers a market balancing relief over a shutdown resolution against fresh caution from Michael Burry and renewed weakness in Disney. Eisman uses the mix to show how quickly the tape can shift between political relief and concern about fragile underlying fundamentals.
 
 ## Key Insights
 
+- Avoided political disruption can lift sentiment even when deeper economic questions remain unresolved.
+- Burry-style warnings gain traction when investors are already uneasy about crowded themes such as AI.
+- Disney is treated as an example of how legacy media still struggles with strategy, cost structure, and attention shifts.
+- Markets can celebrate short-term resolution while still carrying long-term fragility.
+- The real task is to separate temporary relief from durable improvement.
 
-- The company reported earnings per share of a dollar versus 91 cents last year, 10% growth, and versus a consensus of 98 cents.
-- Anyway, Paramount reported it posted revenue of 6.7 billion, which was flat versus last year, but the company outlined an additional 1.5 billion in savings post.
-- Now it is doing so over 6 years or expensing only 12.5 billion each year for 6 years.
-- Revenue totaled 740 million, up an impressive 66% versus last year.
-- Even at the new EPS guidance for the fiscal year of $412, earnings per share growth is still only 9%.
-- Now in 2020, Meta would have depreciated that amount over three years or 25 billion per year.
+## Key Quotes
+
+- "A resolved shutdown can help sentiment without fixing the underlying market anxiety."
+- "Warnings matter more when confidence is already brittle."
+- "Relief rallies are not the same thing as solved problems."
 
 ## People Mentioned
 

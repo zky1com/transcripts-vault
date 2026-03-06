@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The "Lone Wolf" Effect Trump, Burry & a Market on Edge The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "On Wednesday", "Gary Marcus", "Michael Bur", "Las Vegas", "There Nvidia", "Jensen Huang", "Big Short"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on equity, private, banks. The Trumpapp appointed bank regulators are much more open to banks merging and I think such mergers are actually necessary because the cost of. With the exception of City Bank, which still has a sub 10% return on tangible common equity, valuation of the large banks ranges from. These continuation vehicles allow a private equity fund to sell assets from the private equity fund to the continuation vehicle, thereby generating a new.
+Eisman uses a week of Trump headlines, Michael Burry-style contrarianism, and edgy market behavior to explore how outsized personalities influence investor psychology. The wrap is really about what happens when markets become unusually sensitive to individual actors who are seen as willing to defy consensus.
 
 ## Key Insights
 
+- Lone-wolf figures attract market attention because they embody conviction in uncertain environments.
+- Political personalities can affect sentiment even when policy outcomes remain unclear.
+- Contrarian investors gain influence when the crowd becomes unsure of the dominant narrative.
+- Markets on edge tend to overreact to strong personalities because they offer a focal point for fear or hope.
+- The lesson is to separate signal from charisma.
 
-- The Trumpapp appointed bank regulators are much more open to banks merging and I think such mergers are actually necessary because the cost of technology and.
-- With the exception of City Bank, which still has a sub 10% return on tangible common equity, valuation of the large banks ranges from a low.
-- These continuation vehicles allow a private equity fund to sell assets from the private equity fund to the continuation vehicle, thereby generating a new fee cycle.
-- Now, these vehicles amount to around 20% of all private equity sales, up from 12 to 13% in 2024.
-- That's why a bank like Bank of the Ozarks with a market cap of only 5.4 billion is valued at only one times tangible book value.
-- I mention this because I received a lot of questions about private equity and private credit.
+## Key Quotes
+
+- "In a nervous market, personalities can trade like macro variables."
+- "Conviction gets amplified when consensus starts to wobble."
+- "A lone wolf is useful to watch, but dangerous to follow blindly."
 
 ## People Mentioned
 

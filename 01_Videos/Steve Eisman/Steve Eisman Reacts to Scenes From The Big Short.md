@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Steve Eisman Reacts to Scenes From The Big Short"
 people_mentioned: ["Steve Eisman", "Real Eisman Playbook", "Steven Iceman", "Big Short", "Mark Bal", "Steve Carell", "Jared Vennett", "Ryan Gosling"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on subprime, scene, said. Now in real life that internal hedge funder Morgan Stanley existed and in the fall of 2007 Morgan Stanley took a ride off. There's a wonderful scene in the movie where Steve Carell calls Ryan Gosling and Ryan Gosling is in the bathroom at Deutsche Bank and. He says to me, "Well, why don't you call Morgan Stanley?" And I said, "What are you talking about?" He said.
+Eisman reflects on how The Big Short depicted the housing bubble, the incentives inside finance, and his own role in the crisis-era trade. The note works less as movie commentary and more as a reality check on how systems fail when everyone is paid to ignore risk until it is too late.
 
 ## Key Insights
 
+- The film captured the broad misalignment of incentives better than many technical retellings do.
+- Crisis trades often look obvious only in hindsight; living through them involves uncertainty and pressure.
+- Finance becomes dangerous when complexity helps participants avoid accountability.
+- Cultural memory tends to simplify events that were messy and institutionally entrenched.
+- Eisman’s retrospective focus stays on incentives, not just personalities.
 
-- Now in real life that internal hedge funder Morgan Stanley existed and in the fall of 2007 Morgan Stanley took a ride off.
-- There's a wonderful scene in the movie where Steve Carell calls Ryan Gosling and Ryan Gosling is in the bathroom at Deutsche Bank and they're basically.
-- He says to me, "Well, why don't you call Morgan Stanley?" And I said, "What are you talking about?" He said.
-- Street to watch the end." Near the end of the movie, Steve Carell has a meeting with the executive at Morgan Stanley.
-- That event of Morgan Stanley taking something like a $10 billion ride off was the harbinger of what was going to happen in the financial crisis.
-- >> And Steve Carell holds up his hand and says, "What do you think the probability is >> that subprime losses stop at 5%." >> The.
+## Key Quotes
+
+- "The real story was an incentive system that kept rewarding denial."
+- "In hindsight, the trade looks cleaner than it felt in real time."
+- "Complexity was part of the camouflage."
 
 ## People Mentioned
 

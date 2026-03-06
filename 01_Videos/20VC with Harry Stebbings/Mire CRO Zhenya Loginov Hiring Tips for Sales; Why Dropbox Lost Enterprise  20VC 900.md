@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mire CRO Zhenya Loginov: Hiring Tips for Sales; Why Dropbox Lost Enterprise | 20VC #900"
 people_mentioned: ["Self Serve"]
 channel: "Unknown"
@@ -41,6 +41,23 @@ last_processed_at: "2026-03-03"
 
 
 
+
+## Summary
+
+Zhenya Loginov brings a founder-operator lens to sales leadership, which makes the discussion sharper on hiring and category transitions. The Dropbox point is especially useful because it turns a famous product into a lesson about where enterprise opportunity is won or lost.
+
+## Key Insights
+
+- Technical and consulting roots can make a sales leader unusually strong at translation and system thinking.
+- Great sales hiring requires understanding how different growth stages change the profile of successful reps.
+- Dropbox lost enterprise ground not because the product was weak, but because market and motion dynamics shifted.
+- The episode rewards listeners who care about how strategy and org design interact.
+
+## Key Quotes
+
+- "Hiring tips for sales."
+- "Why Dropbox lost enterprise."
+- "I found that I loved it."
 
 ## Full Transcript
 

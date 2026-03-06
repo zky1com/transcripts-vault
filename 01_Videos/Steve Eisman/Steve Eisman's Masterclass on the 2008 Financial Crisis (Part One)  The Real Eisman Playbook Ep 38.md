@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Steve Eisman's Masterclass on the 2008 Financial Crisis (Part One) The Real Eisman Playbook Ep 38"
 people_mentioned: ["Steve Eisman", "Silicon Valley Bank"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on bank, leverage, subprime. Let's say bank A, a new bank, raises 1 billion in equity and the marching instructions are for the bank to use zero leverage. Since all bank capital and leverage ratios from a regulatory perspective are calculated via risk- weighted assets, a bank could have a higher leverage. Then the mortgage companies would originate subprime mortgage loans and sell those loans in bulk to a Wall Street investment bank or to a.
+In this masterclass, Eisman walks through the foundations of the 2008 financial crisis and explains how bad underwriting, securitization, and mispriced risk combined into systemic fragility. The emphasis is on understanding the mechanics, not just remembering the panic.
 
 ## Key Insights
 
+- The crisis began with deteriorating loan quality long before markets accepted that fact.
+- Securitization dispersed exposure in a way that made accountability harder and risk easier to underestimate.
+- Ratings, incentives, and leverage all reinforced the system’s false confidence.
+- Financial crises often build through ordinary-seeming habits rather than one dramatic error.
+- Studying the structure of 2008 remains useful because similar incentive failures can recur.
 
-- Let's say bank A, a new bank, raises 1 billion in equity and the marching instructions are for the bank to use zero leverage, meaning no.
-- Since all bank capital and leverage ratios from a regulatory perspective are calculated via risk- weighted assets, a bank could have a higher leverage ratio on.
-- Then the mortgage companies would originate subprime mortgage loans and sell those loans in bulk to a Wall Street investment bank or to a bank.
-- Now the bank makes 100 billion in loans from the 99 billion in deposits plus the 1 billion in equity.
-- Our bank A has 1 billion in equity and 1 billion in loans.
-- Our two banks might both be levered 10 to one, but on an RWA basis, the risky bank might be levered 20 to1 and the less.
+## Key Quotes
+
+- "The crisis was built one bad incentive at a time."
+- "Complex packaging did not eliminate risk; it disguised it."
+- "Systemic fragility often looks ordinary until confidence breaks."
 
 ## People Mentioned
 

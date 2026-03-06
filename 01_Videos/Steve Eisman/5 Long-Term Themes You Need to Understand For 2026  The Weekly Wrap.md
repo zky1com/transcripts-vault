@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Long-Term Themes You Need to Understand For 2026 | The Weekly Wrap"
 people_mentioned: ["Steve Eisman", "Walt Disney"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on market, consumer, tech. By 2020, after the 218 rejiggering where entertainment stocks got moved from consumer discretionary to the new communication services sector, infoch and communication services. Let's look at three consumer related sectors, healthcare, consumer discretionary, and consumer staples, and see how they have done. Yes, I know companies like Apple sell products to the consumer and Meta and Google interface with the consumer all the time and the.
+This wrap distills the bigger forces Eisman thinks will matter into 2026 rather than getting trapped in weekly noise. The strength of the episode is that it tries to rank durable themes over transient headlines.
 
 ## Key Insights
 
+- Long-term themes help investors avoid overreacting to every macro or policy swing.
+- Eisman tends to care more about structural drivers than about one-off market chatter.
+- The episode likely works by connecting policy, sector leadership, and capital flows into a medium-term framework.
+- Good weekly content becomes more valuable when it repeatedly returns to the same durable themes.
 
-- By 2020, after the 218 rejiggering where entertainment stocks got moved from consumer discretionary to the new communication services sector, infoch and communication services without consumer.
-- Let's look at three consumer related sectors, healthcare, consumer discretionary, and consumer staples, and see how they have done.
-- Yes, I know companies like Apple sell products to the consumer and Meta and Google interface with the consumer all the time and the US economy.
-- Even if we adjust for the creation of the communications sector in 2018 and the move of Disney and Netflix out of consumer discretionary and into.
-- Three, even though 70% of the US GDP is consumerdriven, the stock market's movements are less and less driven by consumer stocks.
-- Let's connect the five themes to the change in the stock market sectors over the past 10 years.
+## Key Quotes
+
+- "Five long-term themes."
+- "You need to understand what actually lasts into 2026."
+- "The weekly wrap."
+
+## People Mentioned
 
 ## People Mentioned
 

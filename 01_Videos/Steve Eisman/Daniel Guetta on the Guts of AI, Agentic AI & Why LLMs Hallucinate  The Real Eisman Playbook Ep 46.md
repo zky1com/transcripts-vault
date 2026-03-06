@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daniel Guetta on the Guts of AI, Agentic AI & Why LLMs Hallucinate | The Real Eisman Playbook Ep 46"
 people_mentioned: ["Steve Eisman", "Gary Marcus", "Danny Guetta", "Columbia Business School", "Palanteer Technologies"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, that's. It's going to look at the question, it's going to say, huh, I wonder what the next word would be. >> When I think of the value that I get out of them, that people I've worked with get out of them, that companies. It's like it's like you hear this word like it's going to save the world.
+Daniel Guetta helps Eisman move from surface-level AI chatter into model mechanics, hallucination behavior, and what agentic AI actually changes. The strength of the episode is that it gives technical detail without pretending the market implications are obvious.
 
 ## Key Insights
 
+- Hallucinations remain a core product risk because confidence and correctness still diverge.
+- Agentic AI matters because it changes workflow design, not just chat quality.
+- Understanding the guts of AI makes it easier to separate real capability from marketing language.
+- Technical explanations are most valuable when they reconnect quickly to what investors and operators should care about.
 
-- It's going to look at the question, it's going to say, huh, I wonder what the next word would be.
-- >> When I think of the value that I get out of them, that people I've worked with get out of them, that companies get out.
-- It's like it's like you hear this word like it's going to save the world.
-- It's like it's an amazing scene and sometimes I think about that when it comes to large language model where it's.
-- I don't know enough about it to tell you whether it's something I'm, you know, I think is good, I think it's bad, whatever.
-- 20% of the time I'm going to get C." >> Right?
+## Key Quotes
+
+- "The guts of AI."
+- "Why LLMs hallucinate."
+- "Agentic AI changes the operating model, not just the demo."
+
+## People Mentioned
 
 ## People Mentioned
 

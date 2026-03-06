@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Earnings Season Kickoff, Bank Earnings & Nvidia China Greenlight â€” The Friday Market Wrap!"
 people_mentioned: ["Steve Eisman"]
 channel: "Steve Eisman"
@@ -40,17 +40,22 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on tangible, bank, common. It has a return on tangible common equity below 14% but is valued higher than those banks with 15% return on tangible common equity. Now Morgan Stanley has a lower return on tangible common equity than JP Morgan but a slightly higher price tangible book value valuation. Now, ROTCE or return on tangible common equity is you take net income and you divide it by tangible common equity.
+This Friday wrap ties together bank earnings, the start of earnings season, and the Nvidia-China policy angle. The real question is how much of the market still depends on a few large narratives continuing to go right simultaneously.
 
 ## Key Insights
 
+- Bank earnings are useful because they reveal credit and activity conditions faster than many macro releases do.
+- Nvidia policy headlines matter because they affect one of the market's highest-conviction secular trades.
+- Early earnings season often sets tone through a small number of influential sectors.
+- Good wraps use these catalysts to test whether leadership is widening or narrowing.
 
-- It has a return on tangible common equity below 14% but is valued higher than those banks with 15% return on tangible common equity.
-- Now Morgan Stanley has a lower return on tangible common equity than JP Morgan but a slightly higher price tangible book value valuation.
-- Now, ROTCE or return on tangible common equity is you take net income and you divide it by tangible common equity.
-- Now this generated a return on tangible common equity of 8.7% the lowest of any large bank in the United States which is why city alone.
-- Morgan Stanley's return on tangible common equity was 18.2% 2% which is second best in class.
-- Mnt Bank, a very good solid regional bank, reported core earnings per share of $412 versus 375 last year, up 9.9% and versus the estimate of.
+## Key Quotes
+
+- "Earnings season kickoff."
+- "Bank earnings."
+- "Nvidia China greenlight."
+
+## People Mentioned
 
 ## People Mentioned
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inside the Cannabis Comeback How One Company is Beating a Broken Market  The Real Eisman Playbook"
 people_mentioned: ["Glass House Brands", "On July", "Steve Eisman", "Real Eyesman Playbook", "Truth Social", "Kyle Kazan", "Graeme Ferrar", "John Dorsy"]
 channel: "Steve Eisman"
@@ -40,17 +40,21 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, cannabis, california. It's basically it's treated and you think about I think one of the things people forget. >> Shipping cannabis because it's legal. Because it's a schedule one drug, one um you can't transport it across state lines.
+Eisman revisits cannabis through the lens of a company that is outperforming in an industry still defined by poor capital allocation and broken market structure. The discussion focuses on why operational discipline and balance-sheet realism matter more than broad enthusiasm in a sector that has repeatedly disappointed investors.
 
 ## Key Insights
 
+- Cannabis remains a structurally difficult market even when sentiment improves.
+- A single operator can outperform if it controls costs and avoids the excesses that damaged the sector.
+- Regulatory complexity and fragmented competition continue to weigh on industry economics.
+- Investors should be wary of treating a company-specific success story as proof the whole market is fixed.
+- Turnarounds in damaged sectors usually come from discipline, not from renewed hype.
 
-- It's basically it's treated and you think about I think one of the things people forget.
-- >> Shipping cannabis because it's legal.
-- Because it's a schedule one drug, one um you can't transport it across state lines.
-- They're paying $500 an ounce in the UK for California cannabis right now because they that's that's the illicit, you know, smuggled price.
-- >> It's the I think it's the most vetted agriculture workforce that's ever been built in history.
-- Most other folks costs are probably four to 6x uh what we're growing at >> four to six times in just California or people outside California.
+## Key Quotes
+
+- "A comeback in one name is not the same as a repaired industry."
+- "The sector was broken by bad discipline long before it was broken by bad sentiment."
+- "In hard markets, execution matters more than story."
 
 ## People Mentioned
 
