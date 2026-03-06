@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -56,7 +56,16 @@ Lutnick lays out a maximalist growth case: lower rates, pro-investment policy, t
 
 > Confidence plus capex is the growth flywheel.
 
-## Full Transcript## Full Transcript
+## Claims
+
+- [[Howard Lutnick - Government should be judged by outcomes rather than by how hard officials say they worked]]
+- [[Howard Lutnick - Tariffs are meant to stop foreign producers from using trade surpluses to buy America]]
+- [[Howard Lutnick - Country-specific tariffs were chosen because they are more precise than a universal tariff]]
+- [[Howard Lutnick - If companies need American market access or state help the American public should capture part of the upside]]
+- [[Howard Lutnick - America can reach 5 to 6 percent GDP growth if investment rates and domestic buildout line up]]
+- [[Howard Lutnick - America needs to restore skilled technical work rather than forcing everyone into debt-heavy college tracks]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (14787 words)</summary>

@@ -27,10 +27,10 @@ tags: ["general", "ai-regulation", "ai-jobs"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -66,6 +66,14 @@ Francis Suarez pitches Miami as a case study in low-tax, pro-growth municipal go
 
 
 
+
+## Claims
+
+- [[Francis Suarez - Miami pushed unsheltered homelessness to an 11-year low through functional-zero tactics]]
+- [[Francis Suarez - Lowering taxes and growing the economy gave Miami more capacity rather than less]]
+- [[Francis Suarez - Severe addiction is the core driver of visible street homelessness in big cities]]
+- [[Francis Suarez - Cities repel investment when they combine high taxes low safety and hostility to innovation]]
+- [[Francis Suarez - AI should make permitting and code review nearly instantaneous in city government]]
 
 ## Full Transcript
 

@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -66,6 +66,13 @@ This Science Corner special is built around optimism without naivete. Friedberg 
 
 
 
+
+## Claims
+
+- [[Cleo Abram - Many viewers want ambitious science coverage that explains progress without defaulting to doom]]
+- [[Alex Filippenko - The James Webb Space Telescope is revealing that galaxies formed earlier than astronomers expected]]
+- [[Alex Filippenko - Astronomy deserves public support because curiosity and discovery are part of what make humans human]]
+- [[Keller Rinaudo Cliffton - Autonomous logistics can save lives by extending reliable delivery into places that traditional systems fail to serve]]
 
 ## Full Transcript
 

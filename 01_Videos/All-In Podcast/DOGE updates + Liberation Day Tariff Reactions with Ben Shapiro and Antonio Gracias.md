@@ -27,10 +27,10 @@ tags: ["sales-process", "outbound", "ai-regulation", "ai-jobs"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -56,7 +56,16 @@ This episode pairs Antonio Gracias' operational view of DOGE with Ben Shapiro's 
 
 > Tariffs are being repriced as a real regime change.
 
-## Full Transcript## Full Transcript
+## Claims
+
+- [[Antonio Gracias - The surge in noncitizen Social Security numbers came mainly from asylum and notice-to-appear workflows that were expanded far beyond their original narrow use]]
+- [[Antonio Gracias - Border identity controls were weak enough that many records lacked fingerprints and obvious placeholder birthdates]]
+- [[Antonio Gracias - The same noncitizen Social Security pipeline now connects to benefits access and probable illegal voting exposure]]
+- [[Ben Shapiro - Politicians should stop promising rescue and instead remove obstacles so people can improve their own lives]]
+- [[Ben Shapiro - Government does not create jobs and America beats centralized rivals by unleashing entrepreneurs]]
+- [[David Friedberg - America needs a future-facing politics of ambition because China now owns the narrative of building at scale]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (23971 words)</summary>

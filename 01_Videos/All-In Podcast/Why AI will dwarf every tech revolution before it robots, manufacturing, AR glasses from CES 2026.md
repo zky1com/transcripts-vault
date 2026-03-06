@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -70,6 +70,13 @@ Recorded around CES 2026, this discussion argues that AI will exceed the impact 
 
 
 
+
+## Claims
+
+- [[Jason Calacanis - AI will surpass prior computing waves because it transforms both digital work and physical systems]]
+- [[Hemant Taneja - The new venture playbook is to combine startups with existing customer bases so AI transformation happens faster]]
+- [[Bob Sternfels - The biggest challenge for enterprises is no longer strategy but organizational speed]]
+- [[Bob Sternfels - Humanoid and industrial robotics will be essential because rich countries cannot fill enough manufacturing jobs]]
 
 ## Full Transcript
 

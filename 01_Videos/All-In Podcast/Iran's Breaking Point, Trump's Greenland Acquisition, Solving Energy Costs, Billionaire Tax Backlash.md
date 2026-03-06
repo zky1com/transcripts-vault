@@ -27,10 +27,10 @@ tags: ["lead-generation", "content-marketing", "ai-regulation"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-06"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -56,7 +56,14 @@ This episode connects geopolitical ambition, domestic tax politics, and energy e
 
 > Tax backlash intensifies when states look fiscally trapped.
 
-## Full Transcript## Full Transcript
+## Claims
+
+- [[David Friedberg - Inflation and economic scarcity make regime instability in Iran increasingly inevitable]]
+- [[Chamath Palihapitiya - Information warfare in closed societies is now as important as conventional pressure because connectivity can reveal or conceal the real mosaic]]
+- [[David Sacks - Greenland makes more strategic sense as part of the US security sphere than as a Danish possession]]
+- [[Chamath Palihapitiya - Letting data centers pay the full cost of their own power demand is a necessary first step but not enough to solve the wider electricity crunch]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (13395 words)</summary>
