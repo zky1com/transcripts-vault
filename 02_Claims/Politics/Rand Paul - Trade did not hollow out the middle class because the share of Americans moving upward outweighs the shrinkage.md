@@ -1,8 +1,8 @@
-﻿---
+---
 tags: [claim]
 speaker: "[[Rand Paul]]"
 source_video: "[[Senator Rand Paul Tariffs, Debt, China, and a Warning for America]]"
-topics: [trade, economics, middle-class]
+topics: [trade, middle-class, capitalism, economics]
 date: 2025-09-05
 title: "Rand Paul - Trade did not hollow out the middle class because the share of Americans moving upward outweighs the shrinkage"
 speech_status: pending
@@ -11,24 +11,24 @@ evidence_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 claim_source_mode: full_transcript_only
 ---
 
 # Rand Paul - Trade did not hollow out the middle class because the share of Americans moving upward outweighs the shrinkage
 
 ## Position
-Rand Paul argues that trade did not hollow out the middle class and that the smaller middle-class share largely reflects more people moving upward rather than downward.
+Rand Paul argues that trade did not hollow out the middle class because the share of Americans moving upward outweighs the shrinkage.
 
 ## Evidence Cited
-- He says the middle-class share changed only modestly over decades.
-- He says the lower-class share also fell.
-- He says the difference shows more people moved into the upper-income category, not that the middle was destroyed.
+- He says the middle class share slipped only modestly while the lower class share fell more meaningfully.
+- He argues the missing share moved upward into the upper class rather than downward into poverty.
+- He uses constant-dollar household-income framing to reject the hollowed-out story.
 
 ## Logic Chain
-1. Paul challenges the standard hollowed-out middle-class narrative.
-2. He interprets the data as upward movement rather than collapse.
-3. Therefore the claim captures his argument that trade coincided with broad wealth gains.
+1. Paul compares class shares over time to test the hollowing-out claim.
+2. If the lower share shrinks while the upper share grows, the middle-class decline is not evidence of broad downward immiseration.
+3. That supports the claim that upward mobility outweighs the shrinkage story.
 
 ## Evidence Notes
 

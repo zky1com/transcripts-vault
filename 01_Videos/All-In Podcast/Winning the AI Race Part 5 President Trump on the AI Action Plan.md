@@ -27,10 +27,10 @@ tags: ["stock-analysis", "market-data", "ai-jobs", "lead-generation"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 6
+claims_count: 3
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0

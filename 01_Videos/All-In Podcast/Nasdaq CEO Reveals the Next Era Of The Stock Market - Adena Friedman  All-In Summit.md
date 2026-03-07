@@ -27,10 +27,10 @@ tags: ["stock-analysis", "market-data", "ai-regulation"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 5
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0

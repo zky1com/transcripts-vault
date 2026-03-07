@@ -1,5 +1,5 @@
 ---
-title: "Grok 4 Wows, The Bitter Lesson, Elonâ€™s Third Party, AI Browsers, SCOTUS backs POTUS on RIFs"
+title: "Grok 4 Wows, The Bitter Lesson, ElonÃ¢â‚¬â„¢s Third Party, AI Browsers, SCOTUS backs POTUS on RIFs"
 people_mentioned: ["Lake Ko", "Pasal Aqua", "Heath Ra Boy", "Mom Dammy", "Travis Kalanick"]
 channel: "All-In Podcast"
 video_id: "KypnjJSKi4o"
@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -56,7 +56,15 @@ This episode weaves together AI capability gains, political fragmentation, and p
 
 > Scale is still winning.
 
-## Full Transcript## Full Transcript
+## Claims
+
+- [[Heath Raboy - The bitter lesson keeps winning because scale and compute still beat handcrafted AI tricks]]
+- [[Travis Kalanick - If autonomous driving works it can unlock both robotaxis and automated food logistics because the same autonomy stack moves people or things]]
+- [[Travis Kalanick - Food automation only works economically when the system replaces the whole assembly workflow instead of adding expensive machines beside human labor]]
+- [[Chamath Palihapitiya - A new Musk-backed political party would need candidates with mass-distribution and communication skill more than a detailed shared agenda]]
+- [[Chamath Palihapitiya - The Supreme Court was right to let Trump plan federal workforce reductions because an executive who cannot change personnel cannot actually execute]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (16230 words)</summary>

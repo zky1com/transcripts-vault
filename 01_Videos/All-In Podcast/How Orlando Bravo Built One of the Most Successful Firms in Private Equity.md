@@ -27,10 +27,10 @@ tags: ["lead-generation", "b2b-marketing", "ai-jobs", "valuation"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 5
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -63,7 +63,7 @@ Orlando Bravo's interview is about operating discipline as much as finance. The 
 - [[Orlando Bravo - Investment firms stay sharper when they keep teams small and portfolios concentrated]]
 - [[Orlando Bravo - Puerto Rico would likely be better off as a US state than staying in its current in-between status]]
 
-## Full Transcript## Full Transcript
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (5622 words)</summary>

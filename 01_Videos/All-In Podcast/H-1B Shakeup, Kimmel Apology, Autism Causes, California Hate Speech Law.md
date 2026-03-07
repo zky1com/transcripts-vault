@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -56,7 +56,15 @@ This episode is about legitimacy: who gets to speak, who gets to enter, and whic
 
 > Trust erodes when institutions punish dissent.
 
-## Full Transcript## Full Transcript
+## Claims
+
+- [[David Sacks - A steep H-1B fee helps push visas back toward genuinely scarce high-skill jobs instead of low-end consulting arbitrage]]
+- [[Chamath Palihapitiya - The H-1B system has drifted far from its purpose because usage volume salaries and sponsor mix all point to structural abuse]]
+- [[David Friedberg - America should run a modern Operation Paperclip for top scientists instead of relying only on a generic visa lottery]]
+- [[David Sacks - California hate-speech regulation is a censorship mechanism because hate speech has no stable constitutional definition]]
+- [[David Friedberg - YouTube restriction decisions matter much more than creators assume because safe-mode networks silently block flagged videos]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (15502 words)</summary>

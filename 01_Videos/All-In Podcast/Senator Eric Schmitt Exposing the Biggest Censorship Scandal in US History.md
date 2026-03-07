@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -77,6 +77,7 @@ Eric Schmitt uses the interview to tie together his Missouri attorney general wo
 - [[Eric Schmitt - The censorship issue is fundamentally a constitutional and administrative-overreach problem, not just a culture-war slogan]]
 - [[Eric Schmitt - The key legal line is the difference between government persuasion and coercion when dealing with platforms]]
 - [[Eric Schmitt - The censorship record was a coordinated pattern rather than a collection of isolated mistakes]]
+- [[Eric Schmitt - Section 230 only makes sense if platforms act like open forums instead of secretly publishing and throttling disfavored views]]
 
 ## Full Transcript
 

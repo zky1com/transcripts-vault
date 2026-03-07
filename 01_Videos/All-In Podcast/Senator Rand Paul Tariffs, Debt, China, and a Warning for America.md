@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 6
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0

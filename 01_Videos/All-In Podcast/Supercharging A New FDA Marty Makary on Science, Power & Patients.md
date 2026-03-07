@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -77,6 +77,7 @@ Marty Makary describes his FDA role as an attempt to push healthcare institution
 - [[Marty Makary - Price transparency is an obvious healthcare reform that faced resistance because incentives were misaligned]]
 - [[Marty Makary - The FDA should be used to align patient interests evidence and administrative power more directly]]
 - [[Marty Makary - Public trust in health institutions improves when leaders show more transparency humility and common sense]]
+- [[Marty Makary - The United States is losing biotech competitiveness because slow trials contracting and reviews push early-stage work overseas]]
 
 ## Full Transcript
 

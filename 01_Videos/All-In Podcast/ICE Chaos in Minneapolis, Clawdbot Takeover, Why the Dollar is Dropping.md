@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 3
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-07"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -56,7 +56,15 @@ This episode combines immigration disorder, AI product displacement, and currenc
 
 > The interface layer is changing faster than the rules around it.
 
-## Full Transcript## Full Transcript
+## Claims
+
+- [[David Sacks - Minneapolis became a test case for anti-ICE organized resistance rather than simple peaceful protest]]
+- [[David Friedberg - The falling dollar matters because asset holders get richer in nominal terms while wage earners without assets fall further behind]]
+- [[David Friedberg - The US debt spiral becomes far more dangerous once higher Treasury yields force massive refinancing at much more expensive rates]]
+- [[David Sacks - A California wealth tax would not solve inequality because the money would be captured by the same political machine already wasting the state budget]]
+- [[David Sacks - California cannot be durably fixed without changing pension promises or creating a real bankruptcy path for the state]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (17601 words)</summary>

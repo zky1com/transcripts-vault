@@ -11,24 +11,24 @@ evidence_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 claim_source_mode: full_transcript_only
 ---
 
 # Eric Schmitt - Government pressure on platforms still threatens free speech even when censorship is outsourced rather than formally ordered
 
 ## Position
-Eric Schmitt says free-speech violations do not require a formal censorship order because government pressure can become unconstitutional when it coerces private platforms into suppressing speech.
+Eric Schmitt argues that government pressure on platforms threatens free speech even when censorship is outsourced rather than formally ordered.
 
 ## Evidence Cited
-- He frames the issue as government pressure on platforms, not only direct state orders.
-- He says the censorship problem matters even when it is outsourced.
-- He treats the boundary between persuasion and coercion as the key constitutional issue.
+- He says the government cannot censor speech and also cannot outsource that censorship to private companies.
+- He describes White House officials cursing out platforms and warning them they were not doing enough.
+- He says threats around investigations and Section 230 transformed platform cooperation into coercion.
 
 ## Logic Chain
-1. Schmitt is broadening the censorship test beyond formal command-and-control.
-2. He argues coercive pressure through intermediaries still threatens the First Amendment.
-3. That supports the claim that outsourced censorship can still be a free-speech violation.
+1. Schmitt treats the constitutional issue as state action carried out through intermediaries.
+2. Once government pressure materially drives platform suppression, the censorship remains governmental in substance.
+3. That supports the claim that outsourced censorship still threatens free speech.
 
 ## Evidence Notes
 

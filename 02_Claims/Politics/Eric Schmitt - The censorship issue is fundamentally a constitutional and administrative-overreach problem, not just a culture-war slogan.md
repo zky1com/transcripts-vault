@@ -11,24 +11,24 @@ evidence_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-07"
 claim_source_mode: full_transcript_only
 ---
 
 # Eric Schmitt - The censorship issue is fundamentally a constitutional and administrative-overreach problem, not just a culture-war slogan
 
 ## Position
-Eric Schmitt says the censorship fight should be understood as a serious constitutional and administrative-overreach issue rather than dismissed as a shallow culture-war talking point.
+Eric Schmitt argues that the censorship issue is fundamentally a constitutional and administrative-overreach problem, not just a culture-war slogan.
 
 ## Evidence Cited
-- He frames censorship as a constitutional and administrative overreach problem.
-- He ties the issue to his attorney general work and legal process.
-- He emphasizes institutional mechanics over pure outrage rhetoric.
+- He says the issue was the greatest affront to the First Amendment in American history.
+- He frames the lawsuit around executive agencies working together to silence Americans.
+- He says the core question is whether the state crossed constitutional limits, not whether one tribe won a media argument.
 
 ## Logic Chain
-1. Schmitt is trying to shift the issue into the domain of constitutional structure and administrative abuse.
-2. He presents it as a legal and institutional question first.
-3. That supports the claim that he sees censorship as more than a slogan.
+1. Schmitt repeatedly grounds the dispute in constitutional structure and agency behavior.
+2. That framing moves the issue away from partisan branding and into limits on state power.
+3. That supports the claim that censorship is a constitutional and administrative-overreach issue.
 
 ## Evidence Notes
 
