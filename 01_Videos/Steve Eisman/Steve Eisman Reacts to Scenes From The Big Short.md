@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -80,11 +80,11 @@ Eisman reflects on how The Big Short depicted the housing bubble, the incentives
 
 ## Claims
 
-- [[his job and - Hi, this is Steve Eisman of the Real Eisman Playbook]]
-- [[his job and - We're going to look at some scenes from the Big Short movie, and I'm going to tell you what was]]
-- [[his job and - While the whole world was having a big old party, a few outsiders saw what no one else could]]
-- [[his job and - They looked so in the movie Mark Bal is me]]
-- [[his job and - My name was Change and that's played by Steve Carell]]
+- [[Steve Eisman - The Big Short captured the broad truth of the crisis even though it used literary license]]
+- [[Steve Eisman - In the film Mark Baum is based on him]]
+- [[Steve Eisman - Steve Carell played the character based on him in The Big Short]]
+- [[Steve Eisman - A few outsiders saw the housing collapse coming while the wider market was still partying]]
+- [[Steve Eisman - The movie scene where his wife says he hates his job captured a real truth about his stress even if the exact conversation never happened]]
 
 ## Full Transcript
 

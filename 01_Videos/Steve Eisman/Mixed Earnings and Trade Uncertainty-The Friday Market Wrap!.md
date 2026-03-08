@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -76,9 +76,9 @@ This wrap tracks a week where uneven earnings and unresolved trade questions pul
 
 ## Claims
 
-- [[the US - But since April 8th, the mark has had market has had a massive rally]]
-- [[the US - As of the end of today, the S&P 500 was down only around 3.5% for the year and NASDAQ was]]
-- [[the US - And the US payroll gain of 177,000 in April was very, very solid]]
+- [[Steve Eisman - Since the April 8 low the market has staged a massive rally]]
+- [[Steve Eisman - By the end of that week the S&P 500 was down only about 3.5% for the year and Nasdaq only about 7%]]
+- [[Steve Eisman - The April US payroll gain of 177000 was very solid]]
 
 ## Full Transcript
 

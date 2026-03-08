@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -76,14 +76,14 @@ Eisman links lessons from 2008 to a present-day economy where gains and pain are
 
 ## Claims
 
-- [[On October - All the problems that the investment banks and the banks had, that was not an equity story]]
-- [[On October - What basically that did was the balance sheets of all these firms got tied together in a spiderweb that was]]
-- [[On October - What are the warning flags that you are looking at that indicate that the business has serious structural problems versus]]
-- [[On October - And now I'm going to tell you where the fraud was]]
-- [[On October - I think what I'm about to tell you is the biggest fraud in human history]]
-- [[On October - I thought it was a great event and so we are going to share it with you]]
-- [[On October - Steve Eisman, I would say I didn't read his bio, but the introduction is that he is famous for calling]]
-- [[On October - But um the movie The Big Short, if you haven't had an opportunity to see the movie or read Michael]]
+- [[Steve Eisman - The core failures of the 2008 crisis were a bond and structured-finance story rather than an equity story]]
+- [[Steve Eisman - Credit-default swaps tied financial-institution balance sheets into a dangerous web of interconnected risk]]
+- [[Steve Eisman - The financial crisis came from too much leverage, a collapsing asset class, systemically important holders, and derivatives]]
+- [[Steve Eisman - Risk-weighted capital frameworks encouraged banks to load up on assets that only looked safe by historical measures]]
+- [[Steve Eisman - Housing could fall nationally once underwriting standards deteriorated enough]]
+- [[Steve Eisman - Today's US economy is strongly AI-driven and increasingly K-shaped]]
+- [[Steve Eisman - The current AI capex boom differs from the dot-com bubble because the spending is funded by giant firms' own cash flow]]
+- [[Ivy Zelman - Steve Eisman is famous for calling the top of the housing market]]
 
 ## Full Transcript
 

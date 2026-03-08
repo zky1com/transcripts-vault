@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -70,9 +70,9 @@ The discussion centers on it's, netflix, more. Everyone's like, "Okay, there's g
 
 ## Claims
 
-- [[ARK Invest - Brainstorm format treats space-compute narratives as scenario inputs rather than base-case assumptions]]
-- [[ARK Invest - Compute-infrastructure competition now spans terrestrial network assets and potential orbital extensions]]
-- [[ARK Invest - Space-based data-center concepts are moving from speculation toward strategic compute discourse]]
+- [[Brett Winton - Space-compute ideas are best treated as scenario inputs rather than immediate base-case assumptions]]
+- [[Brett Winton - Compute infrastructure competition may eventually span both terrestrial networks and orbital capacity]]
+- [[Brett Winton - Space-based data centers are moving from science-fiction style speculation into strategic compute discussion]]
 
 ## Full Transcript
 <details>

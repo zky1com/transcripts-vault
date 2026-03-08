@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 6
@@ -75,6 +75,6 @@ Hello everyone. Welcome back to another episode of the brainstorm. Today we're j
 
 ## Claims
 
-- [[ARK Invest - Tesla is vertically integrating chip fabrication to reduce future AI and robotics capacity constraints]]
-- [[ARK Invest - Tesla shareholder vote approved the CEO package and reinforced milestone based incentive alignment]]
+- [[Brett Winton - Tesla is vertically integrating more of chip fabrication to reduce future AI and robotics bottlenecks]]
+- [[Sam Korus - Tesla's shareholder vote on the CEO package reinforced milestone-based incentive alignment]]
 

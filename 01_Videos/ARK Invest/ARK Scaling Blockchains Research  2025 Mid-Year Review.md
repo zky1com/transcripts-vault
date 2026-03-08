@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -66,9 +66,9 @@ The discussion centers on layer, more, ethereum. Taken scaling um very seriously
 
 ## Claims
 
-- [[ARK Invest - Blockchain scaling progress is shifting debate from feasibility to integration and market structure]]
-- [[ARK Invest - Mid-year digital-asset thesis updates emphasize execution metrics over narrative cycles]]
-- [[ARK Invest - Scaled blockchains are increasingly positioned as infrastructure for next-generation financial rails]]
+- [[Lorenzo Valente - Blockchain scaling competition is shifting from raw feasibility toward integration and market structure]]
+- [[Lorenzo Valente - Layer 2 adoption is being driven by both lower costs and applications built by major platforms]]
+- [[Lorenzo Valente - Scaled blockchains are becoming financial rails as exchanges and fintech platforms launch their own chains]]
 
 ## Full Transcript
 <details>

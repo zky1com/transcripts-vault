@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -70,7 +70,7 @@ The discussion centers on jensen, company, nvidia. Only four companies in the wo
 
 ## Claims
 
-- [[60 Minutes - AI demand concentration made Nvidia valuation expansion extremely rapid]]
+- [[Jensen Huang - Nvidia's valuation surged rapidly because demand for AI infrastructure became insatiable]]
 - [[Jensen Huang - AI is positioned as a general-purpose transformation layer across industries]]
 - [[Jensen Huang - Nvidia scaled from graphics roots to core AI infrastructure through accelerated computing]]
 

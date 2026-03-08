@@ -27,10 +27,10 @@ tags: ["portfolio-management", "stock-analysis", "market-data"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 5
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -72,12 +72,12 @@ This episode looks at the complexity of taking a company public through the pers
 
 ## Claims
 
-- [[AI and the - Let's talk about how you became CFO of New York Stock Exchange, which in its day was an iconic IPO]]
-- [[AI and the - What did it take to take this company public and what was that like]]
-- [[AI and the - Today, we're going to explore something that very few people on planet Earth actually know, which is what does it]]
-- [[AI and the - So, the first thing that we had to do is we had to ask ourselves what would the company look]]
-- [[AI and the - If we were going to take it public, how do we change it]]
-- [[AI and the - Really critical to being able to do all of these things is to have the right people that help you]]
+- [[Steve Eisman - Taking a company public starts by redesigning it to operate like a real for-profit public business]]
+- [[Amy Butte - The New York Stock Exchange needed public-company currency to compete in a consolidating exchange market]]
+- [[Amy Butte - IPO readiness required rebuilding budgeting controls and operating systems rather than just hiring bankers]]
+- [[Amy Butte - A company cannot credibly go public while relying on budget plugs instead of real financial planning]]
+- [[Amy Butte - Going public forces a company to change both its controls and its internal mindset]]
+- [[Amy Butte - Roadshow preparation starts long before launch because investors should know the company before the formal pitch]]
 
 ## Full Transcript
 

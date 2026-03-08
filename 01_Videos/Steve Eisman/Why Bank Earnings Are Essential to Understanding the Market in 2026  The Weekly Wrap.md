@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -68,10 +68,10 @@ Eisman explains why bank earnings remain essential reading for understanding the
 
 ## Claims
 
-- [[Fed Chairman Powell - It's the first week of earnings season and since the banks report first, I will be focusing on the banks]]
-- [[Fed Chairman Powell - Signs that the economy is strengthening or weakening will show up in bank data usually first]]
-- [[Fed Chairman Powell - As the stock market has gone up for years now, that increased wealth has gone to upper income levels]]
-- [[Fed Chairman Powell - But the bottom 80 to 90% of consumers have not kept up]]
+- [[Steve Eisman - Bank earnings are one of the best early readouts on whether the economy is strengthening or weakening]]
+- [[Steve Eisman - The stock market's gains have mainly enriched upper-income households while the bottom 80 to 90 percent have not kept up]]
+- [[Steve Eisman - The market has become increasingly unmoored from the day-to-day lives of most Americans]]
+- [[Steve Eisman - Index investing reinforces tech dominance and will make the next real correction faster and more violent]]
 
 ## Full Transcript
 

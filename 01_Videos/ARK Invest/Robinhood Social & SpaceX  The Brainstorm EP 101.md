@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 6
@@ -81,6 +81,6 @@ Welcome to the brainstorm episode 101. We made it. Went fishing for compliments 
 
 ## Claims
 
-- [[ARK Invest - Robinhood is moving upmarket through professional trader features and workflow depth]]
-- [[ARK Invest - Broker platforms are converging toward execution plus embedded AI analysis experiences]]
+- [[Nick Grous - Robinhood is moving upmarket by adding professional trader features and deeper workflows]]
+- [[Nick Grous - Brokerage platforms are converging toward execution paired with embedded AI analysis]]
 

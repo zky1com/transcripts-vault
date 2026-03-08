@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -74,10 +74,10 @@ Eisman examines whether renewed meme-stock activity is a harmless burst of specu
 
 ## Claims
 
-- [[General Motors - All three wireless companies reported T-Mobile has a story and a relatively simple one]]
-- [[General Motors - Tesla's numbers were anticipated to be bad, and they were still bad]]
-- [[General Motors - The meme short attack is trying to make a comeback]]
-- [[General Motors - Getting involved with these meme stocks can be harmful to your health]]
+- [[Steve Eisman - T-Mobile keeps taking share because it combines the best network with low-cost pricing]]
+- [[Steve Eisman - Tesla's reported numbers were bad even relative to already low expectations]]
+- [[Steve Eisman - The meme-stock short squeeze is trying to make a comeback]]
+- [[Steve Eisman - Getting involved with meme stocks can be harmful to your financial health]]
 
 ## Full Transcript
 

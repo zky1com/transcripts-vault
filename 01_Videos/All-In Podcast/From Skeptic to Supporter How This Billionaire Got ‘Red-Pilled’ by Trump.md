@@ -24,13 +24,13 @@ tools_mentioned: []
 companies_mentioned: []
 topics: ["product-management", "product-discovery", "product-strategy"]
 tags: ["product-management", "product-discovery", "product-strategy"]
-pipeline_stage: video_only
-claims_status: pending
+pipeline_stage: claims_done
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -58,10 +58,10 @@ This short episode tracks a common post-2020 elite political arc: someone who be
 
 ## Claims
 
-- [[Interview guest - Media distrust deepened when mainstream outlets omitted key context from politically charged stories]]
-- [[Interview guest - Watching original source material pushed him from anti-Trump sentiment toward first-principles skepticism]]
-- [[Interview guest - Removing internal gatekeepers made his public politics more candid and authentic]]
-- [[Interview guest - Long-form media and direct online communication now reward more authentic public voices]]
+- [[Mark Pincus - Media distrust deepened when mainstream outlets omitted key context from politically charged stories]]
+- [[Mark Pincus - Watching original source material pushed him from anti-Trump sentiment toward first-principles skepticism]]
+- [[Mark Pincus - Removing internal gatekeepers made his public politics more candid and authentic]]
+- [[Mark Pincus - Long-form media and direct online communication now reward more authentic public voices]]
 
 ## Full Transcript
 

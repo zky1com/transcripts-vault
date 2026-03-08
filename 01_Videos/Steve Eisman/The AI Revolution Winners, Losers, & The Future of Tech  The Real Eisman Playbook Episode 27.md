@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -76,13 +76,13 @@ Eisman surveys the AI landscape to separate likely winners from likely losers an
 
 ## Claims
 
-- [[When Trump - We are in an unprecedented buildout of essentially the next layer of the way humans are going to interact and]]
-- [[When Trump - I think everybody would agree this is a revolutionary period]]
-- [[When Trump - But in revolutions there are winners and there are losers]]
-- [[When Trump - It all is waiting on when they finally double down on Gemini partnership and actually give us something that's going]]
-- [[When Trump - They can mine their data in a way that basically no other company in the world can mine data]]
-- [[When Trump - But where they're going on the commercial side, oh my god, because now they're taking that technology that is going]]
-- [[When Trump - Hi, it's Steve Eisman and this is another episode of the real Eisman playbook and today I have Dan Ies]]
+- [[Dan Ives - AI is driving an unprecedented buildout of the next infrastructure layer for how people and enterprises interact]]
+- [[Dan Ives - The AI revolution is creating clear winners and losers across tech]]
+- [[Dan Ives - Apple's next catalyst depends on fully embracing AI, likely through a deeper Gemini partnership]]
+- [[Dan Ives - Palantir can mine enterprise and government data in ways few other companies can match]]
+- [[Dan Ives - Palantir's commercial AI expansion is the key reason it can keep compounding from here]]
+- [[Dan Ives - The biggest current AI losers are legacy IT-services and software firms that were slow to pivot]]
+- [[Steve Eisman - The AI period is revolutionary enough that investors need to think in terms of winners and losers]]
 
 ## Full Transcript
 

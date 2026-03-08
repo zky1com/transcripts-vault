@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 15
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 15
@@ -67,9 +67,9 @@ Antonio Gracias describes DOGE as a fast, systems-level attempt to map, audit, a
 
 ## Claims
 
-- [[All-In Podcast - Legacy federal systems complexity creates execution risk but also large upside for focused modernization teams]]
-- [[All-In Podcast - Public trust in government reform depends on transparent methods as much as headline findings]]
-- [[All-In Podcast - Speed-versus-rigor tension is a core governance tradeoff in large-scale public-sector efficiency drives]]
+- [[Antonio Gracias - The federal government is far more operationally complex than even a difficult corporate turnaround]]
+- [[Antonio Gracias - Reform efforts need transparent metrics so civil servants and the public can see whether service is improving]]
+- [[Antonio Gracias - Voting systems should be run to a zero-defect standard because an illegal vote cancels out a lawful one]]
 - [[Antonio Gracias - Government efficiency programs gain broad support when framed around waste-fraud-abuse reduction]]
 - [[Antonio Gracias - Sampling-based audit workflows can surface high-impact anomalies before full-system modernization is feasible]]
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -70,10 +70,10 @@ This wrap connects three very different market stories: a speculative move in si
 
 ## Claims
 
-- [[some thoughts on - It was $72 an ounce at the end of 2025 and closed January at around $115, an increase of around]]
-- [[some thoughts on - There is more going on in silver than just mere speculation]]
-- [[some thoughts on - Proctor's organic sales growth was zero and volume fell 1%]]
-- [[some thoughts on - This is the lower part of the K and our K-shaped economy]]
+- [[Steve Eisman - Silver rose from about $72 an ounce at the end of 2025 to about $115 by the end of January 2026]]
+- [[Steve Eisman - The move in silver reflects more than speculation because traders are demanding physical delivery amid a supply shock]]
+- [[Steve Eisman - Procter & Gamble's zero organic sales growth and 1% volume decline show consumer strain]]
+- [[Steve Eisman - Weak staple-company volumes represent the lower part of the K-shaped economy]]
 
 ## Full Transcript
 

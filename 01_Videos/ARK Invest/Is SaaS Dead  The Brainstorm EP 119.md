@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 6
@@ -73,6 +73,6 @@ Nick, is SAS dead? >> Questions around growth, multiples collapsing, layoffs eve
 
 ## Claims
 
-- [[ARK Invest - AI generated software is compressing moat durability assumptions across listed SaaS firms]]
-- [[ARK Invest - SaaS is not disappearing but leadership is expected to rotate during AI transition]]
+- [[Frank Downing - AI-generated software is compressing the durability of moats across many listed SaaS firms]]
+- [[Frank Downing - SaaS is not disappearing but leadership is likely to rotate as AI-native companies rise]]
 

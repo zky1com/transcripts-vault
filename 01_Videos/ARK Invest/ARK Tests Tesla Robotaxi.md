@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -60,9 +60,9 @@ The discussion centers on it's, right, safety. It's it's just like we're going t
 
 ## Claims
 
-- [[ARK Invest - Early robotaxi deployment analysis treats network behavior as central to service quality]]
-- [[ARK Invest - Live robotaxi field tests prioritize operational UX and trip-level reliability over headline claims]]
-- [[ARK Invest - Real-world autonomous mobility research requires blending qualitative field notes with quantitative modeling]]
+- [[Sam Korus - Early robotaxi analysis should focus on network behavior and ride liquidity rather than only individual vehicles]]
+- [[Brett Winton - Live robotaxi field tests are most useful for judging trip-level reliability and operational experience]]
+- [[Brett Winton - Autonomous mobility research needs both qualitative ride observations and quantitative fleet economics]]
 
 ## Full Transcript
 <details>

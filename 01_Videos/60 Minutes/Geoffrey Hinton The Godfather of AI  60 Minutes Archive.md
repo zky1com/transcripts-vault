@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -66,7 +66,7 @@ The discussion centers on hinton, don't, things. In 5 years time, >> I think in 
 
 ## Claims
 
-- [[60 Minutes - Public institutions are likely underprepared for frontier AI governance complexity]]
+- [[Geoffrey Hinton - Public institutions are entering frontier AI governance with enormous uncertainty and no guaranteed path to safety]]
 - [[Geoffrey Hinton - AI can deliver enormous benefits while still carrying non-trivial takeover risk]]
 - [[Geoffrey Hinton - Humanity may soon face machine systems more intelligent than humans]]
 

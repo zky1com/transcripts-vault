@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -62,9 +62,9 @@ The discussion centers on it's, because, right. >> No, it's it's it's a double-e
 
 ## Claims
 
-- [[ARK Invest - Satellite deployment scale is reinforcing space-infrastructure platform effects]]
-- [[ARK Invest - Space-sector narratives are increasingly integrated with capital-markets and funding-cycle interpretation]]
-- [[ARK Invest - SpaceX launch cadence and booster reusability are being treated as compounding performance advantages]]
+- [[Sam Korus - Satellite deployment scale reinforces platform effects in space infrastructure]]
+- [[Brett Winton - Space narratives increasingly need to be interpreted through both technical progress and capital market dynamics]]
+- [[Brett Winton - SpaceX launch cadence and booster reusability are compounding advantages rather than isolated milestones]]
 
 ## Full Transcript
 <details>

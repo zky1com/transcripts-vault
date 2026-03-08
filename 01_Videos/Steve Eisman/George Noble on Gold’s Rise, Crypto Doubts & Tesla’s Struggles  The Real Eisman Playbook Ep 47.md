@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -78,13 +78,13 @@ Steve Eisman interviews George Noble about the crosscurrents driving gold, crypt
 
 ## Claims
 
-- [[George Noble who - You know, normally on the show we have sellside site analysts, we have market strategists, we've done book reviews, but]]
-- [[George Noble who - So today my guest is George Noble who used to run one of the largest funds at Fidelity]]
-- [[George Noble who - We've had sellside analysts, we've had economists, we've had political commentators, but we really haven't had is an old-fashioned buyside]]
-- [[George Noble who - So, before we start, some of my viewers know who you are]]
-- [[George Noble who - So, it's not my first rodeo, as you can tell from my gray hair]]
-- [[George Noble who - And I went to work for this little company called Fidelity Investments, which only had 8 billion under management as]]
-- [[George Noble who - Um, and by the way, just a footnote, Fidelity had lost money in the 70s]]
+- [[Steve Eisman - George Noble brings an old-school buyside perspective that differs from the show's usual strategist and commentator guests]]
+- [[George Noble - He used to run one of Fidelity's largest funds]]
+- [[George Noble - He has been investing since 1981 and is not facing his first market cycle]]
+- [[George Noble - Fidelity managed only about 8 billion dollars when he joined the firm]]
+- [[George Noble - Fidelity had actually lost money in the 1970s before its later growth]]
+- [[George Noble - The Fidelity Overseas Fund was the number one mutual fund in the country in his first year running it]]
+- [[George Noble - His market framework emphasizes rotation dispersion and stock-picking rather than a single top-down macro bet]]
 
 ## Full Transcript
 

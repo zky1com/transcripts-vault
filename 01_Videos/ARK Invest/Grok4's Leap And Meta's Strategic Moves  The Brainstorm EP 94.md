@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 15
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 15
@@ -60,9 +60,9 @@ The discussion centers on it's, right, yeah. Grock 4 kind of makes sense that it
 
 ## Claims
 
-- [[ARK Invest - Frontier AI competition is increasingly evaluated as cadence competition, not single-model competition]]
-- [[ARK Invest - Grok 4 benchmark gains indicate a meaningful near-term frontier jump but require deployment validation]]
-- [[ARK Invest - Meta strategic moves are interpreted through competitive response dynamics in frontier AI cycles]]
+- [[Brett Winton - Frontier AI competition is increasingly about release cadence rather than a single model moment]]
+- [[Nick Grous - Grok 4 benchmark gains look meaningful but still need validation in actual deployment]]
+- [[Nick Grous - Meta's AI moves should be read as competitive responses within a fast-moving frontier cycle]]
 
 ## Full Transcript
 <details>

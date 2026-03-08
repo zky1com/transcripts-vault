@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -70,13 +70,13 @@ Eisman examines whether the market’s technical backdrop still supports staying
 
 ## Claims
 
-- [[you - So technical strategist seeks to identify where all the big picture trends are]]
-- [[you - And the interesting part about using charts is you can likely pick up clues]]
-- [[you - And then the tariffs to me were the match for wiping out that bullish sentiment]]
-- [[you - I think this is one table that does worry me big picture]]
-- [[you - But if I'm going to worry about one risk for the rest of the year is that Hi, this is]]
-- [[you - And today our guest is Todd Sone, technical strategist at Strategus]]
-- [[you - Actually, our first guest was Dan Clifton, who's the politics analyst at Strategus]]
+- [[Todd Sone - Technical strategists try to identify the big-picture trends across asset classes]]
+- [[Todd Sone - Charts can reveal clues about changing fundamentals and investor behavior before narratives fully catch up]]
+- [[Todd Sone - The tariff shock was the match that wiped out bullish sentiment earlier in the year]]
+- [[Todd Sone - Concentration in Apple Microsoft and Nvidia is now a major structural market risk for passive investors]]
+- [[Todd Sone - The main risk for the rest of the year is that the Mag 7 could roll over and drag the broader market down]]
+- [[Steve Eisman - Todd Sone is the technical strategist at Strategus]]
+- [[Steve Eisman - Dan Clifton was the show's first Strategus guest and covers politics]]
 
 ## Full Transcript
 

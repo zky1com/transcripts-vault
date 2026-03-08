@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -69,10 +69,10 @@ The first part of the episode focuses on Nick Shirley's reporting on long-runnin
 
 ## Claims
 
-- [[All-In Podcast - Citizen-led long-form field reporting is increasingly acting as a force multiplier for legacy fraud investigations]]
-- [[All-In Podcast - Multi-year public-benefit fraud cases can persist when local findings fail to trigger consistent national enforcement attention]]
-- [[All-In Podcast - Welfare and childcare fraud narratives are increasingly being used as a proxy debate over institutional trust and immigration governance]]
-- [[All-In Podcast - Platform-native independent media can compress response timelines by turning localized allegations into national scrutiny events]]
+- [[Nick Shirley - Independent reporters can expose fraud by visiting sites directly instead of relying only on desk reporting]]
+- [[Nick Shirley - Some Minnesota childcare sites receiving public money looked suspicious enough that basic inspection failures were obvious]]
+- [[David Friedberg - Long-form citizen journalism is powerful because viewers can see raw field evidence for themselves]]
+- [[Nick Shirley - Long-running welfare fraud becomes harder for officials to ignore once field reporting makes it visible]]
 
 ## Full Transcript
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 6
@@ -60,8 +60,8 @@ The discussion centers on social, media, things. They're pointing at KGM and say
 
 ## Claims
 
-- [[ABC News - Landmark social-media addiction litigation targets platform design features used by minors]]
-- [[ABC News - Plaintiff-specific pre-existing mental-health history may complicate causation arguments]]
+- [[Mark Zuckerberg - He thinks there are harms from social media that Meta needs to work to mitigate]]
+- [[Mark Zuckerberg - Meta has invested heavily and will keep investing to prevent families from suffering online harms]]
 
 ## Full Transcript
 <details>

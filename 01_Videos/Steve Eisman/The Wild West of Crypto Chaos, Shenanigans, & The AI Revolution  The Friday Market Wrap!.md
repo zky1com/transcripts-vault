@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -72,10 +72,10 @@ This Friday wrap treats crypto as a chaotic mix of innovation, opportunism, and 
 
 ## Claims
 
-- [[some cryptocurrencies down - The reason all crypto was down Monday, some triggers forced liquidation in Ether, thereby bringing down the entire space]]
-- [[some cryptocurrencies down - And this clearly has the potential to create inordinate amounts of volatility and chaos that can be vicious like it]]
-- [[some cryptocurrencies down - We are in the midst of perhaps the biggest tech revolution of them all]]
-- [[some cryptocurrencies down - And I want to summarize the issues so you can more fully understand what's going on and what are the]]
+- [[Steve Eisman - Monday's crypto selloff was triggered by forced Ether liquidations that dragged down the whole space]]
+- [[Steve Eisman - Leverage in offshore crypto venues can create vicious volatility and chaos across the asset class]]
+- [[Steve Eisman - AI may be the biggest technology revolution yet]]
+- [[Steve Eisman - The AI opportunity is huge but investors need to understand both the upside and the risks]]
 
 ## Full Transcript
 

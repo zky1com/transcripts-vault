@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -74,10 +74,10 @@ This wrap contrasts Nvidia’s extraordinary operating performance with a market
 
 ## Claims
 
-- [[Nvidia Wednesday - The message for the week is the nervousness around AI continues despite the excellent numbers posted by Nvidia Wednesday night]]
-- [[Nvidia Wednesday - The existing home market is locked, so sellers can't sell and buyers can't buy, and that has major implications for]]
-- [[Nvidia Wednesday - And so we are going to spend some time on what happened and why]]
-- [[Nvidia Wednesday - Hi, this is Steve Eisman and welcome to another edition of the weekly rap]]
+- [[Steve Eisman - The market's nervousness about AI continued despite Nvidia's excellent results]]
+- [[Steve Eisman - The existing home market is locked because sellers will not give up 3% mortgages and buyers cannot afford 6% rates]]
+- [[Steve Eisman - Oracle's need to use debt to fund AI capex is making the market nervous]]
+- [[Steve Eisman - Nvidia's blowout numbers do not resolve the open question of how profitable the broader AI ecosystem will be]]
 
 ## Full Transcript
 

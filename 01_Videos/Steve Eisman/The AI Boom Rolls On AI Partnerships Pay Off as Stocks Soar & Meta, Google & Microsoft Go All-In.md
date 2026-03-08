@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -74,10 +74,10 @@ This note tracks how AI partnerships and aggressive spending by Meta, Google, an
 
 ## Claims
 
-- [[these results - Looks like the anxiety that gripped the markets at the start of earnings season is gone]]
-- [[these results - It was quite a bit of news in the payment space and some of it was pretty bad]]
-- [[these results - I just want to first point out that anyone thinking that the AI story is going to end anytime soon]]
-- [[these results - On Thursday, however, the actual US China deal came out and all that happened was a one-year truce]]
+- [[Steve Eisman - The anxiety that gripped markets at the start of earnings season had largely disappeared by late October 2025]]
+- [[Steve Eisman - There was a lot of bad news in the payments space despite the broader market strength]]
+- [[Steve Eisman - Anyone who thought the AI story was ending soon was disproved by Meta Google and Microsoft's results]]
+- [[Steve Eisman - The actual US-China deal that week amounted only to a one-year truce]]
 
 ## Full Transcript
 

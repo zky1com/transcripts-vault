@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -62,9 +62,9 @@ The discussion centers on it's, that's, right. >> I think I think you're >> same
 
 ## Claims
 
-- [[ARK Invest - Milestone episodes are used to recalibrate long-horizon thesis confidence against observed progress]]
-- [[ARK Invest - Robotaxi revolution framing depends on sustained operational scaling rather than launch optics]]
-- [[ARK Invest - Tesla autonomy outlook is analyzed alongside adjacent platform vectors rather than in isolation]]
+- [[Brett Winton - Major robotaxi milestones should be used to recalibrate long-horizon conviction against observed progress]]
+- [[Sam Korus - Robotaxi revolution claims depend on sustained operational scaling rather than launch optics]]
+- [[Brett Winton - Tesla autonomy should be analyzed alongside adjacent platform vectors rather than as a standalone bet]]
 
 ## Full Transcript
 <details>

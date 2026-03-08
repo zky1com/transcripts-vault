@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -72,9 +72,9 @@ This wrap focuses on how markets can rally even when the Fed offers little new i
 
 ## Claims
 
-- [[the - Brick and mortar retailers are one of the biggest losers in the retail landscape and within the investment community]]
-- [[the - Macy's, once an iconic department store company, how the world has changed]]
-- [[the - The only reason why I even pay any attention to this theater is only because so many people care and]]
+- [[Steve Eisman - Brick-and-mortar retailers have become some of the biggest losers in the retail landscape and in investing]]
+- [[Steve Eisman - Macy's decline shows how dramatically the retail world has changed]]
+- [[Steve Eisman - He only pays attention to Fed theater because other investors care and it moves markets for a while]]
 
 ## Full Transcript
 

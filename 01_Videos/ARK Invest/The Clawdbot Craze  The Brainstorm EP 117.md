@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 6
@@ -81,6 +81,6 @@ Welcome to the brainstorm episode 117. Today we're talking Claudebot and OpenAI 
 
 ## Claims
 
-- [[ARK Invest - Personal open source agents can run cheaply while delivering persistent memory and tool use]]
-- [[ARK Invest - Open source agent projects are accelerating product iteration outside centralized model vendors]]
+- [[Frank Downing - Personal open-source agents can run cheaply while keeping memory tools and files under user control]]
+- [[Brett Winton - Open-source agent projects are showing product ideas that major model providers will likely absorb and polish]]
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 12
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 12
@@ -72,8 +72,8 @@ This interview uses Andrew Ross Sorkin's book on 1929 to compare the social mech
 
 ## Claims
 
-- [[All-In Podcast - Debt, rates, and policy interaction is central to modern crash risk assessment]]
-- [[All-In Podcast - Dollar devaluation concerns can coincide with rising hard-asset signals during stress periods]]
+- [[Andrew Ross Sorkin - Democratized investing becomes dangerous when easy leverage arrives before real risk controls]]
+- [[Andrew Ross Sorkin - Policy mistakes can deepen a downturn once financial excess is already built into the system]]
 - [[Andrew Ross Sorkin - Historical crash analysis is more useful as a setup map than as exact pattern matching]]
 - [[Andrew Ross Sorkin - Monetary, speculative, and policy excess can coexist before major market breaks]]
 

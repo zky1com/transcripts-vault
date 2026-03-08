@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -80,10 +80,10 @@ Eisman pairs a media-industry battle with a selloff in Oracle to show how differ
 
 ## Claims
 
-- [[On Friday - By most estimates, 2025 GDP will have grown by 2% and virtually all of that growth is from hyperscaler AI]]
-- [[On Friday - Take out that and we have no GDP growth at all]]
-- [[On Friday - If and it's a big if, that continuing to scale ever larger models, for example, Chad GPT1 to 5 is]]
-- [[On Friday - Then the hyperscalers at some point will slow down their purchase of chips and the entire virtuous cycle will reverse]]
+- [[Steve Eisman - By most estimates almost all of 2025's 2% GDP growth came from hyperscaler AI capex]]
+- [[Steve Eisman - Without hyperscaler AI capex the economy would have had essentially no GDP growth in 2025]]
+- [[Steve Eisman - If scaling ever larger LLMs is losing effectiveness then AI needs new research rather than just more of the same]]
+- [[Steve Eisman - If scaling is weakening hyperscalers will eventually slow chip purchases and the AI virtuous cycle will reverse]]
 
 ## Full Transcript
 

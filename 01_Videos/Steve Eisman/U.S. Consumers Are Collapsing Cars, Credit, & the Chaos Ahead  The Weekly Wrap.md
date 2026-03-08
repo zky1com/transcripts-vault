@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 5
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -70,11 +70,10 @@ This wrap argues that the U.S. consumer is under sharper pressure than topline m
 
 ## Claims
 
-- [[Lakshmi - The US economy is not even growing really 50 basis points outside of AI]]
-- [[Lakshmi - People are stressed and that's going to have an impact on the economy]]
-- [[Lakshmi - Consumers are collapsing and I will just lay it out for you]]
-- [[Lakshmi - Hi, this is Steve Eisman and welcome to another edition of the weekly rap]]
-- [[Lakshmi - And today we have a special guest, a returning guest, Lakshmi Ganopathy of Unicus Research who's going to talk to]]
+- [[Lakshmi Ganapathi - Outside of AI the US economy is barely growing]]
+- [[Lakshmi Ganapathi - Consumers are broke and the monthly budget math no longer works]]
+- [[Lakshmi Ganapathi - People are stressed and that will keep hurting the economy]]
+- [[Lakshmi Ganapathi - Consumer stress will keep worsening autos credit cards and buy now pay later]]
 
 ## Full Transcript
 

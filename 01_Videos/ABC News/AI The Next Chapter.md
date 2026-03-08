@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 12
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 12
@@ -64,8 +64,8 @@ The discussion centers on right, more, it's. We it's our job to help them go rig
 
 ## Claims
 
-- [[ABC News - Competition among frontier AI labs is shifting from model capability alone to product-governance stance]]
-- [[ABC News - Mainstream AI coverage now treats safety, ethics, and business model design as inseparable]]
+- [[Daniela Amodei - Frontier AI competition is likely to settle into a few major providers rather than a winner-take-all market]]
+- [[Daniela Amodei - Ad-free AI conversations better respect users because people often share private and confidential information with chatbots]]
 - [[Dario Amodei - Anthropic is positioning ad-free conversational AI as a strategic product differentiator]]
 
 ## Full Transcript

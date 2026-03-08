@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -64,11 +64,11 @@ The discussion centers on crypto, it's, that's. That's a big catalyst and I thin
 
 ## Claims
 
-- [[Fundstrat - Dan Morehead says past crypto cycles were about one year down and three years up]]
-- [[Fundstrat - Tom Lee argues this cycle differs because on-chain activity is still accelerating]]
-- [[Fundstrat - Dan Morehead says many large alternative firms still have zero crypto exposure]]
-- [[Fundstrat - Tom Lee says on-chain activity is accelerating instead of rolling over as in prior cycles]]
-- [[Fundstrat - Dan Morehead says a strategic Bitcoin reserve race among nation-states could emerge within two to three years]]
+- [[Dan Morehead - Past crypto cycles were about one year down and three years up]]
+- [[Tom Lee - This crypto cycle looks different because on-chain activity is still accelerating]]
+- [[Dan Morehead - Many large alternative asset firms still have zero crypto exposure]]
+- [[Tom Lee - On-chain activity is accelerating instead of rolling over as in prior cycles]]
+- [[Dan Morehead - A strategic Bitcoin reserve race among nation-states could emerge within two to three years]]
 
 ## Full Transcript
 

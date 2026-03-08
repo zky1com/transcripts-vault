@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -60,9 +60,9 @@ The discussion centers on right, robotics, robot. Disruption and more into the p
 
 ## Claims
 
-- [[ARK Invest - Autonomous robotics adoption hinges on reliability thresholds rather than novelty milestones]]
-- [[ARK Invest - Mid-year robotics updates indicate faster iteration than annual forecasting alone captures]]
-- [[ARK Invest - Robotics economics are decoupling software intelligence from hardware cost curves]]
+- [[Sam Cororus - Humanoid robotics adoption depends on delivering useful task-level reliability before full human equivalence]]
+- [[Sam Cororus - Robotics bottlenecks are shifting from hardware toward software and embodied AI]]
+- [[Sam Cororus - General-purpose robotics could become a multi-trillion market across manufacturing and household labor]]
 
 ## Full Transcript
 <details>

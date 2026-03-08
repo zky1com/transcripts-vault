@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -81,11 +81,11 @@ This Friday wrap combines fiscal policy, tax incentives, and tariff turbulence i
 
 ## Claims
 
-- [[South Korea - The big news over the weekend was the passage on July 4th of President Trump's big beautiful bill]]
-- [[South Korea - Over the weekend, Elon Musk went back to fighting with President Trump and announced that he was creating a third]]
-- [[South Korea - Dan is here to talk about what's in the bill]]
-- [[South Korea - Anytime you do something in Congress that's a thousand pages or so, you're going to have investment implications]]
-- [[South Korea - Hi, this is Steve Eisman and welcome to another edition of the Weekly Rap]]
+- [[Steve Eisman - The passage of Trump's big beautiful bill was the week's biggest news]]
+- [[Steve Eisman - Passing a thousand-page bill in Congress guarantees real investment implications]]
+- [[Dan Clifton - Making the 2025 individual tax cuts permanent removes a year-end fiscal cliff]]
+- [[Dan Clifton - Full expensing for factories and capital goods should sterilize some of the drag from Trump's tariffs]]
+- [[Dan Clifton - The bill's business tax changes could add roughly one percentage point to GDP growth]]
 
 ## Full Transcript
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -74,9 +74,9 @@ The discussion centers on it's, tesla, whimo. Think there's a quote event that's
 
 ## Claims
 
-- [[ARK Invest - Public discourse around robotaxi rollout is distorted by misinformation relative to field realities]]
-- [[ARK Invest - Robotaxi adoption trajectory depends on city-level rollout dynamics and service economics, not a single launch event]]
-- [[ARK Invest - Robotaxi competition is entering an operational phase where deployment quality matters as much as autonomy benchmarks]]
+- [[Sam Korus - Public discussion of robotaxi rollout is often distorted by misinformation relative to what field tests show]]
+- [[Sam Korus - Robotaxi adoption will depend on city-level rollout dynamics and service economics more than one launch moment]]
+- [[Brett Winton - Robotaxi competition is entering an operational phase where deployment quality matters as much as autonomy benchmarks]]
 
 ## Full Transcript
 <details>

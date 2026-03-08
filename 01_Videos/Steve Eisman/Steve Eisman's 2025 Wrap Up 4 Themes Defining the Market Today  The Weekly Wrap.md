@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -70,10 +70,10 @@ Eisman closes out the year by organizing the market around four defining themes 
 
 ## Claims
 
-- [[most investors confident - From the bottom of April, the market is up an incredible 37%]]
-- [[most investors confident - Although inflation has slowed, the cumulative impact of all that inflation over the last several years continues to be felt]]
-- [[most investors confident - The private credit debt universe has ballooned from around 2 trillion in 2020 to roughly an incredible 3 trillion in]]
-- [[most investors confident - Investors are worried about the growth in private credit and what potential losses lie underneath]]
+- [[Steve Eisman - From the April bottom the market rallied an incredible 37% by mid-December 2025]]
+- [[Steve Eisman - Even though inflation slowed the cumulative hit from prior inflation is still being felt]]
+- [[Steve Eisman - The private-credit universe grew from roughly $2 trillion in 2020 to roughly $3 trillion in 2025]]
+- [[Steve Eisman - Investors are increasingly worried about private-credit growth and the losses that may be hidden underneath]]
 
 ## Full Transcript
 

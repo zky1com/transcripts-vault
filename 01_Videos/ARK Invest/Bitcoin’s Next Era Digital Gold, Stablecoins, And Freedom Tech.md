@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -77,7 +77,7 @@ Bitcoin is a relatively new asset class and the market for Bitcoin is subject to
 
 ## Claims
 
-- [[ARK Invest - Bitcoin has shifted from fringe thesis to institutional asset-class consideration]]
-- [[ARK Invest - Stablecoins now perform much of the emerging-market purchasing-power hedge role]]
-- [[ARK Invest - Bitcoin's digital-gold savings thesis remains intact alongside stablecoin growth]]
+- [[Cathie Wood - Bitcoin has moved from fringe idea toward institutional asset-class adoption]]
+- [[Cathie Wood - Stablecoins are taking over much of the emerging-market purchasing-power hedge role once expected for Bitcoin]]
+- [[Alex Gladstein - Stablecoins can help people escape bad currencies but they do not offer Bitcoin's censorship resistance or sovereignty]]
 

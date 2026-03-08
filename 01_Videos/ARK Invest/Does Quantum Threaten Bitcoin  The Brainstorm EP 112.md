@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 6
@@ -73,6 +73,6 @@ Welcome to the Brainstorm episode 112. Today we're talking Bitcoin and what if I
 
 ## Claims
 
-- [[ARK Invest - Quantum exposure could threaten ownership security for a large share of existing bitcoin supply]]
-- [[ARK Invest - Old address types and address reuse create different quantum attack surfaces for bitcoin holders]]
+- [[Rey Valenzuela - Quantum computing could eventually threaten the ownership security of a large share of existing bitcoin]]
+- [[Rey Valenzuela - Older address types and reused addresses create different levels of quantum attack risk for bitcoin holders]]
 

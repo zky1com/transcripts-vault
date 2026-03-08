@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -78,13 +78,13 @@ This episode examines how AI may reshape advertising economics while acceleratin
 
 ## Claims
 
-- [[two guests from - The Google Antitrust case was a long-running saga that had a multi-year runup to the judge finding the payments that]]
-- [[two guests from - We should care about the health of the economy and the future employment of all our our family and friends]]
-- [[two guests from - We've seen presentations from people who are developing AI enabled tools that compress 40 jobs into one click of a]]
-- [[two guests from - So what you're saying is there are higher scores of industries people can lose their jobs]]
-- [[two guests from - And today I have two guests from one of my absolute favorite boutique firms, Muffet Nathansson]]
-- [[two guests from - And I have with me, Craig Muffett and Michael Nathansson]]
-- [[two guests from - And of course, you have opinions on Netflix and HBO, which we'll talk about]]
+- [[Craig Moffett - The Google antitrust case had a multi-year buildup before the judge ruled Google's payments to Apple illegal]]
+- [[Steve Eisman - AI-driven job loss in advertising matters because it affects the broader economy and many families]]
+- [[Michael Nathanson - AI-enabled ad tools can compress dozens of agency jobs into one click]]
+- [[Michael Nathanson - AI disruption could eventually threaten employment across many more industries than advertising alone]]
+- [[Steve Eisman - Craig Moffett and Michael Nathanson come from boutique firm MoffettNathanson]]
+- [[Steve Eisman - Craig Moffett and Michael Nathanson were the two guests for this episode]]
+- [[Steve Eisman - Michael Nathanson also covers Netflix and HBO in addition to advertising platforms]]
 
 ## Full Transcript
 

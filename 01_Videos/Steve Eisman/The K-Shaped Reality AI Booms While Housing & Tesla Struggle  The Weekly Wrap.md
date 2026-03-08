@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -66,10 +66,10 @@ Eisman describes a K-shaped economy where AI-linked winners keep advancing while
 
 ## Claims
 
-- [[both up around - 89 companies reported this week and anyone hoping for any signs of an improving housing market was sorely disappointed]]
-- [[both up around - It is not a great time to be a homebuilder]]
-- [[both up around - Molina is a managed care company reported Wednesday night the results were awful]]
-- [[both up around - Clearly the entire managed care space is having problems everywhere]]
+- [[Steve Eisman - Anyone hoping for signs of a housing recovery was disappointed by that week's earnings]]
+- [[Steve Eisman - It was not a great time to be a homebuilder]]
+- [[Steve Eisman - Molina's results showed that managed care problems extended beyond Medicare into Medicaid and exchanges]]
+- [[Steve Eisman - The entire managed care space was having problems across the board]]
 
 ## Full Transcript
 

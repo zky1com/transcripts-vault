@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -74,13 +74,13 @@ Eisman asks why the market keeps rising despite a steady stream of worrying head
 
 ## Claims
 
-- [[That April - They call it a great big beautiful bill cuz that's what it is]]
-- [[That April - The extremes were frankly as extreme as we saw at the COVID low, the 2018 low, the 2009 low, and]]
-- [[That April - So my question to you is, what the hell just happened]]
-- [[That April - There's a lot of headlines out there that I think are prohibitive of sentiment from matching where it should be]]
-- [[That April - So this morning when I woke up there was tariff news]]
-- [[That April - All the parts of the market that should give you a read on the economy continue to act great]]
-- [[That April - How the course of the year has gone thus far]]
+- [[Chris Verrone - The April 8 to 10 market low showed oversold extremes comparable to major historic lows]]
+- [[Chris Verrone - The market's sharp rebound reflects how sentiment inverted from euphoric to extremely washed out]]
+- [[Chris Verrone - Investors remain less bullish than they usually are after a rally of this size]]
+- [[Chris Verrone - Cyclical leadership in banks industrials tech and semis argues against a major economic slowdown]]
+- [[Chris Verrone - The tariff story is not over, but markets are unlikely to discount the same shock twice]]
+- [[Chris Verrone - Strength tends to beget strength in markets after historically large rebounds]]
+- [[Steve Eisman - The market's resilience is surprising because the tariff story still is not fully resolved]]
 
 ## Full Transcript
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -67,10 +67,10 @@ This panel broadens the AI race beyond frontier labs and argues that national ad
 
 ## Claims
 
-- [[All-In Podcast - US AI competitiveness is framed as inseparable from industrial deployment and small-business diffusion, not only frontier-model leadership]]
-- [[All-In Podcast - Workforce impact framing is shifting from pure displacement narratives toward role transformation and task reallocation]]
-- [[All-In Podcast - Government-backed financing and underwriting design can materially influence AI adoption speed in strategic domestic industries]]
-- [[All-In Podcast - Robotics and field data capture are positioned as critical infrastructure for turning AI capability into real-world productivity gains]]
+- [[David Sacks - America cannot win the AI race without out-innovating rivals and building more domestic infrastructure]]
+- [[Michael Kratsios - AI policy should focus on near-term executive actions that remove barriers to deployment]]
+- [[Kelly Loeffler - Small businesses should be able to use SBA-backed loans to adopt AI and advanced manufacturing]]
+- [[Keith Rabois - AI lowers the cost of starting a business by giving small firms capabilities once reserved for large incumbents]]
 
 ## Full Transcript
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -80,11 +80,11 @@ Eisman links Fed pressure, a government stake in Intel, and weakness at Cracker 
 
 ## Claims
 
-- [[China - This is highly unusual, but it certainly smells of an industrial policy that I find very problematic]]
-- [[China - The S&P 500 is again at all-time highs or are close and so is NASDAQ]]
-- [[China - It's been quite a volatile year and it is not over and the big wild card remains trade relations with]]
-- [[China - But I want to go deeper because under that surface there are many important stories and themes playing out and]]
-- [[China - Hi, this is Steve Eisman and welcome to another edition of the weekly rap]]
+- [[Steve Eisman - Giving the US government a 10% stake in Intel is an industrial-policy move he finds troubling]]
+- [[Steve Eisman - The S&P 500 and Nasdaq being near all-time highs masks more troubling stories underneath the surface]]
+- [[Steve Eisman - The biggest macro wild card remains US-China trade relations]]
+- [[Steve Eisman - Looking beneath the surface of the rally reveals several important themes that are not all positive]]
+- [[Steve Eisman - AI is already creating winners and losers inside technology and software]]
 
 ## Full Transcript
 

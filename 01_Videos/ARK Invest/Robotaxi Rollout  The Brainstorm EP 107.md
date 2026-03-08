@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -60,9 +60,9 @@ The discussion centers on it's, robo, that's. It's an interesting one because it
 
 ## Claims
 
-- [[ARK Invest - Autonomous mobility thesis links robotaxi progress with broader Tesla platform execution]]
-- [[ARK Invest - Public expectations around robotaxi timing require tighter evidence-based communication]]
-- [[ARK Invest - Robotaxi rollout should be assessed as staged operations, not single-event validation]]
+- [[Brett Winton - Robotaxi progress should be judged as part of broader Tesla platform execution rather than in isolation]]
+- [[Sam Korus - Public expectations around robotaxi timing need tighter evidence-based communication]]
+- [[Brett Winton - Robotaxi rollout should be evaluated as staged operations rather than a one-time proving event]]
 
 ## Full Transcript
 <details>

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -72,11 +72,11 @@ Eisman answers audience questions on investing, risk, and portfolio judgment. Th
 
 ## Claims
 
-- [[Real Eyesman Playbook - Viewers and listeners will be my guests and the subject matter will be to answer questions and respond to comments]]
-- [[Real Eyesman Playbook - What would you suggest someone like me could do to recover gradually over say five years with low to medium]]
-- [[Real Eyesman Playbook - I would not advise you to invest in individual stocks]]
-- [[Real Eyesman Playbook - I would invest right now with what you can, no matter how small, but only the money that you can]]
-- [[Real Eyesman Playbook - Today, viewers and listeners will be my guests, and the subject matter will be to answer questions and respond to]]
+- [[Steve Eisman - Most individual investors should rebuild with broad index funds rather than individual stocks]]
+- [[Steve Eisman - Recovery plans work better when investments are made gradually and only with money you can afford]]
+- [[Steve Eisman - Reading widely outside business can improve investing judgment more than reading business books alone]]
+- [[Steve Eisman - Thesis creep happens when investors keep a stock after the original reason for owning it has failed]]
+- [[Steve Eisman - Balance sheets matter as much as income statements when leverage is part of the story]]
 
 ## Full Transcript
 

@@ -30,7 +30,7 @@ evidence_status: done
 claims_count: 2
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: done
 speech_evidence_count: 9
@@ -77,6 +77,6 @@ Hello everyone and welcome back to another episode of the brainstorm. We have tw
 
 ## Claims
 
-- [[ARK Invest - Current software selloff is framed as both technology disruption and business model reset risk]]
-- [[ARK Invest - Market rerating implies consolidation pressure in software while preserving demand for enterprise productivity tools]]
+- [[Frank Downing - The software selloff reflects both technology disruption risk and a business model reset]]
+- [[Brett Winton - Software rerating implies consolidation pressure even while demand for enterprise productivity tools remains]]
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -68,10 +68,10 @@ Eisman uses Oracle’s outsized AI forecast and a burst of IPO enthusiasm to exa
 
 ## Claims
 
-- [[weaker employment data - The stock is now up almost 80% for the year]]
-- [[weaker employment data - So, this is a good time to introduce the concept of beta]]
-- [[weaker employment data - Hi, this is Steve Eisman and welcome to another edition of the weekly rap]]
-- [[weaker employment data - Now, while September can be a vol month, thus far, it has not been]]
+- [[Steve Eisman - Oracle stock was up almost 80% for the year after its AI-driven forecast reset expectations]]
+- [[Steve Eisman - Beta is the right framework for understanding how to turbocharge a portfolio's market sensitivity]]
+- [[Steve Eisman - September can be a volatile month but that year it had been calm so far]]
+- [[Steve Eisman - A hot IPO market reflects retail risk appetite as much as underlying company quality]]
 
 ## Full Transcript
 

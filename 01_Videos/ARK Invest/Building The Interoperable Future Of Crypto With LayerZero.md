@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -85,7 +85,7 @@ Welcome to FYI, the 4-year innovation podcast. This show offers an intellectual 
 
 ## Claims
 
-- [[ARK Invest - LayerZero frames interoperability as a network-effect moat for stablecoin distribution]]
-- [[ARK Invest - LayerZero claims around sixty percent of stablecoin instances are built on its stack]]
-- [[ARK Invest - Agentic finance traffic could exceed stablecoin and tokenization message volumes over time]]
+- [[Bryan Pellegrino - Interoperability becomes a network-effect moat as stablecoins spread across more chains]]
+- [[Bryan Pellegrino - Roughly sixty percent of stablecoin instances are already built on LayerZero]]
+- [[Bryan Pellegrino - Agentic finance could eventually create more cross-chain message traffic than stablecoins or tokenized assets]]
 

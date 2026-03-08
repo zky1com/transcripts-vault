@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -75,10 +75,10 @@ With Tucker Carlson joining, the episode looks at radicalization, media competit
 
 ## Claims
 
-- [[All-In Podcast - Media and platform fragmentation is accelerating influencer power concentration in personality-driven political ecosystems]]
-- [[All-In Podcast - Anti-AI sentiment is increasingly being expressed through cultural identity framing rather than purely technical risk arguments]]
-- [[All-In Podcast - Legacy-media versus creator-platform competition is now a core variable in narrative control during political cycles]]
-- [[All-In Podcast - Extremity amplification risk rises when algorithmic distribution and grievance-driven audience capture reinforce each other]]
+- [[Tucker Carlson - Legacy television brands no longer matter much if audiences no longer trust or watch them]]
+- [[Tucker Carlson - Fear of AI is partly fear that people will be paid to live without purpose]]
+- [[Chamath Palihapitiya - The future of media belongs more to user-generated platforms than to giant studio mergers]]
+- [[David Sacks - A Netflix-Warner merger would be more concerning than a Paramount deal because Netflix already dominates streaming]]
 
 ## Full Transcript
 

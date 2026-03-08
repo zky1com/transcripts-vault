@@ -30,7 +30,7 @@ evidence_status: done
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: done
 speech_evidence_count: 6
@@ -85,6 +85,6 @@ Welcome to FYI, the four-year innovation podcast. This show offers an intellectu
 
 ## Claims
 
-- [[ARK Invest - Crypto fundamentals in 2025 improved more than headline price action suggests]]
-- [[ARK Invest - Official US bitcoin reserve buying could trigger faster sovereign adoption cycles]]
+- [[Lorenzo Valente - Crypto fundamentals improved in 2025 more than headline price action suggested]]
+- [[Cathie Wood - Official US bitcoin reserve buying could accelerate sovereign adoption]]
 

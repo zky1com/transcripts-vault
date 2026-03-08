@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -78,13 +78,13 @@ Eisman looks at how AI and platform distribution are disrupting publishing econo
 
 ## Claims
 
-- [[my wife Valerie - We could probably talk about AI in publishing for 3 hours]]
-- [[my wife Valerie - Every aspect of the business is being touched by AI]]
-- [[my wife Valerie - Somebody has used someone's name who wrote a similar book]]
-- [[my wife Valerie - AI has done a competitive book and put the name of that author on it]]
-- [[my wife Valerie - That is really one of the scariest things that we're facing]]
-- [[my wife Valerie - 60% of authors I think are using AI in their work]]
-- [[my wife Valerie - I would say that AI is not going to replace creativity]]
+- [[Regina Brooks - Every part of publishing is already being touched by AI]]
+- [[Regina Brooks - Around 60% of authors are already using AI in some part of their work]]
+- [[Jennifer Weiss - AI is creating serious publishing risks around name misuse and unauthorized competitive books]]
+- [[Jennifer Weiss - AI is unlikely to replace creativity but it can change who gets paid for it]]
+- [[Anthony Ziccardi - Amazon and digital-format shifts especially audio have fundamentally reshaped publishing economics]]
+- [[Anthony Ziccardi - TikTok driven discovery is now a primary demand engine for some publishing categories]]
+- [[Steve Eisman - AI is changing publishing the same way it is changing many other industries]]
 
 ## Full Transcript
 

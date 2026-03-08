@@ -30,7 +30,7 @@ evidence_status: done
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: done
 speech_evidence_count: 6
@@ -80,5 +80,5 @@ Welcome to FYI, the 4-year innovation podcast. This show offers an intellectual 
 ## Claims
 
 - [[Sandeep Nailwal - Layer 2 execution with Layer 1 settlement is the practical scaling path for Ethereum apps]]
-- [[ARK Invest - Credible neutrality is a key adoption constraint for corporate controlled chains]]
+- [[Sandeep Nailwal - Credible neutrality matters because institutions are less willing to build on chains controlled by corporate competitors]]
 

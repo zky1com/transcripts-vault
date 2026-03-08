@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -74,13 +74,13 @@ Eisman pulls apart how venture capital really works and why the industry’s pub
 
 ## Claims
 
-- [[my very good - How many generally fail and how successful do the successes have to be to make it all worthwhile]]
-- [[my very good - You have so many companies that became worth a billion dollars or more that eventually went back to zero]]
-- [[my very good - So the problem is is you think you've returned your fund and you've returned zero]]
-- [[my very good - We looked at this and said this is worse than the bubble in 2000]]
-- [[my very good - markets go down, you have to build great companies and you have to make investment through all different types of]]
-- [[my very good - And today we're going to explore an entirely new topic, something we have not explored before, and that is the]]
-- [[my very good - And my guest today is my very good friend Stu Elman, who was a co-founder of RRE Ventures, a firm]]
+- [[Stu Elman - Venture capital follows a law of thirds where many companies fail and returns depend on a small minority of winners]]
+- [[Stu Elman - Many zombie unicorns were marked at huge valuations before eventually collapsing to near zero]]
+- [[Stu Elman - Markups can create the illusion that a venture fund returned capital when it really has not]]
+- [[Stu Elman - The 2021 to 2023 venture reset was worse than the 2000 bubble in some parts of the market]]
+- [[Stu Elman - Venture firms have to keep investing through up and down markets rather than only during boom periods]]
+- [[Stu Elman - Venture firms often die slowly because bad funds linger even when they stop putting real money to work]]
+- [[Stu Elman - Outside AI crypto and blockchain venture fundraising is in a survival-of-the-fittest phase]]
 
 ## Full Transcript
 

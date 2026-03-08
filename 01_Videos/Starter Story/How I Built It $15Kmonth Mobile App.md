@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -79,9 +79,9 @@ i turned a simple habit tracker into a 15K MR business sebastian Ro always wante
 
 ## Claims
 
-- [[Sebastian - Habit Kit scaled to about $15K MRR and roughly 300000 downloads]]
-- [[Sebastian - Flutter single-codebase development enabled fast iOS and Android MVP delivery]]
-- [[Sebastian - Building in public across social channels generated early distribution and opportunities]]
-- [[Sebastian - App Store metadata strategy around the habit tracker keyword drove top ranking positions]]
-- [[Sebastian - RevenueCat percent-of-revenue pricing is his largest operating expense]]
+- [[Sebastian Ro - Habit Kit scaled to about $15K MRR and roughly 300000 downloads]]
+- [[Sebastian Ro - Flutter single-codebase development enabled fast iOS and Android MVP delivery]]
+- [[Sebastian Ro - Building in public across social channels generated early distribution and opportunities]]
+- [[Sebastian Ro - App Store metadata strategy around the habit tracker keyword drove top ranking positions]]
+- [[Sebastian Ro - RevenueCat percent-of-revenue pricing is his largest operating expense]]
 

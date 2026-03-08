@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -66,7 +66,7 @@ The discussion centers on claudius, anthropic, it's. It seems like a lot of the 
 
 ## Claims
 
-- [[60 Minutes - Anthropic uses adversarial red-teaming to surface high-impact model failure modes]]
+- [[Logan Graham - Anthropic uses adversarial red-teaming and strange real-world experiments to surface model failure modes]]
 - [[Dario Amodei - AI capability acceleration requires stronger governance before full autonomy arrives]]
 - [[Dario Amodei - Frontier model autonomy can increase materially over the next few years]]
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 12
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 12
@@ -73,8 +73,8 @@ Welcome to the brainstorm episode 104. We're continuing on the AI bubble and is 
 
 ## Claims
 
-- [[ARK Invest - OpenAI's AMD warrant-and-procurement deal hedges Nvidia supplier concentration risk]]
-- [[ARK Invest - AI infrastructure financing is shifting from cash-funded growth toward equity and debt cycles]]
-- [[ARK Invest - Agentic commerce introduces take-rate monetization beyond AI subscription revenue]]
-- [[ARK Invest - Amazon and Walmart may stay advantaged in agentic commerce via price inventory and delivery]]
+- [[Brett Winton - OpenAI's AMD warrant and procurement deal reduces its dependence on Nvidia]]
+- [[Brett Winton - AI infrastructure financing is moving from internally funded capex toward equity and debt-heavy cycles]]
+- [[Nick Grous - Agentic commerce could create a take-rate business model beyond AI subscriptions]]
+- [[Nick Grous - Amazon and Walmart may keep an edge in agentic commerce because of pricing inventory depth and delivery speed]]
 

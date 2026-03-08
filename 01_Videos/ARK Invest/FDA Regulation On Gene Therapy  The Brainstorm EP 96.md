@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -62,9 +62,9 @@ The discussion centers on patients, it's, we're. Um No, I think I think that cov
 
 ## Claims
 
-- [[ARK Invest - Brainstorm-format policy analysis treats genomics progress as a systems problem across science, regulation, and markets]]
-- [[ARK Invest - Gene-therapy commercialization is increasingly constrained by regulatory design and evidence thresholds]]
-- [[ARK Invest - Policy clarity in advanced biotech can materially change capital formation and deployment timing]]
+- [[Shay Wolberg - Progress in genomics depends on how science regulation and markets evolve together rather than separately]]
+- [[Shay Wolberg - Gene-therapy commercialization is heavily shaped by regulatory design and evidence thresholds]]
+- [[Shay Wolberg - Clearer biotech policy can change how quickly capital and product deployment move into advanced therapeutics]]
 
 ## Full Transcript
 <details>

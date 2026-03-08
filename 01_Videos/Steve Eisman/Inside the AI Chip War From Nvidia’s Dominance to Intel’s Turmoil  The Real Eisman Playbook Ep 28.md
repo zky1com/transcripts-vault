@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -74,14 +74,11 @@ This episode examines the semiconductor power structure through the contrast bet
 
 ## Claims
 
-- [[Nvidia - Where are we in terms of this story in your view]]
-- [[Nvidia - They said they were going to have a GPU chip]]
-- [[Nvidia - And I will say I've made my career being negative on on Intel]]
-- [[Nvidia - Can you can you just explain to me what the hell happened to this company]]
-- [[Nvidia - At this point, I don't see anything out there that's so wonderful coming out of AI that means the returns]]
-- [[Nvidia - I think the doomsday scenario would would be there's they're spending all this money and there's no return, right]]
-- [[Nvidia - the whole thing would come crumbling down frankly for everything else]]
-- [[Nvidia - Nobody really cares, but let's see if we can mine a couple of nuggets out of what you do]]
+- [[Stacy Rasgon - The current semiconductor market is a tale of two cities with AI ripping and everything else still lackluster]]
+- [[Stacy Rasgon - The AI capex digestion phase will happen eventually but it does not look close yet]]
+- [[Stacy Rasgon - The real doomsday scenario for AI infrastructure is that hyperscalers spend all this money and earn no return]]
+- [[Stacy Rasgon - Intel lost both process leadership and product leadership and has never shown it can get back on the treadmill]]
+- [[Stacy Rasgon - If Intel can truly prove foundry capability customers will line up, but money alone will not fix its execution problems]]
 
 ## Full Transcript
 

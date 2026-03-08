@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -60,9 +60,9 @@ The discussion centers on sports, markets, prediction. A reason to that and it's
 
 ## Claims
 
-- [[ARK Invest - Prediction-market growth reflects demand for real-time probabilistic information products, not only gambling demand]]
-- [[ARK Invest - Prediction-market infrastructure is converging with mainstream retail brokerage distribution]]
-- [[ARK Invest - Regulatory perimeter decisions will determine how far prediction markets can scale in consumer finance]]
+- [[Nick Grous - Prediction-market growth reflects demand for real-time probabilistic information products as much as gambling demand]]
+- [[Nick Grous - Prediction-market infrastructure is converging with mainstream retail brokerage distribution]]
+- [[Nick Grous - Regulatory perimeter decisions will determine how far prediction markets can scale in consumer finance]]
 
 ## Full Transcript
 <details>

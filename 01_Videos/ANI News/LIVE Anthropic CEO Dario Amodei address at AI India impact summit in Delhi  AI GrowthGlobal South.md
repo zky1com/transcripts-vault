@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 18
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 18
@@ -60,7 +60,7 @@ The discussion centers on india, global, economic. The global south, starting wi
 
 ## Claims
 
-- [[ANI News - International AI summits are evolving from principle-setting into implementation-focused coordination]]
+- [[Dario Amodei - AI summits need to move from principle setting toward implementation on safety and economic adaptation]]
 - [[Dario Amodei - Enterprise AI adoption momentum in India is strong enough to influence global deployment strategy]]
 - [[Dario Amodei - Frontier AI has followed a decade-long exponential trajectory that remains intact]]
 - [[Dario Amodei - Global South AI policy must combine access expansion with safety and governance capacity]]

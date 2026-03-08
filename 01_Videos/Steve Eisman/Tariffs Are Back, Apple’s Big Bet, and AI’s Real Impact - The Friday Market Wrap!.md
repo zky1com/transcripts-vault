@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -76,10 +76,10 @@ This wrap brings together renewed tariff risk, Apple’s strategic positioning, 
 
 ## Claims
 
-- [[tariff news - How trade negotiations end up will be crucial in determining the future of the economy]]
-- [[tariff news - President Trump threatened Switzerland with 39% tariffs that would go into effect on August 7th]]
-- [[tariff news - The Gartner Group's earnings is one of the more important earnings reports for this season]]
-- [[tariff news - It shows that AI is starting to have some negative impacts on the tech sector, but I can't emphasize this]]
+- [[Steve Eisman - How trade negotiations end will be crucial in determining the economy's path]]
+- [[Steve Eisman - Trump threatened Switzerland with 39% tariffs scheduled to take effect on August 7 2025]]
+- [[Steve Eisman - Gartner's earnings were one of the most important reports of the season because they showed stress in tech consulting]]
+- [[Steve Eisman - Gartner's weak results suggest AI is starting to have negative effects on parts of the tech sector]]
 
 ## Full Transcript
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -78,10 +78,10 @@ This weekly wrap examines whether the latest selloff in bank stocks reflects gen
 
 ## Claims
 
-- [[the banks dominating - 36 companies reported with the banks dominating and I think we are on the cusp of a major M&A wave]]
-- [[the banks dominating - Right now I think we are in a normal cycle]]
-- [[the banks dominating - Yes, there are signs of credit deterioration on the commercial side but not enough to actually cause a recession or]]
-- [[the banks dominating - My conclusions about credit quality are not just an opinion, but driven by reams of data that the banks provided]]
+- [[Steve Eisman - With banks dominating that earnings week he believed regional-bank M&A was on the cusp of a major wave]]
+- [[Steve Eisman - The economy still looked like a normal cycle rather than a crisis setup]]
+- [[Steve Eisman - There were signs of commercial credit deterioration but not enough to signal an imminent recession]]
+- [[Steve Eisman - His view on credit quality was based on the detailed bank data released that week rather than on broad fear]]
 
 ## Full Transcript
 

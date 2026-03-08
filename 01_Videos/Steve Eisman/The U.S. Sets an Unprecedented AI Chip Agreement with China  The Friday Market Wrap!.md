@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -66,10 +66,10 @@ Eisman examines the market implications of a new U.S.-China AI chip arrangement 
 
 ## Claims
 
-- [[my investment thesis - As far as the US economy is concerned, there has definitely been some slowing]]
-- [[my investment thesis - What's really intriguing is that both companies have agreed to pay 15% of their revenues from Chinese AI chip sales]]
-- [[my investment thesis - It feels like the US government is selling an export license to Nvidia and AMD]]
-- [[my investment thesis - This is quite radical and unprecedented and it doesn't feel quite right to me]]
+- [[Steve Eisman - The US economy had definitely slowed somewhat by mid-August 2025]]
+- [[Steve Eisman - Nvidia and AMD agreeing to pay 15% of Chinese AI-chip revenue to the US government was the most intriguing part of the deal]]
+- [[Steve Eisman - The arrangement felt like the US government was selling export licenses to Nvidia and AMD]]
+- [[Steve Eisman - The policy was radical and unprecedented and did not feel right to him]]
 
 ## Full Transcript
 

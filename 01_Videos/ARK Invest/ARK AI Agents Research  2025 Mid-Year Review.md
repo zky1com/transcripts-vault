@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 12
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 12
@@ -62,9 +62,9 @@ The discussion centers on more, we're, models. We're seeing customer service and
 
 ## Claims
 
-- [[ARK Invest - AI is transitioning from assistant workflows to agentic task execution systems]]
-- [[ARK Invest - Agent-era value capture is likely to concentrate in orchestration and workflow integration layers]]
-- [[ARK Invest - Mid-year agent research updates indicate deployment frameworks are maturing alongside model capability]]
+- [[Frank Downing - AI is moving from assistant workflows toward agents that execute longer multistep tasks]]
+- [[Frank Downing - Agent-era value will concentrate in orchestration workflow integration and distribution]]
+- [[Frank Downing - Open-source AI competition from China is forcing US labs to respond with stronger open models]]
 
 ## Full Transcript
 <details>

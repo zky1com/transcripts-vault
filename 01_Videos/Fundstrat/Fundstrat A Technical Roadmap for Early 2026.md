@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -64,11 +64,11 @@ The discussion centers on some, year, that's. Uh after some settling I do think 
 
 ## Claims
 
-- [[Fundstrat - S&P 500 above 6932 would mark a new all-time high close]]
-- [[Fundstrat - Mark Newton projects Bitcoin could rebound toward 103000 to 106000 before another pullback]]
-- [[Fundstrat - Mark Newton says Bitcoin could retrace toward the low 70000s and possibly near 60000]]
-- [[Fundstrat - Mark Newton says mid-January should be an important short-term market turn window]]
-- [[Fundstrat - Mark Newton says QQQ needs a breakout above 62552 to strengthen broad-market confirmation]]
+- [[Mark Newton - S&P 500 above 6932 would mark a new all-time high close]]
+- [[Mark Newton - Bitcoin could rebound toward 103000 to 106000 before another pullback]]
+- [[Mark Newton - Bitcoin could retrace toward the low 70000s and possibly near 60000]]
+- [[Mark Newton - Mid-January should be an important short-term market turn window]]
+- [[Mark Newton - QQQ needs a breakout above 625.52 to strengthen broad-market confirmation]]
 
 ## Full Transcript
 

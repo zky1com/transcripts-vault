@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -74,14 +74,14 @@ Eisman and Warris Bokhari discuss why the American healthcare system produces hi
 
 ## Claims
 
-- [[an incredible guest - What do you see is the fundamental nature of the problem in medical insurance in the United States]]
-- [[an incredible guest - If you really look at the number of claims photo filed in a year, which is about 5 billion, you]]
-- [[an incredible guest - I've had an insurance executive tell me that something like 96% of their appeals get overturned]]
-- [[an incredible guest - Patient goes to the doctor, doctor's office fills out the paperwork and 1.2 seconds later, the claim is denied]]
-- [[an incredible guest - These insurers are applying bad policies really quickly using AI]]
-- [[an incredible guest - I heard a story from a dad the other day who was literally sitting in the garage of his house]]
-- [[an incredible guest - And currently Luigi Manion is on trial for murder and I'm sure he'll be found guilty]]
-- [[an incredible guest - And so today I have an incredible guest who is really capable of guiding us through the nature of the]]
+- [[Warris Bokhari - Roughly five billion health-insurance claims are filed in the United States each year]]
+- [[Warris Bokhari - Around 15% to 17% of health-insurance claims are denied at first submission]]
+- [[Warris Bokhari - Insurance denials affect roughly 70 to 90 million Americans a year]]
+- [[Warris Bokhari - Less than 1% of denied health-insurance claims are appealed]]
+- [[Warris Bokhari - Appealed denials are overturned at high rates because many original denials are weak]]
+- [[Warris Bokhari - AI lets insurers apply bad denial policies at much higher speed]]
+- [[Warris Bokhari - Medical-cost inflation can worsen access and raise mortality]]
+- [[Steve Eisman - Luigi Mangione being guilty of murder would not change the fact that the US healthcare system is seriously broken]]
 
 ## Full Transcript
 

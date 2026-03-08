@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 2
 evidence_count: 6
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 6
@@ -71,6 +71,6 @@ Welcome to the brainstorm episode 110. I leave for three weeks, come back, and t
 
 ## Claims
 
-- [[ARK Invest - AI equity weakness is being amplified by macro liquidity stress and lower near term rate cut odds]]
-- [[ARK Invest - Native crypto market deleveraging is viewed as a spillover risk into AI and growth asset sentiment]]
+- [[Brett Winton - AI demand still looks durable because productivity gains keep increasing users' willingness to pay]]
+- [[Sam Korus - Native crypto deleveraging and tighter liquidity are amplifying the market selloff in AI and growth assets]]
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -80,10 +80,10 @@ Eisman uses a week of Trump headlines, Michael Burry-style contrarianism, and ed
 
 ## Claims
 
-- [[trade tariff news - Just when everyone began to relax into thinking the risk of tariffs negatively impacting the economy was over, President Trump]]
-- [[trade tariff news - It looks like President Trump is really serious about wanting Greenland]]
-- [[trade tariff news - This is no longer about purely negotiating about tariffs, and this is not a positive for the markets or for]]
-- [[trade tariff news - Nvidia started shipping the Blackwell chip only in late 2024 and it now is already starting to look obsolete]]
+- [[Steve Eisman - Trump revived tariff fears just as investors were starting to relax about their economic impact]]
+- [[Steve Eisman - Trump's Greenland push showed he was serious about tying tariffs to strategic ambitions]]
+- [[Steve Eisman - The Greenland confrontation was no longer just tariff negotiation and was negative for markets and the global economy]]
+- [[Steve Eisman - Nvidia's Reuben launch made Blackwell look obsolete unusually quickly]]
 
 ## Full Transcript
 

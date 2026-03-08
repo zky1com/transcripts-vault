@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -79,10 +79,10 @@ This special episode stages competing interpretations of the Epstein story rathe
 
 ## Claims
 
-- [[All-In Podcast - High-visibility scandal narratives increasingly function as partisan alignment tests more than evidence-driven investigations]]
-- [[All-In Podcast - Guilt-by-association media dynamics can outpace substantiated factual claims in elite controversy cycles]]
-- [[All-In Podcast - Information asymmetry and selective file release can sustain long-lived public mythologies in unresolved cases]]
-- [[All-In Podcast - Evidence standards become strategically contested in politicized investigations and shape downstream social risk]]
+- [[Saagar Enjeti - Prince Andrew's arrest shows Epstein-linked scandals can spill into official misconduct cases beyond the original allegations]]
+- [[Michael Tracey - The Epstein story is full of mythology that outruns the evidence currently on the record]]
+- [[Michael Tracey - Guilt by association is too often treated as proof in the Epstein debate]]
+- [[David Sacks - Media should cover Epstein-linked relationships evenly instead of using them only against partisan enemies]]
 
 ## Full Transcript
 

@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -72,9 +72,9 @@ The discussion centers on it's, that's, they're. I think I think I think it's a 
 
 ## Claims
 
-- [[ARK Invest - AI hardware narratives are increasingly evaluated alongside inference-chip and ecosystem strategic moves]]
-- [[ARK Invest - AI wearables strategy is shifting toward persistent interface ownership at the edge]]
-- [[ARK Invest - Display-enabled smart glasses are being assessed as a step change from audio-only wearable assistants]]
+- [[Nick Grous - Meta's display glasses are notable because they package usable AR and a new wristband input at a surprisingly low price]]
+- [[Nick Grous - AI wearables are moving toward always-available edge interfaces that reduce how often users need to reach for phones]]
+- [[Brett Winton - Smart glasses may start niche and underpowered but iterative improvements could turn them into a meaningful device category]]
 
 ## Full Transcript
 <details>

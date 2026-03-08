@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -66,11 +66,11 @@ In this masterclass, Eisman walks through the foundations of the 2008 financial 
 
 ## Claims
 
-- [[unforeseen consequences as - Its causes are multifaceted and complicated and we're going to explore it all]]
-- [[unforeseen consequences as - By 2006, underwriting standards had deteriorated so that virtually anyone could get a loan]]
-- [[unforeseen consequences as - The problem was that everyone involved in the process was paid on the basis of volume and not loan quality]]
-- [[unforeseen consequences as - So, no one had an economic incentive to slow the gravy train]]
-- [[unforeseen consequences as - The topics I'm going to explore are the causes of the financial crisis, regulatory changes that occurred afterwards that have]]
+- [[Steve Eisman - The causes of the financial crisis were multifaceted and globally significant]]
+- [[Steve Eisman - By 2006 underwriting standards had deteriorated so far that almost anyone could get a loan]]
+- [[Steve Eisman - Everyone in the mortgage chain was paid on volume rather than loan quality]]
+- [[Steve Eisman - Because compensation tracked volume no one had an economic incentive to slow the gravy train]]
+- [[Steve Eisman - Post-crisis regulation made the financial system safer but also created unintended consequences]]
 
 ## Full Transcript
 

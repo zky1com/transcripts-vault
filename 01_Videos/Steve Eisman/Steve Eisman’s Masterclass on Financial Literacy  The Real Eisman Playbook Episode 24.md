@@ -30,7 +30,7 @@ evidence_status: pending
 claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -66,13 +66,13 @@ This masterclass distills Eisman’s approach to financial literacy into practic
 
 ## Claims
 
-- [[Steve Eisman's Masterclass - And what risk do I have when I do it]]
-- [[Steve Eisman's Masterclass - Every profession is like a club and every profession creates its own language]]
-- [[Steve Eisman's Masterclass - Mastery of that language is a prerequisite for being a member of the club]]
-- [[Steve Eisman's Masterclass - Hi, this is Steve Eisman and this is the real Eisman playbook]]
-- [[Steve Eisman's Masterclass - I've gotten a lot of questions from people about what they should do]]
-- [[Steve Eisman's Masterclass - So, I thought this would be a good time to address a whole bunch of financial topics that I think]]
-- [[Steve Eisman's Masterclass - The topics I will discuss are one market corrections and long-term versus short-term investing]]
+- [[Steve Eisman - Long-term investing reduces the number of decisions and usually lowers the chance of major mistakes]]
+- [[Steve Eisman - Panic selling often leads to a second mistake because investors struggle to buy back in]]
+- [[Steve Eisman - Investors need to learn the language of finance because every profession has an entrance fee in vocabulary]]
+- [[Steve Eisman - Most individuals should keep investing simple by buying broad US index funds over time]]
+- [[Steve Eisman - Thesis creep is one of the most common ways investors turn a mistake into a larger loss]]
+- [[Steve Eisman - Growth stocks are usually hurt more than staple-like businesses when interest rates rise]]
+- [[Steve Eisman - Rising rates lower stock values both by slowing the economy and by raising discount rates]]
 
 ## Full Transcript
 
