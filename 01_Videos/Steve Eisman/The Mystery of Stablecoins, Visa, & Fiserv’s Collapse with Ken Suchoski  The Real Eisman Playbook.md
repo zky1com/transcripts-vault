@@ -27,10 +27,10 @@ tags: ["market-data", "portfolio-management", "ai-regulation"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 7
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -72,13 +72,11 @@ Eisman and Ken Suchoski unpack stablecoins, payment rails, and the market’s re
 
 ## Claims
 
-- [[Ken Sahoski - There have been some issues about what Tether puts the money in]]
-- [[Ken Sahoski - If their currency ever blew up, it would really destroy the reputation of the whole staple coin]]
-- [[Ken Sahoski - Why is it so difficult to disenfranchise Visa and Mastercard who stand there like kings of the payment world]]
-- [[Ken Sahoski - Hi, this is Steve Eisman and welcome to another edition of the real Eisman playbook]]
-- [[Ken Sahoski - And I think if we divide your world up, it would be old school, Visa, Mastercard and some of the]]
-- [[Ken Sahoski - And then the new new new new new kid on the block, which would be stable coins, which is represented]]
-- [[Ken Sahoski - Uh so stable coin is a type of digital uh digital asset, right]]
+- [[Ken Sahoski - Stablecoins are only as credible as the reserves backing them and a Tether failure would damage the whole sector]]
+- [[Ken Sahoski - Visa and Mastercard are hard to disrupt because they run network businesses with huge fixed costs and little excess economics to attack]]
+- [[Ken Sahoski - Fiserv's collapse reflects years of underinvestment and poor treatment of customers in its core-processing business]]
+- [[Ken Sahoski - PayPal lost much of its edge once Apple Pay and other alternatives matched its checkout experience and fraud control]]
+- [[Ken Sahoski - Many payment companies are still high-quality businesses despite a very difficult year for the sector]]
 
 ## Full Transcript
 

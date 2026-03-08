@@ -13,24 +13,24 @@ broad_category: "finance-investing"
 subcategories: ["stock-analysis", "risk-management"]
 series_name: "Steve Eisman"
 episode_id: ""
-primary_person: "Brian Thompson"
+primary_person: "Michael Ha"
 host_names: ["Steve Eisman"]
 interviewer_names: ["Steve Eisman"]
-interviewee_profiles: ["Brian Thompson - Bloomberg"]
+interviewee_profiles: ["Michael Ha - Baird"]
 speaker_profiles: []
 organizations_mentioned: ["Steve Eisman"]
 locations_mentioned: ["New York"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
+companies_mentioned: ["Baird", "UnitedHealth Group"]
 topics: ["stock-analysis", "risk-management", "ai-safety", "ai-coding"]
 tags: ["stock-analysis", "risk-management", "ai-safety", "ai-coding"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 7
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -79,13 +79,11 @@ Eisman uses the UnitedHealthcare story to separate outrage from underlying busin
 
 ## Claims
 
-- [[Brian Thompson - But at that point in time, we were probably the most bullish on United until, of course, April happened]]
-- [[Brian Thompson - What has happened to Optum Health in terms of the US government pricing, the change in pricing]]
-- [[Brian Thompson - We asked the question, how aggressive is Optim Health in risk coding]]
-- [[Brian Thompson - United Health was much more aggressive than most others in terms of coding under the old system]]
-- [[Brian Thompson - The impact of the new pricing was much greater on United Healthcare than maybe other operators]]
-- [[Brian Thompson - And our view is that things could get worse before it can get better]]
-- [[Brian Thompson - We are going to speak about United Healthcare, a company under assault]]
+- [[Michael Ha - UnitedHealth's problems go much deeper than temporarily higher medical costs]]
+- [[Michael Ha - Optum Health is the core issue because its Medicare-clinic economics have real structural problems]]
+- [[Michael Ha - UnitedHealth was more aggressive than peers in risk coding under the old Medicare payment system]]
+- [[Michael Ha - The government's pricing changes hit UnitedHealth much harder than other operators]]
+- [[Michael Ha - Things could get worse before they get better for UnitedHealth]]
 
 ## Full Transcript
 

@@ -13,10 +13,10 @@ broad_category: "ai"
 subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
 series_name: "Steve Eisman"
 episode_id: ""
-primary_person: "Melissa Lee"
+primary_person: "Steve Eisman"
 host_names: ["Steve Eisman"]
 interviewer_names: ["Steve Eisman"]
-interviewee_profiles: ["Melissa Lee - Google"]
+interviewee_profiles: ["Steve Eisman"]
 speaker_profiles: []
 organizations_mentioned: ["Steve Eisman"]
 locations_mentioned: ["United States"]
@@ -27,10 +27,10 @@ tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-ec
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 7
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-08"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -68,13 +68,11 @@ Eisman revisits how he identified the housing collapse and what it actually felt
 
 ## Claims
 
-- [[Melissa Lee - How did you feel knowing that this was going to happen]]
-- [[Melissa Lee - That people would be losing their jobs, people would be losing their homes]]
-- [[Melissa Lee - Do you think that what is being done can actually restore manufacturing jobs]]
-- [[Melissa Lee - It creates a tremendous amount of wealth, but it has its dark sides]]
-- [[Melissa Lee - And then in '08, that was potentially the end of the world]]
-- [[Melissa Lee - So, what what was the first thing that you noticed that was interesting]]
-- [[Melissa Lee - I had documents that showed that they were committing massive fraud]]
+- [[Steve Eisman - He remains long-term bullish on the US economy because technology and AI make it unusually dynamic]]
+- [[Steve Eisman - A massive US-China trade war would seriously damage the economy and markets]]
+- [[Steve Eisman - Capitalism creates tremendous wealth but also has dark sides that can produce major abuses]]
+- [[Steve Eisman - Household International was committing blatant manipulative fraud against subprime borrowers]]
+- [[Steve Eisman - In 2008 the financial system got close enough to collapse that it felt like the potential end of the world]]
 
 ## Full Transcript
 
