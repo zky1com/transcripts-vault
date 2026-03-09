@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Top 100 Most Used AI Apps in 2025"
 people_mentioned: ["Vibe Coding", "Juicy Chat", "Spicy Chat", "Crush On"]
 channel: "a16z"
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on list, more, companies. Yeah, I would say looking at the list now and then looking back, I really can appreciate now that the first list or two. We might expect to see a wave of new and more reliable consumer health products on web or mobile on the next version of. Now Bolt actually is on the brink list and Lovable and Replet both made it onto the main list.
+This episode uses the a16z Top 100 list to show where consumer AI usage is actually concentrating. The most useful takeaway is that the market is becoming legible enough to reveal category patterns: chat remains dominant, companionship remains larger than many expected, productivity is getting stronger as model reliability improves, and major platform companies are starting to appear more visibly alongside native startups.
 
 ## Key Insights
 
+- Usage rankings reveal consumer attention better than revenue rankings when a category is still early and heavily freemium.
+- The web list is stabilizing, suggesting the consumer AI field is maturing enough for repeat leaders to emerge.
+- Companionship and chat remain major categories despite repeated attempts to dismiss them as niche.
+- More reliable models should unlock a stronger wave of productivity, health, and prosumer AI products.
 
-- Yeah, I would say looking at the list now and then looking back, I really can appreciate now that the first list or two was total.
-- We might expect to see a wave of new and more reliable consumer health products on web or mobile on the next version of the list.
-- Now Bolt actually is on the brink list and Lovable and Replet both made it onto the main list.
-- >> We also saw Meta AI start to make a little bit of a dent this time around, not on the mobile list, but on the.
-- Time on this version of the list and then we're seeing the same thing we've seen on other versions of the list.
-- Yeah, I think that's um one thing that a lot of people didn't expect with a lot of these especially creative tools or productivity tools um.
 
 ## People Mentioned
 
@@ -64,6 +62,16 @@ The discussion centers on list, more, companies. Yeah, I would say looking at th
 - [[Crush On]]
 
 
+
+
+## Claims
+
+- [[Justine and Olivia - Usage data gives a more realistic picture of consumer AI adoption than revenue alone in the current phase of the market]]
+- [[Justine and Olivia - The consumer AI ecosystem is starting to stabilize after an earlier period of chaotic churn]]
+- [[Justine and Olivia - Companionship remains one of the dominant consumer AI categories]]
+- [[Justine and Olivia - Vibe coding emerged as a major new consumer AI category faster than many observers expected]]
+- [[Justine and Olivia - Google materially improved its position in consumer AI over the last six months]]
+- [[Justine and Olivia - Improving model reliability should unlock more prosumer productivity and consumer health products]]
 
 
 ## Full Transcript

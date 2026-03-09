@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Can SpaceX Really Justify a $1.5 Trillion Valuation? (Full Business Explained)"
 people_mentioned: ["Drew Cohen", "Goldman Sachs", "Elon Musk"]
 channel: "Drew Cohen"
@@ -17,7 +17,7 @@ primary_person: "Drew Cohen"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Drew Cohen - Tesla"]
+speaker_profiles: ["Drew Cohen"]
 organizations_mentioned: ["Capital Group", "Drew Cohen"]
 locations_mentioned: []
 tools_mentioned: []
@@ -25,12 +25,12 @@ companies_mentioned: ["Tesla"]
 topics: ["stock-analysis", "valuation", "going"]
 tags: ["stock-analysis", "valuation", "going"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on space, that's, they're. If it's a $1.5 trillion valuation and you want to get a 5x return in 10 years, that's going to be 7.5 trillion they're. Now, a lot of people are not going to believe these assumptions, and a lot of people, no matter what I say, you're going. Again, even if they are behind now, you know, if you're talking about what's going to happen in 10 years from now, which is.
+Drew Cohen analyzes SpaceX as a business whose valuation depends far more on future scale and market creation than on today’s launch revenue. The core of the debate is whether Starlink, launch economics, and future optional businesses can together support a trillion-dollar outcome without requiring implausibly optimistic assumptions about market size and execution.
 
 ## Key Insights
 
+- SpaceX’s value depends on multiple businesses and optionality rather than one clean mature cash-flow stream.
+- Launch leadership matters, but satellite internet economics are likely more important for very large valuation outcomes.
+- Extraordinary valuations require assumptions that should be made explicit instead of implied.
+- Investors must separate admiration for the business from the math required to justify the price.
 
-- If it's a $1.5 trillion valuation and you want to get a 5x return in 10 years, that's going to be 7.5 trillion they're going to.
-- Now, a lot of people are not going to believe these assumptions, and a lot of people, no matter what I say, you're going to tell.
-- Again, even if they are behind now, you know, if you're talking about what's going to happen in 10 years from now, which is going to.
-- How that business would look like if you're talking about 150 million households, we'll put it at $50 a month because we're going to say that.
-- Now they're doing, like I said, 4 billion in launch.
-- Now, I'm going to throw out some assumptions here.
 
 ## People Mentioned
 
@@ -62,6 +60,15 @@ The discussion centers on space, that's, they're. If it's a $1.5 trillion valuat
 - [[Elon Musk]]
 
 
+
+
+## Claims
+
+- [[Drew Cohen - A trillion-plus SpaceX valuation requires very large contributions from businesses beyond launch services]]
+- [[Drew Cohen - Starlink is central to the long-run SpaceX equity thesis]]
+- [[Drew Cohen - Optionality has value, but investors still need explicit assumptions to justify extreme valuation claims]]
+- [[Drew Cohen - SpaceX should be analyzed as a portfolio of emerging businesses rather than a single-category company]]
+- [[Drew Cohen - Great businesses can still fail to justify extreme valuations if expected returns require unrealistic end states]]
 
 
 ## Full Transcript

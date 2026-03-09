@@ -25,16 +25,16 @@ companies_mentioned: ["Salesforce"]
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "b2b-marketing", "lead-generation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,14 @@ Kevin Egan centers the conversation on the long-term journey rather than the sho
 - "This comp plan only represents this moment in time."
 - "It's really about a total rewards element."
 - "You're joining a rocket ship."
+
+## Claims
+
+- [[Kevin Egan - Strong candidates are attracted by role trajectory and company quality, not just current-year comp]]
+- [[Kevin Egan - Sales leadership includes selling the long-term career arc with honesty]]
+- [[Kevin Egan - Technical grounding can be a major advantage in sales leadership]]
+- [[Kevin Egan - People join faster when they believe they are boarding a rocket ship]]
+- [[Kevin Egan - The best management lesson is often about matching the role to a larger journey]]
 
 ## Full Transcript
 

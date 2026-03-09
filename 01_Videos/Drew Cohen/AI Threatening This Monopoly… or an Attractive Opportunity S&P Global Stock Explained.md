@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AI Threatening This Monopolyâ€¦ or an Attractive Opportunity? S&P Global Stock Explained"
 people_mentioned: ["Drew Cohen", "Goldman Sachs"]
 channel: "Drew Cohen"
@@ -17,7 +17,7 @@ primary_person: "Drew Cohen"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Drew Cohen - Bloomberg"]
+speaker_profiles: ["Drew Cohen"]
 organizations_mentioned: ["Capital Group", "Drew Cohen"]
 locations_mentioned: []
 tools_mentioned: []
@@ -25,12 +25,12 @@ companies_mentioned: ["Bloomberg"]
 topics: ["stock-analysis", "valuation", "risk-management", "ai-safety", "lead-generation", "product-management"]
 tags: ["stock-analysis", "valuation", "risk-management", "ai-safety", "lead-generation", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on data, it's, that's. If you're building a bot or something like that's going to trade, you're going to want the LSAG data because it's going to be. It's possible on the low end, you see a lot more disruption because there's a lot of financial service data products. If it seems like you're going to be using a lot of their data and it's a very big kind of value.
+Drew Cohen frames S&P Global as a high-quality data and ratings business whose moat may be pressured by AI at the edges but not obviously broken at the core. The key question is whether AI meaningfully weakens proprietary datasets and workflow lock-in or instead reinforces demand for trusted structured data inside more automated financial systems.
 
 ## Key Insights
 
+- Trusted proprietary financial data can remain valuable even as AI makes analysis easier for end users.
+- The ratings and market-data businesses should be evaluated separately because their durability and AI exposure differ.
+- Moats in information businesses depend on data rights, workflow integration, and willingness to pay for accuracy.
+- Valuation matters because even strong monopolistic businesses can still disappoint if bought expensively.
 
-- If you're building a bot or something like that's going to trade, you're going to want the LSAG data because it's going to be quicker to.
-- It's possible on the low end, you see a lot more disruption because there's a lot of financial service data products.
-- If it seems like you're going to be using a lot of their data and it's a very big kind of value.
-- It's a small language model and it's trained on a lot of financial data, earnings transcripts.
-- If the business moves to more data feed, that's going to be a pricing pressure that will weigh on the market intelligence business.
-- It's going to be a little bit cynical thinking of it this way, but I think it's a better way to understand the business.
 
 ## People Mentioned
 
@@ -60,6 +58,16 @@ The discussion centers on data, it's, that's. If you're building a bot or someth
 - [[Goldman Sachs]]
 
 
+
+
+## Claims
+
+- [[Drew Cohen - S&P Global’s moat depends on proprietary data and workflow integration more than on simple distribution]]
+- [[Drew Cohen - AI may pressure parts of financial information distribution without fully replacing premium structured data]]
+- [[Drew Cohen - Ratings and data services should be analyzed as distinct sub-businesses inside S&P Global]]
+- [[Drew Cohen - A data monopoly can still be a mediocre investment if the valuation is too rich]]
+- [[Drew Cohen - If automated finance agents become common, high-quality licensed datasets may become even more important]]
+- [[Drew Cohen - The real AI risk is not that all data becomes free but that some parts of the value chain get commoditized]]
 
 
 ## Full Transcript

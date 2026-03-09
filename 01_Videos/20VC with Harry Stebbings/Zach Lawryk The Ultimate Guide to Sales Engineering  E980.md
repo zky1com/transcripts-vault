@@ -25,16 +25,16 @@ companies_mentioned: ["Salesforce"]
 topics: ["product-management", "product-discovery", "product-strategy", "ai-jobs"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,15 @@ Zach Lawryk focuses on sales engineering as a leverage role that sits between te
 - "The ultimate guide to sales engineering."
 - "Technical trust is part of how enterprise deals get done."
 - "Sales engineering sits between truth and momentum."
+
+## Claims
+
+- [[Zach Lawryk - Sales engineering is a leverage role between technical truth and commercial momentum]]
+- [[Zach Lawryk - Technical buyer confidence is often the gating factor in complex deals]]
+- [[Zach Lawryk - Great sales engineers translate complexity without flattening it into vague promises]]
+- [[Zach Lawryk - As products become more technical, the SE function becomes more strategically important]]
+- [[Zach Lawryk - Sales engineering should be treated as a strategic GTM function, not just support]]
+- [[Zach Lawryk - Deals stall when technical credibility is weak even if commercial interest is strong]]
 
 ## Full Transcript
 

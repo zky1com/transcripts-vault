@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Stock Market Looks Expensiveâ€”Now What?"
 people_mentioned: ["Goldman Sachs"]
 channel: "Drew Cohen"
@@ -13,11 +13,11 @@ broad_category: "finance-investing"
 subcategories: ["portfolio-management", "stock-analysis", "valuation", "risk-management", "options-trading", "market-data"]
 series_name: ""
 episode_id: ""
-primary_person: "Goldman Sachs"
+primary_person: "Drew Cohen"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Goldman Sachs"]
+speaker_profiles: ["Drew Cohen"]
 organizations_mentioned: ["Capital Group", "Drew Cohen"]
 locations_mentioned: []
 tools_mentioned: []
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["portfolio-management", "stock-analysis", "valuation", "risk-management", "options-trading", "market-data", "ai-safety", "ai-regulation"]
 tags: ["portfolio-management", "stock-analysis", "valuation", "risk-management", "options-trading", "market-data", "ai-safety", "ai-regulation"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on more, down, because. Because it kind of gets back to this thing of market timing that you think you're going to be able to rotate into the. You see it's up 20% and now you're going, "Oh, well now I want to wait a little bit and you wait a little. Honestly, if you want to take a conservative approach, you're kind of left with just one decision, and that's to own more cash because.
+Drew Cohen argues that a market looking expensive is not itself a decision rule. The real problem is that many investors respond to expensive-looking conditions by trying to time rotations they do not actually understand, rather than building a process for valuation discipline, expected returns, and the possibility that expensive markets can stay expensive for long stretches.
 
 ## Key Insights
 
+- Market timing often disguises itself as prudence even when it rests on weak predictive skill.
+- An expensive market changes future return expectations more reliably than it signals an imminent crash.
+- The right response to valuation is process adjustment, not theatrical macro prediction.
+- Investors often hurt themselves by rotating out after gains and back in after fear rather than by holding quality assets too long.
 
-- Because it kind of gets back to this thing of market timing that you think you're going to be able to rotate into the stock like.
-- You see it's up 20% and now you're going, "Oh, well now I want to wait a little bit and you wait a little bit and.
-- Honestly, if you want to take a conservative approach, you're kind of left with just one decision, and that's to own more cash because that's really.
-- I'm not necessarily going to buy a business just because it is cheap on valuation and hope that the valuation moves up a little bit more.
-- Because if you're looking at the long term, it's much more about the time in the market than timing the market.
-- The more people buy stocks, the more the prices of the stocks go up, the more the future returns go down.
 
 ## People Mentioned
 
@@ -58,6 +56,14 @@ The discussion centers on more, down, because. Because it kind of gets back to t
 - [[Goldman Sachs]]
 
 
+
+
+## Claims
+
+- [[Drew Cohen - An expensive stock market does not automatically mean investors should sell everything]]
+- [[Drew Cohen - Trying to rotate in and out of the market often creates more damage than simply staying disciplined]]
+- [[Drew Cohen - Valuation should inform process and expectations rather than trigger dramatic macro calls]]
+- [[Drew Cohen - Many investors buy back in only after prices rise and fear fades, which worsens long-run outcomes]]
 
 
 ## Full Transcript

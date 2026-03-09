@@ -25,12 +25,12 @@ companies_mentioned: ["OpenAI"]
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 9
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -54,6 +54,18 @@ This note examines the AI coding market as a race shaped by workflow integration
 - "Who wins the AI coding war?"
 - "The default workflow is where the power accumulates."
 - "Trust matters as much as capability."
+
+## Claims
+
+- [[Codex Product Lead - AI coding products compete on workflow integration and trust, not only model quality]]
+- [[Codex Product Lead - The market can support multiple winners unless one workflow becomes overwhelmingly dominant]]
+- [[Codex Product Lead - Human override and trust are product requirements, not optional safety extras]]
+- [[Codex Product Lead - Developer ergonomics are a core competitive surface in AI coding]]
+- [[Codex Product Lead - The strongest AI coding products become part of the default stack rather than occasional demos]]
+- [[Codex Product Lead - Model capability matters less if the product cannot earn repeated use]]
+- [[Codex Product Lead - Clear handoff between automation and the human developer is central to product design]]
+- [[Codex Product Lead - Adoption loops decide the market more than headline demos do]]
+- [[Codex Product Lead - AI coding leaders need to balance autonomy, trust, and editability together]]
 
 ## Full Transcript
 

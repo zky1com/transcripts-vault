@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["startup-strategy", "founder-ops", "ai-safety", "ai-jobs", "lead-generation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,14 @@ This episode extends Chad Peets's hard-edged management philosophy into the unco
 - "The brutal truth about hiring and firing."
 - "World-class sales orgs are built on standards."
 - "You can't have exceptional outcomes with average conviction."
+
+## Claims
+
+- [[Chad Peets - World-class sales organizations are built through hard talent decisions, not slogans]]
+- [[Chad Peets - Great culture is clarity about what winning requires, not softness]]
+- [[Chad Peets - Leaders avoid necessary firing conversations when they confuse kindness with lowered standards]]
+- [[Chad Peets - Hiring gets easier when leadership is precise about the performance bar]]
+- [[Chad Peets - World-class teams cost more from leaders than most are willing to admit]]
 
 ## Full Transcript
 

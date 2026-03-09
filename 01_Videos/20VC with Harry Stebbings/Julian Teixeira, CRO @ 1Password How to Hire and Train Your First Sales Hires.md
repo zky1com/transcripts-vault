@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["startup-strategy", "founder-ops", "b2b-marketing", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,16 @@ Julian Teixeira treats early sales hiring as both a talent problem and a skills-
 - "Breaking down the anatomy of a win."
 - "Your playbook isn't worth anything without the right skills development."
 - "You're not hiring people to take orders."
+
+## Claims
+
+- [[Julian Teixeira - Early sales hires should be chosen for their ability to create opportunities, not just take orders]]
+- [[Julian Teixeira - Marketing experience can improve sales leadership by sharpening messaging instincts]]
+- [[Julian Teixeira - Training is what turns a sales playbook from theory into field behavior]]
+- [[Julian Teixeira - Outbound should be treated as the craft of earning relevance quickly]]
+- [[Julian Teixeira - Teams should codify only the parts of the sales process that prove repeatable]]
+- [[Julian Teixeira - Early sales hiring is simultaneously a talent decision and a capability-building decision]]
+- [[Julian Teixeira - Positioning quality is a sales advantage, not just a marketing concern]]
 
 ## Full Transcript
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sam Altman on Sora, Energy, and Building an AI Empire"
 people_mentioned: []
 channel: "a16z"
@@ -25,12 +25,12 @@ companies_mentioned: ["OpenAI"]
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,43 +40,25 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on yeah, it's, thing. Yeah, I only get to think about one thing now. Um I think most I think the right thing to I think most regulation uh probably has a lot of downside. It's very cool that the thesis of Sora, which is people actually want to create a lot of content, it's it's not that, you.
+Sam Altman describes OpenAI as a company forced to think simultaneously about models, interfaces, infrastructure, energy, policy, and long-run capability. The discussion is useful because it shows how he reasons about building at extreme scale while still treating future applications as uncertain and insisting that the best opportunities will come from hands-on experimentation rather than armchair forecasting.
 
 ## Key Insights
 
-
-- and and does the infrastructure uh do you think it will end up you know it's necessary for the main goal will it also separately end up being a another business or is it just really going to be in service to the personal AI or unknown you mean like would we sell it to other companies as infrastructure yeah would you sell it to other companies um yeah or or or you know it's such a massive thing would it would it do something else it feels to me like there will emerge some other thing to do like that but I don't know we don't have a current it's currently just meant to like support the service we want to deliver and the research yeah know that makes sense yeah the um scale is sort of like ridiculous terrifying enough that you got to be open to doing something else yeah if you're building the biggest data center in the history of humankind the biggest infrastructure project in the history the um there was a great interview you did many years ago in Strictly VC and and sort of early open AI well before TGBT and and they're saying hey what's they're asking what's the business model and you said oh we'll ask AI it'll figure it out for us everybody laughs but there have been multiple times and there was just another one recently where we have asked a then current model for you know what should we do and it has had a insightful answer we missed so I I think when we say stuff like that people don't take us seriously or literally but maybe the answer is you should take take us both yeah yeah well know as as somebody who runs an organization I ask the AI a lot of questions about what I should do.
-
-- uh because I think you you really could one you damage America in particular in that um like China's not going to have that kind of restriction and and you getting behind um in AI I think it'd be very dangerous for the world extremely dangerous extremely dangerous much more dangerous than not regulating something we don't know how to do yet you also want to talk about copyright um yeah So, well then that that's a segue, but um when you think about well I guess how do you see copy right unfolding because you've done some very interesting things um with the opt out uh and you know as you see people selling rights do you think will they be be bought exclusively will they be just like um I could sell it to everybody wants to pay me or how do you think that's going to unfold this is my current guess It it speaking of that like society and technology co-evolve as the technology goes in different directions and we saw an example of a different like video models got a very different response from rights holders than image gen does.
-
-- sort of thought we had like stumbled on this one giant secret that we had these scaling loss for language models and that felt like such an incredible triumph that I was like we're probably never going to get that lucky again and deep learning has been this miracle that keeps on giving and we have kept finding like breakthrough after breakthrough again when we got the the reasoning model breakthrough like I I also thought that was like we're never going to get another one like uh uh and it just seems so improbable that this one technology works so well.
-
-- So what are future AI human interfaces look like both in terms of hardware and software is the vision for kind of a wechathat like so I'm solving the chat thing in like a very narrow sense which is if you're trying to like you know have the most basic kind of chat style conversation it's very good but what a chat interface can do for you it's like nowhere near saturated cuz you could ask a chat interface like please cure cancer a model certainly can't do that yet so I think the text interface style can go very far even if for the chitchat use case the models are already very good.
-
-- And then you know like also a lot of policy restrictions on energy um and you know worse so in Europe than in the US but also dangerous here and now with AI here it feels like we're going to need all the energy from every possible source and how do you see that developing kind of policy-wise and technologically like what are going to be the big sources and how will those kind of curves cross um and then what's the right policy posture around you know drilling fracking all these kinds of things I expect in the short term it will be most of the net new in the US will be natural gas relative to at least base load energy in the long term I expect it'll be a I don't know what the ratio but the two dominant sources will be uh solar plus storage and nuclear I think yeah some combination of those two will win in the future like the long-term future in the long term right now and advanced nuclear SMRS fusion the whole the whole stack.
-
-- uh as I mentioned I think this will help our research program and is on the AGI path but yeah some like you know it can't all be about just making people like ruthlessly efficient and the AI like solving all our problems there's got to be like some fun and joy and delight along the way but we won't throw like tons of compute at it or not by a fraction of our comput it it's tons in the absolute sense but not in the relative sense I want to talk about the future of AI human interfaces because back in August you said the models have already saturated the chat use case.
+- OpenAI’s infrastructure buildout is driven by the desire to support its own services and research first, not by a fully formed infrastructure resale thesis.
+- Altman remains skeptical of heavy AI regulation before the underlying technical problems are clearly understood.
+- Society and technology will co-evolve around copyright and media in different ways for different model categories.
+- The best founders and investors will discover the next opportunities by building and observing, not by pattern matching old breakthrough companies.
 
 
+## Claims
 
-
-## Key Quotes
-
-
-> sort of thought we had like stumbled on this one giant secret that we had these scaling loss for language models and that felt like such an incredible triumph.
-
-
-> I was like we're probably never going to get that lucky again.
-
-
-> And deep learning has been this miracle that keeps on giving and we have kept finding breakthrough after breakthrough.
-
-
-> Again, when we got the the reasoning model breakthrough, like I I also thought that was like we're never going to get another one like that.
-
-
-
-
+- [[Sam Altman - OpenAI is building massive infrastructure primarily to support its own products and research]]
+- [[Sam Altman - Current AI regulation proposals risk doing more harm than good if they get ahead of the technology]]
+- [[Sam Altman - Copyright norms will evolve differently across media types as AI capabilities change]]
+- [[Sam Altman - The text interface still has enormous headroom beyond casual conversation]]
+- [[Sam Altman - Future AI opportunity discovery requires building in the trenches rather than clean theoretical forecasting]]
+- [[Sam Altman - OpenAI has repeatedly been surprised by additional scaling and reasoning breakthroughs after earlier moments that felt unique]]
+- [[Sam Altman - Energy supply will be a major bottleneck and strategic issue for advanced AI deployment]]
 
 
 ## Full Transcript

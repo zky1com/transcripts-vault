@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["lead-generation", "b2b-marketing", "ai-jobs", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,17 @@ Maggie Hott approaches sales interviewing as a pattern-recognition exercise grou
 - "Three questions you must ask when interviewing sales reps."
 - "You really had to learn how to make new friends fast."
 - "No one really wakes up and says I'm going to go into sales."
+
+## Claims
+
+- [[Maggie Hott - Sales interviews should reveal how candidates think under uncertainty, not just where they worked]]
+- [[Maggie Hott - Coachability is a more reliable hiring signal than pedigree alone]]
+- [[Maggie Hott - Competitive drive can transfer into sales success even from nontraditional backgrounds]]
+- [[Maggie Hott - Interview questions should expose behavior rather than reward rehearsed answers]]
+- [[Maggie Hott - Great sales hiring depends on testing adaptability to different people and situations]]
+- [[Maggie Hott - Nontraditional career paths can produce unusually strong reps]]
+- [[Maggie Hott - The best hiring questions turn abstract traits into observable evidence]]
+- [[Maggie Hott - Self-awareness matters because reps need to improve in public and under pressure]]
 
 ## Full Transcript
 

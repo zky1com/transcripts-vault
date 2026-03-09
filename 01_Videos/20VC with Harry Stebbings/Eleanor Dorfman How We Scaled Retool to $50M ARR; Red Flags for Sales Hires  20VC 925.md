@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["startup-strategy", "saas-growth", "ai-jobs", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,17 @@ Eleanor Dorfman explains how selling a highly flexible platform like Retool forc
 - "Careers are such a jungle gym versus a ladder."
 - "Sales is there to accelerate a healthy machine, but it can't fix a broken one."
 - "If they're not peppering you with questions, I know they're not deeply engaging with the material."
+
+## Claims
+
+- [[Eleanor Dorfman - Sales leaders at early startups should think like company builders, not just quota managers]]
+- [[Eleanor Dorfman - Founders need to generate the raw inputs for the first sales playbook themselves]]
+- [[Eleanor Dorfman - Hypergrowth teams should not build process until they know the exact problem they are solving]]
+- [[Eleanor Dorfman - PLG and enterprise can coexist early, but the combination becomes harder near $100M ARR]]
+- [[Eleanor Dorfman - Onboarding works best when it accelerates pattern recognition through repetition and certification]]
+- [[Eleanor Dorfman - Low curiosity is an early warning sign in sales hires]]
+- [[Eleanor Dorfman - Win reviews and blameless postmortems are core training tools, not just reporting rituals]]
+- [[Eleanor Dorfman - Psychological safety is required if teams are expected to surface deal risk early]]
 
 ## Full Transcript
 

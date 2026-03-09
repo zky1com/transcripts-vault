@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["startup-strategy", "founder-ops", "ai-jobs", "lead-generation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,17 @@ Sam Blond argues that most startup outbound fails because teams copy tactics wit
 - "Startups are doing outbound wrong."
 - "How to fix it."
 - "You have to earn the right to the next sentence."
+
+## Claims
+
+- [[Sam Blond - Most startup outbound fails because the strategy is wrong before the reps ever execute it]]
+- [[Sam Blond - Outbound volume cannot rescue weak relevance]]
+- [[Sam Blond - Fixing outbound requires changing message, targeting, and role expectations together]]
+- [[Sam Blond - Bad outbound is usually a leadership design issue, not just an SDR issue]]
+- [[Sam Blond - Scalable outreach starts with understanding the buyer deeply]]
+- [[Sam Blond - Role design affects outbound success as much as copywriting does]]
+- [[Sam Blond - Noisy activity should not be mistaken for real pipeline generation]]
+- [[Sam Blond - Outbound improves when companies return to fundamentals instead of copying playbooks blindly]]
 
 ## Full Transcript
 

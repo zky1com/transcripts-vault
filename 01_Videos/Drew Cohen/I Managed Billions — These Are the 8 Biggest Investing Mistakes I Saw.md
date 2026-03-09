@@ -1,4 +1,4 @@
-﻿---
+---
 title: "I Managed Billions â€” These Are the 8 Biggest Investing Mistakes I Saw"
 people_mentioned: ["Goldman Sachs"]
 channel: "Drew Cohen"
@@ -13,11 +13,11 @@ broad_category: "finance-investing"
 subcategories: ["portfolio-management", "stock-analysis", "risk-management", "market-data"]
 series_name: ""
 episode_id: ""
-primary_person: "Goldman Sachs"
+primary_person: "Drew Cohen"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Goldman Sachs"]
+speaker_profiles: ["Drew Cohen"]
 organizations_mentioned: ["Drew Cohen"]
 locations_mentioned: []
 tools_mentioned: []
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["portfolio-management", "stock-analysis", "risk-management", "market-data", "ai-safety", "ai-jobs"]
 tags: ["portfolio-management", "stock-analysis", "risk-management", "market-data", "ai-safety", "ai-jobs"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on stock, don't, it's. If you do that in this scenario, be very clear with yourself whether or not you're selling that stock because there is new information. In fact, if a stock being down 30%, but the business earnings still being strong is hurting you as an investor, there's a good. Number eight is going to be not keeping up to date with the stocks on your watch list or that you maybe own where.
+Drew Cohen’s investing mistakes video is a framework note about behavior under uncertainty. The common thread is that many bad decisions come from reacting emotionally to price moves, confusing narrative with thesis, and failing to separate new information from discomfort after a stock moves against you.
 
 ## Key Insights
 
+- A price decline is not by itself new information about business quality.
+- Good investing requires explicit rules for how to react when your thesis is challenged.
+- Behavioral errors often matter more than spreadsheet errors for long-term outcomes.
+- Mistake prevention depends on self-honesty about why you are buying or selling.
 
-- If you do that in this scenario, be very clear with yourself whether or not you're selling that stock because there is new information about the.
-- In fact, if a stock being down 30%, but the business earnings still being strong is hurting you as an investor, there's a good chance it's.
-- Number eight is going to be not keeping up to date with the stocks on your watch list or that you maybe own where the stock.
-- You're not just blindly adding to it as you know it's dropping in price, the emotions are going, you're going, I'm not wrong.
-- That's by the way why with my investment research company I never give recommendations cuz I don't want the stock to go against someone then they're.
-- Maybe it is a stock like Nvidia where you see the price is up, I don't know, 50%, 75%.
 
 ## People Mentioned
 
@@ -58,6 +56,15 @@ The discussion centers on stock, don't, it's. If you do that in this scenario, b
 - [[Goldman Sachs]]
 
 
+
+
+## Claims
+
+- [[Drew Cohen - Investors should be explicit about whether a sale is thesis-driven or emotion-driven]]
+- [[Drew Cohen - A stock being down sharply is not itself proof that the underlying thesis is broken]]
+- [[Drew Cohen - Behavioral discipline often matters more than clever forecasting]]
+- [[Drew Cohen - Investors need rules for how to respond when a position moves against them]]
+- [[Drew Cohen - Self-honesty is one of the most important safeguards against repeat investing errors]]
 
 
 ## Full Transcript

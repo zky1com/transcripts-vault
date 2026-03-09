@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["founder-ops", "saas-growth", "lead-generation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 4
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,13 @@ This short discussion with Lori Jimenez pushes back on the lazy idea that enterp
 - "I don't think it's fully dead."
 - "If you do virtual right, it doesn't feel transactional."
 - "Know your buyer."
+
+## Claims
+
+- [[Lori Jimenez - Genuine connection still matters in enterprise sales even after the shift to remote work]]
+- [[Lori Jimenez - Remote selling improved efficiency but did not eliminate the value of in-person moments]]
+- [[Lori Jimenez - Relationship-building should follow the buyer’s style rather than a fixed entertainment playbook]]
+- [[Lori Jimenez - Old-school entertainment selling survives only in a narrower, more selective form]]
 
 ## Full Transcript
 

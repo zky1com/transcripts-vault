@@ -25,11 +25,11 @@ companies_mentioned: []
 topics: ["saas-growth", "startup-strategy", "founder-ops", "ai-coding", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
@@ -57,6 +57,16 @@ Jerry Murdock's episode frames the current software market as a selection event 
 - "The SaaS apocalypse."
 - "Who lives and who dies."
 - "This is a sorting event for software."
+
+## Claims
+
+- [[Jerry Murdock - The current software market is a selection event rather than a uniform collapse]]
+- [[Jerry Murdock - Not all SaaS businesses are equally exposed to platform and pricing pressure]]
+- [[Jerry Murdock - Survival depends on whether the product remains indispensable as interfaces evolve]]
+- [[Jerry Murdock - Investor frameworks become harsher when category certainty disappears]]
+- [[Jerry Murdock - Software companies should be analyzed in cohorts of resilience rather than broad optimism]]
+- [[Jerry Murdock - Customer dependence is one of the strongest defenses in a turbulent market]]
+- [[Jerry Murdock - The market will reward businesses that evolve with interface and pricing change]]
 
 ## Full Transcript
 

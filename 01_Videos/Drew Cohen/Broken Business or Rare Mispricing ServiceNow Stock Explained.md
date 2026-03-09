@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Broken Business or Rare Mispricing? ServiceNow Stock Explained"
 people_mentioned: ["Service Now", "Drew Cohen", "Goldman Sachs"]
 channel: "Drew Cohen"
@@ -13,11 +13,11 @@ broad_category: "finance-investing"
 subcategories: ["stock-analysis", "valuation", "risk-management", "market-data"]
 series_name: ""
 episode_id: ""
-primary_person: "Service Now"
+primary_person: "Drew Cohen"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Service Now"]
+speaker_profiles: ["Drew Cohen"]
 organizations_mentioned: ["Capital Group", "Drew Cohen"]
 locations_mentioned: []
 tools_mentioned: []
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "b2b-marketing", "product-management"]
 tags: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "b2b-marketing", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, more, service. Now there's going to be more software products out there. It's basically if you want to use all these new AI functionalities, everything that's going to make your business more efficient, we're going to. I could see someone going with Open AI or Enthropic over Service Now, but then it's a different question if you're already on Service.
+Drew Cohen argues that ServiceNow is best understood as a workflow platform with embedded enterprise relevance rather than a narrow ticketing product. The debate is whether AI expands the number of workflows the platform can own or whether it lowers switching costs and invites new entrants into what has historically been a sticky enterprise layer.
 
 ## Key Insights
 
+- Workflow ownership can be a powerful enterprise moat if the platform stays central to operations.
+- AI may increase the importance of orchestration layers rather than eliminate them.
+- Enterprise software durability often comes from integration depth and process ownership.
+- Mispricing happens when the market confuses short-term narrative concerns with structural business quality.
 
-- Now there's going to be more software products out there.
-- It's basically if you want to use all these new AI functionalities, everything that's going to make your business more efficient, we're going to charge you.
-- I could see someone going with Open AI or Enthropic over Service Now, but then it's a different question if you're already on Service Now and.
-- Means and so anthropic wants the usage on service now open AI wants the usage on Service Now and right now.
-- Now, it's a risk certainly and you know risk is always going to exist and it's going to be your opinion if.
-- The question is going to be whether or not the AI sits inside of Service Now or outside of Service Now.
 
 ## People Mentioned
 
@@ -62,6 +60,16 @@ The discussion centers on it's, more, service. Now there's going to be more soft
 - [[Goldman Sachs]]
 
 
+
+
+## Claims
+
+- [[Drew Cohen - ServiceNow should be viewed as a workflow and orchestration platform, not just a helpdesk product]]
+- [[Drew Cohen - AI could strengthen ServiceNow if businesses need a central layer to organize new automated workflows]]
+- [[Drew Cohen - Enterprise stickiness comes from integration depth and operational embeddedness]]
+- [[Drew Cohen - The market may be underestimating how much new AI functionality still needs an enterprise system of work]]
+- [[Drew Cohen - A high-quality enterprise software company can look broken temporarily when the market focuses on the wrong narrative]]
+- [[Drew Cohen - The key bear case is that AI lowers barriers enough to let new software providers attack ServiceNow’s territory]]
 
 
 ## Full Transcript

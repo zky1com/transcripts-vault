@@ -25,16 +25,16 @@ companies_mentioned: ["Salesforce"]
 topics: ["lead-generation", "b2b-marketing", "ai-safety", "ai-jobs"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,16 @@ Larry Shurtz focuses on forecast accuracy, opportunity diligence, and the discip
 - "If you can't forecast accurately, you don't truly understand your business."
 - "We might not even be asking the right questions."
 - "How to hire, train, and retain the best vertical teams."
+
+## Claims
+
+- [[Larry Shurtz - Forecast accuracy is one of the clearest tests of whether leadership really understands the business]]
+- [[Larry Shurtz - Vertical sales teams only work when training becomes more specific, not more generic]]
+- [[Larry Shurtz - Opportunity diligence matters as much as rep effort in producing reliable outcomes]]
+- [[Larry Shurtz - Hiring, training, and retention are one operating system rather than separate functions]]
+- [[Larry Shurtz - Leaders should use the forecast to surface misunderstanding early]]
+- [[Larry Shurtz - Vertical motions require better customer questions because surface-level discovery is not enough]]
+- [[Larry Shurtz - Retention improves when teams know exactly what good execution looks like]]
 
 ## Full Transcript
 

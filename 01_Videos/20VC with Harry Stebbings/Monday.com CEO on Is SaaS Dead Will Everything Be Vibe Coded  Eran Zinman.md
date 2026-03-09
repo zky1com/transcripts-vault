@@ -25,11 +25,11 @@ companies_mentioned: ["Salesforce"]
 topics: ["saas-growth", "founder-ops", "ai-coding"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
@@ -57,6 +57,17 @@ This conversation sits squarely in the post-AI architecture debate: if software 
 - "Is SaaS dead?"
 - "Will everything be vibe coded?"
 - "The real question is what remains defensible."
+
+## Claims
+
+- [[Eran Zinman - Vibe coding expands who can build software without automatically replacing durable products]]
+- [[Eran Zinman - The death-of-SaaS narrative is really a question about which layers keep structural advantage]]
+- [[Eran Zinman - Large workflow platforms keep value when they embed process, data, and coordination]]
+- [[Eran Zinman - Code generation is not the same as replacing a complete business system]]
+- [[Eran Zinman - AI changes the distribution of software-building power]]
+- [[Eran Zinman - Operators at scale have a better view of what remains hard in software]]
+- [[Eran Zinman - Defensibility increasingly depends on system depth rather than interface novelty]]
+- [[Eran Zinman - The real question is how software companies adapt to AI-enabled building behavior]]
 
 ## Full Transcript
 

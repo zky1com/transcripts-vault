@@ -25,16 +25,16 @@ companies_mentioned: ["Google"]
 topics: ["startup-strategy", "saas-growth", "ai-jobs", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,16 @@ Mark Goldberger frames enterprise sales as a practice-driven discipline where re
 - "Losers practice until they get it right; winners practice until they never get it wrong."
 - "The ultimate guide to enterprise sales."
 - "You need to train for complexity, not just the happy path."
+
+## Claims
+
+- [[Mark Goldberger - Enterprise sales is a practice-driven discipline where repetition removes avoidable mistakes]]
+- [[Mark Goldberger - Enterprise sellers need founder-level understanding of product and market economics]]
+- [[Mark Goldberger - Strong leaders teach teams how to reason through complexity instead of memorizing scripts]]
+- [[Mark Goldberger - Calm execution is a competitive advantage in complex deals]]
+- [[Mark Goldberger - Practice matters because deal complexity exposes weak preparation quickly]]
+- [[Mark Goldberger - Enterprise sales quality improves when teams understand both business pain and deal mechanics]]
+- [[Mark Goldberger - The best enterprise training focuses on decision quality, not just presentation polish]]
 
 ## Full Transcript
 

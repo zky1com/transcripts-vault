@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,16 @@ Stevie Case brings an unusually cross-disciplinary perspective to sales leadersh
 - "World's first female pro gamer."
 - "Hiring tips for sales."
 - "PLG versus enterprise."
+
+## Claims
+
+- [[Stevie Case - Competitive backgrounds can create strong sales leadership traits]]
+- [[Stevie Case - Hiring advice changes depending on whether the company is PLG, enterprise, or hybrid]]
+- [[Stevie Case - Sales leaders should match talent to motion instead of searching for one universal profile]]
+- [[Stevie Case - Nontraditional backgrounds can be a major asset in revenue leadership]]
+- [[Stevie Case - PLG and enterprise demand different operating instincts from the team]]
+- [[Stevie Case - Competitive psychology transfers into sales through resilience and learning speed]]
+- [[Stevie Case - Great hiring starts by asking what the motion actually needs]]
 
 ## Full Transcript
 

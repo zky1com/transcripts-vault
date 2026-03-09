@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How Scale AI is Pioneering the Future of Work"
 people_mentioned: ["Ben Shariffstein", "Silic Valley"]
 channel: "a16z"
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, right, you're. Work that maybe we don't we don't think we're going to be able to bring back into the platform, but it's worth. Yeah, I think that the I would say my hottest take is I think the right way to think about Foundation Labs is that. >> if you're not selling to enterprises, it's difficult to think about this as a scalable business model.
+Ben Shariffstein describes Scale's enterprise AI business as a forward-deployed build motion rather than a pure software SKU. The core idea is that enterprise AI still requires custom work close to the customer, but the long-term value comes from learning which pieces can be pulled back into platform and which types of services are actually wedges into more scalable systems of work.
 
 ## Key Insights
 
+- Forward-deployed teams are valuable because enterprise AI needs customer-specific customization before stable product abstractions exist.
+- The important strategic question is whether custom work compounds into platform advantage or just creates vanity revenue.
+- Foundation model companies look more like blockbuster-driven studios than mature software businesses right now.
+- Revenue discipline still matters even in a market where almost every enterprise wants to buy something called AI.
 
-- Work that maybe we don't we don't think we're going to be able to bring back into the platform, but it's worth.
-- Yeah, I think that the I would say my hottest take is I think the right way to think about Foundation Labs is that they're like.
-- >> if you're not selling to enterprises, it's difficult to think about this as a scalable business model.
-- Going after the right thing and so I think it's really easy right now because there is so much demand every enterprise.
-- It's like a factory for founders whether or not it's in the product role or it's in the foreployed engineering.
-- It's you still use it a little bit whatever and I think it's you know it's just very similar like >>.
 
 ## People Mentioned
 
@@ -58,6 +56,17 @@ The discussion centers on it's, right, you're. Work that maybe we don't we don't
 - [[Ben Shariffstein]]
 
 
+
+
+## Claims
+
+- [[Ben Shariffstein - Enterprise AI adoption still requires significant forward-deployed customization close to the customer]]
+- [[Ben Shariffstein - The best services work is the kind that can be pulled back into product over time]]
+- [[Ben Shariffstein - Founders should trade margin for strategic data or system position, not for vanity revenue]]
+- [[Ben Shariffstein - Foundation model labs currently resemble content studios more than software companies]]
+- [[Ben Shariffstein - Revenue teams should say no often in AI because unfocused growth can damage the product roadmap]]
+- [[Ben Shariffstein - Forward-deployed AI teams can act as a wedge into systems of record or systems of work]]
+- [[Ben Shariffstein - Enterprise demand for AI is so high that focus is now a bigger risk than pipeline generation]]
 
 
 ## Full Transcript

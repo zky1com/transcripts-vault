@@ -25,16 +25,16 @@ companies_mentioned: ["Salesforce"]
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,17 @@ Frank Fillmann treats sales leadership as a mix of recruiting, customer empathy,
 - "The best people want to teach."
 - "I knew I wanted to be in sales straight away."
 - "If I get the best people and I treat them great, the rest follows."
+
+## Claims
+
+- [[Frank Fillmann - Recruiting quality is the foundation of a great sales organization]]
+- [[Frank Fillmann - The best sellers create demand by clarifying problems customers have not fully framed yet]]
+- [[Frank Fillmann - Empathy is a core management skill because sales is an unusually hard job]]
+- [[Frank Fillmann - Compensation design should align all the way from rep incentives to company metrics]]
+- [[Frank Fillmann - Sales leaders should hire people who can learn and adapt, not just those with the right logos]]
+- [[Frank Fillmann - Strong managers create belief in a better future state for both customers and their teams]]
+- [[Frank Fillmann - Demand generation and sales execution should reinforce each other instead of acting like separate systems]]
+- [[Frank Fillmann - A rep’s personal success and the company’s operating model should point in the same direction]]
 
 ## Full Transcript
 

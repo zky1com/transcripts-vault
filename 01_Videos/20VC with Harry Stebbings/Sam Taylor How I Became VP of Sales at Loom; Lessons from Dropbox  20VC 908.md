@@ -25,16 +25,16 @@ companies_mentioned: ["Salesforce"]
 topics: ["startup-strategy", "founder-ops", "ai-jobs", "b2b-marketing", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,16 @@ Sam Taylor reflects on the path to sales leadership and what Dropbox and Loom ta
 - "How I became VP of sales at Loom."
 - "Lessons from Dropbox."
 - "The role gets bigger as the company gets bigger."
+
+## Claims
+
+- [[Sam Taylor - Sales leadership readiness comes from pattern recognition across multiple environments]]
+- [[Sam Taylor - Dropbox and Loom teach different lessons about focus and sales evolution]]
+- [[Sam Taylor - Career progression in sales requires learning to scale people and systems, not just personal quota performance]]
+- [[Sam Taylor - Different company contexts reveal different management muscles]]
+- [[Sam Taylor - Strong sales careers are built by compounding operational judgment over time]]
+- [[Sam Taylor - Company stage changes what good sales management looks like]]
+- [[Sam Taylor - The transition from top rep to leader requires system thinking]]
 
 ## Full Transcript
 

@@ -25,16 +25,16 @@ companies_mentioned: ["Google"]
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,16 @@ Lauren Schwartz uses a mix of playfulness and rigor to explain how she spots fut
 - "I discovered sales at the age of seven."
 - "It was really about the opportunity to compete."
 - "Must-ask questions to identify potential sales talent."
+
+## Claims
+
+- [[Lauren Schwartz - Early signs of sales talent often appear before someone ever holds a quota-carrying role]]
+- [[Lauren Schwartz - The best sales skill is deep curiosity about what is possible]]
+- [[Lauren Schwartz - Good discovery starts with open-ended questions about the buyer's current state]]
+- [[Lauren Schwartz - Sales leaders should create psychological safety by modeling accountability themselves]]
+- [[Lauren Schwartz - Comp plans should align salesperson incentives with customer adoption, not just closed bookings]]
+- [[Lauren Schwartz - Simple focus is harder and more valuable than adding more objectives to the sales role]]
+- [[Lauren Schwartz - Category-creating environments produce especially strong enterprise sellers]]
 
 ## Full Transcript
 

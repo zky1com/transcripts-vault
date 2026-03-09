@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Software is Eating Labor"
 people_mentioned: ["Karl Marx", "Dos Capitol", "Roman Orsman", "Saber Systems", "American Airlines"]
 channel: "a16z"
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["api-integration", "data-tools", "automation", "ai-jobs", "lead-generation"]
 tags: ["api-integration", "data-tools", "automation", "ai-jobs", "lead-generation"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on software, it's, company. You can backfill into a software company with real software revenue, real software margins, real software retention. What software is now going after, the prize that it's going after is the labor market. What software is now going after, the prize that it's going after is the labor market.
+This presentation argues that AI changes the economic target of software from records management to labor replacement and augmentation. The key point is not merely that automation gets cheaper, but that software companies can now sell completed work rather than seats and workflows, which opens markets that were previously too labor-intensive or too small to support a traditional software business.
 
 ## Key Insights
 
+- The labor market is vastly larger than the existing software market, which changes the upside of AI-native businesses.
+- AI is most commercially disruptive when it replaces or performs an end-to-end job rather than digitizing one step in a workflow.
+- Many jobs become newly addressable when AI lowers customer acquisition and service delivery costs.
+- The presentation treats labor substitution and market expansion as the two biggest economic effects of AI software.
 
-- You can backfill into a software company with real software revenue, real software margins, real software retention.
-- What software is now going after, the prize that it's going after is the labor market.
-- What software is now going after, the prize that it's going after is the labor market.
-- Um and no company has popped up effectively doing software because it's like the software market's kind of small.
-- Pay me $10 million a year and I'm your software product that kind of tracks everything." Because before they would just h they would just get.
-- It's like, "Hey, you owe me money." It's like, "F you, you never call me again." and it's like h call.
 
 ## People Mentioned
 
@@ -64,6 +62,16 @@ The discussion centers on software, it's, company. You can backfill into a softw
 - [[Saber Systems]]
 
 
+
+
+## Claims
+
+- [[a16z presenter - AI software is now targeting the labor market rather than only the traditional software market]]
+- [[a16z presenter - End-to-end job completion is a bigger business opportunity than digitizing filing cabinets]]
+- [[a16z presenter - Demoralizing repetitive jobs are especially strong targets for AI automation]]
+- [[a16z presenter - AI improves regulatory consistency because scripted systems can be constrained more reliably than frustrated humans]]
+- [[a16z presenter - Multilingual AI expands addressable markets that companies could never staff efficiently with humans]]
+- [[a16z presenter - AI makes some previously bad startups viable by collapsing customer acquisition and operating costs]]
 
 
 ## Full Transcript

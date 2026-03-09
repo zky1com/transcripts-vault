@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Portfolio Manager Explains Top 5 Valuation Misconceptions"
 people_mentioned: ["Warren Buffett"]
 channel: "Drew Cohen"
@@ -13,11 +13,11 @@ broad_category: "finance-investing"
 subcategories: ["portfolio-management", "stock-analysis", "valuation"]
 series_name: ""
 episode_id: ""
-primary_person: "Warren Buffett"
+primary_person: "Drew Cohen"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Warren Buffett"]
+speaker_profiles: ["Drew Cohen"]
 organizations_mentioned: ["Drew Cohen"]
 locations_mentioned: []
 tools_mentioned: []
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["portfolio-management", "stock-analysis", "valuation"]
 tags: ["portfolio-management", "stock-analysis", "valuation"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on you're, it's, cash. It's growing a lot though and then it's going to grow 30% a year for the next 3 years and then it's going to. If you're paying 20 times, you're going to need a high singledigit rate. Because cash flows 100 years out from now, 50 years out from now aren't worth as much as cash flows 5 years out from.
+This note is a valuation framework piece about how investors misread multiples, growth, and future cash flows. Drew Cohen’s main point is that valuation only becomes useful when tied to a full business trajectory, not when used as a slogan or a single static number divorced from duration, margins, and reinvestment needs.
 
 ## Key Insights
 
+- A valuation multiple is only meaningful in the context of growth, margins, and duration.
+- Cheap-looking stocks can be expensive if the future path of cash flow is weak.
+- Expensive-looking stocks can be reasonable if the business compounds for longer than people assume.
+- Most valuation mistakes come from simplifying a dynamic future into one crude present multiple.
 
-- It's growing a lot though and then it's going to grow 30% a year for the next 3 years and then it's going to grow 20%.
-- If you're paying 20 times, you're going to need a high singledigit rate.
-- Because cash flows 100 years out from now, 50 years out from now aren't worth as much as cash flows 5 years out from now.
-- If you see it's a 9% return you run it again it's an 11% return it's a 7% return and then you know that the different.
-- Because again, all a DCF is doing is trying to figure out what your return is going to be on all future cash flows given your.
-- Now, however, a lot of people will say, "How can I possibly know what cash flows 50 years out are going to be?" Well, that's the.
 
 ## People Mentioned
 
@@ -58,6 +56,15 @@ The discussion centers on you're, it's, cash. It's growing a lot though and then
 - [[Warren Buffett]]
 
 
+
+
+## Claims
+
+- [[Drew Cohen - A valuation multiple without growth and margin context is close to meaningless]]
+- [[Drew Cohen - A stock can look cheap on today’s number while still being expensive on future cash flow]]
+- [[Drew Cohen - High multiples can be rational when a company has unusually long compounding runway]]
+- [[Drew Cohen - Valuation work should be forward-looking rather than anchored to static current metrics]]
+- [[Drew Cohen - Misconceptions about valuation often come from ignoring what has to happen over the next several years]]
 
 
 ## Full Transcript

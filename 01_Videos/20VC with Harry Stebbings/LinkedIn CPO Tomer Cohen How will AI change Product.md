@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 3
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -54,6 +54,12 @@ This short segment is a compact view of how AI changes product management by for
 - "AI is moving to the front."
 - "Every tech revolution requires you to unlearn so you can learn again."
 - "AI talent is going to be one of the most important talents to have in every company."
+
+## Claims
+
+- [[Tomer Cohen - AI is moving from back-end infrastructure into the visible product experience]]
+- [[Tomer Cohen - Major platform shifts require product teams to relearn their craft]]
+- [[Tomer Cohen - A beginner's mindset becomes an advantage during platform transitions]]
 
 ## Full Transcript
 

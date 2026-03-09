@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["startup-strategy", "saas-growth", "ai-safety", "ai-jobs", "lead-generation", "product-management", "valuation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,17 @@ Jordan Van Horn explains sales failure as something that is usually diagnosable 
 - "Three reasons salespeople fail."
 - "How to make a sales playbook."
 - "You need to understand why the system breaks."
+
+## Claims
+
+- [[Jordan Van Horn - Sales failure is usually diagnosable when leaders examine the system around the rep]]
+- [[Jordan Van Horn - A real sales playbook should make repeatable behaviors explicit]]
+- [[Jordan Van Horn - Managers are partly responsible when reps fail because they designed the environment]]
+- [[Jordan Van Horn - Career paths outside tech can still produce strong sellers if they build discipline and customer awareness]]
+- [[Jordan Van Horn - Good sales management starts by making assumptions testable]]
+- [[Jordan Van Horn - Playbooks are useful only if they reflect the actual sales motion in the field]]
+- [[Jordan Van Horn - Diagnosing rep failure requires separating talent issues from process issues]]
+- [[Jordan Van Horn - The value of a playbook is consistency, not bureaucracy]]
 
 ## Full Transcript
 

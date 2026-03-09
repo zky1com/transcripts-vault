@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Panic Sell or Opportunity to Own Koreaâ€™s Amazon? Coupang Stock Explained"
 people_mentioned: ["Facebook Cambridge Analytica", "Bomb Kim", "Is Korea", "Drew Cohen", "Goldman Sachs"]
 channel: "Drew Cohen"
@@ -13,11 +13,11 @@ broad_category: "finance-investing"
 subcategories: ["stock-analysis", "risk-management", "market-data"]
 series_name: ""
 episode_id: ""
-primary_person: "Facebook Cambridge Analytica"
+primary_person: "Drew Cohen"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Facebook Cambridge Analytica - Amazon"]
+speaker_profiles: ["Drew Cohen"]
 organizations_mentioned: ["Capital Group", "Drew Cohen"]
 locations_mentioned: []
 tools_mentioned: []
@@ -25,12 +25,12 @@ companies_mentioned: ["Amazon"]
 topics: ["stock-analysis", "risk-management", "market-data", "ai-safety"]
 tags: ["stock-analysis", "risk-management", "market-data", "ai-safety"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, business, more. What's going to happen is they're either going to shut them down, so they're not going to lose money, or they're going. By going online, you're going to be able to undercut a lot of this. You're either spending a lot of money to build warehouses because if you lease them out, they're probably not going to.
+Drew Cohen views Coupang as a logistics and customer-experience system more than a simple e-commerce site. The investment case turns on whether the company can keep converting operational excellence into market share and better economics, and whether temporary market fear has obscured the long-term value of that system in Korea and adjacent markets.
 
 ## Key Insights
 
+- Coupang’s real differentiator is logistics quality and customer experience, not just online retail exposure.
+- New initiatives should be judged by whether they reinforce the core delivery flywheel or distract from it.
+- International and adjacent expansions are valuable only if they do not become persistent money pits.
+- A panic sell can create opportunity when the core operating engine remains intact.
 
-- What's going to happen is they're either going to shut them down, so they're not going to lose money, or they're going.
-- By going online, you're going to be able to undercut a lot of this.
-- You're either spending a lot of money to build warehouses because if you lease them out, they're probably not going to.
-- If you don't need a lot of growth because it's trading at a low multiple, then it's kind of doesn't matter whether or not they're going.
-- I'm going to say I think a similar thing is going to happen with coupon.
-- They're going to have a lot more inventory than what you could traditionally get.
 
 ## People Mentioned
 
@@ -66,6 +64,15 @@ The discussion centers on it's, business, more. What's going to happen is they'r
 - [[Goldman Sachs]]
 
 
+
+
+## Claims
+
+- [[Drew Cohen - Coupang is better understood as a logistics system with retail on top than as a generic marketplace]]
+- [[Drew Cohen - The core Korean business matters more than the narrative around every new initiative]]
+- [[Drew Cohen - Loss-making expansions are acceptable only if they either get shut down or become strategically meaningful]]
+- [[Drew Cohen - A market panic can create opportunity when the core unit economics still point in the right direction]]
+- [[Drew Cohen - Customer experience can be a powerful moat in e-commerce when paired with strong logistics density]]
 
 
 ## Full Transcript

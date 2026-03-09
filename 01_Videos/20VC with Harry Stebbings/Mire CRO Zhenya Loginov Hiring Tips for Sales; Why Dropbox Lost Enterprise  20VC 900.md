@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["founder-ops", "saas-growth", "lead-generation", "product-management", "valuation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,17 @@ Zhenya Loginov brings a founder-operator lens to sales leadership, which makes t
 - "Hiring tips for sales."
 - "Why Dropbox lost enterprise."
 - "I found that I loved it."
+
+## Claims
+
+- [[Zhenya Loginov - Technical and consulting backgrounds can create unusually strong sales leaders]]
+- [[Zhenya Loginov - Sales hiring should change with each stage of company growth]]
+- [[Zhenya Loginov - Dropbox lost enterprise momentum because market and go-to-market dynamics shifted]]
+- [[Zhenya Loginov - Great sales leaders think like operators rather than pure quota managers]]
+- [[Zhenya Loginov - Category transitions expose whether the sales org is built for the next motion or the last one]]
+- [[Zhenya Loginov - Translation between technical complexity and buyer value is a major leadership advantage]]
+- [[Zhenya Loginov - Hiring quality depends on understanding the actual job the next stage requires]]
+- [[Zhenya Loginov - Go-to-market design and product position should be evaluated together]]
 
 ## Full Transcript
 

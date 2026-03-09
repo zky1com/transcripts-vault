@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["startup-strategy", "founder-ops", "ai-safety", "ai-regulation", "ai-coding", "b2b-marketing", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,15 @@ Mark Roberge lays out enterprise scaling as a capability-building exercise rathe
 - "The skill necessary to get a million-dollar deal on the board is different."
 - "How do I identify and build a good champion?"
 - "You need a framework for how startups should scale into the enterprise."
+
+## Claims
+
+- [[Mark Roberge - Scaling into enterprise requires building new capabilities, not just hiring more reps]]
+- [[Mark Roberge - Enterprise teams need explicit frameworks for champions, coaches, buyers, procurement, and legal]]
+- [[Mark Roberge - Startups fail in enterprise when they underestimate internal buyer mapping]]
+- [[Mark Roberge - Founders must learn which parts of the early motion should stay standardized and which must change]]
+- [[Mark Roberge - Large-deal selling uses a different skill stack than transactional selling]]
+- [[Mark Roberge - Good enterprise frameworks turn fuzzy lore into teachable operating structure]]
 
 ## Full Transcript
 

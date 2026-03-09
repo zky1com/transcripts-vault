@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["startup-strategy", "saas-growth", "ai-jobs", "lead-generation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,17 @@ Rich Liu looks at sales management through the lens of onboarding, scaling, and 
 - "How to onboard, manage, and scale reps."
 - "PLG versus enterprise growth."
 - "Different motions demand different muscles."
+
+## Claims
+
+- [[Rich Liu - Onboarding quality is one of the strongest multipliers of rep performance]]
+- [[Rich Liu - PLG and enterprise create fundamentally different management burdens]]
+- [[Rich Liu - Great managers build the environment that allows reps to perform]]
+- [[Rich Liu - Scaling sales requires matching org design to the actual motion]]
+- [[Rich Liu - Ramp is an operating problem, not only a talent problem]]
+- [[Rich Liu - Different growth stages demand different management habits]]
+- [[Rich Liu - Rep outcomes are strongly shaped by the quality of the surrounding system]]
+- [[Rich Liu - Leaders should distinguish between monitoring activity and enabling execution]]
 
 ## Full Transcript
 

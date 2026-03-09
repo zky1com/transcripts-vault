@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 tags: ["startup-strategy", "founder-ops", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 9
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -54,6 +54,18 @@ Tomer Cohen reflects on product experimentation, failure, and platform evolution
 - "Why LinkedIn Stories failed."
 - "How LinkedIn's feed was born."
 - "Every platform shift forces product leaders to relearn."
+
+## Claims
+
+- [[Tomer Cohen - Product failures become valuable when leaders understand the user behavior they revealed]]
+- [[Tomer Cohen - One core product decision can shape an entire platform for years]]
+- [[Tomer Cohen - Product leadership requires continual relearning as platforms shift]]
+- [[Tomer Cohen - AI startups are changing what users expect software to do for them]]
+- [[Tomer Cohen - A failed product bet is only wasted if the team learns the wrong lesson from it]]
+- [[Tomer Cohen - Historical product decisions are useful because they reveal durable design principles]]
+- [[Tomer Cohen - Platform evolution depends on understanding what users actually repeat]]
+- [[Tomer Cohen - AI is reshaping product strategy by changing the default user experience benchmark]]
+- [[Tomer Cohen - Experimentation matters most when leaders can connect it to long-term product direction]]
 
 ## Full Transcript
 

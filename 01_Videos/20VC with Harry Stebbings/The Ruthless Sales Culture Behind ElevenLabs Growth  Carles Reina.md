@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["sales-process", "outbound", "pipeline-management", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,14 @@ Carles Reina's episode is about what a high-intensity sales culture looks like i
 - "The ruthless sales culture behind ElevenLabs growth."
 - "High standards only work when they are explicit."
 - "Speed matters when the category is moving this fast."
+
+## Claims
+
+- [[Carles Reina - High-performance sales cultures depend on clarity, pace, and strong expectations]]
+- [[Carles Reina - Fast-growing AI companies create unusual go-to-market pressure because timing matters]]
+- [[Carles Reina - The line between urgency and chaos is how deliberately the culture is built]]
+- [[Carles Reina - Ruthlessness is defensible only when it serves operating edge instead of ego]]
+- [[Carles Reina - Modern AI sales teams justify strict culture by the speed of market capture]]
 
 ## Full Transcript
 

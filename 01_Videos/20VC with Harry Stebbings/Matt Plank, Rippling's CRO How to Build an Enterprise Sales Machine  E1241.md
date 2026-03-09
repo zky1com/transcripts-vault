@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["sales-process", "outbound", "ai-jobs", "ai-coding", "lead-generation"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 9
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,18 @@ Matt Plank argues that founders often wait too long to hire real go-to-market ta
 - "Founders definitely should not create the playbook."
 - "People don't increase price to the point where they find friction."
 - "How to build an enterprise sales machine."
+
+## Claims
+
+- [[Matt Plank - Founders often wait too long to hire real go-to-market leadership]]
+- [[Matt Plank - Underpricing is common because companies avoid pushing until they actually feel friction]]
+- [[Matt Plank - Enterprise sales machines are built through process discipline, not founder improvisation]]
+- [[Matt Plank - Go-to-market leadership should arrive before the company is fully forced to need it]]
+- [[Matt Plank - Moving upmarket changes the pricing and process expectations of the business]]
+- [[Matt Plank - A scalable sales machine depends on clearer inspection and tighter management loops]]
+- [[Matt Plank - Founders should not confuse early hustle with a durable enterprise motion]]
+- [[Matt Plank - Pricing strategy is part of go-to-market design, not an isolated finance decision]]
+- [[Matt Plank - The hardest part of building enterprise sales is usually organizational maturity, not raw ambition]]
 
 ## Full Transcript
 

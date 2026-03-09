@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Emmett Shear on Building AI That Actually Cares: Beyond Control and Steering"
 people_mentioned: []
 channel: "a16z"
@@ -25,12 +25,12 @@ companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-10"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,43 +40,26 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on it's, that's, thing. If it's a machine, it's it's a it's a tool. It's red it's shiny it's a size that's a description of an apple but it's not an apple and giving someone hey. It's too it's too it's too hard to cut out just the part you need because it's all entangled with itself, right?
+Emmett Shear argues that alignment should be treated as an ongoing social and technical process, not a one-time rule-setting exercise. The conversation is strongest where it separates technical obedience from the deeper question of whose values an AI system should reflect and whether future systems could deserve moral consideration.
 
 ## Key Insights
 
-
-- I have a lot of um you know similar intuitions about certain things like um I also dislike the um you know the idea that kind of you know we just need to like crack the few kind of values or something just cement them in time forever now and you know we've kind of solved morality or something and I've always kind of been skeptical about you know how the alignment problem has been kind of conceptualized as something to kind of solve once and for all and then you can just you know do do AI or you do AGI um but the um I guess I understand it in in a slightly different way I guess maybe less based on kind of moral realism But you know there's kind of the technical alignment problem which I kind of think of broadly as how do you get an AI to do what you you know how do you get it to follow instructions like you know broadly speaking and I think that was you know more of a challenge I think prelims I guess when people were talking about reinforcement learning and looking at these systems whereas host LLM we've realized that many things that we thought were going to be difficult were somewhat easier and then there's a kind of second question the kind of normative question of to whose values what are you aligning this thing to which I think is is the kind of thing you're commenting on of it and um and for this I um yeah I tend to be very skeptical of approaches where you know you need to kind of crack the the the the kind of ten commandments of alignment or something and then then we're good and here I think I have like intuitions that are unsurprisingly a bit more like political science based or something and that like okay it is a process and and I like the kind of bottomup approach to some degree of well you know how do we do it in real life with people like no one comes up with you know I got this and so you have like processes that allow like ideas to kind of you clash.
-
-- is a separate question from given that you you got some goals indicated are you any good at doing it which I feel like is actually in many ways the current heart of the pro we're much worse at technical alignment than we are at guessing what to tell things to do the I do do you think that does that align with your how you mean technical and value alignment or technical yeah in some sense I mean I certainly think that there's a um there's something you know like an error mistake is one thing and then there's there's the um um not listening to instruction is something but then yeah I think on the normative side I I just think of it even in real life like ignoring AI like I don't know what my goals are and like I've got some broad conception of certain things right I want to get you know have dinner later or something like and oh I want to kind of do well in my career but the um but I think a lot of these goals aren't something we kind of all just know we kind of discover them as we go along it's kind of constructed thing and so and most people don't know their goals I think and so you know I think when you have agents and giving them goals or whatever I think that should be part of the equation that like we actually we don't know all the goals And this is something that is kind of like you say a process over time that is you know dynamic.
-
-- Is there anything you could observe that would change your mind about whether or not it was a moral patient, whether it was a a moral agent, about whether or not it uh it had feelings and thoughts and you know had subjective experience like could what would you have to observe that what what yeah what's what's the test is or is there one there's a lot of different kind of questions here I think you know um some conf on one hand is like you know normal different situations you know because you can give rights to things that aren't necessarily beings you know a company has rights in some sense and that you know these are kind of useful for various purposes and I think also the um you know biological I think beings and and systems have very different kind of substrate you know you can't separate certain needs and and particularities about what they are from the substrate so you know I can't copy myself I can't you know if if someone stabs me I I probably die uh whereas I think you know um machines have very different substrate I think there's there's fundamental also kind of this agreement around what happens uh at the computational level which I think is different uh to what happens with biological systems but but I yeah I so I don't know no I I I agree that like if you have a program that you copied many times you don't harm the program by like deleting one of the copies like in any meaningful sense so therefore that wouldn't count as like no no information was lost right there's no there's nothing meaningful there I'm asking a very different question like there's just one copy of this thing running on one computer somewhere and I'm just saying Hey, is it a person?
-
-- like like uh one of the things I would want to go look for which you could totally do is I want to go look in the manifold of it the belief manifold and I want to go see if that belief manifold encodes a submanifold that is self-reerential and a sub submanifold that is the dynamics of the self-reerential manifold which is mind and I would I would want to know if you does this seem well described internally as that kind of a system or does it look like a big lookup table that would matter to me that's part of its behaviors that I would care about I would also care about how it acts and I you know and you wait you weigh all the evidence together and then you you try to guess does it does this thing look like it's a thing that is has feelings and you know goals and cares about stuff in net on balance or or not like but I can't imagine like which I think you could do for I think we do for the AI I think we're always doing that right and so I'm trying to figure out like beyond that what else is there that just seems like the thing yeah it it seems like you guys are usingh behavior in slightly different sense.
-
-- This is a if you familiar with the free energy principle um active inference Carl Fston this is effectively what the free energy principle says is that uh if you have a thing that is persistent and it's act its existence depends on its own actions which uh generally would for an AI because if it does the wrong thing it goes away um we turn it off and so uh then that licenses a view of it as having the beliefs and specifically the beliefs are inferred as being uh the homeostatic revisited states that it is that is it is in the loop for and that the change in those states is it's learning and for it to be a moral being I cared about what I'd want to see is a multi-ter hierarchy of these because if you have a single level it's not self-reerential and like basically you have states but you can't have pain or pleasure really in a meaningful sense because like yes it is hot is it too hot do I like it if it's too hot like I don't know so you have to have at least a model of a model in order to have it be too hot and you really have to be have a model of a model of a model to meaningfully have pain and pleasure because sure it's hotter than I it's too hot in the sense that I want to move back this way but like is it too it's always a little bit too hot or a little bit too cold is it too too hot it's the second derivative is actually the place where you get uh pain and pleasure so I'd want to see if it has homeostatic uh second order homeostatic dynamics in in its goal states and then that would convince me it has at least pleasure and pain so it's at least like an animal and I would start to accredit it at least some amount of of hair.
-
-- and and zooming out this moral question is obviously very interesting but if someone wasn't interested in in the mor moral question as much I I think what you would say is if I understand correctly is you also just feel on purely pragmatically your approach is going to be more effective in in aligning AIS than some of these you know tops down control um methods that we alluded to as well right yeah yeah I guess the problem is like you're making this model and it's getting really powerful right and let's let's say it is a tool let's say we we we scale up one of these tools and you because you can make a super powerful tool that doesn't have these metastable like the states I'm talking about are not not necessary to have a very smart tool which is sort of basically a tool is one is like a first second order model that just doesn't meaningfully have pleasure and pain right like great does it even have a subjective experience I know I kind of think it maybe does but not in a way that I give a [ __ ] about and so uh what happens then well it's you've trained it to infer goals from your from observation and like to to prioritize goals and act on them.
+- Technical alignment and value alignment are different problems and should not be collapsed into one.
+- Attempts to encode a permanent final moral rulebook for AI are likely misguided.
+- Human goals are themselves dynamic and partially discovered over time, which matters for how agents should be directed.
+- Questions about AI moral status depend on internal structure and behavior, not just external performance.
 
 
+## Claims
 
-
-## Key Quotes
-
-
-> Most of the AI is focused on alignment as steering.
-
-
-> If you think that they were making our beings, you'd also call this slavery.
-
-
-> Someone who who you steer, who doesn't get to steer you back, who nonoptionally receives your steering, that's called a slave.
-
-
-> So, if it's a machine, it's a tool.
-
-
-
-
+- [[Emmett Shear - Alignment should be treated as a continuing process rather than a one-time solved problem]]
+- [[Emmett Shear - Technical obedience is a separate problem from deciding which values an AI should follow]]
+- [[Emmett Shear - Human goals are often discovered over time rather than fully known in advance]]
+- [[Emmett Shear - Bottom-up social processes are a more realistic model for AI value formation than a final universal moral code]]
+- [[Emmett Shear - Evaluating whether an AI has moral status requires looking beyond behavior alone]]
+- [[Emmett Shear - Deleting one copy of a replicated software system is not obviously analogous to harming a biological being]]
+- [[Emmett Shear - The hardest future AI questions will blend political philosophy with technical design]]
+- [[Emmett Shear - AI systems should be built with the expectation that values and goals will need revision over time]]
 
 
 ## Full Transcript

@@ -25,16 +25,16 @@ companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
 tags: []
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-09"
 ---
 
 
@@ -58,6 +58,16 @@ Doug Adamic approaches sales as a craft that combines urgency, customer understa
 - "Discounting is BS."
 - "How do you reduce sales cycles and create urgency?"
 - "The second I got into that organization, I fell in love immediately."
+
+## Claims
+
+- [[Doug Adamic - Discounting usually signals weak selling rather than real customer need]]
+- [[Doug Adamic - Sales cycles shrink when reps diagnose why the customer must act now]]
+- [[Doug Adamic - Great discovery depends more on listening than talking]]
+- [[Doug Adamic - Category-creating companies must change the buyer's criteria to fit the product]]
+- [[Doug Adamic - Constructive tension earns more respect than entertainment selling]]
+- [[Doug Adamic - Founders often underrate the support system required for salespeople to succeed]]
+- [[Doug Adamic - AI will remove drag from sales work before it removes the human element]]
 
 ## Full Transcript
 
