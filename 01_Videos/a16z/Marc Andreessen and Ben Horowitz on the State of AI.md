@@ -24,10 +24,10 @@ tools_mentioned: []
 companies_mentioned: []
 topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
 tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
-pipeline_stage: video_only
-claims_status: done
+pipeline_stage: speech_done
+claims_status: pending
 evidence_status: pending
-claims_count: 7
+claims_count: 6
 evidence_count: 0
 batch_id: ""
 last_processed_at: "2026-03-10"
@@ -68,12 +68,11 @@ Marc Andreessen and Ben Horowitz treat AI as a broad system-level shift touching
 
 ## Claims
 
-- [[Marc Andreessen and Ben Horowitz - AI is changing the competitive baseline for companies faster than most management teams realize]]
-- [[Marc Andreessen and Ben Horowitz - Open and closed AI ecosystems are likely to coexist in complex competition rather than immediately collapsing to one model]]
+- [[Marc Andreessen and Ben Horowitz - AI is changing the competitive baseline faster than many management teams realize]]
 - [[Marc Andreessen and Ben Horowitz - The AI market should be analyzed across the full stack instead of only at the foundation-model layer]]
-- [[Marc Andreessen and Ben Horowitz - Government institutions are likely to struggle to adapt as quickly as the underlying technology moves]]
-- [[Marc Andreessen and Ben Horowitz - AI adoption is becoming a broad strategic issue rather than a narrow technical one]]
-- [[Marc Andreessen and Ben Horowitz - Companies that hesitate too long will face widening capability gaps against faster adopters]]
+- [[Marc Andreessen and Ben Horowitz - Government institutions will struggle to adapt as fast as AI technology moves]]
+- [[Marc Andreessen and Ben Horowitz - AI adoption is becoming a strategic issue, not just a technical one]]
+- [[Marc Andreessen and Ben Horowitz - Companies that hesitate too long will fall behind faster AI adopters]]
 - [[Marc Andreessen and Ben Horowitz - The right way to think about AI is as a multi-decade transformation rather than a temporary feature boom]]
 
 

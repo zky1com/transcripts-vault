@@ -68,7 +68,7 @@ This short segment is a clean debate about who is best positioned to win the med
 ## Claims
 
 - [[David Friedberg - China is building competitive semiconductor manufacturing processes that will challenge Nvidia's GPU dominance as US export controls incentivize domestic alternatives]]
-- [[Chamath Palihapitiya - Tesla and Google are the most likely AI winners in 5 years because they are closest to complete vertically integrated hardware-software-data stacks]]
+- [[Chamath Palihapitiya - Tesla and Google are his leading five-year AI winners because of vertical integration]]
 
 ## Full Transcript
 

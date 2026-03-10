@@ -74,6 +74,5 @@ Greetings everyone. This is Kathy Wood, CEO and CIO of Arc Invest. It is employm
 ## Claims
 
 - [[Cathie Wood - Market stress is being narrated through AI hype crypto drawdown and Fed communication risk]]
-- [[Cathie Wood - Platform-as-a-service is presented as a core winner in the current AI stack transition]]
+- [[Cathie Wood - Platform-as-a-service is the main winner in the current AI stack transition]]
 - [[Cathie Wood - Bitcoin volatility is treated as cyclical within a longer-run digital-asset adoption thesis]]
-

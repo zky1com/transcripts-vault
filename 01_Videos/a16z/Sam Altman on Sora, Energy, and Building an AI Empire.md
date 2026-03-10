@@ -56,7 +56,7 @@ Sam Altman describes OpenAI as a company forced to think simultaneously about mo
 - [[Sam Altman - Current AI regulation proposals risk doing more harm than good if they get ahead of the technology]]
 - [[Sam Altman - Copyright norms will evolve differently across media types as AI capabilities change]]
 - [[Sam Altman - The text interface still has enormous headroom beyond casual conversation]]
-- [[Sam Altman - Future AI opportunity discovery requires building in the trenches rather than clean theoretical forecasting]]
+- [[Sam Altman - Future AI opportunities are found by building in the trenches, not armchair forecasting]]
 - [[Sam Altman - OpenAI has repeatedly been surprised by additional scaling and reasoning breakthroughs after earlier moments that felt unique]]
 - [[Sam Altman - Energy supply will be a major bottleneck and strategic issue for advanced AI deployment]]
 

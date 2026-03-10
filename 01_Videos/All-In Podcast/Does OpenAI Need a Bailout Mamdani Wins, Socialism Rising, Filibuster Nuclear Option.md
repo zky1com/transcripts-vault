@@ -68,8 +68,6 @@ Brad Gersonner's here joining us hot after crashing the stock market and popping
 
 ## Claims
 
-- [[Brad Gerstner - OpenAI capital spending debate centers on whether projected revenue growth can justify trillion-scale commitments]]
-- [[Jason Calacanis - Viral executive responses can amplify market anxiety around AI valuations]]
+- [[Brad Gerstner - OpenAI's spending debate turns on whether future revenue can justify trillion-scale commitments]]
+- [[Jason Calacanis - Viral executive comments can intensify market anxiety about an AI bubble]]
 - [[Sam Altman - Private-share liquidity rhetoric is used to rebut insolvency narratives]]
-
-

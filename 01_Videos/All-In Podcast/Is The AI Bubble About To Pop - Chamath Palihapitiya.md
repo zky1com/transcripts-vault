@@ -68,7 +68,7 @@ Chamath and the hosts argue that the recent wobble in AI stocks looks more like 
 ## Claims
 
 - [[Chamath Palihapitiya - The first wave of enterprise AI adoption failed because probabilistic AI cannot reliably replace the deterministic processes businesses depend on]]
-- [[David Sacks - AI model progress is evolutionary not revolutionary as performance benchmarks show clustering rather than the leader-runaway dynamics that recursive self-improvement would predict]]
+- [[David Sacks - Benchmark clustering suggests current AI progress is evolutionary not runaway recursive self-improvement]]
 
 ## Full Transcript
 

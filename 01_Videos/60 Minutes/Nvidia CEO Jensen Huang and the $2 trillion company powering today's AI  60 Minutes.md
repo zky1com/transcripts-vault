@@ -71,7 +71,7 @@ The discussion centers on jensen, company, nvidia. Only four companies in the wo
 ## Claims
 
 - [[Jensen Huang - Nvidia's valuation surged rapidly because demand for AI infrastructure became insatiable]]
-- [[Jensen Huang - AI is positioned as a general-purpose transformation layer across industries]]
+- [[Jensen Huang - AI is a general-purpose transformation layer across industries]]
 - [[Jensen Huang - Nvidia scaled from graphics roots to core AI infrastructure through accelerated computing]]
 
 ## Full Transcript

@@ -80,7 +80,7 @@ Vlad Tenev argues that retail investing is still early and that tokenization can
 ## Claims
 
 - [[Vlad Tenev - Robinhood was the first platform to tokenize OpenAI and SpaceX equity making previously inaccessible private company shares available to retail investors in Europe]]
-- [[Vlad Tenev - Harmonic AI achieved gold medal performance at the International Mathematical Olympiad using a formal mathematical reasoning model making it the only formal system to reach that level]]
+- [[Vlad Tenev - Harmonic reached IMO gold-level performance with a formal mathematical reasoning model]]
 - [[Vlad Tenev - A $130T intergenerational wealth transfer can expand retail platform participation]]
 - [[Vlad Tenev - AI mega-valuations with zero retail access create a worker-owner distribution gap]]
 

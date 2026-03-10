@@ -66,7 +66,7 @@ The discussion centers on hinton, don't, things. In 5 years time, >> I think in 
 
 ## Claims
 
-- [[Geoffrey Hinton - Public institutions are entering frontier AI governance with enormous uncertainty and no guaranteed path to safety]]
+- [[Geoffrey Hinton - AI governance is beginning under extreme uncertainty with no guaranteed path to safety]]
 - [[Geoffrey Hinton - AI can deliver enormous benefits while still carrying non-trivial takeover risk]]
 - [[Geoffrey Hinton - Humanity may soon face machine systems more intelligent than humans]]
 

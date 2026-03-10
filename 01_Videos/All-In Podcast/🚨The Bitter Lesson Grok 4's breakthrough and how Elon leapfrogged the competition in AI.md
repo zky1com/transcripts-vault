@@ -67,7 +67,7 @@ This short segment argues that Grok 4's progress validates Rich Sutton's Bitter 
 
 ## Claims
 
-- [[Jason Calacanis - Rich Sutton's Bitter Lesson shows general computation that scales with compute always outperforms hum]]
+- [[Jason Calacanis - The Bitter Lesson implies compute-scalable general learning beats hand-engineered AI approaches]]
 - [[Jason Calacanis - Meta's $15B Scale AI investment challenges Bitter Lesson compute-scaling orthodoxy]]
 
 ## Full Transcript

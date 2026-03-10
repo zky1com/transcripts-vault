@@ -70,6 +70,5 @@ Okay, everybody. There's no easy way to start today's show. Eight days ago, Char
 
 - [[Chamath Palihapitiya - Killing people for political beliefs chills public debate and narrows acceptable discourse]]
 - [[Chamath Palihapitiya - Online subcultures plus social isolation can produce ideologically incoherent radicalization]]
-- [[Jason Calacanis - Public debate is framed as core to the American experiment and must be protected]]
-
+- [[Jason Calacanis - Public debate is core to the American experiment and must be protected]]
 

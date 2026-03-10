@@ -73,8 +73,8 @@ Sacks argues that Meta's hiring pause looks more like digestion after an overhea
 
 ## Claims
 
-- [[David Sacks - Meta's AI hiring pause is healthy boom-cycle digestion not the start of a bust cycle and the AI investment super cycle remains intact]]
-- [[David Sacks - Hundred-million-dollar AI talent acquisition offers are transient boom-peak phenomena that require both a cycle peak and strategic vulnerability to materialize]]
+- [[David Sacks - Meta's AI hiring pause reflects consolidation within an ongoing AI investment supercycle]]
+- [[David Sacks - Nine-figure AI talent offers appear when boom-cycle exuberance meets strategic vulnerability]]
 
 ## Full Transcript
 

@@ -72,7 +72,7 @@ This episode covers a broad set of topics, but its center of gravity is a more s
 
 - [[Chamath Palihapitiya - 95 percent of enterprise AI pilots fail to reach production due to resistance and poor ROI]]
 - [[David Sacks - AI development shows clustered model performance not recursive self-improvement takeoff]]
-- [[David Friedberg - Shifting to small specialized language models will reduce AI energy and cost per token by 10-100x]]
+- [[David Friedberg - Small specialized models could cut AI energy and token costs by 10-100x]]
 - [[David Sacks - Gavin Newsom's political positioning is performative while Trump's appeal is rooted in authenticity and results]]
 - [[David Sacks - A comprehensive Ukraine peace deal requires no NATO membership and territorial concessions from Ukraine]]
 
