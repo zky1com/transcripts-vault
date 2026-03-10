@@ -1,6 +1,6 @@
 ---
 title: "Software is Eating Labor"
-people_mentioned: ["Karl Marx", "Dos Capitol", "Roman Orsman", "Saber Systems", "American Airlines"]
+people_mentioned: ["Alex Rampell", "Karl Marx", "Dos Capitol", "Roman Orsman", "Saber Systems", "American Airlines"]
 channel: "a16z"
 video_id: "dhyhR4Bzc0I"
 url: "https://www.youtube.com/watch?v=dhyhR4Bzc0I"
@@ -13,10 +13,10 @@ broad_category: "engineering-tools"
 subcategories: ["api-integration", "data-tools", "automation"]
 series_name: "a16z"
 episode_id: ""
-primary_person: "Karl Marx"
+primary_person: "Alex Rampell"
 host_names: ["a16z"]
 interviewer_names: ["a16z"]
-interviewee_profiles: ["Karl Marx"]
+interviewee_profiles: ["Alex Rampell"]
 speaker_profiles: []
 organizations_mentioned: ["a16z"]
 locations_mentioned: []
@@ -66,12 +66,12 @@ This presentation argues that AI changes the economic target of software from re
 
 ## Claims
 
-- [[a16z presenter - AI software is now targeting the labor market rather than only the traditional software market]]
-- [[a16z presenter - End-to-end job completion is a bigger business opportunity than digitizing filing cabinets]]
-- [[a16z presenter - Demoralizing repetitive jobs are especially strong targets for AI automation]]
-- [[a16z presenter - AI improves regulatory consistency because scripted systems can be constrained more reliably than frustrated humans]]
-- [[a16z presenter - Multilingual AI expands addressable markets that companies could never staff efficiently with humans]]
-- [[a16z presenter - AI makes some previously bad startups viable by collapsing customer acquisition and operating costs]]
+- [[Alex Rampell - AI software is now targeting the labor market rather than only the traditional software market]]
+- [[Alex Rampell - End-to-end job completion is a bigger business opportunity than digitizing filing cabinets]]
+- [[Alex Rampell - Demoralizing repetitive jobs are especially strong targets for AI automation]]
+- [[Alex Rampell - AI improves regulatory consistency because scripted systems can be constrained more reliably than frustrated humans]]
+- [[Alex Rampell - Multilingual AI expands addressable markets that companies could never staff efficiently with humans]]
+- [[Alex Rampell - AI makes some previously bad startups viable by collapsing customer acquisition and operating costs]]
 
 
 ## Full Transcript
