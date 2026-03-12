@@ -1,0 +1,11 @@
+﻿# Ignore everything by default
+/*
+# Keep this file tracked
+!.gitignore
+# Un-ignore only the transcript/source folders we want to push
+!01_1Spotify/
+!01_1Spotify/**
+!01_Videos/
+!01_Videos/**
+# !02_Claims/
+# !02_Claims/**
