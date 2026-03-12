@@ -1,6 +1,6 @@
 ---
 title: "Ari Emanuel on the Future of Entertainment: Hollywood, AI, Creator Economy, YouTube vs Netflix"
-people_mentioned: ["Ari Emanuel", "Arie Gold", "George Gilder", "William Morris Um", "Teddy Forceman", "Professional Ball Riley", "Neil Moan"]
+people_mentioned: ["Ari Emanuel", "Jason Calacanis", "George Gilder", "Neil Mohan", "Jimmy Donaldson", "Oprah Winfrey", "Phil McGraw", "Mehmet Oz", "Gwyneth Paltrow", "Elon Musk", "Martin Scorsese", "Dwayne Johnson", "Mark Wahlberg", "Peter Berg", "Noah Hawley", "Greg Daniels", "Larry David", "Aaron Sorkin", "James L. Brooks", "Adrian Grenier", "David Zaslav", "Michael Ovitz", "David Ellison", "Bob Iger", "Jimmy Pitaro", "Roger Goodell", "Rahm Emanuel", "Ezekiel Emanuel"]
 channel: "All-In Podcast"
 video_id: "KG_nHmHUZLw"
 url: "https://www.youtube.com/watch?v=KG_nHmHUZLw"
@@ -8,29 +8,29 @@ publish_date: 2025-11-05
 duration: "27:25"
 word_count: 5068
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "marketing-growth"
-subcategories: ["content-marketing", "b2b-marketing"]
+delivery_mode: "interview"
+broad_category: "media-entertainment-business"
+subcategories: ["creator-economy", "platform-distribution", "live-events", "sports-media", "ai"]
 series_name: "All-In Podcast"
 episode_id: ""
 primary_person: "Ari Emanuel"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
+host_names: ["Jason Calacanis"]
+interviewer_names: ["Jason Calacanis"]
 interviewee_profiles: ["Ari Emanuel"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: []
+speaker_profiles: ["Jason Calacanis", "Ari Emanuel"]
+organizations_mentioned: ["All-In Podcast", "NFL", "NBA", "White House"]
+locations_mentioned: ["Los Angeles", "United States", "Japan", "Abu Dhabi", "Brazil", "Shanghai"]
 tools_mentioned: []
-companies_mentioned: []
-topics: ["content-marketing", "b2b-marketing", "ai-safety", "product-management"]
-tags: ["content-marketing", "b2b-marketing", "ai-safety", "product-management"]
+companies_mentioned: ["Endeavor", "William Morris", "IMG", "Silver Lake", "TKO", "UFC", "YouTube", "Netflix", "Instagram", "TikTok", "Amazon", "Live Nation", "MTV", "CBS", "ESPN", "Disney", "Peacock", "Facebook", "Twitter", "HBO", "Tesla"]
+topics: ["creator-economy", "platform-distribution", "media-monetization", "live-events", "sports-rights", "ai", "entertainment-business"]
+tags: ["creator-economy", "platform-distribution", "media-monetization", "live-events", "sports-rights", "ai", "entertainment-business"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
-claims_count: 4
+claims_count: 5
 evidence_count: 12
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
 speech_evidence_count: 12
@@ -38,13 +38,15 @@ world_evidence_count: 0
 ---
 ## Summary
 
-This interview focuses on how entertainment economics are shifting as creators, platforms, and legacy studios renegotiate where leverage actually sits. Ari Emanuel's throughline is that distribution power, monetization control, and audience aggregation matter more than the old assumption that ownership of a single piece of IP guarantees strategic advantage.
+This interview centers on Ari Emanuel's view that media leverage is shifting toward distribution, monetization control, live-event scarcity, and cross-platform reach. He ties his own career to George Gilder's idea of "infinite distribution," argues that creator monetization is moving beyond ad reads toward equity and owned businesses, and makes the case that live events become more valuable, not less, in an AI-heavy world.
 
 ## Key Insights
 
-- The creator economy is changing bargaining power because talent with direct audience pull can now negotiate from a stronger position.
-- Platform choice increasingly affects monetization and reach as much as creative quality does.
-- Hollywood's future appears less like a winner-take-all studio system and more like a layered competition between talent, aggregators, streamers, and direct distribution.
+- Emanuel argues that entertainment economics now depend more on distribution control and monetization pathways than on owning a single piece of IP in isolation.
+- He treats the creator economy as a shift from ad-only monetization toward equity, owned products, and audience-direct businesses.
+- He argues that if AI makes synthetic content abundant, live events become the stronger scarcity asset because people still want in-person connection.
+- He presents multi-platform release as a practical audience-maximization strategy rather than a dilution of value.
+- He argues sports and entertainment businesses must keep adapting formats, pricing, and international distribution to sustain growth.
 
 ## Key Quotes
 
@@ -54,7 +56,46 @@ This interview focuses on how entertainment economics are shifting as creators, 
 
 > Multi-platform distribution can expand the audience.
 
-## Full Transcript## Full Transcript
+## People Mentioned
+
+- [[Ari Emanuel]]
+- [[Jason Calacanis]]
+- [[George Gilder]]
+- [[Neil Mohan]]
+- [[Jimmy Donaldson]]
+- [[Oprah Winfrey]]
+- [[Phil McGraw]]
+- [[Mehmet Oz]]
+- [[Gwyneth Paltrow]]
+- [[Elon Musk]]
+- [[Martin Scorsese]]
+- [[Dwayne Johnson]]
+- [[Mark Wahlberg]]
+- [[Peter Berg]]
+- [[Noah Hawley]]
+- [[Greg Daniels]]
+- [[Larry David]]
+- [[Aaron Sorkin]]
+- [[James L. Brooks]]
+- [[Adrian Grenier]]
+- [[David Zaslav]]
+- [[Michael Ovitz]]
+- [[David Ellison]]
+- [[Bob Iger]]
+- [[Jimmy Pitaro]]
+- [[Roger Goodell]]
+- [[Rahm Emanuel]]
+- [[Ezekiel Emanuel]]
+
+## Claims
+
+- [[Ari Emanuel - Entertainment economics are shifting from pure IP ownership to distribution-plus-monetization control]]
+- [[Ari Emanuel - Creator-era bargaining dynamics changed when high upfront pay replaced long-tail ownership in major platform deals]]
+- [[Ari Emanuel - Multi-platform release strategy can expand total audience beyond single-channel distribution]]
+- [[Ari Emanuel - Live events become more valuable as AI makes synthetic content more abundant]]
+- [[Ari Emanuel - Sports-rights businesses must adapt format pricing and international reach to keep growing]]
+
+## Full Transcript
 <details>
 <summary>Click to expand full transcript (5068 words)</summary>
 

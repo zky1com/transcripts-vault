@@ -1,6 +1,6 @@
 ---
 title: "Bernie Sanders Says Stop All AI, China's Breakthrough, Inflation Down, Golden Age in 2026?"
-people_mentioned: ["Core Four", "Bernie Sanders"]
+people_mentioned: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks", "Bernie Sanders", "Tucker Carlson", "Peter Thiel", "Andrew Carnegie", "John D. Rockefeller", "Henry Ford", "Elizabeth Warren", "Elon Musk", "Gavin Newsom", "Barack Obama"]
 channel: "All-In Podcast"
 video_id: "GIW1yU9zHW8"
 url: "https://www.youtube.com/watch?v=GIW1yU9zHW8"
@@ -8,29 +8,29 @@ publish_date: 2025-12-19
 duration: "1:30:27"
 word_count: 17367
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+delivery_mode: "panel-discussion"
+broad_category: "ai-politics-economics"
+subcategories: ["ai-policy", "china-competition", "public-perception", "state-governance", "capital-flight"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Core Four"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Core Four - Google"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: ["Silicon Valley"]
+primary_person: "David Sacks"
+host_names: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+organizations_mentioned: ["All-In Podcast", "Vanguard", "Yale Budget Lab", "Future of Life Institute"]
+locations_mentioned: ["United States", "China", "Europe", "California", "Texas", "Austin", "Arizona", "Silicon Valley"]
 tools_mentioned: []
-companies_mentioned: ["Google"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation"]
+companies_mentioned: ["Google", "Nvidia", "TSMC", "ASML", "BYD", "SK Hynix", "Samsung"]
+topics: ["ai-policy", "china-competition", "infrastructure", "job-displacement", "public-perception", "wealth-tax", "capital-flight"]
+tags: ["ai-policy", "china-competition", "infrastructure", "job-displacement", "public-perception", "wealth-tax", "capital-flight"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
 claims_count: 6
 evidence_count: 18
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
 speech_evidence_count: 18
@@ -38,13 +38,15 @@ world_evidence_count: 0
 ---
 ## Summary
 
-This episode frames the AI debate as a collision between populist anxiety, national competitiveness, and deployability. The hosts argue that anti-AI rhetoric may be politically potent, but fragmented regulation and symbolic restrictions would weaken the United States relative to faster-moving competitors, especially China.
+This episode ties together three themes: why the hosts think Bernie Sanders-style anti-AI politics would amount to an own goal against China, why public fear of AI is growing faster than visible public benefit, and why California's tax-and-governance climate is accelerating capital flight. The transcript's throughline is that technological progress is politically vulnerable when ordinary people do not see tangible upside quickly enough.
 
 ## Key Insights
 
-- The hosts see AI politics splitting into two camps: competitiveness and productivity on one side, inequality and fear on the other.
-- State-by-state rulemaking is treated as one of the biggest practical threats to US AI deployment.
-- Their policy preference is a coherent federal regime that preserves the ability to build and ship nationwide products.
+- Sacks argues that slowing U.S. AI buildout does not slow China, so moratoria mainly transfer advantage to a rival.
+- The panel treats fragmented state-level AI rules as operationally incompatible with nationwide product deployment.
+- Chamath argues the AI industry has a perception problem because stock gains and circular dealmaking are more visible than broad public dividends.
+- Friedberg argues anti-AI fear politics are filling a vacuum created by weak public explanation of who benefits from the buildout.
+- The California segment argues that wealth-tax and property-rights rhetoric can trigger capital flight before any law is even enacted.
 
 ## Key Quotes
 
@@ -54,7 +56,33 @@ This episode frames the AI debate as a collision between populist anxiety, natio
 
 > China's breakthrough changed the tone of the debate.
 
-## Full Transcript## Full Transcript
+## People Mentioned
+
+- [[Jason Calacanis]]
+- [[Chamath Palihapitiya]]
+- [[David Friedberg]]
+- [[David Sacks]]
+- [[Bernie Sanders]]
+- [[Tucker Carlson]]
+- [[Peter Thiel]]
+- [[Andrew Carnegie]]
+- [[John D. Rockefeller]]
+- [[Henry Ford]]
+- [[Elizabeth Warren]]
+- [[Elon Musk]]
+- [[Gavin Newsom]]
+- [[Barack Obama]]
+
+## Claims
+
+- [[David Sacks - America cannot win the AI race without out-innovating rivals and building more domestic infrastructure]]
+- [[David Sacks - A patchwork of state-level AI rules would break nationwide AI service delivery]]
+- [[David Sacks - National AI policy should prioritize deployability over symbolic rule proliferation]]
+- [[Chamath Palihapitiya - The AI industry needs visible public-benefit dividends to defuse anti-progress backlash]]
+- [[David Friedberg - Anti-AI fear politics are filling a vacuum created by weak public explanation of who benefits from AI buildout]]
+- [[Chamath Palihapitiya - California's proposed billionaire wealth tax is mainly a political wedge that would drive capital out of the state]]
+
+## Full Transcript
 <details>
 <summary>Click to expand full transcript (17367 words)</summary>
 

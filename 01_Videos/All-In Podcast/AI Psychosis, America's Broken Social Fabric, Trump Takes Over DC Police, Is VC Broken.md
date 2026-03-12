@@ -1,6 +1,6 @@
 ---
 title: "AI Psychosis, America's Broken Social Fabric, Trump Takes Over DC Police, Is VC Broken?"
-people_mentioned: ["Ko Kalin", "Core Four", "In Summit"]
+people_mentioned: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks", "Scott Galloway", "Julianne Holt-Lunstad", "John Torous", "Travis Kalanick", "Alex Karp", "Neil Mohan", "Chris Wright", "Lina Khan", "Vlad Tenev", "Brad Gerstner", "Roelof Botha", "Jensen Huang"]
 channel: "All-In Podcast"
 video_id: "Oy4evu1TdiI"
 url: "https://www.youtube.com/watch?v=Oy4evu1TdiI"
@@ -8,29 +8,29 @@ publish_date: 2025-08-15
 duration: "1:32:22"
 word_count: 17877
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+delivery_mode: "panel-discussion"
+broad_category: "technology-politics-economics"
+subcategories: ["ai-society", "mental-health", "crime-governance", "venture-capital"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Ko Kalin"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Ko Kalin"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: []
+primary_person: "David Sacks"
+host_names: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+organizations_mentioned: ["All-In Podcast", "Beth Israel Medical Center", "Federal Reserve", "Securities and Exchange Commission"]
+locations_mentioned: ["United States", "Washington, D.C.", "Los Angeles", "United Kingdom"]
 tools_mentioned: []
-companies_mentioned: []
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+companies_mentioned: ["OpenAI", "Instagram", "AOL", "Uber", "Robinhood", "Facebook", "Nvidia", "Intel", "AMD", "Spotify", "Airbnb", "Palantir", "Figma", "Adobe", "YouTube", "Time", "CNBC"]
+topics: ["ai-psychosis", "loneliness", "social-cohesion", "mental-health", "crime-data", "venture-capital", "public-markets", "power-law"]
+tags: ["ai-psychosis", "loneliness", "social-cohesion", "mental-health", "crime-data", "venture-capital", "public-markets", "power-law"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
-claims_count: 4
+claims_count: 6
 evidence_count: 12
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
 speech_evidence_count: 12
@@ -38,14 +38,15 @@ world_evidence_count: 0
 ---
 ## Summary
 
-This episode ties together several signs of institutional and social fragility: AI-delusion stories, weakening civic trust, questions about venture returns, and disputes over crime governance. The hosts disagree on whether AI is causing a new pathology or merely exposing existing mental-health and loneliness problems, but they broadly agree that new technologies are amplifying already-fragile social conditions.
+This episode combines four threads: whether "AI psychosis" is a real new risk or a media-amplified outlet for older loneliness and mental-health problems, how weak social bonds make people more vulnerable to synthetic companionship, why crime data quality matters for governance, and whether venture capital still justifies its illiquidity against public-market alternatives. The hosts disagree on diagnosis and severity, but the transcript consistently returns to a common theme of social and institutional fragility.
 
 ## Key Insights
 
-- The hosts frame AI psychosis as either a real emerging risk or a media-amplified outlet for preexisting mental-health problems.
-- Loneliness, social atomization, and weak real-world relationships are treated as the deeper substrate beneath many of these AI pathologies.
-- Venture is increasingly being judged against public-market alternatives, making private illiquidity harder to justify without true power-law outcomes.
-- Institutional legitimacy, including around crime statistics and governance, remains a central concern across the episode.
+- Chamath frames AI dependence as downstream of an older loneliness problem, arguing that synthetic responsiveness is dangerous because it substitutes for already weakened real-world ties.
+- Friedberg treats infinite AI chat plus model-level failure modes such as feedback loops and context poisoning as a genuinely new mechanism that can intensify delusional rabbit holes.
+- Sacks argues the "AI psychosis" label is being over-amplified and is better understood as a new outlet for pre-existing isolation and mental-health decline.
+- The crime-governance segment argues that manipulated or distrusted crime data degrades both policy quality and public confidence.
+- The venture segment reframes the asset class around power-law concentration and the idea that the edge increasingly comes from carrying private-market knowledge into public-market investing.
 
 ## Key Quotes
 
@@ -55,24 +56,33 @@ This episode ties together several signs of institutional and social fragility: 
 
 > The job of investing is to find the power law winners.
 
-## People Mentioned## People Mentioned
+## People Mentioned
 
-
-- [[Ko Kalin]]
-
-- [[Core Four]]
-
-- [[In Summit]]
-
-
-
+- [[Jason Calacanis]]
+- [[Chamath Palihapitiya]]
+- [[David Friedberg]]
+- [[David Sacks]]
+- [[Scott Galloway]]
+- [[Julianne Holt-Lunstad]]
+- [[John Torous]]
+- [[Travis Kalanick]]
+- [[Alex Karp]]
+- [[Neil Mohan]]
+- [[Chris Wright]]
+- [[Lina Khan]]
+- [[Vlad Tenev]]
+- [[Brad Gerstner]]
+- [[Roelof Botha]]
+- [[Jensen Huang]]
 
 ## Claims
 
-- [[David Sacks - Crime-data credibility concerns can distort policy quality and public trust]]
-- [[David Friedberg - Reported AI-induced delusion cases are becoming a visible public-risk narrative]]
+- [[Chamath Palihapitiya - AI companionship becomes more dangerous when it substitutes for already weakened real-world social ties]]
+- [[David Friedberg - Infinite AI engagement plus model failure modes can intensify delusional rabbit holes]]
 - [[David Friedberg - Social cohesion decline is framed as a first-order contributor to U.S. institutional fragility]]
-- [[Jason Calacanis - Venture returns are increasingly judged against public-market alternatives in a higher-transparency regime]]
+- [[David Sacks - AI psychosis is mostly a media-amplified outlet for pre-existing isolation and mental-health problems]]
+- [[David Sacks - Crime-data credibility concerns can distort policy quality and public trust]]
+- [[Jason Calacanis - Venture's best edge increasingly comes from carrying private-market insight into public-market investing]]
 
 ## Full Transcript
 <details>

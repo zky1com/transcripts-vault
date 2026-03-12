@@ -1,6 +1,6 @@
 ---
 title: "Cracks Beneath the AI Boom: Is the U.S. Economy Heading For a Downturn? | The Weekly Wrap"
-people_mentioned: ["Zoran Mandami", "Steve Eisman", "On Tuesday", "On Thursday", "Zoran Mami"]
+people_mentioned: ["Steve Eisman", "Zohran Mamdani", "Dan Ives", "Michael Burry", "Alex Karp"]
 channel: "Steve Eisman"
 video_id: "HQ2jMo_wZXc"
 url: "https://www.youtube.com/watch?v=HQ2jMo_wZXc"
@@ -10,27 +10,27 @@ word_count: 3719
 content_type: "solo-talk"
 delivery_mode: "opinion"
 broad_category: "finance-investing"
-subcategories: ["stock-analysis", "valuation", "market-data"]
+subcategories: ["markets", "earnings", "macro"]
 series_name: ""
 episode_id: ""
-primary_person: "Zoran Mandami"
+primary_person: "Steve Eisman"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: ["Zoran Mandami - Nvidia"]
-organizations_mentioned: ["Steve Eisman"]
+speaker_profiles: ["Steve Eisman"]
+organizations_mentioned: []
 locations_mentioned: ["New York"]
 tools_mentioned: []
-companies_mentioned: ["Nvidia"]
-topics: ["stock-analysis", "valuation", "market-data", "ai-jobs"]
-tags: ["stock-analysis", "valuation", "market-data", "ai-jobs"]
+companies_mentioned: ["Nvidia", "Palantir", "AMD", "Arista", "Super Micro", "Eaton", "Gartner", "Uber", "PJT Partners", "Apollo", "Cava", "Papa John's", "Novo Nordisk", "Trex", "CarMax", "FICO"]
+topics: ["ai-valuations", "earnings", "consumer-weakness", "k-shaped-economy", "macro-risk"]
+tags: ["ai-valuations", "earnings", "consumer-weakness", "k-shaped-economy", "macro-risk"]
 pipeline_stage: claims_done
 claims_status: done
 evidence_status: pending
-claims_count: 10
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,14 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-This wrap questions whether AI excitement is distracting investors from weaker economic internals. Eisman uses the title well: the issue is not whether AI is real, but whether the market is using one boom to ignore broader cyclical deterioration.
+Steve Eisman argues that the AI boom remains real, but markets are becoming more fragile because valuations are elevated, breadth is narrow, labor and lower-income consumer signals are softening, and private-credit concerns are beginning to weigh on financial stocks. The episode treats AI strength and broader economic weakness as simultaneous realities rather than as mutually exclusive stories.
 
 ## Key Insights
 
-- The most dangerous market moments often happen when one dominant theme hides weakness elsewhere.
-- AI leadership can coexist with real economic softening underneath the index level.
-- Downturn risk becomes more serious when valuations imply immunity from macro pressure.
-- The wrap tries to reconnect tech exuberance with broader business-cycle reality.
+- Private labor indicators and consumer-facing sectors are signaling softness even while official shutdown-era data are unavailable.
+- Narrow megacap leadership is masking weaker breadth and reinforcing a K-shaped market structure.
+- AI earnings remain strong, but elevated expectations now make valuation-driven corrections easier to trigger.
+- Private-credit worries are pressuring alternative-asset valuations before a full recession has even arrived.
+- Credit-scoring competition is intensifying as FICO's pricing power meets regulatory pushback.
 
 ## Key Quotes
 
@@ -57,18 +58,15 @@ This wrap questions whether AI excitement is distracting investors from weaker e
 
 ## People Mentioned
 
-## People Mentioned
-
-
-- [[Zoran Mandami]]
-
 - [[Steve Eisman]]
 
-- [[On Tuesday]]
+- [[Zohran Mamdani]]
 
-- [[On Thursday]]
+- [[Dan Ives]]
 
-- [[Zoran Mami]]
+- [[Michael Burry]]
+
+- [[Alex Karp]]
 
 
 
@@ -78,13 +76,11 @@ This wrap questions whether AI excitement is distracting investors from weaker e
 - [[Steve Eisman - Private labor indicators point to a cooling job market during the data blackout period]]
 - [[Steve Eisman - Consumer spending concentration in the top decile increases downturn sensitivity]]
 - [[Steve Eisman - The large spread between cap-weighted and equal-weighted S and P performance reflects a K-shaped market]]
-- [[Steve Eisman - AI earnings beats are no longer enough when expectations and valuations are already elevated]]
-- [[Steve Eisman - Shorting high-quality growth stories solely on valuation is usually a poor strategy in a bull market]]
+- [[Steve Eisman - AI-themed markets can experience abrupt confidence shocks without ending the broader capex cycle]]
 - [[Steve Eisman - Non-proprietary server vendors are more exposed to AI-cycle price wars and margin compression]]
 - [[Steve Eisman - Private-credit anxiety is constraining alternative-asset valuations even when fee earnings remain strong]]
 - [[Steve Eisman - Weakness among lower-income consumers is showing up in restaurant traffic and used-car exposure]]
 - [[Steve Eisman - FICO pricing actions and regulatory pressure have escalated competition in credit scoring]]
-- [[Steve Eisman - Competing against VantageScore is riskier because it is controlled by FICO's own data suppliers]]
 
 ## Full Transcript
 

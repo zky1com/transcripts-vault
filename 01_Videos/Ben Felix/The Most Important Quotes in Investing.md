@@ -1,6 +1,6 @@
 ﻿---
 title: "The Most Important Quotes in Investing"
-people_mentioned: ["Ben Felix", "Dave Chilton", "Ben Graham", "John Templeton", "Economist Jeremy Seagull", "David Booth"]
+people_mentioned: ["Ben Felix", "Dave Chilton", "Ben Graham", "John Templeton", "Jeremy Siegel", "David Booth", "Peter Lynch", "Eugene Fama", "Charles Ellis", "Morgan Housel", "John Cochrane", "John Bogle"]
 channel: "Ben Felix"
 video_id: "gV9r3ISZrws"
 url: "https://www.youtube.com/watch?v=gV9r3ISZrws"
@@ -10,7 +10,7 @@ word_count: 2981
 content_type: "solo-talk"
 delivery_mode: "opinion"
 broad_category: "finance-investing"
-subcategories: ["stock-analysis", "valuation", "risk-management", "market-data"]
+subcategories: ["investing", "behavioral-finance", "portfolio-construction"]
 series_name: ""
 episode_id: ""
 primary_person: "Ben Felix"
@@ -18,19 +18,19 @@ host_names: []
 interviewer_names: []
 interviewee_profiles: []
 speaker_profiles: ["Ben Felix"]
-organizations_mentioned: ["Dimensional Fund Adviserss", "Ben Felix"]
+organizations_mentioned: ["PWL Capital", "State Street", "Rational Reminder"]
 locations_mentioned: []
 tools_mentioned: []
-companies_mentioned: []
-topics: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "lead-generation"]
-tags: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "lead-generation"]
+companies_mentioned: ["Dimensional Fund Advisors", "Vanguard"]
+topics: ["investing", "behavioral-finance", "fees", "diversification", "asset-allocation"]
+tags: ["investing", "behavioral-finance", "fees", "diversification", "asset-allocation"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 2
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,17 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on investors, market, investment. Even investors with a solid investment philosophy often get nervous about market corrections. After settling on an investment philosophy and preparing for difficult market conditions, one of the most fundamental decisions that investors need to make is. Even an objectively suboptimal investment philosophy like dividend focused investing might be the optimal investment philosophy for some people if the dividends help them.
+Ben Felix uses a set of well-known investing quotes to argue for a practical philosophy built around saving, discipline, diversification, low costs, humility, and long-run consistency. The through-line is that investor behavior often matters more than small differences in strategy design, which is why a durable philosophy you can actually stick with is more valuable than chasing a theoretically perfect one.
 
 ## Key Insights
 
-
-- Even investors with a solid investment philosophy often get nervous about market corrections.
-- After settling on an investment philosophy and preparing for difficult market conditions, one of the most fundamental decisions that investors need to make is how to.
-- Even an objectively suboptimal investment philosophy like dividend focused investing might be the optimal investment philosophy for some people if the dividends help them to stay.
-- As long as it leads to a reasonably well- diversified and lowcost portfolio, having an investment philosophy that you can stick with through good times and.
-- It is by taking on the risk of volatile assets that investors expect to earn higher long-term returns.
-- Diversification is a rare case where adding multiple imperfectly correlated risky assets together in a portfolio can allow you to increase expected returns without increasing risk.
+- Saving and behavior are treated as first-order investing variables, not just portfolio implementation details.
+- A strategy that is slightly suboptimal on paper can still be best for a person if it improves stickability.
+- Risk is framed as failing to have enough money when needed, not just as short-term volatility.
+- Fees and costs matter because they are among the few inputs investors can actually control.
+- Diversification is presented as both a humility practice and one of the rare ways to improve portfolio tradeoffs.
 
 ## People Mentioned
 
@@ -63,7 +61,7 @@ The discussion centers on investors, market, investment. Even investors with a s
 
 - [[John Templeton]]
 
-- [[Economist Jeremy Seagull]]
+- [[Jeremy Siegel]]
 
 - [[David Booth]]
 
@@ -72,7 +70,8 @@ The discussion centers on investors, market, investment. Even investors with a s
 
 ## Claims
 
-- [[Ben Felix - John Bogle, the founder of Vanguard, said, "The grim irony of investing is that we investors as a group not...]]
+- [[Ben Felix - A less appealing investment approach can be optimal if it improves discipline and long-run outcomes]]
+- [[Ben Felix - Higher fees and poor investor behavior often turn good investment products into bad realized outcomes]]
 
 ## Full Transcript
 

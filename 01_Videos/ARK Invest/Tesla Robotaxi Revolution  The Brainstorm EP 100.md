@@ -1,6 +1,6 @@
 ﻿---
 title: "Tesla Robotaxi Revolution | The Brainstorm EP 100"
-people_mentioned: ["Elon Musk", "New Year", "Um Net"]
+people_mentioned: ["Brett Winton", "Sam Korus", "Nick Grous", "Elon Musk"]
 channel: "ARK Invest"
 video_id: "77IglVrwWxU"
 url: "https://www.youtube.com/watch?v=77IglVrwWxU"
@@ -10,27 +10,27 @@ word_count: 5744
 content_type: "podcast"
 delivery_mode: "opinion"
 broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+subcategories: ["autonomy", "robotaxis", "transportation"]
 series_name: "ARK Invest"
 episode_id: ""
-primary_person: "Elon Musk"
-host_names: ["ARK Invest"]
-interviewer_names: ["ARK Invest"]
-interviewee_profiles: ["Elon Musk - Apple"]
-speaker_profiles: []
+primary_person: "Brett Winton"
+host_names: ["Brett Winton", "Sam Korus", "Nick Grous"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Brett Winton - ARK Invest", "Sam Korus - ARK Invest", "Nick Grous - ARK Invest"]
 organizations_mentioned: ["ARK Invest"]
 locations_mentioned: []
-tools_mentioned: ["App Store"]
-companies_mentioned: ["Apple", "Tesla"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+tools_mentioned: ["Tesla Robotaxi app", "Polymarket"]
+companies_mentioned: ["Tesla", "Waymo", "Uber", "Apple"]
+topics: ["tesla", "robotaxis", "autonomy", "transportation-networks", "humanoid-robots"]
+tags: ["tesla", "robotaxis", "autonomy", "transportation-networks", "humanoid-robots"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
 claims_count: 3
 evidence_count: 9
 batch_id: ""
-last_processed_at: "2026-03-08"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
 speech_evidence_count: 9
@@ -38,24 +38,26 @@ world_evidence_count: 0
 ---
 ## Summary
 
-The discussion centers on it's, that's, right. >> I think I think you're >> same. >> I don't think it's going to be seven years. You're right and you're wrong.
+Brett Winton, Sam Korus, and Nick Grous debate whether Tesla’s robotaxi rollout has crossed an important threshold and how quickly that can become a scaled business. Brett argues that the public app release and expected removal of safety drivers matter less as isolated headlines than as evidence that Tesla is moving toward a rapidly scalable autonomy network. The conversation also ties robotaxi economics to Tesla’s broader strategic optionality, especially whether autonomy will simply generate cash or become a platform that funds much larger adjacent bets like Optimus.
 
 ## Key Insights
 
-
-- >> I don't think it's going to be seven years.
-- Even and I think in their announced plans they've said they're going to be able to hit 50% of the population by Sam did they I.
-- It's like it's like, you know, if you look at our model and um robo taxi works in the way we think it will.
-- Oh, I actually I would go back to I think one part of your answer, Brett, which I don't necessarily think it matters when driver is.
-- There is wildly abundant evidence that's true that we're going to cross the threshold and it's we're going to cross it you know likely uh like.
-- >> My belief is that I think I think people also overindex on Uber where I mean Whimo where Whimo has severely restricted supply of vehicles.
+- The release of Tesla’s robotaxi app is treated as a real milestone because it signals public availability and demand discovery, not just a private beta.
+- The key debate is whether removing safety drivers marks the start of rapid scaling or merely the next stage of cautious rollout.
+- Brett sees Waymo as a poor template for Tesla because Tesla may be able to scale supply much faster if factory output can flow directly into autonomous service.
+- The economics of robotaxis are discussed as strategically important not only for transportation but for what they could fund next inside Tesla.
+- The conversation frames robotaxis and humanoid robots as linked platform bets rather than as isolated product lines.
 
 ## People Mentioned
 
 
-- [[Elon Musk]]
+- [[Brett Winton]]
 
-- [[New Year]]
+- [[Sam Korus]]
+
+- [[Nick Grous]]
+
+- [[Elon Musk]]
 
 
 
