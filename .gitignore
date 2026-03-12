@@ -2,6 +2,7 @@
 /*
 # Keep this file tracked
 !.gitignore
+!index.md
 # Un-ignore only the transcript/source folders we want to push
 !01_1Spotify/
 !01_1Spotify/**
