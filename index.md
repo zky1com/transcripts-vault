@@ -2401,3 +2401,9 @@ Auto-generated. Re-run the daily transcript sync job to refresh this file.
 - [青蛙头婴儿接生纪实，接生 4b8dbd37](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/%E5%A4%A7%E8%80%81%E7%8E%8B%E6%99%BA%E6%B1%87/%E9%9D%92%E8%9B%99%E5%A4%B4%E5%A9%B4%E5%84%BF%E6%8E%A5%E7%94%9F%E7%BA%AA%E5%AE%9E%EF%BC%8C%E6%8E%A5%E7%94%9F%204b8dbd37.md)
 - [黄金十倍狂潮启动！未来十 5a370118](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/%E5%A4%A7%E8%80%81%E7%8E%8B%E6%99%BA%E6%B1%87/%E9%BB%84%E9%87%91%E5%8D%81%E5%80%8D%E7%8B%82%E6%BD%AE%E5%90%AF%E5%8A%A8%EF%BC%81%E6%9C%AA%E6%9D%A5%E5%8D%81%205a370118.md)
 - [黄金要变奢侈品了？中国人 d368e80e](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/%E5%A4%A7%E8%80%81%E7%8E%8B%E6%99%BA%E6%B1%87/%E9%BB%84%E9%87%91%E8%A6%81%E5%8F%98%E5%A5%A2%E4%BE%88%E5%93%81%E4%BA%86%EF%BC%9F%E4%B8%AD%E5%9B%BD%E4%BA%BA%20d368e80e.md)
+
+## 01_3X
+
+### _daily
+
+- [topic-digest-2026-03-15](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-15.md)
