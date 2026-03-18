@@ -208,3 +208,203 @@ source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
 url:: https://x.com/drgurner/status/2034245039241462231
 text::
 > It costs you zero dollars to be head & shoulders above the rest. pic.x.com/xGeSMsYWg0
+
+## Wed, 18 Mar 2026 16:41:28 GMT
+item_id:: 0e3d1b7eccb4cd3b238111f5d64b0205
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034309221710483812
+text::
+> x.com/i/article/2034…
+
+## Wed, 18 Mar 2026 16:42:37 GMT
+item_id:: 3c73914ff3d5f2c1df5ce27a1fd96563
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/jasonlk/status/2034309509829841358
+text::
+> x.com/i/article/2031…
+
+## Wed, 18 Mar 2026 16:42:38 GMT
+item_id:: 551c93c06f4861590498102e1b9b4032
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034309514506453156
+text::
+> Google Stitch just got an update nobody is talking about. And it replaced my entire design process. Building a landing page used to take weeks. Now, AI agents do it for you. You do not even have to click a button. The new agent API writes the code and builds the site. You pic.x.com/NHJ3fDWKef
+
+## Wed, 18 Mar 2026 16:43:08 GMT
+item_id:: 4dbb079a3a43da00cac40947209d49fa
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034309641988096019
+text::
+> Perplexity just dropped an update nobody is talking about. And it can replace your entire junior staff. It is called Perplexity Computer. This is not a normal chatbot. You do not type questions and wait. You give it a single goal. It connects to your apps and works while you pic.x.com/H5APuifzE5
+
+## Wed, 18 Mar 2026 16:48:59 GMT
+item_id:: 5a55c7c52ab96df4041c1c497312c6d9
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034311110913073572
+text::
+> Google Gemini just got an update nobody is talking about. And it replaces the need to organize your files. You waste hours every week on admin tasks. Looking up old client notes. Digging for old travel receipts. It is a huge waste of your time. Google just solved this for pic.x.com/R1bu4YGaiq
+
+## Wed, 18 Mar 2026 16:52:06 GMT
+item_id:: 65267153cc880312388c73cb3283f18f
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034311897294721044
+text::
+> You're wasting hours re-explaining yourself to Claude every single day. Here's how to fix it in under 10 minutes using Claude Skills. 🧵 → Go to your project folder → Create a subfolder: .claude/skills/[skill-name]/ → Add a SKILL.md file inside it → Write YAML frontmatterpic.x.com/ntP3iVHU5OO
+
+## Wed, 18 Mar 2026 16:52:26 GMT
+item_id:: 5e64593bc37f191bf8bb2d133648b816
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034311981310837018
+text::
+> Microsoft Foundry just got an update nobody is talking about. And it fixes the biggest fear in business. Everyone wants to use AI agents. But business owners are scared. They worry the AI will leak data or mess up. Nvidia and Microsoft just solved this. They built a new pic.x.com/FylIV1ZIci
+
+## Wed, 18 Mar 2026 16:54:28 GMT
+item_id:: b1aed48fc278dffbd1d2c1881867c234
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/MMatters22596/status/2034312490830663922
+text::
+> My gameplan for $NVDA Buy at $170. Hold for the next decade. Minimum target for the next impulse is $230. $355 is my personal target for this move. I see a lot of people who think $NVDA is a conservative play in todays market. It's not. It's actually the cheapest MAG7, if pic.x.com/4bxH5yTCbo
+
+## Wed, 18 Mar 2026 16:54:37 GMT
+item_id:: fa6a610ed705d62493d572bbf21e21ac
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2034312528478519385
+text::
+> Have a few friends who have been restructuring and bankruptcy lawyers at Kirkland for a few years now I never thought it was possible, but they legitimately have worse hours and work life balance than investment bankers Talking around the clock work past midnights, weekends,
+
+## Wed, 18 Mar 2026 17:01:00 GMT
+item_id:: b56df288b73cff94bfe0bc45af5ab04a
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034314135450833081
+text::
+> This NEW Wix AI SEO Tool is INSANE (FREE Visibility Hack!) 🤯pic.x.com/3mP0l9wNMnn
+
+## Wed, 18 Mar 2026 17:25:12 GMT
+item_id:: 8d566fbc76486c193310e43d842d8e33
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034320226964361665
+text::
+> ⏰ 𝟭𝟵𝗛 𝗟𝗘𝗙𝗧: 𝗦𝗧𝗢𝗣 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 𝗙𝗥𝗢𝗠 𝗦𝗖𝗥𝗔𝗧𝗖𝗛 — 𝗣𝗟𝗨𝗚 𝗜𝗡𝗧𝗢 𝗔 𝗣𝗥𝗢𝗩𝗘𝗡 𝗔𝗜 𝗠𝗢𝗡𝗘𝗬 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 ($𝟱𝟱,𝟬𝟬𝟬+) 💰 What if you could charge businesses $5,000 for AI servicpic.x.com/d5J2efxxnure already built for you — and you didn't https://t.co/d5J2efxxnu
+
+## Wed, 18 Mar 2026 17:35:22 GMT
+item_id:: 0fdfd6ab2075153c11da0c13b192a6a5
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/gurufocus/status/2034322784478793737
+text::
+> $ULTA Chief Executive Officer Kecia Steelman on 2025 execution and 2026 momentum “We closed the year strong, delivering full year financial performance ahead of our plans while making important guesting investments to position our business for future growth.” “By nearly all
+
+## Wed, 18 Mar 2026 17:37:39 GMT
+item_id:: 22145a9a030d48b59e212249a48c2656
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034323360461750670
+text::
+> Claude just dropped an update that does your work while you walk your dog. It is called Claude Dispatch. Before this, you had to babysit AI. You type. You wait. You read. Now, you just pair your phone to your computer with a quick QR code. You can leave your desk, send a pic.x.com/RvKSUsmcZW
+
+## Wed, 18 Mar 2026 17:38:20 GMT
+item_id:: 7a6b8a0e8b873fcd774bfcc5e5910707
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/gurufocus/status/2034323532423819604
+text::
+> $ADBE CEO Shantanu Narayen on AI transition and platform growth momentum “Our mission to empower everyone to create represents an even larger opportunity in the AI era.” “Our new AI-first offerings ending ARR more than tripled year over year.” “We surpassed 850 million monthly
+
+## Wed, 18 Mar 2026 17:41:29 GMT
+item_id:: eeda1cbaa86617d4e071a6dbe8bc0f98
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/gurufocus/status/2034324324388159595
+text::
+> $LEN Stuart Miller on affordability pressure, cost progress, and margin recovery potential “Home prices remain high and mortgage interest rates have remained stubbornly over 6%, so affordability remains the central challenge facing our buyers.” “We are not nostalgically waiting
+
+## Wed, 18 Mar 2026 17:44:22 GMT
+item_id:: 39c4d4b7e45f63faa5c37434739e1142
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/gurufocus/status/2034325048274657668
+text::
+> $PSA Public Storage CEO Joe Russell on $10.5B NSA merger creating industry scale and synergy upside “Today I am thrilled to announce the acquisition of National Storage Affiliates.” “Together we will lead the industry with the best market scale, deepest data and digital
+
+## Wed, 18 Mar 2026 17:45:03 GMT
+item_id:: 6ab681f60824b69668ad61c83cb2d788
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/gurufocus/status/2034325222413775201
+text::
+> $DLTR Dollar Tree CEO Michael Creedon on multi-price strategy driving growth and customer expansion “We delivered 9% revenue growth in the fourth quarter with a comp of 5%.” “Multi-price represented approximately 16% of total sales and continues to deliver meaningfully higher
+
+## Wed, 18 Mar 2026 17:48:00 GMT
+item_id:: ef23fcff9cd7d5bd234a2a120990c8b0
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/jasonlk/status/2034325963178377451
+text::
+> To be blunt: Old SaaS is dying. Dying. No one wants to buy this stuff anymore.  No one.  Not unless they have to. Customers want AI / AI Agents that do all the work for them. And more and more often, that's entirely possible. Build that, and folks will line-up down the block to
+
+## Wed, 18 Mar 2026 18:27:00 GMT
+item_id:: ab4a75a65db084ac846aa5596b594000
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034335780374712798
+text::
+> x.com/i/article/2034…
+
+## Wed, 18 Mar 2026 18:39:51 GMT
+item_id:: 5df07e72895e436bf6fc01c68bd03766
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034339013054865528
+text::
+> 🚨 𝟭𝟴𝗛 𝗟𝗘𝗙𝗧: 𝗪𝗛𝗬 𝗔𝗥𝗘 𝗬𝗢𝗨 𝗦𝗧𝗜𝗟𝗟 𝗧𝗥𝗬𝗜𝗡𝗚 𝗧𝗢 𝗗𝗢 𝗧𝗛𝗜𝗦 𝗔𝗟𝗢𝗡𝗘? 𝗔𝗜 𝗖𝗔𝗦𝗛 𝗪𝗘𝗗𝗡𝗘𝗦𝗗𝗔𝗬 𝗕𝗟𝗜𝗧𝗭 ($𝟱𝟱𝗞+) 🔥 The fastest way to start earning with AI is to skip the learpic.x.com/gcPKMv6s3F plug into a system that's already making https://t.co/gcPKMv6s3F
+
+## Wed, 18 Mar 2026 18:40:28 GMT
+item_id:: 4611031ce2fc1230a5af65057a5475da
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/8vc/status/2034339167619154203
+text::
+> RT @vvkgopalan: Edra just came out of stealth with >$30M raised from @sequoia and @8vc. @EugenAlpeza and Yannis were "blank checks" for u…
+
+## Wed, 18 Mar 2026 18:40:55 GMT
+item_id:: 26682d20c4a2e510f111068ce0ee038e
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/8vc/status/2034339279804174426
+text::
+> RT @EugenAlpeza: We’re out of stealth. Today, we’re also announcing our Series A led by @sequoia , @8vc , and @A_StarVC , bringing our tot…
+
+## Wed, 18 Mar 2026 18:42:32 GMT
+item_id:: 8264a035759392ee410ca8e3bb4e910c
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034339688857890993
+text::
+> A developer dropped a side project on a Friday night. By Monday, it had 60,000 GitHub stars. 🔥 That's the story of OpenClaw — born in November 2025, built by an Austrian dev named Peter Steinberger. He never planned for it to go viral. He just wanted an AI that could dopic.x.com/izmHQ0SxwMM
+
+## Wed, 18 Mar 2026 18:44:57 GMT
+item_id:: 602a286d76e4cbfc3960babe8224ac05
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034340296323137766
+text::
+> Wow
+
+## Wed, 18 Mar 2026 18:46:05 GMT
+item_id:: 0b07413b1a37b8a7f96d2e7f1441be22
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034340582454350206
+text::
+> There is a new AI system that beats OpenClaw for ecom. OpenClaw is great but it is hard to set up. You have to build everything from scratch. EcomClaw fixes this. It is built just for online stores. It comes with a team of AI agents ready to go. They handle customer service pic.x.com/owYP40Zbbw
