@@ -7,29 +7,57 @@ url: "https://www.youtube.com/watch?v=ni04Zp7mUMM"
 publish_date: 2025-09-07
 duration: "23:48"
 word_count: 4287
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["attention", "social-media", "creator-economy"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["YouTube", "Instagram", "Netflix", "AI"]
+companies_mentioned: ["Google", "Facebook"]
+topics: ["social media", "attention", "dopamine", "creator economy", "meaning"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that social media has degraded because advertising-driven platforms optimize for attention capture rather than meaning, which pushes both users and creators toward low-consciousness content loops. He contrasts shallow trend-jacking with a more meaningful creator path that blends attention mechanics with genuine education, long-form depth, and work aimed at helping people develop rather than just react.
 
+## Key Insights
 
+- Modern social media exploits old reward circuitry through instant, fragmented attention capture.
+- Algorithmic short-form content increases entropy by flooding the mind with disconnected ideas.
+- Level-one creators optimize for isolated dopamine hits and are the most replaceable by AI.
+- Level-two creators often have real value but fail because they reject the rules needed to transmit it.
+- The highest-leverage creator path combines strong hooks with a coherent mission and real educational depth.
+- The emerging alternative to the attention economy is a meaning economy built on useful ideas, products, and transformation.
 
+## Claims
+
+- [[Dan Koe - Social platforms got worse because advertising rewards attention capture over meaning]]
+- [[Dan Koe - Short-form attention hacking content traps people in low-consciousness chaos]]
+- [[Dan Koe - Trend-jacking creators are the most replaceable by AI]]
+- [[Dan Koe - Many smart creators fail because they reject the mechanics needed to reach people]]
+- [[Dan Koe - The best creators combine attention skills with a meaningful throughline]]
+- [[Dan Koe - The meaning economy is built by creators who educate solve problems and transform people]]
 
 ## Full Transcript
 

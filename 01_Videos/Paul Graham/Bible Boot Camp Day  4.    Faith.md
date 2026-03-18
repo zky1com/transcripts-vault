@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=sTpVp7KvxmA"
 publish_date: 2025-09-04
 duration: "31:02"
 word_count: 2540
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "discipleship", "encouragement"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "Acts 14", "discipleship", "encouragement", "community"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-14"
 ---
 
+## Summary
 
+Paul Graham uses Acts 14 to argue that faith is sustained not only by initial conversion but by ongoing encouragement among disciples. He emphasizes that preaching the gospel is only part of the task; believers are also called to return, strengthen one another, and help each other remain true to the faith when grief, distraction, and discouragement make steady discipleship difficult.
 
+## Key Insights
 
+- Faith is not merely an entry point into discipleship but something that must be maintained.
+- Encouragement is presented as a practical ministry responsibility, not a sentimental extra.
+- Christian community matters because isolated disciples can drift.
+- Strengthening someone else's faith can also reinforce one's own.
 
+## Claims
+
+- [[Paul Graham - Disciples should strengthen and encourage other disciples]]
+- [[Paul Graham - Remaining true to the faith requires ongoing encouragement]]
+- [[Paul Graham - Winning disciples is not enough without continued discipleship]]
+- [[Paul Graham - Encouraging another believer can strengthen your own faith]]
 
 ## Full Transcript
 

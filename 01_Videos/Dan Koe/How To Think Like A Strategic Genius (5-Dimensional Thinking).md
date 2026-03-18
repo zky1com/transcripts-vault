@@ -1,35 +1,62 @@
 ---
 title: "How To Think Like A Strategic Genius (5-Dimensional Thinking)"
-people_mentioned: []
+people_mentioned: ["Jiddu Krishnamurti"]
 channel: "Dan Koe"
 video_id: "TY8IVSQnwlk"
 url: "https://www.youtube.com/watch?v=TY8IVSQnwlk"
 publish_date: 2026-02-22
 duration: "34:45"
 word_count: 6796
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["thinking", "strategy", "metacognition"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["thinking", "strategy", "metacognition", "perspective"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe builds a multi-layered model of strategic thinking by contrasting shallow, dogmatic “smartness” with more dimensional thought. He argues that thinking quality depends on how many perspectives, domains, levels, and historical patterns a person can hold without collapsing into identity defense, and he frames high-level strategic thinking as the disciplined practice of not stopping too early.
 
+## Key Insights
 
+- Stupid thinking is less about low IQ and more about prematurely closing inquiry.
+- Knowing facts and understanding systems are different, and many “smart” people confuse the two.
+- Thinking develops across lines, levels, altitude, and perspective, not just one dimension of expertise.
+- History matters because patterns of development help people reason forward more intelligently.
+- Identity defense is one of the main things that makes people stop thinking.
 
+## Claims
+
+- [[Dan Koe - Stupid thinking is what happens when thinking stops too early]]
+- [[Dan Koe - Knowing a lot is different from understanding deeply]]
+- [[Dan Koe - Higher-level thinking requires more than one line of expertise]]
+- [[Dan Koe - Historical pattern recognition improves strategic thinking]]
+- [[Dan Koe - Identity makes people stop thinking by defending fixed beliefs]]
+- [[Dan Koe - Strategic genius comes from holding more dimensions of reality at once]]
 
 ## Full Transcript
 

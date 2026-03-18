@@ -1,35 +1,61 @@
 ---
 title: "How To Get Rich In Your 20s (The Harsh Truth)"
-people_mentioned: []
+people_mentioned: ["Naval Ravikant"]
 channel: "Dan Koe"
 video_id: "rUD3Y1BFJFA"
 url: "https://www.youtube.com/watch?v=rUD3Y1BFJFA"
 publish_date: 2025-08-03
 duration: "20:11"
 word_count: 3744
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "entrepreneurship"
+subcategories: ["wealth-building", "money-mindset", "leverage"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["ChatGPT", "Claude"]
 companies_mentioned: []
-topics: []
+topics: ["wealth-building", "money-mindset", "leverage", "skill-acquisition"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe frames getting rich as a problem of rewiring perception and decision-making rather than finding a single correct business model. He argues that wealth comes from adopting a delusional aspirational hourly rate, concentrating force on wealth as a dominant priority, and using money and risk as a forcing function that pushes you to develop leverage, skill, and better judgment.
 
+## Key Insights
 
+- Aspirational pricing is useful because it changes what opportunities and tradeoffs the mind notices.
+- Wealth-building requires a level of obsession that most people avoid because it displaces lower-priority pleasures.
+- Concentration of force matters more than trying many disconnected paths without commitment.
+- Strategic overspending or pressure can act as a forcing function for skill growth when used intentionally.
+- Richness is framed less as a moral question and more as the byproduct of becoming highly valuable and leveraged.
 
+## Claims
+
+- [[Dan Koe - An aspirational hourly rate rewires your decisions toward leverage]]
+- [[Dan Koe - Getting rich requires obsessive concentration of force]]
+- [[Dan Koe - Delusional goals help the mind notice higher-value opportunities]]
+- [[Dan Koe - Money can be used as a forcing function for growth]]
+- [[Dan Koe - No business model is magically correct rich people learn by iterating]]
 
 ## Full Transcript
 

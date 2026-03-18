@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=DmnsQsTEnFs"
 publish_date: 2025-06-11
 duration: "45:41"
 word_count: 7196
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "holy-spirit", "readiness"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["Netflix", "social media"]
 companies_mentioned: []
-topics: []
+topics: ["holy spirit", "readiness", "Matthew 25", "faith", "spiritual discipline"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham reads the parable of the ten virgins as a warning against living with visible religious form but no sustaining inner supply of the Holy Spirit. He argues that lamps and wicks symbolize outward identity, but readiness for Christ depends on oil in the vessel, meaning a life that is daily replenished through prayer, scripture, and fellowship rather than merely wearing Adventist language, habits, or symbols.
 
+## Key Insights
 
+- Visible religious markers are not enough if the inner vessel is empty.
+- The wise virgins are wise because they prepare for delay, weakness, and ordinary life, not because they can stay spiritually intense forever.
+- Borrowed spirituality cannot save anyone when the decisive moment comes.
+- God expects human weakness, but he does not call believers to stay spiritually unprepared.
+- Oil is sustained through repeated practices of prayer, the word, and community life.
 
+## Claims
+
+- [[Paul Graham - Outward religion without inner oil is spiritual foolishness]]
+- [[Paul Graham - Readiness depends on oil in the vessel not just a lamp]]
+- [[Paul Graham - Borrowed spirituality cannot save anyone]]
+- [[Paul Graham - God expects weakness but not unpreparedness]]
+- [[Paul Graham - Prayer scripture and fellowship keep the vessel supplied]]
 
 ## Full Transcript
 

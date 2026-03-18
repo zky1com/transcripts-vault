@@ -1,35 +1,61 @@
 ---
 title: "How To Gamify Your Life (And Reinvent Yourself... Fast)"
-people_mentioned: []
+people_mentioned: ["Aristotle", "Alfred Adler"]
 channel: "Dan Koe"
 video_id: "VztPAofKWvg"
 url: "https://www.youtube.com/watch?v=VztPAofKWvg"
 publish_date: 2025-05-08
 duration: "18:50"
 word_count: 3746
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["self-direction", "gamification", "flow"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI"]
 companies_mentioned: []
-topics: []
+topics: ["gamification", "self-direction", "flow", "learning"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe frames personal reinvention as a chapter-based process that moves from confusion to vision, flow, and resistance. He argues that people get stuck because they misread limbo as failure, and he proposes gamifying life through layered goals, constraints, and challenge calibration so that progress becomes enjoyable, focused, and easier to sustain.
 
+## Key Insights
 
+- Reinvention unfolds in predictable phases, and limbo is not proof that someone is on the wrong path.
+- Strong vision often forms after people become deeply aware of the life they want to avoid.
+- Behavior follows unconscious goals, so change starts by making those goals visible.
+- Life becomes more engaging when it is structured like a game with missions, feedback loops, and rules.
+- Learning works best through active building with support, not through endless passive tutorials.
 
+## Claims
+
+- [[Dan Koe - Reinvention begins with a limbo phase before vision forms]]
+- [[Dan Koe - People stay stuck because unconscious goals keep them the same]]
+- [[Dan Koe - Gamifying life increases focus by creating layered goals rules and feedback]]
+- [[Dan Koe - Learning works best by building first and researching when stuck]]
+- [[Dan Koe - Progress is maximized at the edge between boredom and anxiety]]
 
 ## Full Transcript
 

@@ -1,6 +1,6 @@
 ---
 title: "Brooke Rollins, Secretary of Agriculture | All-In DC"
-people_mentioned: ["Secretary Rollins", "Brooke Rollins", "Abraham Lincoln", "White House"]
+people_mentioned: ["Brooke Rollins", "David Friedberg", "Abraham Lincoln", "Donald Trump", "Jared Kushner", "Rick Perry", "George W. Bush", "Larry Kudlow", "Robert O'Brien", "Elon Musk", "Robert F. Kennedy Jr.", "Amy Klobuchar", "Debbie Stabenow", "Joe Biden", "Ron DeSantis"]
 channel: "All-In Podcast"
 video_id: "Avlm1GWEgQI"
 url: "https://www.youtube.com/watch?v=Avlm1GWEgQI"
@@ -8,29 +8,29 @@ publish_date: 2025-05-04
 duration: "50:02"
 word_count: 9467
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
+delivery_mode: "interview"
+broad_category: "agriculture-policy"
+subcategories: ["food-security", "farm-bill", "trade", "labor", "nutrition-policy"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Secretary Rollins"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Secretary Rollins"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: []
+primary_person: "Brooke Rollins"
+host_names: ["David Friedberg"]
+interviewer_names: ["David Friedberg"]
+interviewee_profiles: ["Brooke Rollins"]
+speaker_profiles: ["David Friedberg", "Brooke Rollins"]
+organizations_mentioned: ["All-In Podcast", "US Department of Agriculture", "White House", "Department of Government Efficiency", "Texas Public Policy Foundation", "America First Policy Institute", "Future Farmers of America"]
+locations_mentioned: ["Washington, D.C.", "Texas", "Minnesota", "United States", "China", "Argentina", "Brazil", "Japan", "South Korea", "United Kingdom"]
 tools_mentioned: []
 companies_mentioned: []
-topics: ["saas-growth", "startup-strategy", "ai-regulation", "ai-jobs"]
-tags: ["saas-growth", "startup-strategy", "ai-regulation", "ai-jobs"]
+topics: ["food-security", "farm-bill", "agricultural-trade", "farm-labor", "nutrition-policy", "government-reform"]
+tags: ["food-security", "farm-bill", "agricultural-trade", "farm-labor", "nutrition-policy", "government-reform"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
-claims_count: 4
+claims_count: 5
 evidence_count: 14
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
 speech_evidence_count: 14
@@ -40,13 +40,15 @@ world_evidence_count: 0
 
 ## Summary
 
-Brooke Rollins presents agriculture as a strategic systems issue rather than a narrow farm-policy niche. Her argument is that food security, farm economics, trade balances, nutrition policy, and geopolitical resilience all run through the same set of agricultural decisions.
+Brooke Rollins presents agriculture as a strategic systems issue rather than a narrow farm-policy niche. Her core argument is that food security, trade policy, farm economics, labor supply, and nutrition policy are all linked to national power, and that the USDA has to be refocused around farmers, ranchers, and long-term self-sufficiency.
 
 ## Key Insights
 
-- Food security is framed as national security because dependence and rural decline create strategic weakness.
-- She treats SNAP design, farm-bill composition, and agricultural trade as linked policy levers rather than separate silos.
-- The interview reflects a broader Trump-era attempt to cast agriculture policy as part of industrial and geopolitical renewal.
+- Rollins argues food security is inseparable from national security because a country that cannot feed itself loses strategic independence.
+- She treats the agricultural trade deficit under Biden as evidence that U.S. farm policy drifted away from America-first reciprocity.
+- She argues the current Farm Bill is distorted because SNAP dominates the spending mix while farm economics remain stressed.
+- She says farm labor reform has to acknowledge the real operating constraints facing specialty-crop and dairy producers.
+- She presents DOGE-style state capacity reform as compatible with agriculture support, but not with simply gutting farm-stabilization systems overnight.
 
 ## Key Quotes
 
@@ -56,7 +58,33 @@ Brooke Rollins presents agriculture as a strategic systems issue rather than a n
 
 > We turned a zero agricultural trade deficit into a major deficit.
 
-## Full Transcript## Full Transcript
+## People Mentioned
+
+- [[Brooke Rollins]]
+- [[David Friedberg]]
+- [[Abraham Lincoln]]
+- [[Donald Trump]]
+- [[Jared Kushner]]
+- [[Rick Perry]]
+- [[George W. Bush]]
+- [[Larry Kudlow]]
+- [[Robert O'Brien]]
+- [[Elon Musk]]
+- [[Robert F. Kennedy Jr.]]
+- [[Amy Klobuchar]]
+- [[Debbie Stabenow]]
+- [[Joe Biden]]
+- [[Ron DeSantis]]
+
+## Claims
+
+- [[Brooke Rollins - Food security is a national security issue because losing family farms cedes geopolitical power]]
+- [[Brooke Rollins - Biden administration turned a zero agricultural trade deficit into a $50 billion deficit]]
+- [[Brooke Rollins - SNAP food stamp spending now represents 85 percent of the Farm Bill and grew 40 percent under Biden]]
+- [[Brooke Rollins - SNAP spends $15B annually on soda while 75 percent of recipients are clinically obese]]
+- [[Brooke Rollins - Agriculture policy must solve labor shortages without forcing U.S. farms to compete directly against illegal-labor arbitrage]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (9467 words)</summary>

@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=vvsTh6Bnerg"
 publish_date: 2025-09-01
 duration: "24:46"
 word_count: 2445
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "trust", "prayer"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "trust", "prayer", "God's will"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Paul Graham opens the September faith series by arguing that faith should be measured less by visible outcomes and more by a person's trust in God. Using Psalm 84:11, he frames God as the one who gives both sun and shield, grace and glory, insisting that mature faith trusts God to provide what is good rather than treating faith as a way to force preferred results.
 
+## Key Insights
 
+- Faith is not simply confidence that a desired result will happen.
+- God supplies both exposure and protection, and faith receives both.
+- Trust grows by learning to accept God's will rather than only demanding personal outcomes.
+- Prayer remains central because faith is practiced through dependence.
 
+## Claims
+
+- [[Paul Graham - Faith should be measured by trust not outcomes]]
+- [[Paul Graham - God gives both sun and shield]]
+- [[Paul Graham - God withholds no good thing from upright walkers]]
+- [[Paul Graham - Faith grows through dependence on God's will]]
 
 ## Full Transcript
 

@@ -1,6 +1,6 @@
 ---
 title: "AI Bubble Pops, Zuck Freezes Hiring, NewsomÃ¢â‚¬â„¢s 2028 Surge, Russia/Ukraine Endgame"
-people_mentioned: ["Rainman David", "Pio Hapatia", "Mexico City"]
+people_mentioned: ["Jason Calacanis", "David Friedberg", "Chamath Palihapitiya", "David Sacks", "Eric Schmitt", "Alex Karp", "Vlad Tenev", "Chris Wright", "Gary Richards", "Dylan Francis", "Sam Altman", "Gavin Newsom", "Donald Trump", "Vladimir Putin", "Volodymyr Zelenskyy", "J.D. Vance", "Elon Musk", "Tim Cook", "Gretchen Whitmer", "Wes Moore", "Javier Milei", "Kim Jong-un", "Kim Jong-il", "Peter Thiel"]
 channel: "All-In Podcast"
 video_id: "O0P7gwog9eA"
 url: "https://www.youtube.com/watch?v=O0P7gwog9eA"
@@ -8,29 +8,29 @@ publish_date: 2025-08-22
 duration: "1:11:45"
 word_count: 13509
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "saas-startups"
-subcategories: ["startup-strategy", "founder-ops"]
+delivery_mode: "panel-discussion"
+broad_category: "ai-politics-geopolitics"
+subcategories: ["enterprise-ai", "ai-market-cycle", "california-politics", "ukraine-war", "great-power-diplomacy"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Rainman David"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Rainman David"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: ["startup-strategy", "founder-ops", "product-management"]
-tags: ["startup-strategy", "founder-ops", "product-management"]
+primary_person: "David Sacks"
+host_names: ["Jason Calacanis", "David Friedberg", "Chamath Palihapitiya", "David Sacks"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "David Friedberg", "Chamath Palihapitiya", "David Sacks"]
+organizations_mentioned: ["All-In Podcast", "MIT", "Fortune", "NATO", "European Union", "Gallup", "Google Cloud"]
+locations_mentioned: ["Mexico City", "Rome", "Los Angeles", "California", "Maryland", "Michigan", "Missouri", "Alaska", "Ukraine", "Russia", "Europe", "India", "Finland", "Poland", "Germany", "United Kingdom", "Italy", "Crimea", "Israel", "Gaza", "Korea", "Cyprus", "Kashmir"]
+tools_mentioned: ["Grok", "ChatGPT"]
+companies_mentioned: ["8090", "Facebook", "Yammer", "Robinhood", "Uber", "Circle", "Solana", "OKX", "Athletic Brewing", "Apple", "OpenAI"]
+topics: ["enterprise-ai", "ai-market-cycle", "california-politics", "ukraine-war", "great-power-diplomacy"]
+tags: ["enterprise-ai", "ai-market-cycle", "california-politics", "ukraine-war", "great-power-diplomacy"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
-claims_count: 16
+claims_count: 5
 evidence_count: 78
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
 speech_evidence_count: 76
@@ -38,15 +38,15 @@ world_evidence_count: 2
 ---
 ## Summary
 
-This episode covers a broad set of topics, but its center of gravity is a more skeptical mid-cycle view of AI. The hosts argue that enterprise AI is moving out of the pilot hype phase into a harder sorting process where weak applications will fail, real back-office use cases will survive, and exaggerated narratives around AGI, policy panic, and market pricing are starting to correct.
+This episode combines three real topics that the older automation blended badly: a more skeptical mid-cycle read on enterprise AI, a California- and 2028-oriented political discussion, and a long Ukraine peace-process debate. The strongest throughline is that the hosts think AI is still in an experimentation and sorting phase, while David Sacks argues that political and geopolitical commentary is being distorted by unrealistic narratives and performative positioning.
 
 ## Key Insights
 
-- The hosts see most current enterprise AI spending as experimental budget deployment rather than durable adoption.
-- Probabilistic AI systems fit structured back-office workflows better than messy sales and marketing functions.
-- Recent skepticism toward AI is treated as healthy because it pushes back on magical AGI timelines and weakens panic-driven regulation.
-- They expect a churn cycle similar to prior software waves, where many AI companies disappear and a smaller number of durable winners emerge.
-- On geopolitics, Sacks argues that Ukraine peace requires realism on NATO and territory, while others emphasize how hard it is to settle entrenched conflicts.
+- Chamath argues most enterprise AI spending is still exploratory budget deployment, which is why weak pilots are failing before production.
+- Sacks treats the recent AI pullback as a healthy correction because it pushes back on rapid-takeoff and near-term AGI narratives.
+- Friedberg adds an efficiency thesis that smaller specialized models could radically reduce token and energy costs relative to giant general-purpose systems.
+- On 2028 politics, Sacks argues Gavin Newsom's repositioning is constrained by California's weak record and a perceived authenticity gap with Trump.
+- On Ukraine, Sacks argues a real peace process has to start from battlefield realities, no NATO path, and some form of territorial concession.
 
 ## Key Quotes
 
@@ -54,20 +54,34 @@ This episode covers a broad set of topics, but its center of gravity is a more s
 
 > There's a big difference between probabilistic software and deterministic software.
 
-> I still think we're in a boom, but I think there was a healthy dose of skepticism applied to some of the more fantastical claims about AI.
+> We're seeing a clustering of model performance.
 
-## People Mentioned## People Mentioned
+## People Mentioned
 
-
-- [[Rainman David]]
-
-- [[Pio Hapatia]]
-
-- [[Mexico City]]
-
-
-
-
+- [[Jason Calacanis]]
+- [[David Friedberg]]
+- [[Chamath Palihapitiya]]
+- [[David Sacks]]
+- [[Eric Schmitt]]
+- [[Alex Karp]]
+- [[Vlad Tenev]]
+- [[Chris Wright]]
+- [[Gary Richards]]
+- [[Dylan Francis]]
+- [[Sam Altman]]
+- [[Gavin Newsom]]
+- [[Donald Trump]]
+- [[Vladimir Putin]]
+- [[Volodymyr Zelenskyy]]
+- [[J.D. Vance]]
+- [[Elon Musk]]
+- [[Tim Cook]]
+- [[Gretchen Whitmer]]
+- [[Wes Moore]]
+- [[Javier Milei]]
+- [[Kim Jong-un]]
+- [[Kim Jong-il]]
+- [[Peter Thiel]]
 ## Claims
 
 - [[Chamath Palihapitiya - 95 percent of enterprise AI pilots fail to reach production due to resistance and poor ROI]]

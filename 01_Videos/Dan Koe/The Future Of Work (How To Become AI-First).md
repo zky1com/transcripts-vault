@@ -7,29 +7,57 @@ url: "https://www.youtube.com/watch?v=vFgjDSySYo8"
 publish_date: 2025-05-25
 duration: "28:55"
 word_count: 5633
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "entrepreneurship"
+subcategories: ["ai", "future-of-work", "one-person-business"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["ChatGPT", "Gemini", "AI"]
+companies_mentioned: ["Fiverr", "Shopify", "Duolingo"]
+topics: ["ai", "future of work", "agency", "creator economy", "personal brand"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that becoming AI-first means redesigning your workflow so AI handles repeatable labor while you retain vision, context, and creative control. He treats AI not as a replacement for meaningful work but as an amplifier for people who can automate themselves out of low-value tasks, build a body of work, and pair technical AI fluency with an independent, evolving direction in life.
 
+## Key Insights
 
+- AI-first is a workflow philosophy, not just using chatbots for quick answers.
+- The best training ground is trying to automate your own job and documenting the process.
+- Prompts become reusable workers only when they are grounded in good instructions and refined over time.
+- AI exposes which parts of creative work were never the real moat in the first place.
+- Generalists gain leverage in the AI era because they care about the mission, not attachment to one skill.
+- Mastery, meaning, and trusted audiences matter more as generic content becomes abundant.
 
+## Claims
+
+- [[Dan Koe - AI-first means machines execute your vision]]
+- [[Dan Koe - Learn AI by automating low-value work]]
+- [[Dan Koe - Prompt libraries turn process into workers]]
+- [[Dan Koe - Context and direction beat generic content]]
+- [[Dan Koe - Generalists adapt around goals not tools]]
+- [[Dan Koe - Body of work and true fans beat job dependence]]
 
 ## Full Transcript
 

@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=Ug2aJ-VSwpU"
 publish_date: 2025-09-25
 duration: "25:34"
 word_count: 2536
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "hope", "eternity"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "John 14", "hope", "heaven", "trust"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham uses John 14:1-3 to frame faith as steady trust in Jesus amid a troubled world. He argues that believers should not become trapped in present anxieties because Christ has promised both a prepared place and a future return, making hope in eternity a practical source of present stability.
 
+## Key Insights
 
+- Faith is presented as resistance to being consumed by immediate troubles.
+- Jesus' promise of return is treated as a concrete basis for hope.
+- Eternal perspective is meant to loosen the grip of present fear.
+- Prayer is framed as an act of bringing present burdens to the God who already knows the end.
 
+## Claims
+
+- [[Paul Graham - Believers should not let present trouble rule their hearts]]
+- [[Paul Graham - Jesus is preparing a place for his people]]
+- [[Paul Graham - Christ's return should strengthen present faith]]
+- [[Paul Graham - Eternal hope should steady believers in a troubled world]]
 
 ## Full Transcript
 

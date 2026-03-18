@@ -1,35 +1,63 @@
 ---
 title: "If you have multiple interests, do not waste the next 2-3 years"
-people_mentioned: []
+people_mentioned: ["Adam Smith", "Ayn Rand", "Leonardo da Vinci", "Michelangelo", "Johannes Gutenberg"]
 channel: "Dan Koe"
 video_id: "ExNWGF-q64M"
 url: "https://www.youtube.com/watch?v=ExNWGF-q64M"
 publish_date: 2026-01-20
 duration: "52:22"
 word_count: 10444
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "entrepreneurship"
+subcategories: ["future-of-work", "generalism", "personal-brand"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["Eden", "Notion", "Google Docs", "Claude", "ChatGPT"]
+companies_mentioned: ["Google"]
+topics: ["generalism", "future of work", "personal brand", "content", "digital products"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe reframes multiple interests as a strategic advantage rather than a flaw, arguing that modern creators can turn broad curiosity into a coherent path through self-education, personal branding, content, and product building. He connects historical shifts in knowledge access to today's AI era and argues that adaptive generalists who can synthesize domains and package their own systems will be better positioned than narrow specialists.
 
+## Key Insights
 
+- Multiple interests only feel chaotic when they are not channeled through a concrete vehicle for work and value creation.
+- Specialization was optimized for industrial systems, while the current environment rewards synthesis, adaptability, and perspective.
+- Self-education, self-interest, and self-sufficiency form the basis of a more sovereign life path.
+- Personal brands matter because they concentrate attention around a worldview, not because of cosmetic profile design.
+- Strong content comes from curating high-signal ideas and learning to restate core ideas in many forms.
+- Products stand out when they encode a specific system that solved a real problem for the creator first.
 
+## Claims
+
+- [[Dan Koe - Multiple interests need a vessel not suppression]]
+- [[Dan Koe - Adaptive generalists are better positioned than narrow specialists]]
+- [[Dan Koe - Self-education self-interest and self-sufficiency create personal freedom]]
+- [[Dan Koe - A personal brand turns attention into a path for monetizing interests]]
+- [[Dan Koe - Great content comes from curating high-signal ideas and rearticulating them]]
+- [[Dan Koe - Strong products are personal systems built from problems you have solved yourself]]
 
 ## Full Transcript
 

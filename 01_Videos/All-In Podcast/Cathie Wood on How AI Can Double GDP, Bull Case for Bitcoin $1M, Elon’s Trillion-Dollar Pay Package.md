@@ -1,6 +1,6 @@
 ---
-title: "Cathie Wood on How AI Can Double GDP, Bull Case for Bitcoin $1M, ElonÃ¢â‚¬â„¢s Trillion-Dollar Pay Package"
-people_mentioned: ["Kathy Wood", "Art Invests Kathy", "Brett Winton", "One Scurve"]
+title: "Cathie Wood on How AI Can Double GDP, Bull Case for Bitcoin $1M, Elon’s Trillion-Dollar Pay Package"
+people_mentioned: ["Cathie Wood", "Jason Calacanis", "Brett Winton", "Donald Trump", "Elon Musk", "Mark Zuckerberg", "Jeff Bezos"]
 channel: "All-In Podcast"
 video_id: "oNJ_ouDNNT0"
 url: "https://www.youtube.com/watch?v=oNJ_ouDNNT0"
@@ -8,53 +8,69 @@ publish_date: 2025-10-14
 duration: "19:15"
 word_count: 2799
 content_type: "podcast"
-delivery_mode: "technique"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "valuation", "risk-management", "market-data"]
+delivery_mode: "interview"
+broad_category: "innovation-investing"
+subcategories: ["ai-productivity", "bitcoin", "tesla", "market-structure"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Kathy Wood"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Kathy Wood - Tesla"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: ["San Francisco"]
+primary_person: "Cathie Wood"
+host_names: ["Jason Calacanis"]
+interviewer_names: ["Jason Calacanis"]
+interviewee_profiles: ["Cathie Wood"]
+speaker_profiles: ["Jason Calacanis", "Cathie Wood"]
+organizations_mentioned: ["All-In Podcast", "ARK Invest"]
+locations_mentioned: []
 tools_mentioned: []
-companies_mentioned: ["Tesla"]
-topics: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "ai-regulation", "product-management"]
-tags: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "ai-regulation", "product-management"]
+companies_mentioned: ["Tesla", "Waymo", "OpenAI"]
+topics: ["ai-productivity", "innovation-investing", "bitcoin", "tesla", "private-markets"]
+tags: ["ai-productivity", "innovation-investing", "bitcoin", "tesla", "private-markets"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
-claims_count: 17
-evidence_count: 69
+claims_count: 8
+evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
-speech_evidence_count: 68
-world_evidence_count: 1
+speech_evidence_count: 0
+world_evidence_count: 0
 ---
 ## Summary
 
-Cathie Wood's appearance is built around a high-conviction techno-optimist view of markets. The central claim is that AI-driven productivity, crypto infrastructure, and major platform-level innovation can expand economic output far beyond what most current macro frameworks assume.
+Cathie Wood’s interview is a compact statement of the ARK worldview: multiple technology platforms are converging at once, AI-led productivity and deflation will be stronger than consensus expects, and public markets still underestimate the upside in disruptive innovation. She applies that framework to bitcoin, Tesla, retail access to private markets, and Delaware governance risk.
 
 ## Key Insights
 
-- Wood treats AI as a general productivity unlock capable of materially lifting long-run GDP.
-- Her crypto framework emphasizes infrastructure maturation and asymmetric upside rather than a purely speculative trade.
-- The episode fits the broader Ark style: concentrate on exponential technologies and underwrite far bigger outcomes than consensus is willing to price.
+- Wood argues that five converging innovation platforms can push real GDP growth far above the long-run trend while also surprising inflation to the downside.
+- She treats healthcare AI, sequencing, and gene editing as the most profound AI application even if autonomous mobility gets there first on revenue.
+- She argues the market overconcentrated in the Mag Six during the risk-off years and still underprices truly disruptive innovation.
+- Her official bitcoin bull case is $1.5 million, with the higher theoretical number coming from portfolio-optimization math rather than the base public forecast.
+- Wood argues retail access to private markets should be based on knowledge and testing, not wealth thresholds.
+- She supports milestone-based CEO pay and sees Delaware’s activist judiciary as a growing governance risk.
 
-## Key Quotes
+## People Mentioned
 
-> AI can double GDP.
+- [[Cathie Wood]]
+- [[Jason Calacanis]]
+- [[Brett Winton]]
+- [[Donald Trump]]
+- [[Elon Musk]]
+- [[Mark Zuckerberg]]
+- [[Jeff Bezos]]
 
-> Bitcoin can still have a very large upside case.
+## Claims
 
-> The market continues to underestimate exponential technology.
+- [[Cathie Wood - Five converging innovation platforms could push real GDP growth toward 7 percent plus]]
+- [[Cathie Wood - AI-led productivity gains could push inflation toward zero or below as innovation diffuses]]
+- [[Cathie Wood - Healthcare AI plus sequencing and gene editing is the most profound long-term AI opportunity]]
+- [[Cathie Wood - Disruptive innovation stocks should outperform the Mag Six as risk appetite broadens]]
+- [[Cathie Wood - Bitcoin's official bull case is $1.5 million, with higher figures coming from portfolio-optimization math]]
+- [[Cathie Wood - Retail investor accreditation should be based on knowledge testing rather than wealth thresholds]]
+- [[Cathie Wood - Tesla's milestone-based CEO compensation is a strong incentive design for transformational companies]]
+- [[Cathie Wood - Delaware's activist judiciary is making it a less attractive place for innovative companies to incorporate]]
 
-## Full Transcript## Full Transcript
+## Full Transcript
 <details>
 <summary>Click to expand full transcript (2799 words)</summary>
 

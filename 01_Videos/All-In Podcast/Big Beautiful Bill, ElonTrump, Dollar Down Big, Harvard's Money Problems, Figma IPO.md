@@ -1,6 +1,6 @@
 ---
 title: "Big Beautiful Bill, Elon/Trump, Dollar Down Big, Harvard's Money Problems, Figma IPO"
-people_mentioned: ["In Summit", "Las Vegas", "Snake River", "Snake River Farms", "Long Hill Wagu", "Three Republicans", "Senator Ron Johnson"]
+people_mentioned: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "JD Vance", "Ron Johnson", "Ted Cruz", "Gavin Newsom", "Donald Trump", "Elon Musk", "Jeff Bezos"]
 channel: "All-In Podcast"
 video_id: "PS76GPJAKq0"
 url: "https://www.youtube.com/watch?v=PS76GPJAKq0"
@@ -8,43 +8,44 @@ publish_date: 2025-07-04
 duration: "1:25:11"
 word_count: 15705
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+delivery_mode: "panel-discussion"
+broad_category: "politics-economics"
+subcategories: ["fiscal-policy", "ai-regulation", "energy-policy", "capital-markets"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "In Summit"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["In Summit"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: []
+primary_person: "Jason Calacanis"
+host_names: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg"]
+organizations_mentioned: ["All-In Podcast", "National Conference of State Legislatures", "FDA"]
+locations_mentioned: ["United States", "California", "Tennessee", "Palo Alto", "Austin", "Las Vegas", "Snake River", "Idaho", "Singapore", "China"]
 tools_mentioned: []
-companies_mentioned: []
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
+companies_mentioned: ["Google", "OpenAI", "Meta", "Figma", "Adobe", "Tesla", "CoreWeave", "Circle", "Chime", "Grammarly", "Superhuman"]
+topics: ["fiscal-policy", "ai-regulation", "power-grid", "treasury-yields", "capital-markets"]
+tags: ["fiscal-policy", "ai-regulation", "power-grid", "treasury-yields", "capital-markets"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
-claims_count: 6
-evidence_count: 18
+claims_count: 5
+evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
-speech_evidence_count: 18
+speech_evidence_count: 0
 world_evidence_count: 0
 ---
 ## Summary
 
-The connective tissue in this episode is fiscal strain. Whether the topic is deficits, Treasury issuance, power constraints, regulation, or university finance, the hosts keep returning to the idea that large structural imbalances are starting to matter more than surface-level political messaging.
+The connective tissue in this episode is structural pressure. The hosts move across the Senate fight over the Big Beautiful Bill, federal versus state AI regulation, power and grid constraints, and capital-market sensitivity to deficits and rates, but the throughline is that long-running imbalances are now becoming binding constraints on policy and growth.
 
 ## Key Insights
 
-- Rising debt-service costs are presented as a first-order problem because they reduce future policy flexibility.
-- Treasury financing needs and higher discount rates are seen as direct pressure points on risk assets.
-- Energy and grid constraints now sit close to the center of the US growth story, especially for AI and industrial expansion.
+- Friedberg argues that fragmented state AI regulation would be economically damaging because internet-scale AI services cannot realistically operate through fifty-plus incompatible rule sets.
+- Chamath argues AI should be treated as national-security infrastructure and therefore governed federally rather than state by state.
+- The hosts treat persistent deficits and rising Treasury financing needs as direct constraints on future policy flexibility and asset prices.
+- Friedberg argues power and grid expansion has become the binding constraint on the broader AI and industrial buildout story.
 
 ## Key Quotes
 
@@ -54,7 +55,28 @@ The connective tissue in this episode is fiscal strain. Whether the topic is def
 
 > Power and grid constraints are becoming first-order variables.
 
-## Full Transcript## Full Transcript
+## People Mentioned
+
+- [[Jason Calacanis]]
+- [[Chamath Palihapitiya]]
+- [[David Friedberg]]
+- [[JD Vance]]
+- [[Ron Johnson]]
+- [[Ted Cruz]]
+- [[Gavin Newsom]]
+- [[Donald Trump]]
+- [[Elon Musk]]
+- [[Jeff Bezos]]
+
+## Claims
+
+- [[David Friedberg - Fragmented state AI regulation would break national product consistency and slow deployment]]
+- [[Chamath Palihapitiya - AI is national-security infrastructure and should be governed federally rather than state by state]]
+- [[David Friedberg - Power and grid constraints are becoming first-order variables in U.S. industrial and AI growth planning]]
+- [[Chamath Palihapitiya - Persistent deficits reduce policy flexibility during future shocks]]
+- [[Chamath Palihapitiya - Larger Treasury issuance needs can pressure risk assets via higher discount rates]]
+
+## Full Transcript
 <details>
 <summary>Click to expand full transcript (15705 words)</summary>
 

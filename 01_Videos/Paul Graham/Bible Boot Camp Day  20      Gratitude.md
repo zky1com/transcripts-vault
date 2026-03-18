@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=dVf8a4EFocY"
 publish_date: 2025-06-20
 duration: "29:22"
 word_count: 2683
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "prayer", "trust"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "prayer", "Matthew 7", "trust", "God's provision"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham frames gratitude through Matthew 7's invitation to ask, seek, and knock, arguing that God is both accessible and generous toward people who bring their needs to him in prayer. He uses the father-child analogy and the story of a daughter losing her sight to emphasize that divine love may not always give what is wanted immediately, but it still gives what is needed and remains present through suffering.
 
+## Key Insights
 
+- Gratitude is tied to confidence that God hears and responds to prayer.
+- Jesus' teaching is presented as permission to ask boldly for real needs.
+- God's goodness is compared favorably to the imperfect but loving instincts of earthly parents.
+- Trust deepens when believers interpret hardship through the possibility that God is still giving what is most needed.
 
+## Claims
+
+- [[Paul Graham - God invites believers to ask seek and knock]]
+- [[Paul Graham - God gives good gifts to those who ask]]
+- [[Paul Graham - God may give what is needed rather than what is wanted]]
+- [[Paul Graham - Gratitude should strengthen prayerful trust]]
 
 ## Full Transcript
 

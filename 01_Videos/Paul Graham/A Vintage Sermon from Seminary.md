@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=Dmus1D2TLEE"
 publish_date: 2025-06-07
 duration: "42:40"
 word_count: 5100
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "grace", "christianity"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "grace", "judgment", "spiritual growth", "church"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Paul Graham uses Romans 14 and the metaphor of dieting to argue that believers grow at different rates and should stop treating their personal standards as universal measures of righteousness. He frames church as a place where weak, inconsistent, and still-changing people come to heal, not a place where the already-polished get to condemn everyone else, and he repeatedly returns to the idea that judgment belongs to God rather than to other believers.
 
+## Key Insights
 
+- Spiritual growth is more like a long-term lifestyle than a crash diet.
+- Christians at different stages should not condemn one another over food, habits, or maturity level.
+- Church functions like a hospital or gym where people come to get better, not because they are already perfected.
+- Borrowed spirituality and forced conformity can damage people instead of helping them grow.
+- Confidence before God comes from relationship and grace, not from outperforming other believers.
 
+## Claims
+
+- [[Paul Graham - Spiritual growth must become a lifestyle]]
+- [[Paul Graham - Christians should not condemn weaker believers]]
+- [[Paul Graham - People come to church to get well not to prove perfection]]
+- [[Paul Graham - Personal relationship with Jesus matters more than imitation]]
+- [[Paul Graham - Final judgment belongs to God not the church crowd]]
 
 ## Full Transcript
 

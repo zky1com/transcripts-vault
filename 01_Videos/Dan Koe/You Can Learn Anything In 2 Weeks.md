@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=oGSHKXEKT2Q"
 publish_date: 2025-08-10
 duration: "27:56"
 word_count: 5490
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["learning", "skill-acquisition", "focus"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["After Effects", "Photoshop", "AI"]
 companies_mentioned: []
-topics: []
+topics: ["learning", "skill acquisition", "focus", "experimentation", "tactical stress"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that rapid learning does not come from studying entire disciplines upfront but from narrowing learning to the exact techniques needed for a real goal. He frames skill acquisition as technique stacking, progressive overload for the mind, and focused learning under meaningful pressure, arguing that people learn absurdly fast when purpose, challenge, and tactical stress remove the usual distractions and overthinking.
 
+## Key Insights
 
+- Learning speeds up when it starts from a real outcome rather than from generic study.
+- Skills are built from smaller techniques that can be stacked and reused across goals.
+- Once enough technique pieces are in place, the rest of the skill becomes easier to infer and refine.
+- Mental progress follows the same principle as physical training: overload the right level, not the impossible level.
+- Tactical stress works because it forces commitment and narrows attention around an unavoidable challenge.
 
+## Claims
+
+- [[Dan Koe - Rapid learning starts with purpose]]
+- [[Dan Koe - Skills are learned by stacking techniques]]
+- [[Dan Koe - Enough techniques let you infer the rest]]
+- [[Dan Koe - The mind needs progressive overload]]
+- [[Dan Koe - Tactical stress speeds learning]]
 
 ## Full Transcript
 

@@ -1,6 +1,6 @@
 ---
-title: "Bond crisis looming? GOP abandons DOGE, Google disrupts Search with AI, OpenAI buys Jony Ive's IO"
-people_mentioned: ["Los Angeles", "Elon Musk", "Middle East"]
+title: "Bond crisis looming GOP abandons DOGE, Google disrupts Search with AI, OpenAI buys Jony Ive's IO"
+people_mentioned: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks", "Donald Trump", "Jerome Powell", "Elon Musk", "Jony Ive", "Sam Altman", "Jensen Huang", "Ro Khanna", "Rebecca Ahrens-Nicklas"]
 channel: "All-In Podcast"
 video_id: "GEZWyC-jJa4"
 url: "https://www.youtube.com/watch?v=GEZWyC-jJa4"
@@ -8,53 +8,72 @@ publish_date: 2025-05-24
 duration: "1:33:56"
 word_count: 18098
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+delivery_mode: "panel-discussion"
+broad_category: "ai-politics-economics"
+subcategories: ["fiscal-policy", "search", "consumer-ai-devices", "energy-policy", "ai-geopolitics"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Los Angeles"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Los Angeles - OpenAI"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: []
+primary_person: "Jason Calacanis"
+host_names: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+organizations_mentioned: ["All-In Podcast", "US Treasury Department", "Congressional Budget Office", "Manhattan Institute", "Federal Reserve", "House of Representatives", "US Senate", "Tennessee Valley Authority", "University of Pennsylvania"]
+locations_mentioned: ["United States", "Los Angeles", "Middle East", "China", "Hong Kong", "Malaysia", "Riyadh", "UAE", "Dubai", "Abu Dhabi", "Saudi Arabia", "Singapore"]
 tools_mentioned: []
-companies_mentioned: ["OpenAI", "Google", "Tesla"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
+companies_mentioned: ["OpenAI", "Google", "Tesla", "SoftBank", "Blackstone", "Goldman Sachs", "Brookfield", "Nvidia", "AMD", "Huawei", "DeepSeek", "G42"]
+topics: ["fiscal-policy", "treasury-yields", "ai-search", "consumer-ai-devices", "energy", "ai-geopolitics"]
+tags: ["fiscal-policy", "treasury-yields", "ai-search", "consumer-ai-devices", "energy", "ai-geopolitics"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
 claims_count: 6
-evidence_count: 18
+evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
-speech_evidence_count: 18
+speech_evidence_count: 0
 world_evidence_count: 0
 ---
 ## Summary
 
-The hosts connect bond-market stress, AI product shifts, and industrial-policy uncertainty into one broader thesis: the next phase of markets will be more sensitive to execution quality and capital costs than to narrative alone. Search, consumer interfaces, and sovereign credibility are all up for repricing at the same time.
+This episode ties together five pressure points that the hosts see as converging on the US economy and AI race: fragile Treasury demand, a House bill they think moved away from DOGE-style austerity, Google's shift to AI-first search, OpenAI's bet on a new consumer device form factor, and the argument that energy production is now the binding constraint on abundance and AI scale. The later Middle East discussion extends the same theme into geopolitics, with Sacks arguing that allied AI buildout should be kept on an American stack rather than ceded to China.
 
 ## Key Insights
 
-- Sustained high long-end yields are treated as a systemic threat because they raise deleveraging risk across the economy.
-- AI-first search is shifting competition toward user experience and distribution rather than just raw model capability.
-- If US policy constrains access or deployability, allied countries may increasingly adopt alternative AI stacks.
+- Friedberg argues that rising Treasury yields can become self-reinforcing because higher rates directly increase the government's future borrowing need.
+- Chamath argues the House version of the bill was effectively anti-DOGE and risks pushing investors out of US debt and toward alternative stores of value.
+- The panel treats Google's AI-first search launch as a product and distribution contest, not just a raw-model benchmark contest.
+- Sacks argues that AI-connected hardware will create acute privacy and trust issues unless recording becomes visibly obvious to the people around it.
+- Friedberg argues that energy, not software ambition, is the gating factor for whether AI, robotics, and broader abundance economics can scale in the United States.
+- Sacks argues that restricting practical AI access for allied Gulf states would push them toward a Huawei-plus-DeepSeek alternative stack.
 
-## Key Quotes
+## People Mentioned
 
-> Bond-market confidence dynamics are changing.
+- [[Jason Calacanis]]
+- [[Chamath Palihapitiya]]
+- [[David Friedberg]]
+- [[David Sacks]]
+- [[Donald Trump]]
+- [[Jerome Powell]]
+- [[Elon Musk]]
+- [[Jony Ive]]
+- [[Sam Altman]]
+- [[Jensen Huang]]
+- [[Ro Khanna]]
+- [[Rebecca Ahrens-Nicklas]]
 
-> AI-first search shifts the competitive pressure.
+## Claims
 
-> Sustained high long-term yields increase deleveraging risk.
+- [[David Friedberg - Higher Treasury yields can create a nonlinear fiscal spiral when interest costs force even more borrowing]]
+- [[Chamath Palihapitiya - Sustained high long-end yields raise deleveraging risk across households, firms, and markets]]
+- [[David Friedberg - AI-first search shifts competitive pressure toward distribution and product experience, not only model quality]]
+- [[David Sacks - AI-connected devices are surveillance products unless recording is made plainly visible]]
+- [[David Friedberg - Energy production is the gating factor for AI abundance and long-run economic acceleration]]
+- [[David Sacks - U.S.-allied states may seek non-U.S. AI stacks if U.S. policy constraints block practical access]]
 
-## Full Transcript## Full Transcript
+## Full Transcript
 <details>
 <summary>Click to expand full transcript (18098 words)</summary>
 

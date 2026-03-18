@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=wVgcot2IuKQ"
 publish_date: 2025-11-13
 duration: "55:17"
 word_count: 6350
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "worship", "christianity"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+speaker_profiles: ["Paul Graham"]
+organizations_mentioned: ["Renewed Seventh-day Adventist Church", "Community of Hope Seventh-day Adventist Church"]
+locations_mentioned: ["Bowie, Maryland", "Toronto, Canada", "Annapolis", "Fort Washington", "Aspen Hill", "Gaithersburg", "England", "Trinidad"]
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "worship", "gratitude", "baptism", "forgiveness"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Paul Graham uses Mary anointing Jesus in John 12 to argue that real gratitude and worship are public, wholehearted, and unconcerned with cynical objections. He frames her act as a model for believers who have been shown mercy: Christians should carry the fragrance of Jesus wherever they go, stop holding back parts of themselves, and respond quickly when God is calling them to surrender, reset, or be baptized.
 
+## Key Insights
 
+- Mary’s act of pouring perfume on Jesus is presented as gratitude that is both intimate and fearless.
+- Christian witness should be noticeable enough that people can “smell the perfume of Jesus” in daily life.
+- Judas functions as the voice that critiques worship from self-interest rather than love.
+- Jesus is described as one who keeps receiving repeat offenders and offering them mercy again.
+- Delayed surrender is treated as dangerous because moments to respond to God should not be taken for granted.
 
+## Claims
+
+- [[Paul Graham - Gratitude for Jesus should be expressed without shame]]
+- [[Paul Graham - Christians should carry the fragrance of Jesus everywhere]]
+- [[Paul Graham - Cynicism often resists worship for selfish reasons]]
+- [[Paul Graham - Jesus keeps receiving repeat offenders with mercy]]
+- [[Paul Graham - Do not delay when God is calling for surrender]]
 
 ## Full Transcript
 

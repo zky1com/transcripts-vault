@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=kLd5AvsLWAc"
 publish_date: 2025-05-18
 duration: "18:19"
 word_count: 3505
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "routine"
+broad_category: "entrepreneurship"
+subcategories: ["deep-work", "focus", "productivity"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI", "Cortex"]
 companies_mentioned: []
-topics: []
+topics: ["deep work", "focus", "attention", "productivity", "creative work"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe presents a simple deep-work routine built around protecting scarce attention, doing meaningful tasks before entropy rises, and structuring work sessions as constrained games. He argues that deep work depends less on hacks than on clarity, challenge calibration, quantified tasks, and recovery habits that keep the mind supplied with useful ideas for the next day's creative work.
 
+## Key Insights
 
+- Attention behaves like scarce mental RAM and gets wasted when too many open loops compete at once.
+- Deep work is easiest early, when the world is quiet and cognitive entropy is still low.
+- Boredom and anxiety are useful signals that task difficulty and clarity are misaligned.
+- Quantified tasks and tight time blocks create urgency, feedback, and game-like focus.
+- Creative output depends on recovery and mental nutrition, not only time spent at the desk.
 
+## Claims
+
+- [[Dan Koe - Attention is limited mental RAM that should be invested deliberately]]
+- [[Dan Koe - Deep work is easiest when done before daily entropy rises]]
+- [[Dan Koe - Boredom and anxiety reveal that focus has lost the right challenge balance]]
+- [[Dan Koe - Quantified time-boxed tasks make deep work feel like a game]]
+- [[Dan Koe - Recovery and idea quality determine the next day's deep work performance]]
 
 ## Full Transcript
 

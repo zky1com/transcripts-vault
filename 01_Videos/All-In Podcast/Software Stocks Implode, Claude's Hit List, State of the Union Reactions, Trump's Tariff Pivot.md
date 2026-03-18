@@ -1,6 +1,6 @@
 ---
 title: "Software Stocks Implode, Claude's Hit List, State of the Union Reactions, Trump's Tariff Pivot"
-people_mentioned: ["Ski Week", "Alex Jones", "Michael Tracy", "Brad Gersonner", "Claude Co", "Thompson Reuters", "Legal Zoom", "Crowd Strike"]
+people_mentioned: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks", "Alex Jones", "Michael Tracy", "Brad Gerstner", "Dario Amodei", "Pete Hegseth", "Derek Thompson", "William Goldman", "Ezra Klein", "Elizabeth Warren", "Nancy Pelosi", "Donald Trump", "Ilhan Omar", "Susan Rice", "Jerome Powell", "James Comey", "David Sinclair", "Shinya Yamanaka"]
 channel: "All-In Podcast"
 video_id: "kzWbCF_IkHY"
 url: "https://www.youtube.com/watch?v=kzWbCF_IkHY"
@@ -8,32 +8,33 @@ publish_date: 2026-02-28
 duration: "1:21:08"
 word_count: 15186
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+delivery_mode: "panel-discussion"
+broad_category: "ai-economics-politics"
+subcategories: ["software-valuations", "ai-market-impact", "macro-uncertainty", "tariffs", "executive-power", "longevity-biotech"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Ski Week"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Ski Week - Anthropic"]
-speaker_profiles: []
-organizations_mentioned: ["Claude Code Security", "All-In Podcast"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Anthropic"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "valuation", "options-trading"]
-tags: []
-pipeline_stage: video_only
-claims_status: pending
+primary_person: "Jason Calacanis"
+host_names: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+interviewer_names: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+organizations_mentioned: ["All-In Podcast", "Supreme Court", "FDA", "Harvard", "SEC"]
+locations_mentioned: ["United States", "China"]
+tools_mentioned: ["Claude", "Claude Code", "credit default swaps"]
+companies_mentioned: ["Anthropic", "Thomson Reuters", "LexisNexis", "LegalZoom", "CrowdStrike", "Cloudflare", "Okta", "IBM", "Coca-Cola", "Eli Lilly", "Meta", "Amazon", "American Express", "Capital One", "Mastercard", "Visa", "GSK", "Life Biosciences"]
+topics: ["software-valuations", "ai-market-impact", "macro-uncertainty", "tariffs", "executive-power", "longevity-biotech"]
+tags: ["software-valuations", "ai-market-impact", "macro-uncertainty", "tariffs", "executive-power", "longevity-biotech"]
+pipeline_stage: pending
+claims_status: done
 speech_status: pending
 world_status: pending
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 speech_evidence_count: 0
 world_evidence_count: 0
 evidence_count: 0
 batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
 
@@ -44,31 +45,25 @@ batch_id: ""
 
 ## Summary
 
-The hosts use software-stock drawdowns and Anthropic's expanding product surface to ask which parts of the software stack remain defensible as AI takes over more workflows. The market commentary is sharper than usual because it focuses on how investors reprice categories once capability jumps from novelty to substitution risk.
+This episode combines a sharp discussion of AI-driven software repricing with a later debate about tariffs, executive power, and a science segment on longevity biotech. The strongest transcript-grounded claims come from Chamath's argument that AI-exposed software stocks are no longer being priced on a normal timing question but on existential durability risk, Sacks's point that macro AI debates are increasingly science-fiction narratives with weak real-time evidence, Friedberg's concern that AI productivity could outrun human demand, and the hosts' disagreement over how Trump's tariff strategy should survive judicial scrutiny.
 
 ## Key Insights
 
-- AI product announcements are starting to hit public-market categories directly rather than just inspiring abstract excitement.
-- The selloff conversation centers on where incumbents still own durable workflow depth versus where they are just expensive wrappers.
-- Tariff and State of the Union reactions broaden the episode into a discussion about how markets process political noise versus real policy change.
-- The hosts repeatedly ask what remains scarce once model capability improves.
+- Chamath says public markets have shifted from debating when software cash flows get hit to whether those cash flows are durable at all in an AI world.
+- Sacks argues that AI discussion is crowded with compelling but weakly evidenced macro narratives, so markets are reacting to uncertainty more than to settled analysis.
+- Friedberg says AI could create a historically new condition where productive capacity outruns humanity's ability to consume the output.
+- The tariff segment argues less about whether tariffs disappear than about which legal and political path keeps them in force.
+- The science corner frames Yamanaka-factor therapeutics as an early but potentially major step toward age-reversal treatments.
 
-## Key Quotes
+## Claims
 
-- "The Claude kill list has expanded."
-- "Anthropic is now tanking different sectors."
-- "What part of the stack is actually defensible?"
+- [[Chamath Palihapitiya - AI-exposed software stocks are now being priced on whether their cash flows survive, not just when they slow]]
+- [[David Sacks - AI uncertainty is breaking the old SaaS-as-growth-annuity valuation model]]
+- [[David Sacks - Most long-range AI macro narratives are still competing science fiction because real evidence is sparse]]
+- [[David Friedberg - AI productivity could outstrip human consumptive capacity and break standard economic models]]
+- [[David Sacks - Trump's tariff program will continue because the administration has multiple alternate legal authorities]]
+- [[Chamath Palihapitiya - Tariffs should be made structurally permanent because they address hollowed-out U.S. manufacturing and the middle class]]
 
-## People Mentioned
-
-- [[Ski Week]]
-- [[Alex Jones]]
-- [[Michael Tracy]]
-- [[Brad Gersonner]]
-- [[Claude Co]]
-- [[Thompson Reuters]]
-- [[Legal Zoom]]
-- [[Crowd Strike]]
 ## Full Transcript
 
 <details>

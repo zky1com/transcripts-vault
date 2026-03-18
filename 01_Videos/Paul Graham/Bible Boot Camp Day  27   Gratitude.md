@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=wh4l82QIygg"
 publish_date: 2025-06-27
 duration: "34:07"
 word_count: 2958
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "salvation", "surrender"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "John 3", "salvation", "giving", "surrender"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham centers gratitude on John 3:16, arguing that God's love is first seen in the fact that he gave his Son before people ever responded. He turns that into a call for listeners to give themselves back to God, treating salvation as the greatest gift and personal surrender as the fitting grateful response.
 
+## Key Insights
 
+- Gratitude is rooted in God's initiating love rather than human worthiness.
+- Divine giving is presented as the model that precedes and shapes human response.
+- Personal surrender is framed as the best gift people can offer God.
+- Salvation is treated as a deeper ground for gratitude than material blessings alone.
 
+## Claims
+
+- [[Paul Graham - God's love is shown in giving his Son]]
+- [[Paul Graham - God gave before people asked]]
+- [[Paul Graham - The fitting response to God's gift is self-surrender]]
+- [[Paul Graham - Salvation is the greatest ground for gratitude]]
 
 ## Full Transcript
 

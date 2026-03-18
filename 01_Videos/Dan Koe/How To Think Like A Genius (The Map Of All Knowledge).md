@@ -1,35 +1,62 @@
 ---
 title: "How To Think Like A Genius (The Map Of All Knowledge)"
-people_mentioned: []
+people_mentioned: ["Jordan Peterson", "Alan Watts", "Daniel Schmachtenberger", "Ken Wilber"]
 channel: "Dan Koe"
 video_id: "YTWm6sG0n6s"
 url: "https://www.youtube.com/watch?v=YTWm6sG0n6s"
 publish_date: 2025-07-20
 duration: "23:57"
 word_count: 4403
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["thinking", "integral-theory", "self-direction"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["thinking", "integral-theory", "problem-solving", "perspective"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe presents Ken Wilber's integral model as a way to think more clearly about life, problems, and goals by looking through multiple perspectives instead of clinging to a single worldview. He argues that genius-level thinking is less about raw intelligence or memorized facts and more about holding more dimensions of reality at once, integrating truths across them, and using that synthesis to solve problems more accurately.
 
+## Key Insights
 
+- “Smart” people often fail because they over-identify with one perspective and mistake it for the whole truth.
+- The AQAL model is useful because it forces people to inspect problems through inner, outer, individual, and collective lenses.
+- One-dimensional thinking produces dogmatism, while more dimensional thinking improves synthesis.
+- Developmental levels matter because people and cultures interpret truth differently depending on their stage.
+- Better thinking leads to better learning, action, strategy, and therefore a better life trajectory.
 
+## Claims
+
+- [[Dan Koe - Genius thinking is about clarity and synthesis not memorized facts]]
+- [[Dan Koe - Most people think badly because they rely on only one perspective]]
+- [[Dan Koe - The AQAL model improves thinking by forcing four-perspective analysis]]
+- [[Dan Koe - Developmental stages shape what people can perceive as true]]
+- [[Dan Koe - Many smart people fail because they cannot integrate perspectives]]
+- [[Dan Koe - Better thinking improves life by improving learning action and strategy]]
 
 ## Full Transcript
 

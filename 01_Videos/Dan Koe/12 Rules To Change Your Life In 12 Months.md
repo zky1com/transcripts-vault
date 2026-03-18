@@ -1,35 +1,63 @@
 ---
 title: "12 Rules To Change Your Life In 12 Months"
-people_mentioned: []
+people_mentioned: ["Mihaly Csikszentmihalyi", "Carl Jung"]
 channel: "Dan Koe"
 video_id: "IajTL2RCJ_k"
 url: "https://www.youtube.com/watch?v=IajTL2RCJ_k"
 publish_date: 2025-09-14
 duration: "37:06"
 word_count: 7079
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["self-direction", "learning", "entrepreneurship"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI"]
 companies_mentioned: []
-topics: []
+topics: ["self-direction", "identity", "projects", "entrepreneurship"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe presents a self-authored life code built around rejecting default scripts, defining personal standards, learning through projects, and treating uncertainty as a growth signal. The talk frames entrepreneurship and creation as the natural extension of a high-agency life, with mistakes and experimentation functioning as the mechanism that clarifies direction over time.
 
+## Key Insights
 
+- Koe argues that people do not actually want unrestricted freedom; they want the freedom to set their own rules.
+- A strong anti-vision helps people move away from mediocrity before they can clearly define a positive vision.
+- Standards, constraints, and project-based learning shape identity more effectively than passive consumption of advice.
+- Entrepreneurship is framed less as a job title than as a high-agency way of relating to work and responsibility.
+- Creativity, uncertainty, and self-experimentation are presented as the tools for building a unique life.
+- Mistakes are treated as directional feedback rather than proof that a path is wrong.
 
+## Claims
+
+- [[Dan Koe - People want self-authored rules not absolute freedom]]
+- [[Dan Koe - An anti-vision is the first step away from mediocrity]]
+- [[Dan Koe - Standards and constraints shape identity]]
+- [[Dan Koe - Project-based learning builds useful skill fastest]]
+- [[Dan Koe - Entrepreneurship is a high-agency mindset]]
+- [[Dan Koe - Mistakes reveal a unique life path]]
 
 ## Full Transcript
 

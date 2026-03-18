@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=PDE7xcVuqtE"
 publish_date: 2025-06-04
 duration: "29:19"
 word_count: 3098
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "prayer", "blessing"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "prayer", "Jabez", "blessing", "God's will"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham uses the prayer of Jabez in 1 Chronicles 4 to encourage listeners to ask God specifically for blessing, enlargement, protection, and guidance. He treats gratitude not as passive thankfulness alone but as confidence that God still hears detailed requests and can open opportunities, while also trusting that unanswered desires may reflect wiser divine direction.
 
+## Key Insights
 
+- Gratitude and specific prayer are presented as companions rather than opposites.
+- Believers are encouraged to tell God clearly what they want and need.
+- Jabez becomes a model for asking God to enlarge life's opportunities and borders.
+- Unanswered requests are framed as possible signs of God's wiser judgment rather than indifference.
 
+## Claims
+
+- [[Paul Graham - Believers should ask God specifically for what they need]]
+- [[Paul Graham - God can enlarge a person's territory and opportunities]]
+- [[Paul Graham - Gratitude should include bold prayer for blessing]]
+- [[Paul Graham - Unanswered requests may still reflect God's care]]
 
 ## Full Transcript
 

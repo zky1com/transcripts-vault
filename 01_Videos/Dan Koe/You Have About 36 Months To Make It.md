@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=ve1L21l1GW4"
 publish_date: 2025-08-17
 duration: "28:52"
 word_count: 5292
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "entrepreneurship"
+subcategories: ["future-of-work", "ai", "personal-brand"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI", "LLMs", "Bitcoin"]
 companies_mentioned: []
-topics: []
+topics: ["future of work", "ai", "agency", "taste", "personal brand"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that the next few years will reward people who act like directors rather than doers, using the internet, social media, and AI to learn, persuade, and execute with far more leverage than before. He frames the future of work as a split between machine utility and human meaning, claiming that taste, agency, and public-facing creative work will matter more as AI makes raw production cheaper and more abundant.
 
+## Key Insights
 
+- AI strengthens the long-term shift of power away from institutions and toward highly agentic individuals.
+- The people who thrive will direct work, orchestrate systems, and solve problems instead of waiting to be assigned tasks.
+- As generic output becomes easier to produce, taste and curation become more valuable forms of intelligence.
+- Machines are best used for speed and utility, while humans remain strongest in story, novelty, and meaning.
+- A future-proof path combines philosophy, building skill, idea filtering, and AI orchestration around work you care about.
 
+## Claims
+
+- [[Dan Koe - The future favors directors over doers]]
+- [[Dan Koe - Taste becomes more valuable as AI output expands]]
+- [[Dan Koe - Machines handle utility while humans create meaning]]
+- [[Dan Koe - Philosopher-builders outperform narrow specialists]]
+- [[Dan Koe - AI should be used as a fleet of specialized workers]]
 
 ## Full Transcript
 

@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=GdG8tahrNdE"
 publish_date: 2025-06-26
 duration: "28:03"
 word_count: 1902
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "gratitude", "forgiveness"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "forgiveness", "fear", "faith"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Paul Graham continues the gratitude series by connecting thankfulness to emotional resilience, forgiveness, and freedom from fear. He presents gratitude as a spiritual discipline with real effects on the mind and relationships, then pairs it with the parable of the unforgiving servant to argue that people who have been forgiven by God are called to extend forgiveness to others.
 
+## Key Insights
 
+- Gratitude is described as protective, healing, and relationship-building.
+- Fear loses its grip when life is interpreted through God's faithfulness instead of crisis.
+- Forgiveness is not optional for those who want to live consistently with the mercy they have received.
+- Devotional gratitude is tied to both testimony and practical generosity.
 
+## Claims
+
+- [[Paul Graham - Gratitude strengthens emotional resilience]]
+- [[Paul Graham - Gratitude helps push back fear]]
+- [[Paul Graham - Forgiven people must become forgiving people]]
+- [[Paul Graham - Mercy received creates moral obligation]]
 
 ## Full Transcript
 

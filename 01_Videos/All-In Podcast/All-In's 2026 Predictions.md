@@ -1,6 +1,6 @@
 ---
 title: "All-In's 2026 Predictions"
-people_mentioned: ["Jason Cowakanis", "Miss Crant", "Chimath Poly Hapatia", "Uh David Freedberg", "David Saxs", "Ro Kana"]
+people_mentioned: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks", "Ro Khanna", "Reid Hoffman", "Eric Swalwell", "Bernie Sanders", "Gavin Newsom", "JD Vance", "Donald Trump", "Larry Page", "Sergey Brin", "Michael Dell", "Ted Cruz", "Nick Shirley", "Lina Khan"]
 channel: "All-In Podcast"
 video_id: "yEb2DX0TzKM"
 url: "https://www.youtube.com/watch?v=yEb2DX0TzKM"
@@ -8,76 +8,86 @@ publish_date: 2026-01-10
 duration: "1:31:11"
 word_count: 17683
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
+delivery_mode: "panel-discussion"
+broad_category: "politics-economics"
+subcategories: ["california-wealth-tax", "macroeconomy", "government-audits", "capital-markets", "media-trends"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Jason Cowakanis"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Jason Cowakanis"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
+primary_person: "Jason Calacanis"
+host_names: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "Chamath Palihapitiya", "David Friedberg", "David Sacks"]
+organizations_mentioned: ["All-In Podcast", "Democratic Socialists of America", "SEIU", "Pentagon"]
 locations_mentioned: []
 tools_mentioned: []
-companies_mentioned: []
-topics: ["saas-growth", "startup-strategy", "ai-safety", "ai-regulation", "options-trading"]
-tags: ["saas-growth", "startup-strategy", "ai-safety", "ai-regulation", "options-trading"]
-pipeline_stage: evidence_done
+companies_mentioned: ["Google", "Netflix", "Warner Bros.", "SpaceX", "Anduril", "Stripe", "Anthropic", "OpenAI", "Polymarket"]
+topics: ["california-wealth-tax", "macroeconomy", "government-audits", "capital-markets", "citizen-journalism"]
+tags: ["california-wealth-tax", "macroeconomy", "government-audits", "capital-markets", "citizen-journalism"]
+pipeline_stage: speech_done
 claims_status: done
-evidence_status: done
-claims_count: 4
-evidence_count: 12
+evidence_status: pending
+claims_count: 6
+evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
-world_status: done
-speech_evidence_count: 12
+world_status: pending
+speech_evidence_count: 0
 world_evidence_count: 0
 ---
 ## Summary
 
-This annual prediction episode spans politics, macro, taxes, media, and technology, but its underlying frame is straightforward: the hosts expect 2026 to be shaped by pro-growth policy, renewed political conflict over wealth and spending, and a continued reorganization of markets around AI and fiscal reality.
+This annual prediction episode is a wide-ranging panel on what the hosts think will define 2026 across politics, macro, media, and markets. The dominant themes are California wealth-tax backlash, a pro-growth macro narrative around lower inflation and trade improvement, broader public demand for auditing government spending, and a friendlier climate for M&A, IPOs, and creator-led media.
 
 ## Key Insights
 
-- The hosts expect inflation moderation and trade normalization to support a more pro-growth macro narrative.
-- California wealth-tax politics and federal spending remain central fault lines in their political outlook.
-- Their forecasting framework increasingly ties politics, capital markets, and AI into a single reinforcing system rather than treating them as separate topics.
+- The hosts expect California wealth-tax politics to keep driving relocation and capital-allocation decisions even before any final ballot outcome.
+- Sacks argues lower inflation, better trade data, and tax relief could produce a strong Trump-boom narrative that spills into political sentiment.
+- Chamath treats anti-fraud politics as a durable open lane at the federal, state, and local level.
+- The panel expects auditing government spending to expand from a niche watchdog issue into a broader public norm.
+- Jason argues M&A and mega-IPOs are returning as policy pressure eases and public demand for access to private winners grows.
+- Friedberg argues citizen journalism is shifting from passive capture toward active investigative work with real monetization paths.
 
 ## Key Quotes
 
 > This is going to be a topic throughout the year because it is not going away.
 
-> We're going to see happen in a big way this year.
+> The Trump boom is going to be the biggest political winner of 2026.
 
-> Russia Ukraine I think it's going to settle out this year.
+> Audit everything.
 
-## People Mentioned## People Mentioned
+## People Mentioned
 
-
-- [[Jason Cowakanis]]
-
-- [[Miss Crant]]
-
-- [[Chimath Poly Hapatia]]
-
-- [[Uh David Freedberg]]
-
-- [[David Saxs]]
-
-- [[Ro Kana]]
+- [[Jason Calacanis]]
+- [[Chamath Palihapitiya]]
+- [[David Friedberg]]
+- [[David Sacks]]
+- [[Ro Khanna]]
+- [[Reid Hoffman]]
+- [[Eric Swalwell]]
+- [[Bernie Sanders]]
+- [[Gavin Newsom]]
+- [[JD Vance]]
+- [[Donald Trump]]
+- [[Larry Page]]
+- [[Sergey Brin]]
+- [[Michael Dell]]
+- [[Ted Cruz]]
+- [[Nick Shirley]]
+- [[Lina Khan]]
 
 
 
 
 ## Claims
 
-- [[Chamath Palihapitiya - Central-bank interest in controlled digital monetary rails is discussed as a strategic response to crypto limits]]
-- [[Chamath Palihapitiya - Lower-than-expected inflation prints are framed as supportive for pro-growth policy narratives]]
-- [[David Sacks - Political policy themes debated in 2026 are expected to remain active into 2028 cycles]]
-- [[Chamath Palihapitiya - Trade-balance improvement is being interpreted as a signal of macro normalization momentum]]
+- [[David Sacks - California's wealth-tax push can trigger capital flight before the proposal even passes]]
+- [[Chamath Palihapitiya - Fighting waste, fraud, and abuse is an open political lane at every level of government]]
+- [[David Sacks - Lower inflation, better trade data, and tax relief could create a Trump-boom political narrative in 2026]]
+- [[David Sacks - Auditing government spending will become a broader political demand beyond Washington]]
+- [[Jason Calacanis - M&A and mega-IPOs are returning as policy bottlenecks ease and public demand for access rises]]
+- [[David Friedberg - Citizen journalism is shifting from passive recording to active investigative reporting]]
 
 ## Full Transcript
 <details>

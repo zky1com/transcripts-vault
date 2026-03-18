@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=sbwfr-iZPjE"
 publish_date: 2025-06-24
 duration: "29:04"
 word_count: 3421
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "intercession", "obedience"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "Luke 17", "intercession", "obedience", "healing"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham connects gratitude with both intercessory prayer and the story of the ten lepers in Luke 17, urging listeners to name people they are praying for and to notice grace with thanksgiving. He emphasizes that healing came as the lepers obeyed Jesus' instruction to go, but only one returned to give thanks, making gratitude the fitting response to mercy already received.
 
+## Key Insights
 
+- Gratitude should widen into prayer for other people's needs, not stay self-focused.
+- The ten lepers story shows obedience and healing unfolding together.
+- Returning to give thanks is portrayed as a spiritually meaningful act, not an optional courtesy.
+- Believers are encouraged to notice blessings they did not even specifically ask for.
 
+## Claims
+
+- [[Paul Graham - Gratitude should include praying for other people]]
+- [[Paul Graham - Healing can unfold in the act of obedience]]
+- [[Paul Graham - The healed should return and give thanks]]
+- [[Paul Graham - Gratitude should notice undeserved mercy]]
 
 ## Full Transcript
 

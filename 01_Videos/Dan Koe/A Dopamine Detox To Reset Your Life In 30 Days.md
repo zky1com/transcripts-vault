@@ -1,35 +1,61 @@
 ---
 title: "A Dopamine Detox To Reset Your Life In 30 Days"
-people_mentioned: []
+people_mentioned: ["Mihaly Csikszentmihalyi", "Carl Jung", "Blaise Pascal"]
 channel: "Dan Koe"
 video_id: "U5kQTKWTUX0"
 url: "https://www.youtube.com/watch?v=U5kQTKWTUX0"
 publish_date: 2025-10-26
 duration: "19:42"
 word_count: 3826
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "protocol"
+broad_category: "philosophy"
+subcategories: ["dopamine", "self-regulation", "habit-change"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI"]
 companies_mentioned: []
-topics: []
+topics: ["dopamine", "habit-change", "flow", "self-regulation"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe frames a dopamine detox as a periodic reset tool for people whose attention and motivation have been hijacked by cheap stimulation. He argues that boredom, deprivation, movement, diet, projects, and reflection work together to lower overstimulation, restore clarity, and rebuild agency over behavior.
 
+## Key Insights
 
+- Modern life trains the brain to treat cheap stimulation as highly salient, which makes normal challenges feel dull.
+- Boredom is presented as useful because it exposes suppressed desires and creates the conditions for clarity.
+- Dopamine deprivation is framed as a way to make simple pleasures and deeper engagement enjoyable again.
+- The detox is not meant to turn people into ascetics but to help them act with more conscious choice.
+- Walking, lifting, dietary simplification, projects, and reflection are positioned as practical supports for the reset.
 
+## Claims
+
+- [[Dan Koe - Overstimulation destroys flow and deep enjoyment]]
+- [[Dan Koe - Boredom is a gateway to clarity]]
+- [[Dan Koe - Dopamine deprivation restores simple pleasures]]
+- [[Dan Koe - A dopamine detox is a calibration tool for agency]]
+- [[Dan Koe - A life reset needs movement projects and reflection]]
 
 ## Full Transcript
 

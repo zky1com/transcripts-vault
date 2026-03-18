@@ -1,6 +1,6 @@
 ---
 title: "David Friedberg Destroys the House Spending Bill: \"Americans should be ashamed.\""
-people_mentioned: ["Some Republicans", "Supplemental Nutrition Assistance", "Brook Rollins", "Tax Foundation"]
+people_mentioned: ["David Friedberg", "Jason Calacanis", "Brooke Rollins", "Donald Trump", "Rand Paul", "Ron Johnson", "Scott Bessent", "Doug Burgum", "Howard Lutnick", "Bill Clinton", "George W. Bush", "Barack Obama", "Joe Biden"]
 channel: "All-In Podcast"
 video_id: "Kaa7Ijh4jRA"
 url: "https://www.youtube.com/watch?v=Kaa7Ijh4jRA"
@@ -8,45 +8,46 @@ publish_date: 2025-05-18
 duration: "9:55"
 word_count: 2001
 content_type: "podcast"
-delivery_mode: "technique"
-broad_category: "sales"
-subcategories: ["sales-process", "outbound"]
+delivery_mode: "analysis"
+broad_category: "fiscal-policy"
+subcategories: ["deficit", "federal-spending", "interest-burden", "tax-policy"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Some Republicans"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Some Republicans"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: ["United States"]
+primary_person: "David Friedberg"
+host_names: ["Jason Calacanis"]
+interviewer_names: ["Jason Calacanis"]
+interviewee_profiles: ["David Friedberg"]
+speaker_profiles: ["Jason Calacanis", "David Friedberg"]
+organizations_mentioned: ["All-In Podcast", "Tax Foundation", "Congress", "Department of Government Efficiency", "Treasury Department", "CNBC", "Supplemental Nutrition Assistance Program"]
+locations_mentioned: ["United States", "Argentina"]
 tools_mentioned: []
 companies_mentioned: []
-topics: ["sales-process", "outbound", "ai-regulation", "ai-jobs"]
-tags: ["sales-process", "outbound", "ai-regulation", "ai-jobs"]
+topics: ["deficit", "federal-spending", "debt", "interest-rates", "tax-policy"]
+tags: ["deficit", "federal-spending", "debt", "interest-rates", "tax-policy"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
 claims_count: 3
-evidence_count: 9
+evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
-speech_evidence_count: 9
+speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
 
 ## Summary
 
-This clip is an explicit fiscal alarm. Friedberg argues that the spending bill is not just imprudent but morally unserious given the scale of the US debt burden and the compounding effect of interest expense on future national choices.
+This clip is a direct fiscal alarm. Friedberg argues that the House spending bill is morally unserious because it leaves the structural deficit largely untouched, accepts a permanently inflated post-COVID spending baseline, and ignores the feedback loop in which higher refinancing costs push the United States toward a debt spiral.
 
 ## Key Insights
 
-- Friedberg treats the debt trajectory as an existential fiscal crisis rather than a manageable annoyance.
-- His preferred baseline is to reset federal spending to pre-COVID levels and rebuild discipline from there.
-- The core of the argument is shame: the political system is refusing to confront a problem it clearly understands.
+- Friedberg treats the debt trajectory as an existential fiscal crisis rather than a manageable budgeting nuisance.
+- He argues the spending bill fails because it leaves the annual deficit near crisis levels even after the advertised cuts.
+- His preferred fiscal reset is simple: no new programs and a return of existing programs to 2019 spending levels.
+- He warns that higher Treasury yields can turn a bad debt problem into a self-reinforcing spiral.
 
 ## Key Quotes
 
@@ -56,7 +57,29 @@ This clip is an explicit fiscal alarm. Friedberg argues that the spending bill i
 
 > Reset spending to 2019 levels.
 
-## Full Transcript## Full Transcript
+## People Mentioned
+
+- [[David Friedberg]]
+- [[Jason Calacanis]]
+- [[Brooke Rollins]]
+- [[Donald Trump]]
+- [[Rand Paul]]
+- [[Ron Johnson]]
+- [[Scott Bessent]]
+- [[Doug Burgum]]
+- [[Howard Lutnick]]
+- [[Bill Clinton]]
+- [[George W. Bush]]
+- [[Barack Obama]]
+- [[Joe Biden]]
+
+## Claims
+
+- [[David Friedberg - The Big Beautiful Bill fails to address the US fiscal emergency because it leaves the structural deficit largely unchanged]]
+- [[David Friedberg - All federal government programs should be reset to pre-COVID 2019 spending levels as the minimum standard for fiscal responsibility]]
+- [[David Friedberg - Rising Treasury yields can turn the US debt problem into a self-reinforcing death spiral]]
+
+## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (2001 words)</summary>

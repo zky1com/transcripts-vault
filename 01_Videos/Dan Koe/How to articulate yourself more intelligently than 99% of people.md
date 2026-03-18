@@ -1,35 +1,61 @@
 ---
 title: "How to articulate yourself more intelligently than 99% of people"
-people_mentioned: []
+people_mentioned: ["Alan Watts", "Jordan Peterson", "Daniel Schmachtenberger", "Alex Hormozi"]
 channel: "Dan Koe"
 video_id: "DKT6m_8vCkA"
 url: "https://www.youtube.com/watch?v=DKT6m_8vCkA"
 publish_date: 2025-12-07
 duration: "19:25"
 word_count: 4175
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["communication", "writing", "thinking"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["communication", "articulation", "writing", "idea-development"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that articulation is not an inborn gift but a byproduct of repeated writing, deep familiarity with a small set of core ideas, and conscious use of communication frameworks. He treats writing as the primary training ground for intelligent speech because it forces clearer thinking, exposes which ideas resonate, and gives speakers material they can repeatedly refine across formats.
 
+## Key Insights
 
+- Strong articulation depends on having a body of work and a small set of refined ideas to draw from.
+- Great speakers often respond with their best prepared idea rather than improvising from scratch.
+- Writing is foundational because it trains thinking, persuasion, and media creation at once.
+- Simple frameworks like PAS, the pyramid principle, and cross-domain synthesis make articulation more repeatable.
+- Better speaking often comes from better idea development rather than from performance tricks alone.
 
+## Claims
+
+- [[Dan Koe - Articulation depends on repeatedly refining a small set of core ideas]]
+- [[Dan Koe - Great speakers answer with their best idea not with a literal first response]]
+- [[Dan Koe - Writing is the best training ground for becoming more articulate]]
+- [[Dan Koe - The PAS framework is a practical starting point for clear articulation]]
+- [[Dan Koe - Cross-domain synthesis makes communication more original and compelling]]
 
 ## Full Transcript
 

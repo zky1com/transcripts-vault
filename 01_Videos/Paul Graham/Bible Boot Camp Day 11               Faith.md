@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=KzfSKacFeng"
 publish_date: 2025-09-11
 duration: "30:56"
 word_count: 2999
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "dependence", "intercession"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "Hebrews 11", "dependence", "intercession", "prayer"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-14"
 ---
 
+## Summary
 
+Paul Graham returns to Hebrews 11:6 to argue that faith is how believers draw near to God in ordinary life, prayer, and responsibility. He urges listeners to assess where their faith currently stands, involve God in the tasks of the day, and keep trusting that God rewards those who seek him, while also making room to pray for other people and not only for themselves.
 
+## Key Insights
 
+- Faith should be measured honestly so it can be intentionally grown.
+- Ordinary planning and work become spiritual acts when done in conscious dependence on God.
+- Intercession for others is a meaningful expression of living faith.
+- Faith does not require perfect circumstances in order to seek God sincerely.
 
+## Claims
+
+- [[Paul Graham - Faith should involve God in ordinary daily responsibilities]]
+- [[Paul Graham - Believers should pray for others as part of living faith]]
+- [[Paul Graham - Honest self-assessment can help faith grow]]
+- [[Paul Graham - God rewards people who try to find him]]
 
 ## Full Transcript
 

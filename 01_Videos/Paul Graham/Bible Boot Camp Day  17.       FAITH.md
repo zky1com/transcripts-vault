@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=pgZ20Z7QqCY"
 publish_date: 2025-09-17
 duration: "30:43"
 word_count: 2657
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "prayer", "advocacy"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "prayer", "advocacy", "forgiveness", "intercession"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham turns the story of the woman accused in John 8 into a devotional about advocacy, mercy, and intercessory prayer. He argues that believers should remember how Christ stands for them in their own guilt and weakness, then imitate that posture by carrying other people into prayer instead of casting stones or living as though spiritual growth makes them superior to those still struggling.
 
+## Key Insights
 
+- Jesus is presented as an advocate who protects rather than exposes the guilty.
+- Spiritual progress should make a believer more compassionate, not more condemning.
+- Intercessory prayer is framed as standing in the gap for someone else.
+- Faith grows not only through personal requests but through praying for others by name.
 
+## Claims
+
+- [[Paul Graham - Jesus advocates for guilty people instead of condemning them]]
+- [[Paul Graham - Spiritual growth should make believers less judgmental]]
+- [[Paul Graham - Intercessory prayer is a form of advocacy]]
+- [[Paul Graham - Faith grows when you pray for others as well as yourself]]
 
 ## Full Transcript
 

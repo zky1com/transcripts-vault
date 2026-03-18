@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=eSKNwBV1eVM"
 publish_date: 2025-06-23
 duration: "30:14"
 word_count: 3238
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "temptation", "obedience"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "temptation", "1 Corinthians 10", "obedience", "deliverance"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham treats gratitude as inseparable from moral perseverance, using 1 Corinthians 10:13 to argue that temptation is common but never irresistible because God remains faithful and provides a way of escape. His devotional emphasis is that believers should be grateful not only for obvious blessings, but also for the sustaining grace that helps them bear temptation, recover from failure, and keep walking with God.
 
+## Key Insights
 
+- Gratitude includes recognizing God's faithfulness inside temptation, not only after visible victories.
+- Temptation is described as universal rather than uniquely personal or unbeatable.
+- Graham places responsibility on believers to take the escape route God provides.
+- Forgiveness after failure is meant to motivate renewed faithfulness rather than despair.
 
+## Claims
+
+- [[Paul Graham - Temptation is common to human life]]
+- [[Paul Graham - God does not allow temptation beyond what can be borne]]
+- [[Paul Graham - God provides a way of escape in temptation]]
+- [[Paul Graham - Gratitude should include God's sustaining faithfulness]]
 
 ## Full Transcript
 

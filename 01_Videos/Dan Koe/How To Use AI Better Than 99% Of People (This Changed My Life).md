@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=xgpLjLHB5sA"
 publish_date: 2025-11-27
 duration: "34:22"
 word_count: 7455
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "tutorial"
+broad_category: "ai"
+subcategories: ["prompting", "workflow", "learning"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["ChatGPT", "Claude", "Eden"]
+companies_mentioned: ["Google", "Dropbox"]
+topics: ["ai", "prompting", "workflow", "learning", "content creation"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that most people get weak AI results because they use chatbots like glorified search boxes rather than programmable collaborators. He lays out a workflow for extracting expert instructions, turning those instructions into structured prompts, and reusing those prompts as coaches, advisors, and business-building systems instead of relying on one-shot generic requests.
 
+## Key Insights
 
+- Better AI output depends on reducing model guessing with specific instructions and personal context.
+- Detailed prompts matter because they encode taste, process, and standards that default chat behavior does not know.
+- AI is especially useful for turning expert sources into actionable guides that can be reused across projects.
+- The strongest workflow treats AI as a way to learn and build at the same time.
+- Prompt libraries can become products because they package useful guided processes, not just text generation.
 
+## Claims
+
+- [[Dan Koe - Most people use AI like a slot machine instead of a system]]
+- [[Dan Koe - Detailed prompts reduce mediocre AI guessing]]
+- [[Dan Koe - AI becomes useful when it follows expert instructions not defaults]]
+- [[Dan Koe - The best AI workflows combine learning and execution]]
+- [[Dan Koe - Prompt libraries can become valuable one-person products]]
 
 ## Full Transcript
 

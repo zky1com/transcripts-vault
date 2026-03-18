@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=l-gO82V69SU"
 publish_date: 2025-09-03
 duration: "30:12"
 word_count: 3412
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "spiritual growth", "dependence"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "Hebrews 11", "dependence", "prayer", "spiritual growth"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham uses Hebrews 11:6 to argue that faith is essential for pleasing God and for drawing near to him in daily life. He contrasts self-reliance with God-reliance, encouraging listeners to measure, exercise, and grow their faith so that ordinary tasks, prayers, and responsibilities are carried out in conscious dependence on Christ rather than merely on personal ability.
 
+## Key Insights
 
+- Faith is presented as a requirement for intimacy with God, not an optional extra.
+- Self-reliance can disguise itself as competence while quietly displacing trust in God.
+- Faith needs to be exercised and grown like a planted seed.
+- Even imperfect faith is worth naming honestly and strengthening intentionally.
 
+## Claims
+
+- [[Paul Graham - It is impossible to please God without faith]]
+- [[Paul Graham - Daily work should be done in dependence on God]]
+- [[Paul Graham - Faith grows when it is exercised intentionally]]
+- [[Paul Graham - Believers must believe that God exists and rewards seekers]]
 
 ## Full Transcript
 

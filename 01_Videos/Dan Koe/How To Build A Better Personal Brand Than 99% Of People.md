@@ -1,35 +1,61 @@
 ---
 title: "How To Build A Better Personal Brand Than 99% Of People"
-people_mentioned: []
+people_mentioned: ["Naval Ravikant", "Steven Bartlett", "John Hu"]
 channel: "Dan Koe"
 video_id: "HA6XxtGNOm0"
 url: "https://www.youtube.com/watch?v=HA6XxtGNOm0"
 publish_date: 2025-06-08
 duration: "24:25"
 word_count: 4790
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "entrepreneurship"
+subcategories: ["personal-brand", "content-strategy", "monetization"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["AI"]
+companies_mentioned: ["Stan", "Goldman Sachs"]
+topics: ["personal-brand", "trust", "content-strategy", "monetization"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that strong personal brands are built primarily through trust rather than through cosmetic profile optimization. He frames trust as a combination of growth, authenticity, and authority, then ties monetization to that trust by treating a personal brand as a traffic source that can support many different products once attention and credibility are established.
 
+## Key Insights
 
+- Content quality and idea quality matter more than superficial profile setup in the long run.
+- Brand growth comes from repeatedly converting interesting ideas into engaging formats that people want to share.
+- Authenticity matters because people buy from people whose stories and beliefs they resonate with.
+- Authority is strengthened by persuasive education that makes non-interested people care about a topic.
+- Early monetization works best when the first offer is small, fast to build, and used to validate demand.
 
+## Claims
+
+- [[Dan Koe - Personal brands are primarily built on trust not profile cosmetics]]
+- [[Dan Koe - Growth comes from pairing high-performing structures with ideas you genuinely care about]]
+- [[Dan Koe - Authenticity strengthens a brand by aligning ideas with story and beliefs]]
+- [[Dan Koe - Persuasive education works by making broad audiences care before they are ready to buy]]
+- [[Dan Koe - A personal brand is a traffic source not the business itself]]
 
 ## Full Transcript
 

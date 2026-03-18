@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=2ZwZVz808Ok"
 publish_date: 2025-06-25
 duration: "27:59"
 word_count: 2729
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "scripture", "Christ-centered reading"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "scripture", "Jesus", "Bible", "spiritual growth"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham frames gratitude around scripture itself, using a "true and better" meditation to argue that the Bible forms a single story pointing to Jesus. He encourages listeners to read the word not merely for information but for transformation, so that knowing Christ through scripture helps them become truer and better versions of themselves.
 
+## Key Insights
 
+- Gratitude for God's word includes recognizing Jesus as the center of the Bible's storyline.
+- Scripture is presented as a means of personal transformation, not just religious familiarity.
+- Christ-centered reading is treated as a way to deepen relationship with God.
+- Graham translates biblical models into a call for present-day spiritual growth.
 
+## Claims
+
+- [[Paul Graham - The Bible points beyond its stories to Jesus]]
+- [[Paul Graham - Gratitude for scripture should lead to deeper Bible reading]]
+- [[Paul Graham - Knowing Christ through scripture should make believers better]]
+- [[Paul Graham - Believers should read the word for transformation not trivia]]
 
 ## Full Transcript
 

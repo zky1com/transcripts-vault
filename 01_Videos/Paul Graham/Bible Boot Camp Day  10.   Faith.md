@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=5ylDqx_MkPw"
 publish_date: 2025-09-12
 duration: "27:25"
 word_count: 2674
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "trust", "transformation"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "trust", "transformation", "John 2", "prayer"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham uses the wedding at Cana to argue that Jesus is willing to step into human problems and transform situations that people have already mishandled. He applies the story to faith by saying believers must invite Christ into their vessels, trust him with what has run dry, and believe that he still saves the best for the present moment.
 
+## Key Insights
 
+- Jesus intervenes even in problems he did not create.
+- Faith is expressed by filling the vessels and obeying before the result is visible.
+- Transformation begins when believers let Christ occupy what they are carrying.
+- The best gift Jesus offers is ultimately himself, not just solved circumstances.
 
+## Claims
+
+- [[Paul Graham - Jesus steps into problems he did not create at Cana]]
+- [[Paul Graham - Faith obeys before the outcome appears at Cana]]
+- [[Paul Graham - Christ can turn a dry situation into abundance at Cana]]
+- [[Paul Graham - Jesus still saves the best for now at Cana]]
 
 ## Full Transcript
 

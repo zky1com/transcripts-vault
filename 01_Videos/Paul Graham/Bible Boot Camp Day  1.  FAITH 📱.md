@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=L9jMlXBGdtI"
 publish_date: 2026-01-01
 duration: "29:30"
 word_count: 2753
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "discipline", "spiritual-growth"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "mustard seed faith", "prayer", "scripture", "fellowship"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Paul Graham begins the January faith series by urging listeners to treat faith as something cultivated through practice rather than admired in theory. Centering on mustard-seed faith, he argues that even small faith becomes powerful when it is exercised, watered, and reinforced through prayer, scripture, and fellowship.
 
+## Key Insights
 
+- Faith concerns trust in what cannot yet be seen, not certainty created by visible proof.
+- Mustard-seed faith is small but dynamic when it is cultivated instead of ignored.
+- A new year should begin with spiritual practices, not only resolutions.
+- Prayer, scripture, and fellowship are presented as the practical work of growing faith.
 
+## Claims
+
+- [[Paul Graham - Small faith becomes powerful when cultivated]]
+- [[Paul Graham - Mustard-seed faith should be exercised not admired]]
+- [[Paul Graham - Faith requires prayer scripture and fellowship]]
+- [[Paul Graham - New seasons should begin with spiritual discipline]]
 
 ## Full Transcript
 

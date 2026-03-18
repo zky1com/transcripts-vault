@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=0cSwXV2FAJ8"
 publish_date: 2025-03-16
 duration: "31:33"
 word_count: 6140
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["goal-setting", "strategy", "mindset"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI", "Kortex"]
 companies_mentioned: []
-topics: []
+topics: ["strategy", "mindset", "goal setting", "identity", "failure"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that people fail at ambitious goals less because they lack instructions and more because they interpret reality through a weak identity and a helpless relationship with failure. He frames achievement as a strategic mind game: expand the level of mind that reads reality, treat mistakes as the only fully tailored truth source, build a living strategy around a project, and use a pre-mortem to prepare for the inner collapse points that usually stop progress.
 
+## Key Insights
 
+- Learned helplessness traps people by making opportunity look impossible before action begins.
+- Identity and ego development determine what information a person can even recognize as useful.
+- Failure is more reliable than borrowed advice because it is specific to the person and situation.
+- Strategy is not a fixed plan but an evolving response to feedback and changing conditions.
+- A pre-mortem helps surface the psychological reasons a project will likely fail before those reasons sabotage execution.
 
+## Claims
+
+- [[Dan Koe - Learned helplessness blocks ambitious action]]
+- [[Dan Koe - Identity limits what opportunities you can see]]
+- [[Dan Koe - Failure is the only fully tailored teacher]]
+- [[Dan Koe - Strategy evolves through feedback not fixed plans]]
+- [[Dan Koe - Pre-mortems expose self-sabotage before action]]
 
 ## Full Transcript
 

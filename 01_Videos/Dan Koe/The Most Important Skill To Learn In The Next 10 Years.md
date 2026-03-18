@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=0XI_Xt0ci2Y"
 publish_date: 2025-12-21
 duration: "29:20"
 word_count: 5852
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["agency", "generalism", "future-proofing"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI"]
 companies_mentioned: []
-topics: []
+topics: ["agency", "generalism", "adaptability", "future of work", "learning"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that agency is the most important long-term skill because it lets people choose a direction, iterate without permission, and adapt as tools and job markets change. He contrasts high-agency experimentation with conformist dependence, then frames agency as an art of self-directed learning, difficult-goal pursuit, and public experimentation rather than blind obedience to assigned paths.
 
+## Key Insights
 
+- Agency matters because changing environments do not threaten people who can reorient quickly.
+- Conformity survives by outsourcing truth to culture, authority, and group acceptance.
+- High-agency people treat life as an experiment and expect mistakes to be part of progress.
+- Generalists win because they stay loyal to goals and missions rather than to static tools.
+- Social media can function as a practical arena for practicing agency through learning, testing, and feedback.
 
+## Claims
+
+- [[Dan Koe - Agency is iteration without permission]]
+- [[Dan Koe - Conformity blocks self-direction]]
+- [[Dan Koe - High agency treats life as an experiment]]
+- [[Dan Koe - AI favors high-agency people]]
+- [[Dan Koe - Generalists stay resilient by following goals]]
 
 ## Full Transcript
 

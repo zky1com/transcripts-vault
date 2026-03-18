@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=DmJRH28dNIk"
 publish_date: 2025-10-20
 duration: "53:05"
 word_count: 8050
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "grace", "church"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
+speaker_profiles: ["Paul Graham"]
+organizations_mentioned: ["Renewed Seventh-day Adventist Church", "Community of Hope Seventh-day Adventist Church", "North American Division", "Glenn Dale Seventh-day Adventist Church"]
+locations_mentioned: ["Aspen Hill", "England"]
+tools_mentioned: ["21-Day Reset"]
 companies_mentioned: []
-topics: []
+topics: ["faith", "grace", "church", "Rahab", "baptism"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Paul Graham uses the story of Rahab in Joshua 2 to argue that God intentionally saves and uses unlikely, scandal-marked people, then turns their homes into places of refuge for others. He applies that directly to the church, insisting that Christian community should be visibly different from the world while still functioning as a safe house for sinners, strugglers, and anyone who needs a clean slate through Jesus.
 
+## Key Insights
 
+- The church should not present itself as polished superiority but as refuge where broken people can be saved and restored.
+- Christian witness must remain distinct enough that the surrounding community can tell believers are different.
+- Rahab’s protection of the spies becomes a model for bringing others, especially family, into the safety God provides.
+- Gossip and exposure are treated as failures of sanctuary; the house should be safer inside than outside.
+- The “clean slate” theme reframes salvation as God wiping away what looks permanent and starting life over again.
 
+## Claims
+
+- [[Paul Graham - God uses unlikely people as channels of salvation]]
+- [[Paul Graham - The church should be a sanctuary for broken people]]
+- [[Paul Graham - Christian witness should remain visibly distinct]]
+- [[Paul Graham - Saving faith brings others into the house]]
+- [[Paul Graham - Jesus offers a real clean slate]]
 
 ## Full Transcript
 

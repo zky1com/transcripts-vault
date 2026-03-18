@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=6r0PUmEYCAk"
 publish_date: 2025-06-05
 duration: "29:12"
 word_count: 3302
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "salvation", "grace"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "salvation", "John 3", "grace", "resurrection"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-14"
 ---
 
+## Summary
 
+Paul Graham grounds gratitude in the plan of salvation, using an overview from Genesis to Revelation to emphasize Christ's death, resurrection, and saving work. He argues that believers should be grateful not merely for daily comforts but for the deeper reality that Jesus bore the wound of sin, rose again, and now offers restoration, forgiveness, and eternal life to those who trust him.
 
+## Key Insights
 
+- Gratitude should be anchored in salvation, not just circumstantial blessing.
+- The Bible's storyline is framed as a restoration movement culminating in Christ.
+- Jesus' death and resurrection are presented as the basis for human hope and worth.
+- The absence of condemnation is treated as part of the good news believers should gratefully receive.
 
+## Claims
+
+- [[Paul Graham - The plan of salvation gives people a real opportunity to be saved]]
+- [[Paul Graham - Christ took the wound of sin so people could be restored]]
+- [[Paul Graham - Gratitude should be rooted in salvation more than circumstance]]
+- [[Paul Graham - Jesus rose again and continues working for believers]]
 
 ## Full Transcript
 

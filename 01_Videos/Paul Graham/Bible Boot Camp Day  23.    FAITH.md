@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=H9KYqQIjVLA"
 publish_date: 2025-09-23
 duration: "26:07"
 word_count: 2577
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "courage", "trust"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "Matthew 14", "Peter", "fear", "prayer"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham uses Peter walking on water in Matthew 14 to describe faith as the courage to move toward Jesus even in unstable conditions. He argues that believers often remain stuck because they do not ask boldly enough or step out of the "boat" they are in, whereas real faith approaches Jesus, keeps its attention on him, and trusts that he enters storm-filled situations rather than abandoning people to them.
 
+## Key Insights
 
+- Faith is portrayed as movement toward Jesus, not merely internal belief.
+- Peter's request to come onto the water models bold spiritual asking.
+- Fear becomes destructive when attention shifts from Jesus to the surrounding storm.
+- The "boat" functions as a metaphor for the familiar situation believers may need to leave in order to trust God.
 
+## Claims
+
+- [[Paul Graham - Faith should step out of the boat toward Jesus]]
+- [[Paul Graham - Believers should ask boldly for what they need from God]]
+- [[Paul Graham - Fear grows when attention shifts from Jesus to the storm]]
+- [[Paul Graham - Jesus comes to people in the middle of their storms]]
 
 ## Full Transcript
 

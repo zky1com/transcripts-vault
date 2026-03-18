@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=9ODxrTOoi9g"
 publish_date: 2025-09-02
 duration: "29:32"
 word_count: 3123
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "waiting", "trust"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "waiting", "trust", "patience", "scripture"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham focuses this September faith devotional on what believers should do while they are waiting for God to answer. He argues that waiting is not passive emptiness but a spiritual season filled with confidence, trust, rejoicing, scriptural clinging, strength, and patience, and that these postures keep faith from collapsing while outcomes remain delayed.
 
+## Key Insights
 
+- Waiting is one of the main environments where faith is tested and built.
+- God's love does not fail simply because an answer is delayed.
+- Redemption already given is a reason for joy even before new requests are answered.
+- Scripture provides language and stability while emotions fluctuate.
+- Patience is not inactivity but faithful endurance under time pressure.
 
+## Claims
+
+- [[Paul Graham - Waiting should not destroy confidence in God]]
+- [[Paul Graham - Delayed answers do not cancel God's love]]
+- [[Paul Graham - Redemption is reason enough to rejoice while waiting]]
+- [[Paul Graham - Scripture gives strength while prayers are unanswered]]
+- [[Paul Graham - Patience is part of mature faith]]
 
 ## Full Transcript
 

@@ -1,6 +1,6 @@
 ---
-title: "Nobel Peace Prize Winner MarÃƒÆ’Ã‚Â­a Corina Machado on Defeating Maduro, Socialism & Freeing Venezuela"
-people_mentioned: ["Maria Karina Machado", "In October", "Last March", "Edmundo Gonzalez", "National Electoral Council", "When Travis", "Saudi Arabia", "Latin American"]
+title: "Nobel Peace Prize Winner María Corina Machado on Defeating Maduro, Socialism & Freeing Venezuela"
+people_mentioned: ["María Corina Machado", "David Sacks", "Edmundo Gonzalez", "Nicolas Maduro", "Hugo Chavez", "Fidel Castro", "Donald Trump"]
 channel: "All-In Podcast"
 video_id: "eKxASnMiFys"
 url: "https://www.youtube.com/watch?v=eKxASnMiFys"
@@ -8,70 +8,56 @@ publish_date: 2025-10-28
 duration: "58:19"
 word_count: 8529
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+delivery_mode: "interview"
+broad_category: "politics-geopolitics"
+subcategories: ["authoritarianism", "venezuela", "socialism", "democratic-transition", "election-integrity"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Maria Karina Machado"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Maria Karina Machado"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
-tags: ["product-management", "product-discovery", "product-strategy"]
+primary_person: "María Corina Machado"
+host_names: ["David Sacks"]
+interviewer_names: ["David Sacks"]
+interviewee_profiles: ["María Corina Machado - Venezuelan opposition leader"]
+speaker_profiles: ["María Corina Machado", "David Sacks"]
+organizations_mentioned: ["All-In Podcast", "National Electoral Council", "Inter-American Commission on Human Rights", "United Nations", "Congress", "Senate", "House"]
+locations_mentioned: ["Venezuela", "United States", "Cuba", "Saudi Arabia", "Miami", "New York", "Europe"]
+tools_mentioned: ["Starlink"]
+companies_mentioned: ["Google"]
+topics: ["authoritarianism", "venezuela", "socialism", "democratic-transition", "election-integrity"]
+tags: ["authoritarianism", "venezuela", "socialism", "democratic-transition", "election-integrity"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-06"
+last_processed_at: "2026-03-13"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-Maria Corina Machado presents Venezuela as a cautionary story about how resource wealth, state capture, and authoritarianism can hollow out a society over decades. The interview mixes political biography with a broader indictment of the Chavez-Maduro system and a case for democratic restoration.
+María Corina Machado frames Venezuela as proof that resource wealth cannot save a country once socialism, state capture, and criminalized authoritarian rule hollow out its institutions. She pairs that long-run warning with a concrete account of how the opposition used citizen organization and technology to document its electoral victory and prepare for a post-Maduro transition.
 
 ## Key Insights
 
-- Venezuela's oil wealth did not protect it from institutional collapse once the state became predatory.
-- Machado frames the regime as both tyrannical and criminal, not merely ideological.
-- The episode highlights exile, repression, and disqualification as tools used to preserve power.
-- Her core political message is that a country can still recover if legitimacy and accountability are rebuilt.
-
-## Key Quotes
-
-- "A unique decisive moment in Venezuela."
-- "One of the freest and richest countries in the Americas."
-- "A real criminal structure for 26 years."
+- Venezuela's collapse is presented as an institutional and freedom failure, not a resource shortage story.
+- Machado argues Chavez-Maduro rule evolved from populism into a criminal structure tied to repression, smuggling, and political terror.
+- The opposition's election strategy depended on mass volunteer coordination, digital training, and publication of original tally sheets.
+- She argues Venezuela is more socially unified than outside observers think, which lowers the risk of chaotic civil conflict after regime change.
+- Her warning to Americans is that socialism sells provision first but ultimately takes away agency, property, and freedom.
 
 ## People Mentioned
 
-
-- [[Maria Karina Machado]]
-
-- [[In October]]
-
-- [[Last March]]
-
+- [[María Corina Machado]]
+- [[David Sacks]]
 - [[Edmundo Gonzalez]]
-
-- [[National Electoral Council]]
-
-- [[When Travis]]
-
-
-
+- [[Nicolas Maduro]]
+- [[Hugo Chavez]]
+- [[Fidel Castro]]
+- [[Donald Trump]]
 
 ## Claims
 

@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=HT1dyVrnCbg"
 publish_date: 2025-06-13
 duration: "28:50"
 word_count: 2524
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["gratitude", "courage", "trust"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "courage", "trust", "grief", "Joshua 1"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham uses Joshua 1:9 to encourage listeners to move forward through grief, uncertainty, and new responsibilities without surrendering to fear. He frames courage as rooted not in self-confidence but in the constant presence of God, arguing that people can pursue difficult goals, endure loss, and face an unstable world because the Lord remains with them wherever they go.
 
+## Key Insights
 
+- Gratitude and grief can exist together without cancelling one another.
+- Courage is not denial of fear but movement under God's presence.
+- Joshua's transition after Moses becomes a model for anyone facing a daunting new assignment.
+- Consistency in God is presented as the answer to instability in the world.
 
+## Claims
+
+- [[Paul Graham - Courage comes from God's presence not self-confidence]]
+- [[Paul Graham - God stays with people in new and difficult seasons]]
+- [[Paul Graham - Gratitude can survive grief]]
+- [[Paul Graham - Do not let fear stop faithful action]]
 
 ## Full Transcript
 

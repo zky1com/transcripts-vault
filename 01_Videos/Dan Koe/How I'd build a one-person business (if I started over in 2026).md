@@ -1,35 +1,61 @@
 ---
 title: "How I'd build a one-person business (if I started over in 2026)"
-people_mentioned: []
+people_mentioned: ["Eugene Schwartz", "Naval Ravikant"]
 channel: "Dan Koe"
 video_id: "VyR8nqD3sQ8"
 url: "https://www.youtube.com/watch?v=VyR8nqD3sQ8"
 publish_date: 2026-01-03
 duration: "31:02"
 word_count: 6330
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "entrepreneurship"
+subcategories: ["ai-business", "education-products", "one-person-business"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["AI", "Claude", "Replit", "Cursor", "Eden"]
+companies_mentioned: ["Intercom", "Notion", "Miro"]
+topics: ["ai-business", "education-products", "software", "one-person-business"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that the one-person business model is shifting away from static information products and toward software-like learning experiences built with AI. He still treats audience building and education as foundational, but says the winning format now is interactive, niche, and fast-moving: products that help people learn by doing rather than passively consuming a course.
 
+## Key Insights
 
+- The underlying one-person business loop of content, traffic, and products still matters, but the product vessel is changing.
+- Average info products are losing power because markets are saturated and buyers are exhausted by generic claims.
+- Koe sees the next opportunity in micro-SaaS style education products that turn expertise into interactive AI experiences.
+- AI increases the value of specific knowledge because generic outputs are easy to copy while nuanced experience is not.
+- The main advantage of a one-person builder is speed and adaptability, so experimentation matters more than certainty.
 
+## Claims
+
+- [[Dan Koe - The one-person business model still works but its product format is changing]]
+- [[Dan Koe - Average info products are weakening because the market is fully saturated]]
+- [[Dan Koe - The future of education products is interactive AI-guided learning experiences]]
+- [[Dan Koe - Micro-SaaS education products can evolve directly from niche expertise and prompts]]
+- [[Dan Koe - AI makes specific knowledge more valuable by increasing the supply of generic output]]
 
 ## Full Transcript
 

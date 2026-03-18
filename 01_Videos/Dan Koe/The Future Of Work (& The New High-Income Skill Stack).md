@@ -7,29 +7,57 @@ url: "https://www.youtube.com/watch?v=vCoGfisdS8Y"
 publish_date: 2026-02-12
 duration: "33:12"
 word_count: 6532
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "entrepreneurship"
+subcategories: ["future-of-work", "creator-economy", "ai"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["ChatGPT", "Claude", "Claude Code", "Manis", "Eden"]
 companies_mentioned: []
-topics: []
+topics: ["future of work", "ai", "creator economy", "meaning", "agency"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that AI will commoditize generic output and force creative workers to compete on meaning, taste, perspective, and distribution rather than raw production. He frames the future of work as a shift from labor-based identity toward creator-led enterprises, where people who can build attention, curate ideas, generate meaning, and operate with a high-agency skill stack will outperform those who rely on easily automated specialist work.
 
+## Key Insights
 
+- When AI makes generic production abundant, scarce human perspective becomes more valuable.
+- Creative workers matter because they architect meaning, not just content or information.
+- The post-labor transition creates pressure to separate human experiences worth automating from those worth savoring.
+- Attention is a leverage layer that determines who can turn meaning into a viable livelihood.
+- The defensible moat in an AI-saturated market is increasingly the person behind the work, not just the work artifact.
+- Agency, taste, perspective, and persuasion sit above technical tool use in the emerging skill hierarchy.
 
+## Claims
+
+- [[Dan Koe - AI makes human perspective scarcer]]
+- [[Dan Koe - Creatives are becoming meaning architects]]
+- [[Dan Koe - Attention and distribution beat production]]
+- [[Dan Koe - The creator is the moat]]
+- [[Dan Koe - Agency taste perspective and persuasion drive income]]
+- [[Dan Koe - Humans are premium when experience matters]]
 
 ## Full Transcript
 

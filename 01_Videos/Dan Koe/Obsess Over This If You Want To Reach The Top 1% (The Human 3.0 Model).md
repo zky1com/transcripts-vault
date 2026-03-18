@@ -7,29 +7,57 @@ url: "https://www.youtube.com/watch?v=SL5lwg1wYaE"
 publish_date: 2025-10-19
 duration: "35:25"
 word_count: 6590
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["self-development", "integral-theory", "human-development"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["Claude", "ChatGPT"]
 companies_mentioned: []
-topics: []
+topics: ["human development", "mind", "body", "spirit", "vocation", "ai"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe presents the Human 3.0 model as an integrated map for self-development across mind, body, spirit, and vocation. He argues that most people stall because they try to solve life from one quadrant only, while meaningful growth depends on moving through repeated cycles of dissonance, uncertainty, and discovery, acquiring the traits and perspective needed to raise development across multiple domains at once.
 
+## Key Insights
 
+- A person can be highly developed in one domain and still be blocked by underdevelopment in another.
+- Growth is not linear self-improvement but repeated movement through breakdown, uncertainty, and discovery.
+- The four-quadrant model is meant to prevent reducing every problem to money, mindset, or health alone.
+- Cross-quadrant unlocks matter because progress in one area often depends on competence elsewhere.
+- AI acts like an accelerant or glitch, which makes discernment more important rather than less.
+- The long-term goal is an integrated lifestyle where work, health, meaning, and mental clarity reinforce one another.
 
+## Claims
+
+- [[Dan Koe - Partial development creates bottlenecks across life domains]]
+- [[Dan Koe - Human development should be mapped across mind body spirit and vocation together]]
+- [[Dan Koe - Growth follows recurring phases of dissonance uncertainty and discovery]]
+- [[Dan Koe - Progress in one life domain is often unlocked by development in another]]
+- [[Dan Koe - AI is a high-leverage glitch that can accelerate growth or self-destruction]]
+- [[Dan Koe - Integrated development turns work health meaning and clarity into one system]]
 
 ## Full Transcript
 

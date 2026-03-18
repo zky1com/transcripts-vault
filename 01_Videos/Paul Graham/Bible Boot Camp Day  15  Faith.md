@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=lxQj4E4jMW8"
 publish_date: 2025-09-15
 duration: "32:25"
 word_count: 2916
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "identity", "sacrifice"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "identity", "sacrifice", "Galatians 2", "devotion"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham uses Galatians 2:20 to argue that living by faith means living from a new identity shaped by Christ's sacrifice rather than by self-rule. He presents faith as a daily way of inhabiting life, grief, work, and responsibility with Christ living in the believer, which means devotion is not an add-on to life but the way life itself is carried.
 
+## Key Insights
 
+- Faith grows when identity is rooted in Christ's life rather than personal control.
+- Christ's sacrifice should provoke some form of responsive sacrifice from the believer.
+- A work week or school week should begin in prayer because life is now lived "in him."
+- Gratitude, prayer, and surrender are part of how faith is embodied in ordinary routines.
 
+## Claims
+
+- [[Paul Graham - Faith means living from Christ's life not just your own]]
+- [[Paul Graham - Christ's sacrifice calls for responsive sacrifice]]
+- [[Paul Graham - Faith must shape ordinary daily life]]
+- [[Paul Graham - Devotion should precede the week's demands]]
 
 ## Full Transcript
 

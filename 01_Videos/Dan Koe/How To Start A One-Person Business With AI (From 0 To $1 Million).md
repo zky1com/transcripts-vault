@@ -1,35 +1,61 @@
 ---
 title: "How To Start A One-Person Business With AI (From 0 To $1 Million)"
-people_mentioned: []
+people_mentioned: ["Alex Hormozi", "Ali Abdaal"]
 channel: "Dan Koe"
 video_id: "z9dtU-xUX04"
 url: "https://www.youtube.com/watch?v=z9dtU-xUX04"
 publish_date: 2025-04-06
 duration: "28:55"
 word_count: 5514
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "tutorial"
+broad_category: "entrepreneurship"
+subcategories: ["ai-business", "marketing", "one-person-business"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["AI", "Cortex", "Stan"]
+companies_mentioned: ["Stan"]
+topics: ["ai-business", "marketing", "one-person-business", "offers"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that AI does not create a magical new business model, but it can dramatically compress the work of strategy, market research, offers, landing pages, and content when those workflows are used well. The video presents a practical one-person business path built around content-driven traffic, a clear offer, and AI-assisted marketing systems that still require human judgment and consistency.
 
+## Key Insights
 
+- AI does not remove the need for business fundamentals like traffic, offers, and copywriting.
+- Revenue goals become more concrete when broken into sales mixes and traffic requirements.
+- Social media is still the most accessible traffic source for beginners because it is free and builds leverage.
+- AI workflows are most useful when they structure and sharpen marketing thinking rather than replace it blindly.
+- The bottleneck shifts from producing assets to actually executing consistently on the business system.
 
+## Claims
+
+- [[Dan Koe - AI speeds up business building but does not replace fundamentals]]
+- [[Dan Koe - Revenue targets become practical when broken into offer and traffic math]]
+- [[Dan Koe - Social media remains the best beginner traffic source for a one-person business]]
+- [[Dan Koe - AI workflows are strongest when they improve market research offers and copywriting]]
+- [[Dan Koe - Execution and consistency still determine whether AI-assisted plans make money]]
 
 ## Full Transcript
 

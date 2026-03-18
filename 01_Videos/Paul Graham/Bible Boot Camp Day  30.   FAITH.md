@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=lF1w5ZTFwK4"
 publish_date: 2025-09-30
 duration: "35:05"
 word_count: 3779
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "perseverance", "calling on God"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "Psalm 145", "Acts 14", "perseverance", "calling on God"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham closes the month by treating faith as something that must be both exercised in prayer and maintained in practice. Drawing from Psalm 145 and Acts 14, he argues that God is near to those who call on him, that believers should keep strengthening one another, and that remaining true to the faith is a necessary part of living out what has been learned.
 
+## Key Insights
 
+- Faith grows through calling on God instead of assuming distance from him.
+- Nearness to God is tied to truthful, trusting prayer.
+- Mature faith does not stop at private belief but strengthens others.
+- Perseverance matters because faith must be remained in, not merely started.
 
+## Claims
+
+- [[Paul Graham - The Lord is near to those who call on him in truth]]
+- [[Paul Graham - Faith should call on God rather than assume distance]]
+- [[Paul Graham - Stronger believers should strengthen other disciples]]
+- [[Paul Graham - Believers must remain true to the faith]]
 
 ## Full Transcript
 

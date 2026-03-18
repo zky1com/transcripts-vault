@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=mLzYpRRnugQ"
 publish_date: 2026-01-02
 duration: "23:01"
 word_count: 2774
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "possibility", "trust"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "possibility", "mustard seed faith", "trust", "prayer"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham continues the January faith series by arguing that impossibility belongs to human limitation, while possibility belongs to God. Building on mustard-seed faith, he urges listeners to interpret 2026 through trust in God's power rather than through the size of their challenges, insisting that faith is formed by repeated experiences of dependence and divine faithfulness.
 
+## Key Insights
 
+- Faith grows through accumulated trust, not only through one dramatic breakthrough.
+- Human categories of impossible are not final when God is involved.
+- The real issue is whether believers are trying to carry life by themselves.
+- Testimony and gratitude help move memory toward stronger faith for the future.
 
+## Claims
+
+- [[Paul Graham - With God impossibility becomes possibility in 2026]]
+- [[Paul Graham - Faith is built through repeated trust experiences in 2026]]
+- [[Paul Graham - Mustard-seed faith should face big challenges in 2026]]
+- [[Paul Graham - Stop trying to build life on your own in 2026]]
 
 ## Full Transcript
 

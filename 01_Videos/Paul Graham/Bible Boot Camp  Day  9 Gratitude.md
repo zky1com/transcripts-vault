@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=VUqKg2h_C2Y"
 publish_date: 2025-06-09
 duration: "25:07"
 word_count: 2146
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "gratitude", "healing"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["gratitude", "healing", "faith", "testimony"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Paul Graham reflects on the healing of the ten lepers to argue that gratitude is the right response to answered prayer and divine mercy. He emphasizes that Jesus helps both the religious insider and the unlikely outsider, but the story's real contrast is between people who receive help and move on and the one person who returns to say thank you.
 
+## Key Insights
 
+- Gratitude is a response of recognition, not just an emotional feeling.
+- God can do good for people whether or not they already appear spiritually strong.
+- The one leper who returned becomes the model of visible thanksgiving.
+- Prayer should include requests, but it should also return to God with appreciation.
 
+## Claims
+
+- [[Paul Graham - Gratitude should follow answered prayer]]
+- [[Paul Graham - Mercy should be acknowledged not assumed]]
+- [[Paul Graham - God helps both insiders and outsiders]]
+- [[Paul Graham - Thanksgiving is part of living faith]]
 
 ## Full Transcript
 

@@ -7,29 +7,55 @@ url: "https://www.youtube.com/watch?v=vbrTv-4PsdA"
 publish_date: 2025-11-24
 duration: "54:01"
 word_count: 10515
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "interview"
+delivery_mode: "postmortem"
+broad_category: "tech"
+subcategories: ["startup", "product", "founder-lessons"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
+interviewer_names: ["Dan Koe"]
+interviewee_profiles: ["Matt", "Ari"]
+speaker_profiles: ["Dan Koe", "Matt", "Ari"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: ["Cortex", "Eden", "Google Drive", "Miro", "Dropbox", "Claude", "ChatGPT"]
+companies_mentioned: ["Google", "Dropbox", "Notion"]
+topics: ["startup", "product development", "iteration", "creative workflow", "search"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe interviews his co-founders Matt and Ari about why Cortex stalled, why they pivoted to Eden, and what they learned from burning time and money on the wrong structure. The conversation frames Cortex less as a useless failure than as an expensive but necessary sequence of mistakes about team design, product scope, speed, startup leverage, and what kind of creative workflow tool they actually wanted to build.
 
+## Key Insights
 
+- Early-stage startups lose their biggest advantage when team structure slows iteration.
+- Cortex failed to become compelling because the team spent too long rebuilding a note-taking app instead of delivering a sharper product advantage.
+- Eden emerged from refocusing on media capture, search, AI context, and creative workflow rather than generic note-taking.
+- The founders treat mistakes as necessary inputs to better architecture and better product judgment.
+- Their version of startup success is tied to taking large risks before certainty exists.
 
+## Claims
+
+- [[Ari - Startups lose their edge when team structure slows iteration]]
+- [[Matt - Cortex became a mistake when it drifted into rebuilding a note app without enough differentiation]]
+- [[Dan Koe - Eden is designed as a transcribed media drive rather than just another note-taking app]]
+- [[Ari - Frame-level search across media creates a step change in retrieval]]
+- [[Matt - Success is a series of necessary risks and mistakes]]
 
 ## Full Transcript
 

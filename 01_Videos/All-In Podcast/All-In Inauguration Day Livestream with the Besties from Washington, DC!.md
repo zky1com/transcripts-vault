@@ -1,6 +1,6 @@
 ---
 title: "All-In Inauguration Day Livestream with the Besties from Washington, DC!"
-people_mentioned: ["Count Me In", "Donald Trump", "Grand High Grand", "Mark Pinkus", "Politically Incorrect", "Mark Fus", "Sam Waltman", "Theo Von"]
+people_mentioned: ["Donald Trump", "Jason Calacanis", "David Friedberg", "Chamath Palihapitiya", "David Sacks", "Aakash Singh", "Mark Pincus", "Sam Altman", "Theo Von", "Logan Paul", "Jake Paul", "Reed Hoffman", "Mark Zuckerberg", "Ted Cruz", "Elon Musk", "Vivek Ramaswamy", "Javier Milei", "Joe Biden", "Kamala Harris", "Dave Chappelle", "Peter Thiel"]
 channel: "All-In Podcast"
 video_id: "fsREjAn8G-0"
 url: "https://www.youtube.com/watch?v=fsREjAn8G-0"
@@ -8,29 +8,29 @@ publish_date: 2025-01-20
 duration: "2:46:59"
 word_count: 31752
 content_type: "podcast"
-delivery_mode: "technique"
-broad_category: "saas-startups"
-subcategories: ["founder-ops", "saas-growth"]
+delivery_mode: "panel-discussion"
+broad_category: "politics-tech-policy"
+subcategories: ["political-transition", "doge", "social-security", "crypto-policy", "tech-politics"]
 series_name: "All-In Podcast"
 episode_id: ""
-primary_person: "Count Me In"
-host_names: ["All-In Podcast"]
-interviewer_names: ["All-In Podcast"]
-interviewee_profiles: ["Count Me In"]
-speaker_profiles: []
-organizations_mentioned: ["All-In Podcast"]
-locations_mentioned: ["San Francisco", "Silicon Valley"]
-tools_mentioned: []
-companies_mentioned: []
-topics: ["founder-ops", "saas-growth", "lead-generation"]
-tags: ["founder-ops", "saas-growth", "lead-generation"]
+primary_person: "Jason Calacanis"
+host_names: ["Jason Calacanis", "David Friedberg", "Chamath Palihapitiya", "David Sacks"]
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: ["Jason Calacanis", "David Friedberg", "Chamath Palihapitiya", "David Sacks", "Aakash Singh", "Mark Pincus"]
+organizations_mentioned: ["All-In Podcast", "US Capitol", "Department of Government Efficiency", "SEC", "Congress"]
+locations_mentioned: ["Washington, D.C.", "San Francisco", "Ohio", "United States", "Australia", "Norway"]
+tools_mentioned: ["Zoom"]
+companies_mentioned: ["Facebook", "Hims & Hers", "Aircall", "Uber"]
+topics: ["political-transition", "doge", "social-security", "crypto-policy", "tech-politics"]
+tags: ["political-transition", "doge", "social-security", "crypto-policy", "tech-politics"]
 pipeline_stage: speech_done
 claims_status: done
 evidence_status: pending
 claims_count: 5
 evidence_count: 15
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-12"
 speech_status: done
 world_status: pending
 speech_evidence_count: 15
@@ -38,53 +38,55 @@ world_evidence_count: 0
 ---
 ## Summary
 
-This livestream captures the All-In crew in a celebratory, highly informal mood around Donald Trump's January 20, 2025 inauguration. The episode mixes on-the-ground color from Washington, reactions to the speech, sponsor banter, and a recurring theme that technology, crypto, and deregulatory policy were entering a friendlier federal environment under the new administration.
+This livestream is less a formal policy episode than a real-time snapshot of how the All-In hosts and their orbit interpreted Donald Trump's January 20, 2025 inauguration. The transcript mixes event banter, on-the-ground social signaling from Washington, and substantive discussion about crypto, DOGE, Social Security, and the growing overlap between Silicon Valley and federal politics.
 
 ## Key Insights
 
-- The episode is more atmosphere and signaling than deep analysis, but it clearly documents the hosts' optimism about the incoming administration.
-- Crypto, AI, and deregulation are treated as sectors likely to benefit from a looser and more industry-friendly policy posture.
-- The hosts frame the inauguration as part political event, part social realignment of tech elites toward Washington.
-- The discussion also reveals how much the All-In brand had shifted from business commentary into direct political participation.
-- Even in its chaotic format, the livestream records a transitional moment where tech figures increasingly saw federal politics as central to their operating environment.
+- The episode treats inauguration day as a narrative-setting moment where markets and operators begin repricing on tone and expected policy direction before formal details exist.
+- The hosts frame DOGE-style cost cutting as politically hard not because the math is unclear, but because every budget line maps to a voter bloc, contractor base, or incumbent incentive.
+- Friedberg argues that large entitlement reform, especially Social Security, is unlikely to happen proactively and will probably be delayed until hard fiscal pressure makes inaction impossible.
+- The livestream also documents a social realignment in which tech figures increasingly treat Washington as part of their operating environment rather than as a distant policy backdrop.
+- Much of the older shell decomposition overstated abstract marketing claims; the stronger transcript-grounded claims are about transition noise, political incentives, and tech's changing relationship to power.
 
 ## Key Quotes
 
-> We got through four years before; we'll get through these four years.
-
 > It feels like a tech reunion.
 
-> It's become so prevalent in our lives that all of us almost are forced to discuss it.
+> Everyone votes themselves all the money.
 
-## People Mentioned## People Mentioned
+> Social Security is this thing that everyone knows is structurally bankrupt.
 
-
-- [[Count Me In]]
+## People Mentioned
 
 - [[Donald Trump]]
-
-- [[Grand High Grand]]
-
-- [[Mark Pinkus]]
-
-- [[Politically Incorrect]]
-
-- [[Mark Fus]]
-
-- [[Sam Waltman]]
-
+- [[Jason Calacanis]]
+- [[David Friedberg]]
+- [[Chamath Palihapitiya]]
+- [[David Sacks]]
+- [[Aakash Singh]]
+- [[Mark Pincus]]
+- [[Sam Altman]]
 - [[Theo Von]]
-
-
-
+- [[Logan Paul]]
+- [[Jake Paul]]
+- [[Reed Hoffman]]
+- [[Mark Zuckerberg]]
+- [[Ted Cruz]]
+- [[Elon Musk]]
+- [[Vivek Ramaswamy]]
+- [[Javier Milei]]
+- [[Joe Biden]]
+- [[Kamala Harris]]
+- [[Dave Chappelle]]
+- [[Peter Thiel]]
 
 ## Claims
 
-- [[David Sacks - Crypto policy under new leadership is being interpreted as permissive-first pending formal rule architecture]]
-- [[David Sacks - Deregulatory execution can improve fiscal efficiency only if legal durability and operational capacity align]]
-- [[Chamath Palihapitiya - Early-administration signaling can materially shift market narratives before formal policy detail arrives]]
-- [[Jason Calacanis - In fragmented media systems, event-level marketing can dominate near-term policy attention dynamics]]
 - [[David Sacks - Political transition moments create temporary high-noise information environments for policy inference]]
+- [[Chamath Palihapitiya - Early-administration signaling can materially shift market narratives before formal policy detail arrives]]
+- [[David Friedberg - DOGE-style spending cuts face structural political resistance because every budget line has a constituency]]
+- [[David Friedberg - Social Security reform will likely be delayed until the system approaches a hard funding break]]
+- [[Jason Calacanis - Tech elites increasingly treat federal politics as a first-order operating environment rather than a side issue]]
 
 ## Full Transcript
 <details>

@@ -1,35 +1,61 @@
 ---
 title: "How To Read Books Fast With AI (And Remember What You Read)"
-people_mentioned: []
+people_mentioned: ["Aristotle", "Richard Feynman"]
 channel: "Dan Koe"
 video_id: "0OEtXlPtyYk"
 url: "https://www.youtube.com/watch?v=0OEtXlPtyYk"
 publish_date: 2025-04-20
 duration: "28:17"
 word_count: 5449
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "framework"
+broad_category: "philosophy"
+subcategories: ["learning", "reading", "ai"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
+tools_mentioned: ["AI", "Cortex", "Google", "ChatGPT"]
 companies_mentioned: []
-topics: []
+topics: ["learning", "reading", "ai", "identity-change"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe argues that AI does not make reading obsolete because the real value of books is not extracting pre-known facts but reshaping how the mind sees the world. He presents reading as a two-layer process of consumption and digestion, where AI can act as a companion for understanding, reflection, and implementation without replacing the identity-changing effect of deep reading.
 
+## Key Insights
 
+- Reading matters because it exposes people to ideas they would never think to search for directly.
+- Book summaries and bullet points usually miss the mind-changing function of reading.
+- Reading should alternate between consumption and slower digestion rather than racing for completion.
+- AI is useful when it helps deepen understanding, connect ideas, and support reflection.
+- Writing or teaching what you read is one of the best ways to digest and retain it.
 
+## Claims
+
+- [[Dan Koe - Reading remains valuable because it changes the mind not just the information you hold]]
+- [[Dan Koe - People should read to explore the unknown rather than extract obvious answers]]
+- [[Dan Koe - Reading works best as a cycle of consumption and digestion]]
+- [[Dan Koe - AI is best used as a reading companion not a replacement for reading]]
+- [[Dan Koe - Writing about what you read deepens retention and understanding]]
 
 ## Full Transcript
 

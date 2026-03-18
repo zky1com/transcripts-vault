@@ -1,36 +1,36 @@
 ﻿---
 title: "Breaking down early-stage SaaS marketing | Madhav Bhandari (Storylane)"
-people_mentioned: ["At Weflow", "Joined Storylane"]
+people_mentioned: ["Madhav Bhandari", "Laura Roeder", "Bryan Harris", "Neil Patel"]
 channel: "Ahrefs Podcast"
 video_id: "1qWf4XBOT5Q"
 url: "https://www.youtube.com/watch?v=1qWf4XBOT5Q"
 publish_date: 2025-01-07
 duration: "1:53:18"
 word_count: 21378
-content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
+content_type: "interview"
+delivery_mode: "practical"
+broad_category: "entrepreneurship"
+subcategories: ["saas-marketing", "b2b-marketing", "attribution", "leadership", "linkedin-marketing"]
 series_name: "Ahrefs Podcast"
 episode_id: ""
-primary_person: "At Weflow"
-host_names: ["Ahrefs Podcast"]
-interviewer_names: ["Ahrefs Podcast"]
-interviewee_profiles: ["At Weflow - Salesforce"]
-speaker_profiles: []
+primary_person: "Madhav Bhandari"
+host_names: []
+interviewer_names: []
+interviewee_profiles: ["Madhav Bhandari"]
+speaker_profiles: ["Madhav Bhandari"]
 organizations_mentioned: ["Ahrefs Podcast"]
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Salesforce"]
-topics: ["saas-growth", "startup-strategy", "ai-safety", "b2b-marketing", "lead-generation", "product-management"]
-tags: ["saas-growth", "startup-strategy", "ai-safety", "b2b-marketing", "lead-generation", "product-management"]
-pipeline_stage: video_only
-claims_status: pending
+tools_mentioned: ["LinkedIn", "HubSpot", "Google Analytics", "Shield", "Slack"]
+companies_mentioned: ["Storylane", "Ahrefs", "Hubstaff", "Close", "Weflow", "Salesforce", "Canva", "Notion", "HubSpot", "Slack", "Bonsai"]
+topics: ["early-stage-marketing", "saas-growth", "marketing-attribution", "ceo-fit", "employee-advocacy", "linkedin-marketing"]
+tags: ["early-stage-marketing", "saas-growth", "marketing-attribution", "ceo-fit", "employee-advocacy", "linkedin-marketing"]
+pipeline_stage: speech_done
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-18"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,27 +40,38 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on right, it's, yeah. Yeah, yeah, yeah, he's pretty popular in sales, right? I'm not always successful because, you know, it's one of the things it's like it's going to take three, four hours of his time. That's what I do, right?
+Madhav Bhandari describes early-stage SaaS marketing as a portfolio-management problem rather than a fixed playbook. He explains how he enters a company, maps the realistic channel portfolio, chooses initial bets based on customer hangouts, CEO risk tolerance, and his own conviction, then tests many tactics quickly until only a few durable channels emerge. The conversation also covers why modern attribution must stay directional instead of pretending to be perfectly precise, how CEO and head-of-marketing fit depends on both risk profile and interpersonal match, how trust is earned through clarity and ownership, and why LinkedIn employee advocacy works best when it is led by credible internal creators and reinforced across customer-facing teams.
 
 ## Key Insights
 
+- Madhav treats early-stage marketing like a portfolio of channel bets whose mix should match both the company's stage and the CEO's risk appetite.
+- He says the real job is not finding one universal playbook but testing many ideas quickly until a small number of channels prove repeatable.
+- He argues that attribution in modern B2B journeys is too multi-touch for fake precision, so he prefers layered directional signals over overbuilt analytics.
+- Madhav likes the roughly $5M to $15M ARR stage because it still allows experimentation while making the impact of good marketing highly visible.
+- He says CEO and head-of-marketing fit depends on both strategic alignment and a hard-to-define interpersonal vibe.
+- A CEO who refuses to genuinely hand over marketing is a major red flag for a marketing leader.
+- He says trust is earned when the CEO has clarity about what marketing is doing, what happens next, and whether the function is in safe hands.
+- On LinkedIn, he favors a mix of marquee internal creators, positive reinforcement, and customer-facing team participation rather than hoping the company page alone will carry reach.
 
-- Yeah, yeah, yeah, he's pretty popular in sales, right?
-- I'm not always successful because, you know, it's one of the things it's like it's going to take three, four hours of his time in the.
-- Again, like I said, it's different if you're at a $500K ARR and different if you're at a $3 or $4 million ARR the early stage.
-- Unless you're a DevOps tool, then it's a different thing, right?
-- I don't think it's it's less of a people skill.
-- That it's an interesting one because, you know, I think everybody right now, everybody, every company and they want their employees to be advocates.
 
 ## People Mentioned
 
+- [[Madhav Bhandari]]
+- [[Laura Roeder]]
+- [[Bryan Harris]]
+- [[Neil Patel]]
 
-- [[At Weflow]]
 
-- [[Joined Storylane]]
+## Claims
 
-
-
+- [[Madhav Bhandari - Early-stage marketing should be managed like a portfolio of channel bets shaped by the CEO's risk profile and the marketer's conviction]]
+- [[Madhav Bhandari - Early-stage SaaS marketing requires testing many tactics quickly because only a few become durable growth channels]]
+- [[Madhav Bhandari - Modern B2B attribution should stay directional and multi-layered instead of pretending to be perfectly precise]]
+- [[Madhav Bhandari - The $5M to $15M ARR stage is attractive because it combines visible impact, experimentation room, and enough scale to drive major growth]]
+- [[Madhav Bhandari - CEO and head-of-marketing fit depends on both risk-profile alignment and interpersonal vibe match]]
+- [[Madhav Bhandari - A major red flag is a CEO who is unwilling to truly let go of the marketing function]]
+- [[Madhav Bhandari - A head of marketing earns a CEO's trust through extreme ownership, proactive communication, and clarity about what happens next]]
+- [[Madhav Bhandari - LinkedIn employee advocacy works best when marquee internal creators lead and customer-facing teams reinforce the brand repeatedly]]
 
 ## Full Transcript
 
@@ -1566,3 +1577,4 @@ at some point in your career, whether that's ten years,
 And thank you for inviting me.
 
 </details>
+

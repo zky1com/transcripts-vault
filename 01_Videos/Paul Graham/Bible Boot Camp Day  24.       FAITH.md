@@ -7,29 +7,53 @@ url: "https://www.youtube.com/watch?v=gE606_jSOek"
 publish_date: 2025-09-24
 duration: "28:23"
 word_count: 2916
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "sermon"
+delivery_mode: "devotional"
+broad_category: "philosophy"
+subcategories: ["faith", "fasting", "intercession"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Paul Graham"
+host_names: ["Paul Graham"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Paul Graham"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["faith", "fasting", "Mark 9", "doubt", "intercession"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 4
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-13"
 ---
 
+## Summary
 
+Paul Graham extends the previous day's reflection on Peter by treating faith as trust that resists doubt and by arguing that some breakthroughs require more than ordinary prayer. Using Mark 9, he says believers should examine why they doubt, pray for others as well as themselves, and recognize that certain outcomes come through prayer joined with fasting.
 
+## Key Insights
 
+- Doubt is framed as a recurring obstacle inside ordinary prayer life.
+- Faith is defined less by visible outcome and more by trusting God's power.
+- Intercession for others is presented as a meaningful exercise of faith.
+- Some spiritual struggles are described as requiring prayer and fasting together.
 
+## Claims
+
+- [[Paul Graham - Faith should trust God rather than collapse into doubt]]
+- [[Paul Graham - Some breakthroughs require prayer and fasting]]
+- [[Paul Graham - Faith should make room for intercession for others]]
+- [[Paul Graham - Prayer should be joined to self-examination about doubt]]
 
 ## Full Transcript
 

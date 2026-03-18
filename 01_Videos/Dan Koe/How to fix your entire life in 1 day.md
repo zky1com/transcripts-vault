@@ -1,35 +1,62 @@
 ---
 title: "How to fix your entire life in 1 day"
-people_mentioned: []
+people_mentioned: ["Alfred Adler", "Maxwell Maltz", "Naval Ravikant", "Mihaly Csikszentmihalyi"]
 channel: "Dan Koe"
 video_id: "K8K09g9XR4s"
 url: "https://www.youtube.com/watch?v=K8K09g9XR4s"
 publish_date: 2025-12-28
 duration: "40:12"
 word_count: 8106
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "solo-talk"
+delivery_mode: "protocol"
+broad_category: "philosophy"
+subcategories: ["behavior-change", "identity", "self-direction"]
 series_name: ""
 episode_id: ""
-primary_person: ""
-host_names: []
+primary_person: "Dan Koe"
+host_names: ["Dan Koe"]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: ["Dan Koe"]
 organizations_mentioned: []
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
+topics: ["behavior-change", "identity", "goal-setting", "self-direction"]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 6
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-12"
 ---
 
+## Summary
 
+Dan Koe presents a deep behavior-change framework built around identity, unconscious goals, fear, and goal hierarchy rather than surface-level discipline. He argues that lasting change happens when people become psychologically fed up with their current trajectory, clarify both an anti-vision and a vision, and then organize their life into a game-like structure of goals, projects, daily levers, and constraints.
 
+## Key Insights
 
+- Lasting change requires becoming the type of person for whom the new behavior feels natural.
+- Much self-sabotage is goal-directed behavior aimed at safety, image protection, or identity preservation.
+- Fear and conditioning shape identity long before conscious goal setting begins.
+- Intelligence is framed as adaptive course correction toward what you want out of life.
+- A full-life reset works by forcing deep reflection, confronting anti-vision, and translating insight into practical structure.
 
+## Claims
+
+- [[Dan Koe - Lasting change requires identity change not just better actions]]
+- [[Dan Koe - Self-sabotage is often goal-directed protection rather than lack of discipline]]
+- [[Dan Koe - Fear and conditioning shape identity before conscious choice does]]
+- [[Dan Koe - Intelligence is the ability to course correct toward what you want]]
+- [[Dan Koe - A life reset starts by clarifying both an anti-vision and a vision]]
+- [[Dan Koe - Turning life into a game creates focus by organizing goals across levels]]
 
 ## Full Transcript
 
