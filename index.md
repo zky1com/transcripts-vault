@@ -1,7 +1,7 @@
 # Transcript Vault — File Index
 
 Auto-generated. Re-run the daily transcript sync job to refresh this file.
-Generated at (UTC): 2026-03-18T21:41:17Z
+Generated at (UTC): 2026-03-19T03:00:57Z
 
 ## 01_1Spotify
 
@@ -689,6 +689,7 @@ Generated at (UTC): 2026-03-18T21:41:17Z
 - [2026-03-13 - Mad Money 031226  Audio Only](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Mad%20Money%20031226%20%20Audio%20Only.md)
 - [2026-03-16 - Mad Money 031626  Audio Only](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Mad%20Money%20031626%20%20Audio%20Only.md)
 - [2026-03-17 - Mad Money 031726  Audio Only](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Mad%20Money%20031726%20%20Audio%20Only.md)
+- [2026-03-19 - Mad Money 031826  Audio Only](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Mad%20Money%20031826%20%20Audio%20Only.md)
 - [2026-03-04 - Market is overly optimistic about resumption of Strait of Hormuz, says Rapidan Energy's Bob McNally](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Market%20is%20overly%20optimistic%20about%20resumption%20of%20Strait%20of%20Hormuz%2C%20says%20Rapidan%20Energy%27s%20Bob%20McNally.md)
 - [2026-02-26 - Markets are 'in for some volatility' this year, says Nuveen's Saira Malik](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Markets%20are%20%27in%20for%20some%20volatility%27%20this%20year%2C%20says%20Nuveen%27s%20Saira%20Malik.md)
 - [2026-03-03 - Markets are making what looks like a bottom, says Fundstrat's Tom Lee](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Markets%20are%20making%20what%20looks%20like%20a%20bottom%2C%20says%20Fundstrat%27s%20Tom%20Lee.md)
@@ -724,6 +725,7 @@ Generated at (UTC): 2026-03-18T21:41:17Z
 - [2026-03-17 - Nvidia sets $1 trillion revenue goal](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Nvidia%20sets%20%241%20trillion%20revenue%20goal.md)
 - [2026-03-17 - Nvidia will be a major beneficiary of the growing inference pie Big Technology's Alex Kantrowitz](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Nvidia%20will%20be%20a%20major%20beneficiary%20of%20the%20growing%20inference%20pie%20Big%20Technology%27s%20Alex%20Kantrowitz.md)
 - [2026-03-16 - Nvidia's battle for inference tech](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Nvidia%27s%20battle%20for%20inference%20tech.md)
+- [2026-03-19 - Nvidia's one of the fastest growing companies with one of the lowest valuations, says Jim Cramer](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Nvidia%27s%20one%20of%20the%20fastest%20growing%20companies%20with%20one%20of%20the%20lowest%20valuations%2C%20says%20Jim%20Cramer.md)
 - [2026-02-26 - Nvidia’s exposure to Anthropic and OpenAI is beneficial for the company, says Melius' Ben Reitzes](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Nvidia%E2%80%99s%20exposure%20to%20Anthropic%20and%20OpenAI%20is%20beneficial%20for%20the%20company%2C%20says%20Melius%27%20Ben%20Reitzes.md)
 - [2026-03-09 - Oil prices will 'destroy' demand until supply goes back up, says ClearView's Kevin Book](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Oil%20prices%20will%20%27destroy%27%20demand%20until%20supply%20goes%20back%20up%2C%20says%20ClearView%27s%20Kevin%20Book.md)
 - [2026-03-05 - Oil stocks could be wrong, but right now they're saying the Strait of Hormuz will reopen Cramer](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/CNBC%20Television/Oil%20stocks%20could%20be%20wrong%2C%20but%20right%20now%20they%27re%20saying%20the%20Strait%20of%20Hormuz%20will%20reopen%20Cramer.md)
@@ -3402,3 +3404,4 @@ Generated at (UTC): 2026-03-18T21:41:17Z
 
 - [topic-digest-2026-03-15](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-15.md)
 - [topic-digest-2026-03-18](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-18.md)
+- [topic-digest-2026-03-19](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-19.md)

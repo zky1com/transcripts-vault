@@ -408,3 +408,203 @@ source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
 url:: https://x.com/JulianGoldieSEO/status/2034340582454350206
 text::
 > There is a new AI system that beats OpenClaw for ecom. OpenClaw is great but it is hard to set up. You have to build everything from scratch. EcomClaw fixes this. It is built just for online stores. It comes with a team of AI agents ready to go. They handle customer service pic.x.com/owYP40Zbbw
+
+## Wed, 18 Mar 2026 21:50:34 GMT
+item_id:: 68e5148196e814476fd64b6ce2738631
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034387009771630974
+text::
+> x.com/i/article/2034…
+
+## Wed, 18 Mar 2026 22:13:01 GMT
+item_id:: 6a591dc4f9455e9cebe59d234b091cf5
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034392656667902383
+text::
+> 🔥 𝟭𝟰𝗛 𝗟𝗘𝗙𝗧: 𝗧𝗛𝗘 𝗔𝗜 𝗚𝗢𝗟𝗗 𝗥𝗨𝗦𝗛 𝗜𝗦 𝗛𝗔𝗣𝗣𝗘𝗡𝗜𝗡𝗚 𝗥𝗜𝗚𝗛𝗧 𝗡𝗢𝗪 — 𝗔𝗥𝗘 𝗬𝗢𝗨 𝗖𝗔𝗦𝗛𝗜𝗡𝗚 𝗜𝗡 𝗢𝗥 𝗝𝗨𝗦𝗧 𝗪𝗔𝗧𝗖𝗛𝗜𝗡𝗚? ($𝟱𝟱𝗞+ 𝗕𝗢𝗡𝗨𝗦𝗘𝗦) ⚡ Right now,pic.x.com/fkUch713gIs are desperate to pay someone $2K-$5K per month for AI https://t.co/fkUch713gI
+
+## Wed, 18 Mar 2026 22:20:17 GMT
+item_id:: 8249a274ec1de542bd7b0cb14ee922d6
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034394486051356992
+text::
+> x.com/i/article/2034…
+
+## Wed, 18 Mar 2026 22:21:00 GMT
+item_id:: 0e1df26a10eb308c28bd7e2360483ce7
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/jasonlk/status/2034394665810584020
+text::
+> There are 10,000 AI tools for B2B right now. 9,800 of them are noise. At SaaStr AI 2026, we cut through it. Only what's working, at scale, with real revenue numbers attached. May 12-14. SF Bay. pic.x.com/lHIUjQx6fG
+
+## Wed, 18 Mar 2026 22:46:40 GMT
+item_id:: 4b7ebe850e43678a0ab89cfb4887f0bc
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034401127807303760
+text::
+> x.com/i/article/2034…
+
+## Wed, 18 Mar 2026 22:51:51 GMT
+item_id:: 107519d15a1a0652aecc6975c9009be9
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/evisdrenova/status/2034402428905550281
+text::
+> How I think the guys at @MonacoGTM came up with the name: "we need a good name, something that represents money since sales people like money. Also, you go to our software to make money, so maybe a place you go to make money" "yeah, what about like vegas?" "nah a little
+
+## Wed, 18 Mar 2026 22:52:38 GMT
+item_id:: cb372436cf654f5c27cfe76be403ac43
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034402629510656269
+text::
+> Grok upgrades
+
+## Wed, 18 Mar 2026 23:00:01 GMT
+item_id:: d75a68da3a289fa03047a58c0c1c37dd
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034404485574037963
+text::
+> This isn’t a “Google update.” This is Google killing: • manual research • spreadsheets • slide creation You don’t “work” anymore. You prompt → it executes. Maps finds the data. Workspace turns it into decisions. That’s a system. pic.x.com/a6RO0BqYLo
+
+## Wed, 18 Mar 2026 23:11:13 GMT
+item_id:: c58562fe7b5296da6d67b4575e085f25
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034407304536490427
+text::
+> x.com/i/article/2034…
+
+## Wed, 18 Mar 2026 23:20:02 GMT
+item_id:: 49a1c78aa89038c1e2bda9f8cf8b9868
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034409522786337222
+text::
+> Try Tesla FSD (self-driving)!
+
+## Wed, 18 Mar 2026 23:40:33 GMT
+item_id:: ebad6e27188ded6f6900010f08b28df4
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2034414684850307171
+text::
+> Jerome Powell said the quiet part out loud The private sector is barely creating any jobs Most of the job growth has been healthcare and social work over the past year. Both are sectors heavily subsidized by the government We already live under universal basic income. Nobody
+
+## Wed, 18 Mar 2026 23:51:25 GMT
+item_id:: 5998660e0af815ded83fa7b3052f4163
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/evisdrenova/status/2034417422795743233
+text::
+> You're going to tell me that isn't Elon's kid in the bottom left
+
+## Thu, 19 Mar 2026 00:00:00 GMT
+item_id:: 73a21cfc2352805395071c543e92d985
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034419583029776415
+text::
+> I tested this with one prompt: “Research top AI communities and build a report” What it did: • browsed competitors • extracted data • built a comparison table • wrote insights 4–6 hours of work Done automatically This changes everything pic.x.com/vM190MgzDz
+
+## Thu, 19 Mar 2026 00:38:00 GMT
+item_id:: 2ed1e3d8960387539641780775c666ac
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/jasonlk/status/2034429142993690882
+text::
+> "20 AI Agents aren't less work than the humans they replaced. But it's just ... easier.  They don't quit, they don't stop, they don't need promotions or even career growth. It's easier to work with well-trained AI Agents than ... mid-pack and below humans."  More below👇pic.x.com/IlJseyF7Ygg
+
+## Thu, 19 Mar 2026 00:41:41 GMT
+item_id:: 1b55dfd5aee9ccf8561e51dd8b7b3d4e
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/drgurner/status/2034430071356662048
+text::
+> "Life will test how serious you are. Not with one big moment, but with a thousand small chances to quit." Conquering the small things no one sees, is often how you conquer the big things everyone cheers for.
+
+## Thu, 19 Mar 2026 00:49:03 GMT
+item_id:: adae6580d752ec256cd96894f676c9a0
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034431924081774742
+text::
+> RT @Tesla: tesla.com/fsd/safety pic.x.com/1L7AYHGaDw
+
+## Thu, 19 Mar 2026 00:57:08 GMT
+item_id:: cbd8103c0df85931809e7d6e1230970e
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034433961028661501
+text::
+> Claude Cowork Dispatch, Minimax M2.7 + Google Stitch's INSANE Update x.com/i/broadcasts/1…
+
+## Thu, 19 Mar 2026 01:00:00 GMT
+item_id:: cd3b20386509394960bc95e26ec6f01a
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034434681815650414
+text::
+> You don’t need developers anymore. You don’t need designers either. 2 AI tools just replaced your entire product team. Here’s how 👇 Google Stitch = builds your app UI instantly GLM5 Turbo = builds the brain (logic, workflows, agents) Idea → Product in ONE day Thispic.x.com/hZgwH0CxWpp
+
+## Thu, 19 Mar 2026 02:00:01 GMT
+item_id:: 0a6e854515aca9f8bebf4e604370cebe
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034449782580584714
+text::
+> Google just killed the way you search your own files. No more opening 10 documents. No more scrolling for one answer. Now you ask → it reads everything → gives you the answer instantly. This changes how businesses operate forever. pic.x.com/vArgjzhcwp
+
+## Thu, 19 Mar 2026 02:04:54 GMT
+item_id:: 796e797cae7b7cfebf6fe763033e8bce
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034451014770933990
+text::
+> Imagine
+
+## Thu, 19 Mar 2026 02:05:30 GMT
+item_id:: c3bd9b34909315fcb9b21f59568842b0
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034451163798798515
+text::
+> RT @Rothmus: Diversity™️ pic.x.com/I9Uyac78Vx
+
+## Thu, 19 Mar 2026 02:06:13 GMT
+item_id:: dc859e79ed382a466e3cce8840f3eee7
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034451343566651688
+text::
+> RT @MarioNawfal: Grok 4.20 Beta  dropped insane benchmark numbers: lowest hallucination rate ever recorded at 22%, number 1 in following in…
+
+## Thu, 19 Mar 2026 02:07:11 GMT
+item_id:: e1b33573c500c10c4d1d1544f1f08744
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034451587285012642
+text::
+> RT @ArthurMacwaters: FSD is literally 8.1x safer than a human driver. AI healthcare will be end up being a similar multiple better than a…
+
+## Thu, 19 Mar 2026 02:07:52 GMT
+item_id:: a7aa0650fb84767c43be512a92063afb
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034451759444475981
+text::
+> RT @MichaelAArouet: There is a popular myth that Poland enjoys its economic miracle because it didn’t accept immigrants. In reality, it di…
+
+## Thu, 19 Mar 2026 02:26:45 GMT
+item_id:: 486f7b38e3da75ca43f6056e40601681
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2034456510693089730
+text::
+> Expect a lot more layoffs in finance over the coming months pic.x.com/z7DcqXbqvy

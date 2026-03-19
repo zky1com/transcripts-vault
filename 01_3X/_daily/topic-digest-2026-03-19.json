@@ -1,0 +1,150 @@
+{
+  "date": "2026-03-19",
+  "total_items": 26,
+  "topic_count": 2,
+  "dropped_duplicates": 13,
+  "topic_summaries": {
+    "AI & Agents": [
+      "@JulianGoldieSEO: I tested this with one prompt: “Research top AI communities and build a report” What it did: • browsed competitors • extracted data • built a comparison table •…"
+    ],
+    "Other": [
+      "@JulianGoldieSEO: \"Life will test how serious you are. Not with one big moment, but with a thousand small chances to quit.\" Conquering the small things no one sees, is often how y…"
+    ]
+  },
+  "topics": {
+    "AI & Agents": [
+      {
+        "item_id": "73a21cfc2352805395071c543e92d985",
+        "published": "Thu, 19 Mar 2026 00:00:00 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034419583029776415",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "I tested this with one prompt: “Research top AI communities and build a report” What it did: • browsed competitors • extracted data • built a comparison table • wrote insights 4–6 hours of work Done automatically This changes everything pic.x.com/vM190MgzDz",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "2ed1e3d8960387539641780775c666ac",
+        "published": "Thu, 19 Mar 2026 00:38:00 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/jasonlk/status/2034429142993690882",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "\"20 AI Agents aren't less work than the humans they replaced. But it's just ... easier. They don't quit, they don't stop, they don't need promotions or even career growth. It's easier to work with well-trained AI Agents than ... mid-pack and below humans.\" More below👇pic.x.com/IlJseyF7Ygg",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "cbd8103c0df85931809e7d6e1230970e",
+        "published": "Thu, 19 Mar 2026 00:57:08 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034433961028661501",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Claude Cowork Dispatch, Minimax M2.7 + Google Stitch's INSANE Update x.com/i/broadcasts/1…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "cd3b20386509394960bc95e26ec6f01a",
+        "published": "Thu, 19 Mar 2026 01:00:00 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034434681815650414",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "You don’t need developers anymore. You don’t need designers either. 2 AI tools just replaced your entire product team. Here’s how 👇 Google Stitch = builds your app UI instantly GLM5 Turbo = builds the brain (logic, workflows, agents) Idea → Product in ONE day Thispic.x.com/hZgwH0CxWpp",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "e1b33573c500c10c4d1d1544f1f08744",
+        "published": "Thu, 19 Mar 2026 02:07:11 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/elonmusk/status/2034451587285012642",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @ArthurMacwaters: FSD is literally 8.1x safer than a human driver. AI healthcare will be end up being a similar multiple better than a…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      }
+    ],
+    "Other": [
+      {
+        "item_id": "1b55dfd5aee9ccf8561e51dd8b7b3d4e",
+        "published": "Thu, 19 Mar 2026 00:41:41 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/drgurner/status/2034430071356662048",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "\"Life will test how serious you are. Not with one big moment, but with a thousand small chances to quit.\" Conquering the small things no one sees, is often how you conquer the big things everyone cheers for.",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "adae6580d752ec256cd96894f676c9a0",
+        "published": "Thu, 19 Mar 2026 00:49:03 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/elonmusk/status/2034431924081774742",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @Tesla: tesla.com/fsd/safety pic.x.com/1L7AYHGaDw",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "0a6e854515aca9f8bebf4e604370cebe",
+        "published": "Thu, 19 Mar 2026 02:00:01 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034449782580584714",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Google just killed the way you search your own files. No more opening 10 documents. No more scrolling for one answer. Now you ask → it reads everything → gives you the answer instantly. This changes how businesses operate forever. pic.x.com/vArgjzhcwp",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "796e797cae7b7cfebf6fe763033e8bce",
+        "published": "Thu, 19 Mar 2026 02:04:54 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/elonmusk/status/2034451014770933990",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Imagine",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "c3bd9b34909315fcb9b21f59568842b0",
+        "published": "Thu, 19 Mar 2026 02:05:30 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/elonmusk/status/2034451163798798515",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @Rothmus: Diversity™️ pic.x.com/I9Uyac78Vx",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "dc859e79ed382a466e3cce8840f3eee7",
+        "published": "Thu, 19 Mar 2026 02:06:13 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/elonmusk/status/2034451343566651688",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @MarioNawfal: Grok 4.20 Beta dropped insane benchmark numbers: lowest hallucination rate ever recorded at 22%, number 1 in following in…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "a7aa0650fb84767c43be512a92063afb",
+        "published": "Thu, 19 Mar 2026 02:07:52 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/elonmusk/status/2034451759444475981",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @MichaelAArouet: There is a popular myth that Poland enjoys its economic miracle because it didn’t accept immigrants. In reality, it di…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "486f7b38e3da75ca43f6056e40601681",
+        "published": "Thu, 19 Mar 2026 02:26:45 GMT",
+        "fetched_at": "2026-03-19T03:00:56.834910+00:00",
+        "link": "https://x.com/BoringBiz_/status/2034456510693089730",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Expect a lot more layoffs in finance over the coming months pic.x.com/z7DcqXbqvy",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      }
+    ]
+  }
+}
