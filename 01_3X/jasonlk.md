@@ -608,3 +608,203 @@ source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
 url:: https://x.com/BoringBiz_/status/2034456510693089730
 text::
 > Expect a lot more layoffs in finance over the coming months pic.x.com/z7DcqXbqvy
+
+## Fri, 20 Mar 2026 00:18:13 GMT
+item_id:: 650a391edf2fd4122b6e732543753d1e
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034786553952874612
+text::
+> RT @piloly: BEV sales in Spain. Tesla is in first place. 🇪�pic.x.com/TgA5IsdYV2V2
+
+## Fri, 20 Mar 2026 00:19:00 GMT
+item_id:: 080ae14074cb637f0eecdd328a4e3afd
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034786752335106178
+text::
+> 😂
+
+## Fri, 20 Mar 2026 00:26:56 GMT
+item_id:: 9c1823f26396d7a279fa331104ee1759
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034788746483384790
+text::
+> Cute
+
+## Fri, 20 Mar 2026 00:32:52 GMT
+item_id:: b0dd4fc01ad8b2a78697e55472c5acd7
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034790240280617332
+text::
+> RT @shabnam_774: Instead of watching Netflix, learn OpenClaw in 317 minutes. pic.x.com/FdrvikJx9C
+
+## Fri, 20 Mar 2026 00:42:17 GMT
+item_id:: ea41136d2f13c940cf5d93f222ca3506
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034792609122849130
+text::
+> RT @aisearchmastery: New OpenClaw + Kimi K2.5 + Nvidia + Ollama Update! pic.x.com/ShFBnErRvI
+
+## Fri, 20 Mar 2026 00:42:20 GMT
+item_id:: eaa875eedcd9bc12fbf4dfa54db12506
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034792624440451252
+text::
+> RT @mehmetsongur_: Claude'u daha verimli kullanmak isteyenlere... Bu bir saatlik kurs ile kod bilmeden landing page, otomatik içerik, tweet…
+
+## Fri, 20 Mar 2026 00:42:45 GMT
+item_id:: 78ea696302b71b9aad8678e84540c3a4
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034792725619646505
+text::
+> RT @aisearchmastery: NEW GLM-5 Turbo Update is INSANE! 🤯pic.x.com/lJ0qHOyygVV
+
+## Fri, 20 Mar 2026 00:49:37 GMT
+item_id:: 5f6aed2423d1f5d81eb79fef2435c905
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034794457590272429
+text::
+> x.com/i/article/2034…
+
+## Fri, 20 Mar 2026 01:01:41 GMT
+item_id:: 261e3ef7733146cb3d1db6276757ce87
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034797493058511326
+text::
+> x.com/i/article/2034…
+
+## Fri, 20 Mar 2026 01:05:26 GMT
+item_id:: 4b1270065369e67169654c674d55c41d
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034798437569577424
+text::
+> ⚡ 𝟭𝟭 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧 ⚡ 𝗦𝗧𝗢𝗣 𝗣𝗔𝗬𝗜𝗡𝗚 𝗙𝗢𝗥 𝗔𝗗𝗦 — 𝗟𝗘𝗧 𝗚𝗢𝗢𝗚𝗟𝗘 𝗦𝗘𝗡𝗗 𝗬𝗢𝗨 𝗙𝗥𝗘𝗘 𝗖𝗟𝗜𝗘𝗡𝗧𝗦 — 𝗔𝗜 𝗖𝗔𝗦𝗛 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗧𝗛𝗨𝗥𝗦𝗗𝗔𝗬 ($𝟱𝟰𝗞+) 🔥 Rank on thpic.x.com/7HMasiWbTJso clients find you and pay you — without ever spending https://t.co/7HMasiWbTJ
+
+## Fri, 20 Mar 2026 01:12:15 GMT
+item_id:: aa11ac6fa26bff91cef35aa4894cea69
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2034800150074232984
+text::
+> Same company that failed to publish their filings on time and had auditors refuse to work with them Who could have guessed
+
+## Fri, 20 Mar 2026 01:36:20 GMT
+item_id:: fa6653a6ff037bed4a4fbf7c5f41a0bf
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034806212223815944
+text::
+> This has been going on for a long time
+
+## Fri, 20 Mar 2026 01:36:48 GMT
+item_id:: 0c2180224e429cacdc08bc7332743e02
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034806328397529514
+text::
+> x.com/i/article/2034…
+
+## Fri, 20 Mar 2026 01:39:36 GMT
+item_id:: 6d370127d2c257599ef01186d94a401b
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034807033082650827
+text::
+> 🥰 🇺🇸
+
+## Fri, 20 Mar 2026 01:40:24 GMT
+item_id:: 40d5080693a8546a4076f4178db64467
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034807233746542620
+text::
+> Tesla Semi is super fun to drive
+
+## Fri, 20 Mar 2026 01:41:24 GMT
+item_id:: ebd6ce425cf8f9e1b9720edaebf8fdbd
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034807488848306387
+text::
+> RT @JessePeltan: Happy Solar Pessimism Chart Update Day to all who celebrate pic.x.com/fpDxAdoa3D
+
+## Fri, 20 Mar 2026 01:44:01 GMT
+item_id:: 5f0b8fde553c603bc57797e9d6a3640b
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034808145424654738
+text::
+> Claude Code Channels VS OpenClaw + FREE Google AI Studio Upgrade + Xiaomi's NEW MiMo-V2-Pro x.com/i/broadcasts/1…
+
+## Fri, 20 Mar 2026 01:53:06 GMT
+item_id:: a6dce6f4bb4563c20b80f02109a35ce9
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034810430842097894
+text::
+> x.com/i/article/2034…
+
+## Fri, 20 Mar 2026 01:57:53 GMT
+item_id:: 2522b3351badd730d109a25eef601f17
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034811633500037160
+text::
+> RT @JulianGoldieSEO: x.com/i/article/2034…
+
+## Fri, 20 Mar 2026 02:00:00 GMT
+item_id:: 50bf8aca4d95de9522f90f8b3f4ea4f2
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034812166784815260
+text::
+> This is what Claude Dispatch actually unlocks: Write content while you’re outside. Fix presentations during your commute. Organize files while you sleep. You’re not “using AI” anymore. You’re assigning work. pic.x.com/EBtnrvBP1m
+
+## Fri, 20 Mar 2026 02:13:30 GMT
+item_id:: 2ae2ee22ec1715deb126c5f29e7b5d3f
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2034815563503903231
+text::
+> Investment banking MDs telling Claude to spin out a 119 page deck and LBO model for the pitch next morning pic.x.com/iPvEsQWmuY
+
+## Fri, 20 Mar 2026 02:21:37 GMT
+item_id:: 6781ac032c1f13c0595d65cdbe05ea01
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034817608860758168
+text::
+> ⏰ 𝟭𝟬 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧 ⏰ 𝗧𝗛𝗘 𝗣𝗘𝗢𝗣𝗟𝗘 𝗪𝗛𝗢 𝗝𝗢𝗜𝗡𝗘𝗗 𝗧𝗛𝗜𝗦 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗥𝗘 𝗔𝗟𝗥𝗘𝗔𝗗𝗬 𝗜𝗡𝗦𝗜𝗗𝗘 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 — 𝗔𝗜 𝗖𝗔𝗦𝗛 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗧𝗛𝗨𝗥𝗦�pic.x.com/HNpDbfS3AXu've been thinking about this all day. The people who joined this https://t.co/HNpDbfS3AX
+
+## Fri, 20 Mar 2026 02:23:00 GMT
+item_id:: 5fc5ac8ef05650eaaf2a9436810b8cd3
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034817956094648647
+text::
+> You searched for a restaurant last week. You had to explain your taste, your location, your time — all over again. Google never remembered you. It gave everyone the same results. That just changed.Google's new Personal Intelligence feature (announced March 17, 2026) pic.x.com/ODMpjuipF7
+
+## Fri, 20 Mar 2026 02:31:06 GMT
+item_id:: 0e21db3d9e3272259c604ec8820bc291
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2034819996271210651
+text::
+> x.com/i/article/2034…
+
+## Fri, 20 Mar 2026 02:49:43 GMT
+item_id:: 956feef58c1507005db64bcd40bb86db
+account:: @jasonlk
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2034824678024638586
+text::
+> We don’t live in a democracy if our elected leaders fail to implement the will of the people

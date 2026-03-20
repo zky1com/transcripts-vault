@@ -1,0 +1,235 @@
+{
+  "date": "2026-03-20",
+  "total_items": 50,
+  "topic_count": 3,
+  "dropped_duplicates": 29,
+  "topic_summaries": {
+    "AI & Agents": [
+      "@JulianGoldieSEO: RT @piloly: BEV sales in Spain. Tesla is in first place. 🇪�pic.x.com/TgA5IsdYV2V2"
+    ],
+    "Growth & Marketing": [
+      "@JulianGoldieSEO: ⚡ 𝟭𝟭 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧 ⚡ 𝗦𝗧𝗢𝗣 𝗣𝗔𝗬𝗜𝗡𝗚 𝗙𝗢𝗥 𝗔𝗗𝗦 — 𝗟𝗘𝗧 𝗚𝗢𝗢𝗚𝗟𝗘 𝗦𝗘𝗡𝗗 𝗬𝗢𝗨 𝗙𝗥𝗘𝗘 𝗖𝗟𝗜𝗘𝗡𝗧𝗦 — 𝗔𝗜 𝗖𝗔𝗦𝗛 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗧𝗛𝗨𝗥𝗦𝗗𝗔𝗬 ($𝟱𝟰𝗞+) 🔥 Rank on thpic.x.com/7HMasiWbTJso clients find you a…"
+    ],
+    "Other": [
+      "@JulianGoldieSEO: 😂"
+    ]
+  },
+  "topics": {
+    "AI & Agents": [
+      {
+        "item_id": "650a391edf2fd4122b6e732543753d1e",
+        "published": "Fri, 20 Mar 2026 00:18:13 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034786553952874612",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @piloly: BEV sales in Spain. Tesla is in first place. 🇪�pic.x.com/TgA5IsdYV2V2",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "b0dd4fc01ad8b2a78697e55472c5acd7",
+        "published": "Fri, 20 Mar 2026 00:32:52 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034790240280617332",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @shabnam_774: Instead of watching Netflix, learn OpenClaw in 317 minutes. pic.x.com/FdrvikJx9C",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "ea41136d2f13c940cf5d93f222ca3506",
+        "published": "Fri, 20 Mar 2026 00:42:17 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034792609122849130",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @aisearchmastery: New OpenClaw + Kimi K2.5 + Nvidia + Ollama Update! pic.x.com/ShFBnErRvI",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "eaa875eedcd9bc12fbf4dfa54db12506",
+        "published": "Fri, 20 Mar 2026 00:42:20 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034792624440451252",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @mehmetsongur_: Claude'u daha verimli kullanmak isteyenlere... Bu bir saatlik kurs ile kod bilmeden landing page, otomatik içerik, tweet…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "78ea696302b71b9aad8678e84540c3a4",
+        "published": "Fri, 20 Mar 2026 00:42:45 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034792725619646505",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @aisearchmastery: NEW GLM-5 Turbo Update is INSANE! 🤯pic.x.com/lJ0qHOyygVV",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "aa11ac6fa26bff91cef35aa4894cea69",
+        "published": "Fri, 20 Mar 2026 01:12:15 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/BoringBiz_/status/2034800150074232984",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Same company that failed to publish their filings on time and had auditors refuse to work with them Who could have guessed",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "5f0b8fde553c603bc57797e9d6a3640b",
+        "published": "Fri, 20 Mar 2026 01:44:01 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034808145424654738",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Claude Code Channels VS OpenClaw + FREE Google AI Studio Upgrade + Xiaomi's NEW MiMo-V2-Pro x.com/i/broadcasts/1…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "50bf8aca4d95de9522f90f8b3f4ea4f2",
+        "published": "Fri, 20 Mar 2026 02:00:00 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034812166784815260",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "This is what Claude Dispatch actually unlocks: Write content while you’re outside. Fix presentations during your commute. Organize files while you sleep. You’re not “using AI” anymore. You’re assigning work. pic.x.com/EBtnrvBP1m",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "2ae2ee22ec1715deb126c5f29e7b5d3f",
+        "published": "Fri, 20 Mar 2026 02:13:30 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/BoringBiz_/status/2034815563503903231",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Investment banking MDs telling Claude to spin out a 119 page deck and LBO model for the pitch next morning pic.x.com/iPvEsQWmuY",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "5fc5ac8ef05650eaaf2a9436810b8cd3",
+        "published": "Fri, 20 Mar 2026 02:23:00 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034817956094648647",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "You searched for a restaurant last week. You had to explain your taste, your location, your time — all over again. Google never remembered you. It gave everyone the same results. That just changed.Google's new Personal Intelligence feature (announced March 17, 2026) pic.x.com/ODMpjuipF7",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "956feef58c1507005db64bcd40bb86db",
+        "published": "Fri, 20 Mar 2026 02:49:43 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034824678024638586",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "We don’t live in a democracy if our elected leaders fail to implement the will of the people",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      }
+    ],
+    "Growth & Marketing": [
+      {
+        "item_id": "4b1270065369e67169654c674d55c41d",
+        "published": "Fri, 20 Mar 2026 01:05:26 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034798437569577424",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "⚡ 𝟭𝟭 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧 ⚡ 𝗦𝗧𝗢𝗣 𝗣𝗔𝗬𝗜𝗡𝗚 𝗙𝗢𝗥 𝗔𝗗𝗦 — 𝗟𝗘𝗧 𝗚𝗢𝗢𝗚𝗟𝗘 𝗦𝗘𝗡𝗗 𝗬𝗢𝗨 𝗙𝗥𝗘𝗘 𝗖𝗟𝗜𝗘𝗡𝗧𝗦 — 𝗔𝗜 𝗖𝗔𝗦𝗛 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗧𝗛𝗨𝗥𝗦𝗗𝗔𝗬 ($𝟱𝟰𝗞+) 🔥 Rank on thpic.x.com/7HMasiWbTJso clients find you and pay you — without ever spending https://t.co/7HMasiWbTJ",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Growth & Marketing"
+      },
+      {
+        "item_id": "2522b3351badd730d109a25eef601f17",
+        "published": "Fri, 20 Mar 2026 01:57:53 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034811633500037160",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @JulianGoldieSEO: x.com/i/article/2034…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Growth & Marketing"
+      }
+    ],
+    "Other": [
+      {
+        "item_id": "080ae14074cb637f0eecdd328a4e3afd",
+        "published": "Fri, 20 Mar 2026 00:19:00 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034786752335106178",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "😂",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "9c1823f26396d7a279fa331104ee1759",
+        "published": "Fri, 20 Mar 2026 00:26:56 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034788746483384790",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Cute",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "5f6aed2423d1f5d81eb79fef2435c905",
+        "published": "Fri, 20 Mar 2026 00:49:37 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034794457590272429",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "x.com/i/article/2034…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "fa6653a6ff037bed4a4fbf7c5f41a0bf",
+        "published": "Fri, 20 Mar 2026 01:36:20 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034806212223815944",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "This has been going on for a long time",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "6d370127d2c257599ef01186d94a401b",
+        "published": "Fri, 20 Mar 2026 01:39:36 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034807033082650827",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "🥰 🇺🇸",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "40d5080693a8546a4076f4178db64467",
+        "published": "Fri, 20 Mar 2026 01:40:24 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034807233746542620",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Tesla Semi is super fun to drive",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "ebd6ce425cf8f9e1b9720edaebf8fdbd",
+        "published": "Fri, 20 Mar 2026 01:41:24 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/elonmusk/status/2034807488848306387",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @JessePeltan: Happy Solar Pessimism Chart Update Day to all who celebrate pic.x.com/fpDxAdoa3D",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "6781ac032c1f13c0595d65cdbe05ea01",
+        "published": "Fri, 20 Mar 2026 02:21:37 GMT",
+        "fetched_at": "2026-03-20T03:02:48.019623+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2034817608860758168",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "⏰ 𝟭𝟬 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧 ⏰ 𝗧𝗛𝗘 𝗣𝗘𝗢𝗣𝗟𝗘 𝗪𝗛𝗢 𝗝𝗢𝗜𝗡𝗘𝗗 𝗧𝗛𝗜𝗦 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗥𝗘 𝗔𝗟𝗥𝗘𝗔𝗗𝗬 𝗜𝗡𝗦𝗜𝗗𝗘 𝗕𝗨𝗜𝗟𝗗𝗜𝗡𝗚 — 𝗔𝗜 𝗖𝗔𝗦𝗛 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗧𝗛𝗨𝗥𝗦�pic.x.com/HNpDbfS3AXu've been thinking about this all day. The people who joined this https://t.co/HNpDbfS3AX",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      }
+    ]
+  }
+}
