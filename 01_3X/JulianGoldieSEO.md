@@ -992,3 +992,203 @@ source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
 url:: https://x.com/elonmusk/status/2034824678024638586
 text::
 > We don’t live in a democracy if our elected leaders fail to implement the will of the people
+
+## Fri, 20 Mar 2026 22:14:00 GMT
+item_id:: 60ea458eb75693c42e383a371873adbc
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/jasonlk/status/2035117680093491429
+text::
+> No PowerPoints about AI's potential. At SaaStr AI 2026, everything is live demos, real metrics, and founders and execs who've actually shipped. May 12-14. SF Bay. pic.x.com/SvDzb9cA7c
+
+## Fri, 20 Mar 2026 22:14:09 GMT
+item_id:: d07e01908950bc401406cd30edf59cbe
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035117717158764853
+text::
+> x.com/i/article/2035…
+
+## Fri, 20 Mar 2026 22:29:35 GMT
+item_id:: 70308046ee3e7246dc47455c759606dd
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2035121601776169420
+text::
+> We had a good thing pic.x.com/ZEToY5GhGZ
+
+## Fri, 20 Mar 2026 22:40:31 GMT
+item_id:: 747d00811897073d0b0a1ba7e14571ca
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/nicbstme/status/2035124353793499493
+text::
+> It is great to see the expansion of the context window. I expect a ten-million context window soon. To put that into perspective, at Fintool, our Google Drive has roughly 14 million tokens. Obviously, it is not smart/efficient to pour everything into the context window all at pic.x.com/JJOHwP3Z2G
+
+## Fri, 20 Mar 2026 22:43:29 GMT
+item_id:: fd4528e300262eb73d1bd4657f567f63
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035125098789970325
+text::
+> RT @SEOMastery2025: New Chinese AI Agent DESTROYS NotebookLM? pic.x.com/OAHsCT0hLo
+
+## Fri, 20 Mar 2026 23:00:00 GMT
+item_id:: b1b6710c681bb3365de9f8b55eaad13a
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035129256460919225
+text::
+> The problem isn’t lack of information. It’s too much of it. PDFs you never read. Notes you never use. Research that goes nowhere. Google just fixed that. NotebookLM turns your data into: → Audio you can listen to → Videos you can publish → Insights you can act on This pic.x.com/h1bpyNWiFC
+
+## Fri, 20 Mar 2026 23:00:01 GMT
+item_id:: ef691e0cb94829ef0fac57307c07dc1a
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035129261921907151
+text::
+> OpenClaw just got a free update nobody is talking about. And it does all your market research for you. It is called the Typika Research Skill. You can get it for free right now on GitHub. It gives OpenClaw a brand new brain. Now you can spy on your rivals in seconds. No more pic.x.com/0Zbogx0Td1
+
+## Fri, 20 Mar 2026 23:30:54 GMT
+item_id:: 5d053a90cfff40794f21225d5c7a34f6
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035137033656758452
+text::
+> x.com/i/article/2035…
+
+## Fri, 20 Mar 2026 23:33:36 GMT
+item_id:: ea95b4ebd1c9785ab5a0bd934835729c
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BG2Pod/status/2035137714098774525
+text::
+> 👀👀@theallinpod @altcap
+
+## Fri, 20 Mar 2026 23:34:46 GMT
+item_id:: 80c4e48aed42d7c17c3fe21ffd337844
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035138005749703062
+text::
+> RT @RoundtableSpace: XIAOMI JUST DROPPED MIMO V2 PRO, A NEW AI MODEL THAT’S ALREADY GETTING FRAMED AS A CLAUDE RIVAL FOR CODING. It comes…
+
+## Fri, 20 Mar 2026 23:34:50 GMT
+item_id:: 32efa8ee2efea5fd9194c0f5a0e00c89
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035138022094909811
+text::
+> RT @SEOMastery2025: GLM 5 Turbo + Google Gemini is INSANE! 🤯pic.x.com/WmVb4pmZPCC
+
+## Fri, 20 Mar 2026 23:46:02 GMT
+item_id:: 9ff00dc55462d812b05d2b4f81176d86
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035140840075710660
+text::
+> x.com/i/article/2035…
+
+## Fri, 20 Mar 2026 23:58:17 GMT
+item_id:: dcff76b623844dc774ee4d57bacd973a
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035143926840254503
+text::
+> ⚡ 𝟭𝟮 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧: 𝗛𝗔𝗟𝗙𝗪𝗔𝗬 𝗚𝗢𝗡𝗘 — 𝗠𝗔𝗞𝗘 𝗠𝗢𝗡𝗘𝗬 𝗪𝗜𝗧𝗛 𝗔𝗜 𝗧𝗛𝗜𝗦 𝗪𝗘𝗘𝗞𝗘𝗡𝗗 𝗢𝗥 𝗪𝗜𝗦𝗛 𝗬𝗢𝗨 𝗛𝗔𝗗 ($𝟱𝟯𝗞+) 🔥 Be the person who profits from AI — not the person who getspic.x.com/6O1l7bTUoY Profit Boardroom teaches you how to use https://t.co/6O1l7bTUoY
+
+## Sat, 21 Mar 2026 00:00:00 GMT
+item_id:: c30f8afc5be33f4a51c97caa34627029
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035144358219927612
+text::
+> These new Chinese AI models just dropped… And they’re completely FREE. This changes everything. → 1T+ parameter AI agent (not chatbot) → Multimodal model that sees, hears, thinks → Text-to-speech engine built in Most people are still using AI like it’s 2023. You’re about pic.x.com/nygXNLTtbh
+
+## Sat, 21 Mar 2026 00:07:25 GMT
+item_id:: c59f3a9d04a7f5c69f0fffb27acfc6a4
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2035146224534159795
+text::
+> Realizing that Trump’s entire legacy will be being remembered as the TACO President pic.x.com/08qrdTZFBZ
+
+## Sat, 21 Mar 2026 00:19:56 GMT
+item_id:: 5af5cbce3a816e13979a57e85a926bcf
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035149375048216669
+text::
+> Cool 🇬🇧
+
+## Sat, 21 Mar 2026 00:35:52 GMT
+item_id:: 9863998235a8bb0062a027b84817fd7a
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035153383741636772
+text::
+> RT @ProfitBoardroom: New Chinese AI Agent DESTROYS NotebookLM? pic.x.com/E30123mBE0
+
+## Sat, 21 Mar 2026 00:48:29 GMT
+item_id:: 183e4ac1de9a1b0fc0e5fd8fa283d5b7
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035156556225065392
+text::
+> NEW Google Antigravity + Stitch + Claude Cowork Projects + NemoClaw + Minimax M2.7 Updates! x.com/i/broadcasts/1…
+
+## Sat, 21 Mar 2026 01:00:00 GMT
+item_id:: ed5dc874c41bc4fde8aacb26151dc621
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035159456879718790
+text::
+> KiloClaw just made powerful OpenClaw agents totally free. You do not need to pay big money to automate your business. You also do not need a fancy tech degree. KiloClaw hosts OpenClaw for you in just 60 seconds. It uses free APIs to do all the heavy lifting. If you feel pic.x.com/6gUvdUPU1B
+
+## Sat, 21 Mar 2026 01:00:01 GMT
+item_id:: 71dc07fcbc02e278968346c04b38e1bd
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035159458901524775
+text::
+> This FREE Gemini CLI update just made AI coding way safer: Plan Mode What it does: • Read-only analysis first • Understands your full codebase • Asks clarifying questions • Builds a step-by-step plan You review it → then execution. Less risk. Better results. pic.x.com/WNhSB1fs30
+
+## Sat, 21 Mar 2026 01:01:00 GMT
+item_id:: 007d129ff32afdb2e70820a31557c11a
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035159707288326171
+text::
+> Mistral just dropped a FREE AI model that might replace every tool you use. No joke. Chat. Coding. Reasoning. Vision. All in ONE. Here’s why this is a big deal: → No more switching between 4 different tools → One model handles everything → 40% faster than the last version pic.x.com/FAbfF4bo1p
+
+## Sat, 21 Mar 2026 01:17:37 GMT
+item_id:: 3c5d1a7beae03f3b460a45e4137dc8e0
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035163887809724747
+text::
+> x.com/i/article/2035…
+
+## Sat, 21 Mar 2026 01:38:34 GMT
+item_id:: c83a7bb146d1a17fa74f83a168175604
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035169161400525177
+text::
+> x.com/i/article/2035…
+
+## Sat, 21 Mar 2026 02:00:01 GMT
+item_id:: dacada7f7e47e499f57e96352e451c7f
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035174561810194576
+text::
+> Before this update: You: “Find a restaurant and book it” AI: “Here are 5 options 🙂” Now: You: “Find a restaurant and book it” Gemini: “Done. Table reserved at 7PM.” That’s the difference between: Assistant ❌ Agent ✅ This is where AI stops talking… and starts working.pic.x.com/ZIIEKhe27CC
+
+## Sat, 21 Mar 2026 02:01:57 GMT
+item_id:: 841524c31abf214b8b4a263101360cd0
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035175044712997002
+text::
+> 💰 𝟭𝟬 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧: 𝗪𝗢𝗥𝗞 𝗟𝗘𝗦𝗦, 𝗘𝗔𝗥𝗡 𝗠𝗢𝗥𝗘, 𝗟𝗜𝗩𝗘 𝗕𝗘𝗧𝗧𝗘𝗥 — 𝗧𝗛𝗔𝗧'𝗦 𝗧𝗛𝗘 𝗔𝗜 𝗣𝗥𝗢𝗠𝗜𝗦𝗘 ($𝟱𝟯𝗞+ 𝗕𝗢𝗡𝗨𝗦𝗘𝗦) 🔥 Work fewer hours, earn more money, and finally have thepic.x.com/tUb3iAsX6In your terms — that's what happens when AI https://t.co/tUb3iAsX6I

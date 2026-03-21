@@ -1,0 +1,130 @@
+{
+  "date": "2026-03-21",
+  "total_items": 24,
+  "topic_count": 2,
+  "dropped_duplicates": 13,
+  "topic_summaries": {
+    "AI & Agents": [
+      "@JulianGoldieSEO: These new Chinese AI models just dropped… And they’re completely FREE. This changes everything. → 1T+ parameter AI agent (not chatbot) → Multimodal model that se…"
+    ],
+    "Other": [
+      "@JulianGoldieSEO: Realizing that Trump’s entire legacy will be being remembered as the TACO President pic.x.com/08qrdTZFBZ"
+    ]
+  },
+  "topics": {
+    "AI & Agents": [
+      {
+        "item_id": "c30f8afc5be33f4a51c97caa34627029",
+        "published": "Sat, 21 Mar 2026 00:00:00 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035144358219927612",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "These new Chinese AI models just dropped… And they’re completely FREE. This changes everything. → 1T+ parameter AI agent (not chatbot) → Multimodal model that sees, hears, thinks → Text-to-speech engine built in Most people are still using AI like it’s 2023. You’re about pic.x.com/nygXNLTtbh",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "9863998235a8bb0062a027b84817fd7a",
+        "published": "Sat, 21 Mar 2026 00:35:52 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035153383741636772",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "RT @ProfitBoardroom: New Chinese AI Agent DESTROYS NotebookLM? pic.x.com/E30123mBE0",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "183e4ac1de9a1b0fc0e5fd8fa283d5b7",
+        "published": "Sat, 21 Mar 2026 00:48:29 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035156556225065392",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "NEW Google Antigravity + Stitch + Claude Cowork Projects + NemoClaw + Minimax M2.7 Updates! x.com/i/broadcasts/1…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "ed5dc874c41bc4fde8aacb26151dc621",
+        "published": "Sat, 21 Mar 2026 01:00:00 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035159456879718790",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "KiloClaw just made powerful OpenClaw agents totally free. You do not need to pay big money to automate your business. You also do not need a fancy tech degree. KiloClaw hosts OpenClaw for you in just 60 seconds. It uses free APIs to do all the heavy lifting. If you feel pic.x.com/6gUvdUPU1B",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "71dc07fcbc02e278968346c04b38e1bd",
+        "published": "Sat, 21 Mar 2026 01:00:01 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035159458901524775",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "This FREE Gemini CLI update just made AI coding way safer: Plan Mode What it does: • Read-only analysis first • Understands your full codebase • Asks clarifying questions • Builds a step-by-step plan You review it → then execution. Less risk. Better results. pic.x.com/WNhSB1fs30",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "007d129ff32afdb2e70820a31557c11a",
+        "published": "Sat, 21 Mar 2026 01:01:00 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035159707288326171",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Mistral just dropped a FREE AI model that might replace every tool you use. No joke. Chat. Coding. Reasoning. Vision. All in ONE. Here’s why this is a big deal: → No more switching between 4 different tools → One model handles everything → 40% faster than the last version pic.x.com/FAbfF4bo1p",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "dacada7f7e47e499f57e96352e451c7f",
+        "published": "Sat, 21 Mar 2026 02:00:01 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035174561810194576",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Before this update: You: “Find a restaurant and book it” AI: “Here are 5 options 🙂” Now: You: “Find a restaurant and book it” Gemini: “Done. Table reserved at 7PM.” That’s the difference between: Assistant ❌ Agent ✅ This is where AI stops talking… and starts working.pic.x.com/ZIIEKhe27CC",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      },
+      {
+        "item_id": "841524c31abf214b8b4a263101360cd0",
+        "published": "Sat, 21 Mar 2026 02:01:57 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035175044712997002",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "💰 𝟭𝟬 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧: 𝗪𝗢𝗥𝗞 𝗟𝗘𝗦𝗦, 𝗘𝗔𝗥𝗡 𝗠𝗢𝗥𝗘, 𝗟𝗜𝗩𝗘 𝗕𝗘𝗧𝗧𝗘𝗥 — 𝗧𝗛𝗔𝗧'𝗦 𝗧𝗛𝗘 𝗔𝗜 𝗣𝗥𝗢𝗠𝗜𝗦𝗘 ($𝟱𝟯𝗞+ 𝗕𝗢𝗡𝗨𝗦𝗘𝗦) 🔥 Work fewer hours, earn more money, and finally have thepic.x.com/tUb3iAsX6In your terms — that's what happens when AI https://t.co/tUb3iAsX6I",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "AI & Agents"
+      }
+    ],
+    "Other": [
+      {
+        "item_id": "c59f3a9d04a7f5c69f0fffb27acfc6a4",
+        "published": "Sat, 21 Mar 2026 00:07:25 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/BoringBiz_/status/2035146224534159795",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Realizing that Trump’s entire legacy will be being remembered as the TACO President pic.x.com/08qrdTZFBZ",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "5af5cbce3a816e13979a57e85a926bcf",
+        "published": "Sat, 21 Mar 2026 00:19:56 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/elonmusk/status/2035149375048216669",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "Cool 🇬🇧",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      },
+      {
+        "item_id": "3c5d1a7beae03f3b460a45e4137dc8e0",
+        "published": "Sat, 21 Mar 2026 01:17:37 GMT",
+        "fetched_at": "2026-03-21T03:02:51.903389+00:00",
+        "link": "https://x.com/JulianGoldieSEO/status/2035163887809724747",
+        "account": "@JulianGoldieSEO",
+        "text_clean": "x.com/i/article/2035…",
+        "source_feed": "https://rss.app/feeds/TK8svLXc59R1ML5u.xml",
+        "topic": "Other"
+      }
+    ]
+  }
+}
