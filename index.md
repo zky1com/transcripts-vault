@@ -1,7 +1,7 @@
 # Transcript Vault — File Index
 
 Auto-generated. Re-run the daily transcript sync job to refresh this file.
-Generated at (UTC): 2026-03-21T03:02:52Z
+Generated at (UTC): 2026-03-22T03:01:26Z
 
 ## 01_1Spotify
 
@@ -194,6 +194,7 @@ Generated at (UTC): 2026-03-21T03:02:52Z
 - [2025-11-29 - I Managed Billions — These Are the 8 Biggest Investing Mistakes I Saw](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/Drew%20Cohen/I%20Managed%20Billions%20%E2%80%94%20These%20Are%20the%208%20Biggest%20Investing%20Mistakes%20I%20Saw.md)
 - [2026-03-16 - I Regularly Lost Money Before I Learned This](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/Drew%20Cohen/I%20Regularly%20Lost%20Money%20Before%20I%20Learned%20This.md)
 - [2026-03-19 - Mercado Libre Stock Long-Term Compounder or Hidden Risk](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/Drew%20Cohen/Mercado%20Libre%20Stock%20Long-Term%20Compounder%20or%20Hidden%20Risk.md)
+- [2026-03-21 - Next $1 Trillion Company or Bubble Territory Palantir Stock Explained](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/Drew%20Cohen/Next%20%241%20Trillion%20Company%20or%20Bubble%20Territory%20Palantir%20Stock%20Explained.md)
 - [2026-02-21 - Obvious Opportunity or Hidden Risk Meta Stock Explained](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/Drew%20Cohen/Obvious%20Opportunity%20or%20Hidden%20Risk%20Meta%20Stock%20Explained.md)
 - [2026-02-04 - Panic Sell or Opportunity to Own Korea’s Amazon Coupang Stock Explained](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/Drew%20Cohen/Panic%20Sell%20or%20Opportunity%20to%20Own%20Korea%E2%80%99s%20Amazon%20Coupang%20Stock%20Explained.md)
 - [2025-12-18 - Portfolio Manager Explains Top 5 Valuation Misconceptions](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/Drew%20Cohen/Portfolio%20Manager%20Explains%20Top%205%20Valuation%20Misconceptions.md)
@@ -335,6 +336,7 @@ Generated at (UTC): 2026-03-21T03:02:52Z
 - [Frank Fillmann How I Boosted Revenue by $500M at Salesforce; Tips for Hiring Salespeople  E992](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/20VC%20with%20Harry%20Stebbings/Frank%20Fillmann%20How%20I%20Boosted%20Revenue%20by%20%24500M%20at%20Salesforce%3B%20Tips%20for%20Hiring%20Salespeople%20%20E992.md)
 - [2026-03-16 - Gokul Rajaram How to Analyse for Durability and Defensibility in a World of AI](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/20VC%20with%20Harry%20Stebbings/Gokul%20Rajaram%20How%20to%20Analyse%20for%20Durability%20and%20Defensibility%20in%20a%20World%20of%20AI.md)
 - [2026-03-09 - Inside Accel's $4BN Growth Investing Machine  Miles Clements](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/20VC%20with%20Harry%20Stebbings/Inside%20Accel%27s%20%244BN%20Growth%20Investing%20Machine%20%20Miles%20Clements.md)
+- [2026-03-21 - Inside Figma's $1B ARR Machine  Shaunt Voskanian](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/20VC%20with%20Harry%20Stebbings/Inside%20Figma%27s%20%241B%20ARR%20Machine%20%20Shaunt%20Voskanian.md)
 - [Jordan Van Horn 3 Reasons Salespeople Fail; How to Make a Sales Playbook  20VC 918](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/20VC%20with%20Harry%20Stebbings/Jordan%20Van%20Horn%203%20Reasons%20Salespeople%20Fail%3B%20How%20to%20Make%20a%20Sales%20Playbook%20%2020VC%20918.md)
 - [Julian Teixeira, CRO @ 1Password How to Hire and Train Your First Sales Hires](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/20VC%20with%20Harry%20Stebbings/Julian%20Teixeira%2C%20CRO%20%40%201Password%20How%20to%20Hire%20and%20Train%20Your%20First%20Sales%20Hires.md)
 - [Kevin Egan Biggest Lesson on Managing Sales Teams at Slack and Atlassian  E1034](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_Videos/20VC%20with%20Harry%20Stebbings/Kevin%20Egan%20Biggest%20Lesson%20on%20Managing%20Sales%20Teams%20at%20Slack%20and%20Atlassian%20%20E1034.md)
@@ -3468,3 +3470,4 @@ Generated at (UTC): 2026-03-21T03:02:52Z
 - [topic-digest-2026-03-19](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-19.md)
 - [topic-digest-2026-03-20](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-20.md)
 - [topic-digest-2026-03-21](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-21.md)
+- [topic-digest-2026-03-22](https://raw.githubusercontent.com/zky1com/transcripts-vault/main/01_3X/_daily/topic-digest-2026-03-22.md)

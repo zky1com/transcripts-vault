@@ -1192,3 +1192,203 @@ source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
 url:: https://x.com/JulianGoldieSEO/status/2035175044712997002
 text::
 > 💰 𝟭𝟬 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧: 𝗪𝗢𝗥𝗞 𝗟𝗘𝗦𝗦, 𝗘𝗔𝗥𝗡 𝗠𝗢𝗥𝗘, 𝗟𝗜𝗩𝗘 𝗕𝗘𝗧𝗧𝗘𝗥 — 𝗧𝗛𝗔𝗧'𝗦 𝗧𝗛𝗘 𝗔𝗜 𝗣𝗥𝗢𝗠𝗜𝗦𝗘 ($𝟱𝟯𝗞+ 𝗕𝗢𝗡𝗨𝗦𝗘𝗦) 🔥 Work fewer hours, earn more money, and finally have thepic.x.com/tUb3iAsX6In your terms — that's what happens when AI https://t.co/tUb3iAsX6I
+
+## Sun, 22 Mar 2026 00:23:37 GMT
+item_id:: c030394f41f297df78f407231bba5433
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035512688550510660
+text::
+> 🚨 𝟭𝟮 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧 🚨 𝗧𝗛𝗘 𝗦𝗔𝗧𝗨𝗥𝗗𝗔𝗬 𝗔𝗜 𝗔𝗨𝗧𝗢𝗠𝗔𝗧𝗜𝗢𝗡 𝗝𝗔𝗖𝗞𝗣𝗢𝗧 𝗜𝗦 𝗛𝗔𝗟𝗙 𝗢𝗩𝗘𝗥 + $𝟱𝟰,𝟱𝟬𝟬 𝗜𝗡 𝗕𝗢𝗡𝗨𝗦𝗘𝗦 💰 Your business should be earning money at 3am while yopic.x.com/ID9beIVK5T be posting content while you eat dinner. It https://t.co/ID9beIVK5T
+
+## Sun, 22 Mar 2026 00:29:42 GMT
+item_id:: affdcbc03cd08283e024ca6c2e94fc93
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/BoringBiz_/status/2035514219538325642
+text::
+> Buffett at the age of 31 was sharper than most people you will ever come across pic.x.com/e62jseaohO
+
+## Sun, 22 Mar 2026 00:32:22 GMT
+item_id:: adacbbe9fb80e445fb3a9cdd7215ad0e
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035514889389936776
+text::
+> RT @cyrilXBT: Stop Watching Tutorials and Start Building. This Free 5 Hour OpenClaw AI Course Is All You Need. pic.x.com/VXZ8ofmeX1
+
+## Sun, 22 Mar 2026 00:32:55 GMT
+item_id:: 6be18a5e1e30467cc1f2ae10c4a4d869
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035515027101512132
+text::
+> RT @RoundtableSpace: OPENCLAW JUST GOT A FULL 5 HOUR COURSE ON BUILDING AND AUTOMATING ANYTHING. pic.x.com/3Q0GdWGUqw
+
+## Sun, 22 Mar 2026 00:33:13 GMT
+item_id:: 5a255aecf4c5c883d9e1b920b816a835
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035515102712238302
+text::
+> RT @RoundtableSpace: THIS GUY DROPPED AN ENTIRE 2 HOUR COURSE ON AI AGENTS EVERYTHING YOU NEED TO KNOW IS IN THIS VIDEO t.co/47tq…
+
+## Sun, 22 Mar 2026 00:57:05 GMT
+item_id:: 020e770cbbeb0fd6e0e35b1bcfb1f3af
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035521111195332982
+text::
+> KiloClaw just made expensive AI models completely free. You do not need to pay for OpenClaw anymore. AI bills can pile up fast and cause a lot of stress for your business. But now you get full access to their API at zero cost. You can even switch between different models with pic.x.com/Il1PaBKxZ3
+
+## Sun, 22 Mar 2026 01:00:00 GMT
+item_id:: 86e8111bde6abc5cbafe4d4a7f140aae
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035521845689225667
+text::
+> Google just dropped the most powerful FREE app-building stack of 2026. And almost nobody noticed. In 4 steps you can now build: • login systems • databases • live user apps • full SaaS tools Using plain English. No devs. No designers. No code. This changes everything. pic.x.com/9fo3Rsvt3P
+
+## Sun, 22 Mar 2026 01:10:06 GMT
+item_id:: 74f3aaad71203e0f29e1b42e363e26c1
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035524384723554495
+text::
+> SpaceX
+
+## Sun, 22 Mar 2026 01:12:15 GMT
+item_id:: 01e73a1ef71ce282af6bcbb213b7413d
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035524926023553453
+text::
+> Any self-respecting civilization needs to reach at least Kardashev II
+
+## Sun, 22 Mar 2026 01:12:35 GMT
+item_id:: a371324c7e1e915cebb674f9a26f4a73
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035525008978551060
+text::
+> RT @xai: Announcing Terafab: the next step towards becoming a galactic civilization x.com/i/broadcasts/1…
+
+## Sun, 22 Mar 2026 01:14:51 GMT
+item_id:: e404bf670c0c1bb7fe189c2367ab4e91
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035525582566691237
+text::
+> 🎰 𝟭𝟭 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧: 𝗧𝗛𝗘 𝗣𝗘𝗢𝗣𝗟𝗘 𝗪𝗛𝗢 𝗝𝗢𝗜𝗡𝗘𝗗 𝗧𝗛𝗜𝗦 𝗠𝗢𝗥𝗡𝗜𝗡𝗚 𝗔𝗥𝗘 𝗔𝗟𝗥𝗘𝗔𝗗𝗬 𝗦𝗘𝗧𝗧𝗜𝗡𝗚 𝗨𝗣 🎰 $𝟱𝟰,𝟱𝟬𝟬+ 𝗕𝗢𝗡𝗨𝗦𝗘𝗦 💰 People who joined The AI Profitpic.x.com/zUClCtv434y are already inside setting up their AI outreach, https://t.co/zUClCtv434
+
+## Sun, 22 Mar 2026 01:18:01 GMT
+item_id:: 0ff684b51856942192a7e30edee681f4
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035526376468394305
+text::
+> SpaceXAI + Tesla TERAFAB Project Goal is a trillion watts of compute/year Most must necessarily go to space, as US electricity is only 0.5TW
+
+## Sun, 22 Mar 2026 01:18:34 GMT
+item_id:: 669d3cf62c3fefa4827bfb9f59f2de34
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035526518101958708
+text::
+> Google AI Studio just got an update nobody is talking about. And it can replace a $30,000 app agency. It is called Stitch. It tracks your voice and builds what you ask for. You do not click buttons or write code. You just say, "Make the menu blue and add a login page." It pic.x.com/Cic58hs6GI
+
+## Sun, 22 Mar 2026 01:19:44 GMT
+item_id:: 76f8f379cbf319837d6d7dbb6f58f98d
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035526810939666552
+text::
+> Quantity has a quality all its own TERAFAB
+
+## Sun, 22 Mar 2026 01:22:43 GMT
+item_id:: 49a1f271434f5635492aca8eee909a30
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035527563112792240
+text::
+> OpenAI just projected a $14 billion loss that nobody is talking about. And it is your biggest advantage. Big tech companies are spending billions to build AI. They are losing money just to give you these tools for free. Why? They want you hooked on their tools before the pic.x.com/olO45LOxdM
+
+## Sun, 22 Mar 2026 01:29:09 GMT
+item_id:: bb0c4c193e151295a9966970a146ffaa
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035529179270373735
+text::
+> There's a free AI from Nvidia that beats systems 20 times its size. It is called Neatron Cascade 2. It just won gold medals in the world's hardest math and coding tests. The crazy part? It only uses 3 billion connections to think at a time. Big companies use giant models pic.x.com/sSDqE8gas4
+
+## Sun, 22 Mar 2026 01:34:02 GMT
+item_id:: 9a96005d9fc7c5011581242533820bb4
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035530409849811087
+text::
+> Openclaw Agent Teams + Abacus Claw + Manus Computer + NotebookLM Updates! x.com/i/broadcasts/1…
+
+## Sun, 22 Mar 2026 01:54:19 GMT
+item_id:: f417da98f9b175c76976c372ef859fe4
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035535511461495065
+text::
+> Exactly
+
+## Sun, 22 Mar 2026 01:55:32 GMT
+item_id:: d25c5e922131c743dd5451b5e7ba9fc7
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035535819180741065
+text::
+> RT @FutureJurvetson: T͢E͢R͢A͢F͢A͢B͢ Launch  ⌨  Goal: adding a trillion watts of compute, 2x the entire U.S. electricity market, every year…
+
+## Sun, 22 Mar 2026 01:55:59 GMT
+item_id:: e3d2a9167c1dea6dddf7bbfdf77406d7
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035535932909306256
+text::
+> 🎰 𝟭𝟬 𝗛𝗢𝗨𝗥𝗦 𝗟𝗘𝗙𝗧: 𝗧𝗛𝗘 𝗖𝗢𝗨𝗡𝗧𝗗𝗢𝗪𝗡 𝗜𝗦 𝗚𝗘𝗧𝗧𝗜𝗡𝗚 𝗥𝗘𝗔𝗟 🎰 $𝟱𝟰,𝟱𝟬𝟬+ 𝗔𝗜 𝗕𝗨𝗦𝗜𝗡𝗘𝗦𝗦 𝗕𝗢𝗡𝗨𝗦𝗘𝗦 𝗗𝗜𝗦𝗔𝗣𝗣𝗘𝗔𝗥𝗜𝗡𝗚 💰 Tomorrow you are going to wake up and eipic.x.com/euva5kndxDs system ready to make you money or you are going https://t.co/euva5kndxD
+
+## Sun, 22 Mar 2026 01:56:23 GMT
+item_id:: ccd231aa77de68c1e665a47df9efc2bd
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035536033018954025
+text::
+> Terafab was the final missing piece of the puzzle
+
+## Sun, 22 Mar 2026 01:56:55 GMT
+item_id:: 21d80e9d34bf8c82893d5fd4ab001f84
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035536166926324154
+text::
+> RT @aaronburnett: In case you want to relive the epic Terafab intro over and over again. “In order to understand the universe you must ex…
+
+## Sun, 22 Mar 2026 02:00:00 GMT
+item_id:: 2addd00d6392fc134139a9a4d7a4c4f6
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/JulianGoldieSEO/status/2035536943673458751
+text::
+> Google just quietly made it possible to build a full app with login, database, and live users in minutes. No code. No developers. No designers. Using Stitch + AI Studio + Anti-Gravity, you can generate the frontend and backend together for free. Most people still haven’t pic.x.com/uL8bRyjT31
+
+## Sun, 22 Mar 2026 02:07:23 GMT
+item_id:: 4a69bfabc5d76a655c50d35600a3ad8a
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035538803050561680
+text::
+> The most exciting of times ahead!
+
+## Sun, 22 Mar 2026 02:07:42 GMT
+item_id:: a52bf88cfd24c9534fb5c860eaf0c5e8
+account:: @JulianGoldieSEO
+source_feed:: https://rss.app/feeds/TK8svLXc59R1ML5u.xml
+url:: https://x.com/elonmusk/status/2035538882134237530
+text::
+> RT @aaronburnett: There it is the first AI Sat concept with solar panels & radiators to scale … 100kw scale. pic.x.com/iXWQ6ELSpY
