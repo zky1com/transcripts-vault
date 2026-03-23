@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Why Foreign Investors Are Seeing Opportunity in Japan"
 people_mentioned: ["Hiromi Yamaguchi", "Marc Rowan"]
 channel: "Bloomberg Television"
@@ -7,61 +7,61 @@ url: "https://www.youtube.com/watch?v=I35C1qdOGus"
 publish_date: 2026-02-21
 duration: "10:28"
 word_count: 1729
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "market-data"]
+content_type: "feature"
+delivery_mode: "reported-feature"
+broad_category: "economics"
+subcategories: ["japan", "capital-markets", "corporate-finance"]
 series_name: ""
 episode_id: ""
 primary_person: "Hiromi Yamaguchi"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Hiromi Yamaguchi - Nvidia"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+host_names: []
+interviewer_names: []
+interviewee_profiles: ["Hiromi Yamaguchi - Tokyo and Osaka Stock Exchange executive", "Marc Rowan - Apollo CEO"]
+speaker_profiles: ["Hiromi Yamaguchi - Tokyo and Osaka Stock Exchange executive", "Marc Rowan - Apollo CEO"]
+organizations_mentioned: ["Tokyo Stock Exchange", "Osaka Exchange"]
+locations_mentioned: ["Japan", "United States", "Europe"]
 tools_mentioned: []
-companies_mentioned: ["Nvidia", "Bloomberg"]
-topics: ["stock-analysis", "market-data", "lead-generation", "product-management", "options-trading"]
-tags: ["stock-analysis", "market-data", "lead-generation", "product-management", "options-trading"]
+companies_mentioned: ["Apollo Global Management", "Nvidia", "Sony Group"]
+topics: ["japan", "capital-markets", "private-credit", "corporate-cash", "investment"]
+tags: ["japan", "capital-markets", "private-credit", "corporate-cash", "investment"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on capital, market, japanese. There's a demand for longer dated capital and also compressed capital because the banks can provide cheaper and short term finance. We provide a piece of capital that is in very short supply in Japan, investment grade, long dated to finance what they need. The equity market in the context of the world is actually quite small, though it is the second largest equity market in the world.
+This reported feature argues that Japans reform push is trying to unlock enormous cash balances and redirect them toward productivity, investment, and corporate change. Hiromi Yamaguchi describes Japanese companies as receptive to new technologies and says the country is well placed for an industrial renaissance. Marc Rowan argues that Japan also needs deeper private-credit style financing because banks and equity alone are not enough for long-dated capex opportunities.
 
 ## Key Insights
 
+- Yamaguchi says Japanese companies are open to AI and other new technologies even though practical deployment is still early.
+- She argues Japan is well positioned for a new industrial investment cycle because multiple structural transitions are happening at once.
+- She links Japans unusually high cash balances to a long institutional preference for safety and sustainability.
+- The feature frames reform partly as a project of moving more of that trapped cash toward productive investment.
+- Rowan says Japans capital structure is still too dependent on banks and equity.
+- He argues private credit is useful when companies need long-dated funding for large transformation projects.
+- He says Japanese finance chiefs are only beginning to internalize private finance as a normal option.
+- He describes investment-grade long-dated capital as one of the clearest financing shortages in Japan.
 
-- There's a demand for longer dated capital and also compressed capital because the banks can provide cheaper and short term finance.
-- We provide a piece of capital that is in very short supply in Japan, investment grade, long dated to finance what they need.
-- The equity market in the context of the world is actually quite small, though it is the second largest equity market in the world, but it.
-- Apollo CEO Marc Rowan says his company is providing a much needed third way to finance the capital investment Japan needs.
-- The work we've done with Sony, the work we've done with SBC, the work we've done in financing, buy now, pay later, Japanese companies is beginning.
-- There's only Â¥60 trillion outstanding on the corporate bond market compared to the size of the finance.
+## Claims
 
-## People Mentioned
-
-
-- [[Hiromi Yamaguchi]]
-
-- [[Marc Rowan]]
-
-
-
-
+- [[Hiromi Yamaguchi - Japanese companies are receptive to AI and other new technologies even if they are still early in figuring out where to use them seriously]]
+- [[Hiromi Yamaguchi - Japan is well positioned for an industrial renaissance because major transitions are creating large capital spending needs]]
+- [[Hiromi Yamaguchi - High corporate cash balances in Japan reflect a long preference for safety and sustainability]]
+- [[Hiromi Yamaguchi - Redirecting some of Japans cash hoards toward productivity and investment is central to the countrys reform push]]
+- [[Marc Rowan - Japan needs a third financing channel beyond banks and equity because its corporate bond market is still underdeveloped]]
+- [[Marc Rowan - Private credit is well suited to long-dated transformational investments that banks and public markets do not finance as well]]
+- [[Marc Rowan - Japanese CFOs are only beginning to see private finance as a real alternative but that shift has started]]
+- [[Marc Rowan - Investment-grade long-dated capital is still in short supply in Japan]]
 ## Full Transcript
 
 <details>

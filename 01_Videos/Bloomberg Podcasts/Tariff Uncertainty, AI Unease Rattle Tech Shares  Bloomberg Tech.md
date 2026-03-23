@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Tariff Uncertainty, AI Unease Rattle Tech Shares | Bloomberg Tech"
-people_mentioned: ["Caroline Hyde", "Ed Lello", "Paramount Sky Dance", "Powers Act", "Truth Social", "Supreme Court", "Warner Brothers Discovery", "International Emergency Economic"]
+people_mentioned: ["Caroline Hyde","Ed Ludlow","Mike Shepard","Jason Oxman","Carmen Reinicke","Shanti Kelemen","Mike McKee","Jed Ellerbroek","Emily Nicolle","Ryan Vlastelica","Shirin Ghaffary","Lucas Shaw","Ted Sarandos","Donald Trump"]
 channel: "Bloomberg Podcasts"
 video_id: "XBJXq6pEv-U"
 url: "https://www.youtube.com/watch?v=XBJXq6pEv-U"
@@ -8,65 +8,56 @@ publish_date: 2026-02-23
 duration: "44:16"
 word_count: 8285
 content_type: "podcast"
-delivery_mode: "analysis"
+delivery_mode: "conversation"
 broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: "Bloomberg Podcasts"
+subcategories: ["ai-markets","tariffs","software","media"]
+series_name: "Bloomberg Tech"
 episode_id: ""
-primary_person: "Caroline Hyde"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Caroline Hyde - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Audio Studios", "Bloomberg Tech", "Bloomberg Podcasts"]
-locations_mentioned: ["New York", "San Francisco", "United States"]
+primary_person: "Jason Oxman"
+host_names: ["Caroline Hyde","Ed Ludlow"]
+interviewer_names: ["Caroline Hyde","Ed Ludlow"]
+interviewee_profiles: ["Mike Shepard - Bloomberg senior editor","Jason Oxman - Information Technology Industry Council CEO","Carmen Reinicke - Bloomberg markets reporter","Shanti Kelemen - M\u0026G Wealth co-chief investment officer","Mike McKee - Bloomberg economics reporter","Jed Ellerbroek - Argent Capital Management portfolio manager","Emily Nicolle - Bloomberg digital assets reporter","Ryan Vlastelica - Bloomberg equities reporter","Shirin Ghaffary - Bloomberg reporter","Lucas Shaw - Bloomberg entertainment reporter"]
+speaker_profiles: ["Caroline Hyde - Bloomberg host","Ed Ludlow - Bloomberg host"]
+organizations_mentioned: ["Supreme Court","Information Technology Industry Council","Department of Justice","European Union","Bloomberg","FDA"]
+locations_mentioned: ["New York","San Francisco","United States","India","European Union","China"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
+companies_mentioned: ["Nvidia","Salesforce","Snowflake","Workday","PayPal","DoorDash","IBM","Anthropic","Netflix","Warner Brothers Discovery","Paramount","SkyDance","Bitcoin","Bloomberg"]
+topics: ["ai-markets","tariffs","software","media","crypto"]
+tags: ["ai-markets","tariffs","software","media","crypto"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on it's, that's, some. >> Yeah, I think it's I think it's a fundamentally important in what's going on in private credit. It's it's a major impact, but it's uncertain where they're going for right now. In Mexico, and still in Asia as well, going to India, I don't think that's going to change because people don't think.
+This Bloomberg Tech episode ties together two major sources of market stress: renewed tariff uncertainty after the Supreme Court ruling and continued repricing of software and tech stocks around AI disruption fears. The clearest transcript-grounded throughline is that tech investors are no longer just asking who benefits from AI, but which current incumbents lose pricing power, negotiating leverage, or long-term strategic clarity because of it.
 
 ## Key Insights
 
+- The tariff discussion is not about whether tariffs survive at all, but about how much delay and uncertainty the new legal pathway creates for global tech investment decisions.
+- The software selloff is framed as forward-looking and multi-year, which is why management teams struggle to calm investors with only near-term guidance.
+- Nvidia remains central because its earnings act as a readthrough on real AI infrastructure demand even if it is no longer the only macro variable driving markets.
+- The show also links media M&A and crypto volatility back to the same bigger theme of uncertainty around regulation, sentiment, and capital allocation.
 
-- >> Yeah, I think it's I think it's a fundamentally important in what's going on in private credit.
-- It's it's a major impact, but it's uncertain where they're going for right now.
-- In Mexico, and still in Asia as well, going to India, I don't think that's going to change because people don't think.
-- It's got to be earnings that's really going to drive growth in the share price because it's hard to see those valuations going much higher >>.
-- >> Uncertainty abound, whether it's AI or whether it's trade.
-- Yeah, I think it's something that's really interesting to have this sort of big macro overlay over Nvidia that's really weighing on the entire market.
+## Claims
 
-## People Mentioned
-
-
-- [[Caroline Hyde]]
-
-- [[Ed Lello]]
-
-- [[Paramount Sky Dance]]
-
-- [[Powers Act]]
-
-- [[Truth Social]]
-
-
-
+- [[Mike Shepard - The White House is trying to preserve its trade deals by using a temporary tariff bridge while it rebuilds a more permanent tariff framework]]
+- [[Mike Shepard - The Supreme Court ruling may weaken Trump's leverage heading into talks with Xi because it injected new uncertainty into the tariff regime]]
+- [[Jason Oxman - Tariffs undermine the administration's own AI strategy because they interfere with the global inputs and foreign investment needed for chips data centers and grid buildout]]
+- [[Shanti Kelemen - Nvidia still matters enormously but it may need a very large beat to move the stock because expectations and valuations remain demanding]]
+- [[Jed Ellerbroek - Software investors care less about the next quarter than about whether AI will erode margins and pricing power several years from now]]
+- [[Ryan Vlastelica - The software selloff is being driven more by fear of long-term AI disruption than by immediate changes in company fundamentals]]
+- [[Emily Nicolle - Bitcoin is still behaving like a high-risk asset rather than a true safe haven when tariff anxiety spikes]]
+- [[Lucas Shaw - Netflix still believes its Warner Brothers bid can succeed but investors and regulators are increasingly focused on what the company would control and what it does not want to own]]
 
 ## Full Transcript
 

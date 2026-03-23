@@ -1,65 +1,67 @@
-﻿---
-title: "Trump: Alternatives Will Be Used to Replace Rejected Tariffs (Full Presser)"
-people_mentioned: ["Justices Thomas Alito", "Prime Minister"]
+---
+title: "Trump Alternatives Will Be Used to Replace Rejected Tariffs Full Presser"
+people_mentioned: ["Donald Trump", "Clarence Thomas", "Samuel Alito", "Brett Kavanaugh"]
 channel: "Bloomberg Television"
 video_id: "S5Hc_fWGGBM"
 url: "https://www.youtube.com/watch?v=S5Hc_fWGGBM"
 publish_date: 2026-02-20
 duration: "44:38"
 word_count: 7493
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "market-data"]
+content_type: "speech"
+delivery_mode: "full-presser"
+broad_category: "economics"
+subcategories: ["trade-policy", "tariffs", "executive-power"]
 series_name: ""
 episode_id: ""
-primary_person: "Justices Thomas Alito"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Justices Thomas Alito - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: ["United States"]
+primary_person: "Donald Trump"
+host_names: []
+interviewer_names: []
+interviewee_profiles: ["Donald Trump - US President"]
+speaker_profiles: ["Donald Trump - US President"]
+organizations_mentioned: ["US Supreme Court", "US Congress"]
+locations_mentioned: ["United States", "India", "Pakistan"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "market-data", "court"]
-tags: ["stock-analysis", "market-data", "court"]
+companies_mentioned: []
+topics: ["trade-policy", "tariffs", "executive-power", "section-122", "section-232"]
+tags: ["trade-policy", "tariffs", "executive-power", "section-122", "section-232"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on country, said, them. She said, But we are a small country because I said, we're going to raise it to 39% from nothing that would have rendered. That's because of tariffs and we're going to keep it going the same way and you're going to start to see the. Country is building a lot of things right now and our country is doing really well and we're going to keep.
+Trump argues that the Supreme Court ruling did not end his tariff agenda and may actually have clarified stronger alternative powers. He says tariff policy will continue through Section 122, Section 232, Section 301, and other authorities, and frames the court loss as a setback on one tool rather than on the larger strategy. He also argues that tariffs have already produced revenue, leverage, and broader policy gains and insists the next phase could be even tougher than the first.
 
 ## Key Insights
 
+- Trump says the ruling only struck down one use of tariff authority rather than the whole tariff project.
+- He argues several alternative statutes are still available and in some ways stronger.
+- He says he had been modest with tariff asks partly to avoid affecting the court.
+- He insists tariffs have already brought in large sums and strengthened his broader agenda.
+- He says fentanyl-related tariffs remain in place despite the ruling.
+- He argues the court effectively confirmed the governments power to use stronger trade restrictions than the ones he originally chose.
+- He says a new 10 percent global tariff under Section 122 will start immediately.
+- He says new Section 301 and other investigations will be launched to rebuild enforcement leverage.
 
-- She said, But we are a small country because I said, we're going to raise it to 39% from nothing that would have rendered them not.
-- That's because of tariffs and we're going to keep it going the same way and you're going to start to see the.
-- Country is building a lot of things right now and our country is doing really well and we're going to keep.
-- They said, look, you're going to fight, that's fine, but you're not going to do business with the United States and you're going to pay a.
-- If you're going to make a car in some other country, you're going to pay a 15, 20, 30% tariff.
-- Whether we charge hyper tariffs or whether we charge tariffs under a different section, that's what we're going to be doing.
+## Claims
 
-## People Mentioned
-
-
-- [[Justices Thomas Alito]]
-
-
-
-
+- [[Donald Trump - The Supreme Court ruling struck down only one use of tariff authority and did not end his broader tariff agenda]]
+- [[Donald Trump - Alternative tariff statutes are stronger than the authority the court rejected]]
+- [[Donald Trump - He deliberately kept his tariff asks modest because he did not want to influence the courts decision]]
+- [[Donald Trump - Tariffs have already been effective at raising revenue and advancing his wider policy goals]]
+- [[Donald Trump - Fentanyl-related tariffs remain fully in place despite the Supreme Court decision]]
+- [[Donald Trump - The ruling effectively confirmed his power to use tougher trade restrictions such as licensing or embargoes]]
+- [[Donald Trump - He is immediately imposing a new 10 percent global tariff under Section 122]]
+- [[Donald Trump - He is launching new Section 301 and other investigations to rebuild tariff enforcement]]
 ## Full Transcript
 
 <details>

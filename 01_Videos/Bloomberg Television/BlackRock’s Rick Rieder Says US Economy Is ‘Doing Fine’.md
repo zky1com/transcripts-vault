@@ -1,35 +1,67 @@
 ---
-title: "BlackRock’s Rick Rieder Says US Economy Is ‘Doing Fine’"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "33k7uK42R-4"
-url: "https://www.youtube.com/watch?v=33k7uK42R-4"
-publish_date: 2026-03-06
-duration: "2:56"
+batch_id: ""
+companies_mentioned: "BlackRock"
+tags: ["labor-market","productivity","health-care","housing","macro"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: "Rick Rieder"
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Rick Rieder"
 word_count: 628
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
+subcategories: ["labor-market","productivity","housing"]
+tools_mentioned: 
+claims_status: "done"
+title: "BlackRock's Rick Rieder Says US Economy Is 'Doing Fine'"
+channel: "Bloomberg Television"
+locations_mentioned: "United States"
+speech_evidence_count: 0
+publish_date: 2026-03-06
+speaker_profiles: "Rick Rieder - BlackRock CIO of Global Fixed Income"
+world_evidence_count: 0
+interviewee_profiles: "Rick Rieder - BlackRock CIO of Global Fixed Income"
+speech_status: "pending"
+organizations_mentioned: ["Federal Reserve","BlackRock"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["labor-market","productivity","health-care","housing","macro"]
+interviewer_names: 
 episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=33k7uK42R-4"
+duration: "2:56"
+video_id: "33k7uK42R-4"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Rick Rieder argues that the US economy still looks fine in aggregate, but only because headline growth is being supported by capex and by higher-income consumption while the labor market beneath the surface has become far more uneven. His core point is that productivity gains and demographics are now reshaping employment so strongly that jobs data alone no longer cleanly describes the economy.
 
+## Key Insights
 
+- Rieder thinks the aggregate economy is doing fine even while labor conditions are getting more uneven.
+- Health care hiring is carrying the labor market and masking weakness in much of the rest of the economy.
+- A broad productivity push is allowing firms to protect revenue while hiring less aggressively.
+- He sees the real social problem as a bifurcated economy, not a collapsing aggregate economy.
+- Demographic aging should keep health care employment strong for structural reasons.
+- He wants policy to focus on affordability and lower mortgage rates to revive housing and labor mobility.
+- Capex and higher-income consumption are still enough to keep top-line growth alive.
+- In his framework, jobs are no longer a clean proxy for economic health.
 
+## Claims
+
+- [[Rick Rieder - The US economy is still doing fine even though the labor market is becoming more uneven]]
+- [[Rick Rieder - Health care is masking how weak hiring has become in much of the rest of the economy]]
+- [[Rick Rieder - Productivity improvements are allowing companies to maintain revenue while cutting labor needs]]
+- [[Rick Rieder - The real social problem is a bifurcated economy rather than a collapsing aggregate economy]]
+- [[Rick Rieder - Aging demographics guarantee continued hiring in health care even as other sectors stagnate]]
+- [[Rick Rieder - Policy should focus on affordability and mortgage rates to restore labor mobility and housing activity]]
+- [[Rick Rieder - Aggregate capex and consumption can keep growth alive even while many workers feel left behind]]
+- [[Rick Rieder - Jobs are no longer a clean proxy for the health of the economy]]
 
 ## Full Transcript
 

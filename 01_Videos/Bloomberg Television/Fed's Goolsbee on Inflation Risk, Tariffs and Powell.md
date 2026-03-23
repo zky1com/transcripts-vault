@@ -1,64 +1,67 @@
-﻿---
-title: "Fed's Goolsbee on Inflation Risk, Tariffs and Powell"
-people_mentioned: ["Jay Powell", "Supreme Court"]
-channel: "Bloomberg Television"
-video_id: "ucBMazEoDWs"
-url: "https://www.youtube.com/watch?v=ucBMazEoDWs"
-publish_date: 2026-02-24
-duration: "13:47"
-word_count: 2078
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "product-ux"
-subcategories: ["product-management", "product-discovery", "product-strategy"]
-series_name: ""
-episode_id: ""
-primary_person: "Jay Powell"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Jay Powell - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: ["United States"]
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["product-management", "product-discovery", "product-strategy", "ai-safety", "ai-regulation", "ai-jobs"]
-tags: ["product-management", "product-discovery", "product-strategy", "ai-safety", "ai-regulation", "ai-jobs"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
 ---
-
+pipeline_stage: "video_only"
+world_status: "pending"
+broad_category: "economics"
+word_count: 2078
+episode_id: ""
+content_type: "interview"
+channel: "Bloomberg Television"
+locations_mentioned: ["United States","Midwest","Chicago"]
+subcategories: ["inflation","federal-reserve","labor-market","tariffs"]
+topics: ["inflation","federal-reserve","rates","labor-market","tariffs","productivity"]
+publish_date: 2026-02-24
+people_mentioned: ["Austan Goolsbee","Jay Powell","Kevin Warsh"]
+title: "Fed's Goolsbee on Inflation Risk, Tariffs and Powell"
+claims_status: "done"
+batch_id: ""
+host_names: 
+companies_mentioned: 
+speech_evidence_count: 0
+evidence_status: "pending"
+series_name: "Bloomberg Television"
+speech_status: "pending"
+video_id: "ucBMazEoDWs"
+interviewer_names: 
+url: "https://www.youtube.com/watch?v=ucBMazEoDWs"
+tools_mentioned: 
+world_evidence_count: 0
+claims_count: 8
+evidence_count: 0
+last_processed_at: 2026-03-19
+tags: ["inflation","federal-reserve","rates","labor-market","tariffs","productivity"]
+organizations_mentioned: ["Federal Reserve","Chicago Fed"]
+primary_person: "Austan Goolsbee"
+duration: "13:47"
+delivery_mode: "tv-interview"
+interviewee_profiles: "Austan Goolsbee - Chicago Fed President"
+speaker_profiles: "Austan Goolsbee - Chicago Fed President"
+---
 
 ## Summary
 
-The discussion centers on inflation, some, it's. Productivity is going to be a big issue for the Fed coming up with a new chairman coming in, Kevin Warsh, who's pretty much. I'm pretty optimistic that we can get rates down further, multiple cuts in 2026 as long as we see the progress on inflation that. It's just we must get inflation down from this 3% level that we've been stalled out for now a year or more.
+Austan Goolsbee says the Fed still sees a path to lower rates, but only if inflation finally starts moving convincingly back toward target. In his telling, the economy is not showing classic recession patterns yet; instead, policy uncertainty is freezing hiring decisions, while tariff uncertainty and AI-related productivity bets complicate the inflation outlook and make high-confidence forecasting unusually difficult.
 
 ## Key Insights
 
+- Goolsbee says inflation, not labor weakness, is the bigger immediate risk because growth and employment still look broadly steady.
+- He remains open to multiple 2026 cuts, but only after genuine inflation progress rather than another delay in the 2 percent path.
+- Tariff inflation is supposed to be transitory, so the bigger danger is letting 3 percent inflation become persistent.
+- Today's low-hiring, low-firing labor market looks more like uncertainty and waiting than the beginning of a classic recession.
+- Businesses want clear rules of the road before they commit to new hiring or supply-chain investment.
+- AI-related productivity could help disinflation over time, but data-center investment can still overheat parts of the economy in the near term.
+- He treats Fed forecasting with unusual humility because repeated shocks have made high-confidence projections less credible.
+- Goolsbee also stresses that labor-market conditions vary sharply by sector, with software softer while health care continues to expand.
 
-- Productivity is going to be a big issue for the Fed coming up with a new chairman coming in, Kevin Warsh, who's pretty much wedded to.
-- I'm pretty optimistic that we can get rates down further, multiple cuts in 2026 as long as we see the progress on inflation that forecasters have.
-- It's just we must get inflation down from this 3% level that we've been stalled out for now a year or more.
-- As I say, I think rates can still keep going down.
-- You said you want to see inflation going down.
-- I'm a little more concerned about inflation right now because I think the job market is pretty steady.
+## Claims
 
-## People Mentioned
-
-
-- [[Jay Powell]]
-
-
-
+- [[Austan Goolsbee - Inflation is the Fed's primary near-term risk because growth and labor markets still look steady]]
+- [[Austan Goolsbee - Multiple 2026 rate cuts remain plausible if inflation finally resumes moving toward 2 percent]]
+- [[Austan Goolsbee - Tariff inflation should fade over time and persistent 3 percent inflation is the real danger]]
+- [[Austan Goolsbee - Policy uncertainty is showing up as low hiring and low firing rather than classic recession layoffs]]
+- [[Austan Goolsbee - Businesses want stable rules of the road before they commit to hiring and investment]]
+- [[Austan Goolsbee - AI-driven productivity can lower inflation over time but still overheat the economy in the near term]]
+- [[Austan Goolsbee - Fed forecasts should be held lightly in a shock-heavy environment]]
+- [[Austan Goolsbee - The labor market now depends heavily on sector differences rather than one single national story]]
 
 ## Full Transcript
 

@@ -1,6 +1,6 @@
 ﻿---
 title: "How AI Could Freeze Progress: Masters in Business with Hilary Allen"
-people_mentioned: ["Hilary Allen", "Summer Beach Read", "Hillary Allen", "Shearman Sterling", "Financial Crisis Inquiry"]
+people_mentioned: ["Hilary Allen","Barry Ritholtz","Michael Dell","Ray Dalio","Peter Thiel","Elizabeth Holmes"]
 channel: "Bloomberg Podcasts"
 video_id: "NSFAIakPdmo"
 url: "https://www.youtube.com/watch?v=NSFAIakPdmo"
@@ -8,63 +8,56 @@ publish_date: 2026-02-21
 duration: "1:09:41"
 word_count: 11523
 content_type: "podcast"
-delivery_mode: "opinion"
+delivery_mode: "conversation"
 broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: "Bloomberg Podcasts"
+subcategories: ["ai-regulation","fintech","financial-stability"]
+series_name: "Masters in Business"
 episode_id: ""
 primary_person: "Hilary Allen"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Hilary Allen - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["American University", "Bloomberg Podcasts"]
-locations_mentioned: ["New York", "Silicon Valley"]
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
+host_names: "Barry Ritholtz"
+interviewer_names: "Barry Ritholtz"
+interviewee_profiles: "Hilary Allen - law professor at American University focused on regulation technology and finance"
+speaker_profiles: "Barry Ritholtz - Bloomberg host"
+organizations_mentioned: ["American University","Financial Crisis Inquiry Commission","Securities and Exchange Commission","FDIC","Congress","Bloomberg Radio"]
+locations_mentioned: ["New York","London","Sydney","Washington, D.C."]
+tools_mentioned: ["blockchain","stablecoins","smart contracts"]
+companies_mentioned: ["Shearman \u0026 Sterling","PayPal","Andreessen Horowitz","Citigroup","Amazon"]
+topics: ["ai-regulation","fintech","financial-stability","venture-capital"]
+tags: ["ai-regulation","fintech","financial-stability","venture-capital"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on it's, right, because. I worry that we're putting people in a very difficult position because it's it's a lot easier to get something right when you write. Now the obvious answer is a lot of the AI products, the anything sort of it's hard when you talk about AI because it's. It's I think you're right that there is at this moment, you know, I mean, it's also hard to say how much of this.
+Hilary Allen argues that the same innovation rhetoric once used to excuse dangerous financial deregulation is being reused around fintech, crypto, and AI. Drawing on her crisis-era regulatory work, she frames modern tech-finance optimism as a political-economy problem: weak memories, weak safeguards, strong narrative marketing, and too little respect for systemic risk, investor protection, and economic precarity.
 
 ## Key Insights
 
+- Her core lens is that regulation often looks unnecessary only after it has already succeeded.
+- She treats much of fintech as legal arbitrage wrapped in technological storytelling rather than as genuine functional improvement.
+- She argues that techno-solutionism is dangerous because it sidelines domain expertise and obscures real social costs.
+- Stablecoins, blockchain, and many VC-backed finance products are judged here by actual use and incentives rather than by futuristic branding.
 
-- I worry that we're putting people in a very difficult position because it's it's a lot easier to get something right when you write it yourself.
-- Now the obvious answer is a lot of the AI products, the anything sort of it's hard when you talk about AI because it's such an.
-- It's I think you're right that there is at this moment, you know, I mean, it's also hard to say how much of this is a.I.
-- If you're going to replace people from doing that, are you going to freeze the state of legal knowledge at 2026 and five or ten years.
-- Again, this is a story of political economy and there are still a lot of people who are mad at the Obama administration for prioritizing health.
-- Because if you think back to 2008 and what caused it, you know, there were all these stories about, well, these new financial products, these complex.
+## Claims
 
-## People Mentioned
-
-
-- [[Hilary Allen]]
-
-- [[Summer Beach Read]]
-
-- [[Hillary Allen]]
-
-- [[Shearman Sterling]]
-
-
-
+- [[Hilary Allen - Innovation rhetoric deserves skepticism because similar arguments were used to underregulate complex finance before the 2008 crisis]]
+- [[Hilary Allen - Regulation becomes politically vulnerable once it works well enough that people forget why it was created]]
+- [[Hilary Allen - Strong securities-law investor protections helped make US public markets trusted and globally attractive]]
+- [[Hilary Allen - The Obama-era political economy blunted the chance for bigger structural financial reforms right after 2008]]
+- [[Hilary Allen - Preventing financial crises requires a holistic systemic view rather than siloed oversight of isolated market segments]]
+- [[Hilary Allen - Much of fintech's real edge comes from legal arbitrage narratives rather than from superior technology]]
+- [[Hilary Allen - Stablecoins have little proven legal-payments utility and are more useful for crypto speculation illicit payments and sanctions evasion]]
+- [[Hilary Allen - Techno-solutionism overestimates what technology can fix because it flattens human problems and dismisses domain expertise]]
 
 ## Full Transcript
 
@@ -1086,3 +1079,4 @@ is my podcast producer. I'm Barry Ritholtz.
 You've been listening to Masters in Business on Bloomberg Radio.
 
 </details>
+

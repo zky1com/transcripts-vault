@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Stocks Hit by AI-Disruption Fears as IBM Tumbles | Closing Bell"
-people_mentioned: ["Romaine Bostick", "Cristina Aquino", "Carol Massar", "Emily Graffeo", "Katie Greifeld", "You Tube", "Eli Lilly", "Novo Nordisk"]
+people_mentioned: ["Romaine Bostick","Cristina Aquino","Carol Massar","Emily Graffeo","Katie Greifeld","Donald Trump"]
 channel: "Bloomberg Podcasts"
 video_id: "-yUQaYdTQ0w"
 url: "https://www.youtube.com/watch?v=-yUQaYdTQ0w"
@@ -8,71 +8,56 @@ publish_date: 2026-02-23
 duration: "9:35"
 word_count: 1950
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "risk-management", "market-data"]
-series_name: "Bloomberg Podcasts"
+delivery_mode: "market-wrap"
+broad_category: "ai"
+subcategories: ["ai-markets","software","tariffs","equities"]
+series_name: "Closing Bell"
 episode_id: ""
 primary_person: "Romaine Bostick"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Romaine Bostick - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Podcasts"]
-locations_mentioned: []
+host_names: ["Romaine Bostick","Cristina Aquino","Carol Massar","Emily Graffeo"]
+interviewer_names: ["Romaine Bostick","Cristina Aquino","Carol Massar","Emily Graffeo"]
+interviewee_profiles: 
+speaker_profiles: ["Romaine Bostick - Bloomberg host","Cristina Aquino - Bloomberg host","Carol Massar - Bloomberg host","Emily Graffeo - Bloomberg host"]
+organizations_mentioned: ["Bloomberg Podcasts","FDA"]
+locations_mentioned: ["United States","New York City"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "risk-management", "market-data", "ai-safety", "ai-jobs", "lead-generation"]
-tags: ["stock-analysis", "risk-management", "market-data", "ai-safety", "ai-jobs", "lead-generation"]
+companies_mentioned: ["Eli Lilly","Novo Nordisk","Gilead Sciences","Domino\u0027s Pizza","DoorDash","Gap","IBM","Anthropic","Citizens Private Wealth","Bloomberg"]
+topics: ["ai-markets","software","tariffs","equities","bonds"]
+tags: ["ai-markets","software","tariffs","equities","bonds"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on right, down, it's. The S&P 500 is going to settle lower by about 70 points or so, down about a percent on the day and closing just. Was yeah, we'll see if that continues, though, because yeah, I mean, if it's not a snow day tomorrow, the commute, just imagine how. Yeah, it's it's a lot out there.
+This Closing Bell episode covers a broad risk-off session driven by AI-disruption anxiety and reinforced by tariff uncertainty. The panel treats the session as different from a simple tech rotation because smaller-cap indexes also fell, while several company moves show investors quickly repricing anything that looks exposed to AI-enabled disintermediation, tariff-sensitive retail weakness, or legacy software vulnerability.
 
 ## Key Insights
 
+- The transcript's main idea is that a bullish AI buildout can still be bearish for a large set of public companies if it threatens their future business model economics.
+- The market action was broad enough to look like a real selloff rather than a narrow rotation out of mega-cap tech.
+- Several stock stories in the episode were about perceived defensiveness or scarcity of durable winners, not just headline beats and misses.
+- The Treasury rally mattered because it showed investors were willing to move into safety while reassessing the AI trade.
 
-- The S&P 500 is going to settle lower by about 70 points or so, down about a percent on the day and closing just a smidge.
-- Was yeah, we'll see if that continues, though, because yeah, I mean, if it's not a snow day tomorrow, the commute, just imagine how challenging that's.
-- Yeah, it's it's a lot out there.
-- Also looking at shares of Gap, that stock falling, closing the day down about 6%.
-- Probably one of the more meaningful moves we've seen with regards to prices, meaning prices going up and yields going down, your.
-- Ten year down about five basis points, zero on the day, four basis points on your two year yield and about 30.
+## Claims
 
-## People Mentioned
-
-
-- [[Romaine Bostick]]
-
-- [[Cristina Aquino]]
-
-- [[Carol Massar]]
-
-- [[Emily Graffeo]]
-
-- [[Katie Greifeld]]
-
-- [[You Tube]]
-
-- [[Eli Lilly]]
-
-- [[Novo Nordisk]]
-
-
-
+- [[Emily Graffeo - The Katrini-style AI disruption thesis made markets treat a still-bullish AI future as bearish for many existing public companies]]
+- [[Cristina Aquino - The selloff looked different from recent rotations because small and midcap stocks fell alongside large-cap tech instead of benefiting from the shift]]
+- [[Romaine Bostick - The market decline was broad but not indiscriminate because roughly 70 percent of S&P 500 members were down rather than nearly all of them]]
+- [[Carol Massar - Eli Lilly gained because Novo Nordisk disappointed and Lilly also got a useful product-label expansion for Zepbound]]
+- [[Carol Massar - DoorDash sold off because the AI disruption narrative singled out intermediaries whose transaction friction could be removed by smarter agents]]
+- [[Carol Massar - Gap fell as tariff fears hit retailers after Trump said he would raise the global US tariff rate to 15 percent]]
+- [[Carol Massar - IBM's sharp drop reflected fear that AI tools could erode the value of its legacy COBOL-related modernization advantage]]
+- [[Cristina Aquino - The Treasury move was a meaningful flight-to-safety signal because yields fell noticeably across the curve during the equity selloff]]
 
 ## Full Transcript
 

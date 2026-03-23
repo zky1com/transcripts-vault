@@ -1,36 +1,67 @@
 ---
-title: "Fed Is Still Assessing Impact of Iran War, Barkin Says"
-people_mentioned: []
+title: "Fed Is Still Assessing Impact of Iran War Barkin Says"
+people_mentioned: ["Tom Barkin", "Jerome Powell", "Kevin Warsh"]
 channel: "Bloomberg Television"
 video_id: "49ZWIMeQoW8"
 url: "https://www.youtube.com/watch?v=49ZWIMeQoW8"
 publish_date: 2026-03-05
 duration: "9:51"
 word_count: 1939
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "interview"
+delivery_mode: "interview"
+broad_category: "economics"
+subcategories: ["federal-reserve", "inflation", "labor-market"]
 series_name: ""
 episode_id: ""
-primary_person: ""
+primary_person: "Tom Barkin"
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+interviewee_profiles: ["Tom Barkin - Richmond Fed President"]
+speaker_profiles: ["Tom Barkin - Richmond Fed President"]
+organizations_mentioned: ["Federal Reserve"]
+locations_mentioned: ["United States", "Richmond", "Eastern Shore", "District of Columbia", "West Virginia", "Maryland", "Virginia"]
 tools_mentioned: []
 companies_mentioned: []
-topics: []
-tags: []
+topics: ["federal-reserve", "inflation", "labor-market", "productivity", "oil"]
+tags: ["federal-reserve", "inflation", "labor-market", "productivity", "oil"]
+pipeline_stage: video_only
+claims_status: done
+evidence_status: pending
+claims_count: 8
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
 ---
 
+## Summary
 
+Tom Barkin says the Fed still needs more time to assess whether the Iran war is a short-lived oil shock or something more persistent. He argues consumer pricing power is weak, productivity has been helping firms absorb costs, and the labor market still looks relatively open. He also says policy remains modestly restrictive rather than deeply tight, with recent data suggesting inflation risks have risen relative to labor-market risks compared with last fall.
 
+## Key Insights
 
+- Barkin says the key macro question is whether the oil shock proves short term or long term.
+- He thinks consumers remain too exhausted by inflation to absorb broad new price hikes easily.
+- He says strong productivity has helped firms protect margins without passing through every cost increase.
+- He describes the labor market as relatively loose even if firms are not hiring aggressively.
+- He thinks recent inflation data have pushed the balance of risks back toward inflation versus where the Fed was in the fall.
+- He still sees policy as modestly restrictive rather than highly restrictive.
+- He says strong demand over the last four years has been far more resilient than most people would have predicted.
+- He expects the committee to adapt to a new chair while still valuing the regional outreach model of the Fed.
 
+## Claims
 
+- [[Tom Barkin - The Fed still cannot tell whether the Iran war is a short-term oil shock or a longer-lasting inflation problem]]
+- [[Tom Barkin - Consumers are too exhausted by inflation to give firms much pricing power right now]]
+- [[Tom Barkin - Productivity gains are helping businesses absorb higher input costs without fully passing them through to prices]]
+- [[Tom Barkin - The labor market still feels relatively open or even loose to many businesses]]
+- [[Tom Barkin - The balance of risks has shifted back toward inflation compared with the labor-focused worries of last fall]]
+- [[Tom Barkin - Monetary policy still looks modestly restrictive rather than highly restrictive]]
+- [[Tom Barkin - Demand has remained surprisingly strong despite years of higher interest rates]]
+- [[Tom Barkin - The Fed should preserve its regional outreach model even if a new chair wants more message discipline]]
 ## Full Transcript
 
 <details>

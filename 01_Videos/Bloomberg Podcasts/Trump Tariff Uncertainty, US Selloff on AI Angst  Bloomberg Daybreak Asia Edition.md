@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Trump Tariff Uncertainty, US Selloff on AI Angst | Bloomberg Daybreak: Asia Edition"
-people_mentioned: ["Daybreak Asia", "Truth Social", "Morgan Stanley", "Leant Tingu", "Asia Equities", "Lean Ting", "Supreme Court", "White House"]
+people_mentioned: ["Doug Krizner","Lean Ting","Ethan Devitt","Heidi Strad Watts","Shery Ahn","Donald Trump"]
 channel: "Bloomberg Podcasts"
 video_id: "yi0fj8kQc_s"
 url: "https://www.youtube.com/watch?v=yi0fj8kQc_s"
@@ -8,67 +8,56 @@ publish_date: 2026-02-24
 duration: "17:46"
 word_count: 3046
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: "Bloomberg Podcasts"
+delivery_mode: "conversation"
+broad_category: "economics"
+subcategories: ["tariffs","ai-markets","asia-equities"]
+series_name: "Bloomberg Daybreak: Asia Edition"
 episode_id: ""
-primary_person: "Daybreak Asia"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Daybreak Asia - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Audio Studios", "Bloomberg Podcasts"]
-locations_mentioned: []
+primary_person: "Lean Ting"
+host_names: "Doug Krizner"
+interviewer_names: ["Doug Krizner","Heidi Strad Watts","Shery Ahn"]
+interviewee_profiles: ["Lean Ting - Bloomberg managing editor for Asia equities","Ethan Devitt - Moneta Global Wealth managing director"]
+speaker_profiles: ["Doug Krizner - Bloomberg host","Heidi Strad Watts - Bloomberg host","Shery Ahn - Bloomberg host"]
+organizations_mentioned: ["Bloomberg Audio Studios","White House"]
+locations_mentioned: ["Singapore","China","Japan","Taiwan","Asia-Pacific","United States"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
+companies_mentioned: ["Morgan Stanley","DoorDash","Uber Eats","Mastercard","Visa","SK Hynix","TSMC","Nvidia","Advantest","Tokyo Electron","Moneta Global Wealth"]
+topics: ["tariffs","ai-markets","asia-equities","china","japan-markets"]
+tags: ["tariffs","ai-markets","asia-equities","china","japan-markets"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on time, asia, we're. A lot of uncertainty also on the trade environment of course with President Trump potentially now according to reports announcing new national security tariffs. I would say for the first one, Japan net is considered neutral because Japan had a 15% tariff deal with the US before and. By the way, Morgan Stanley is estimating that the average tariff now on goods from China will drop from a rate that is around.
+This episode ties together two market narratives that were moving at the same time: a fresh layer of tariff uncertainty after the Supreme Court ruling, and a sharper market debate about who actually wins and loses from AI disruption. Lean Ting frames Asia as the main regional beneficiary of both the tariff reset and the current AI scare trade, while Ethan Devitt argues that the more durable AI investment case sits in energy and grid infrastructure rather than in the most momentum-driven software names.
 
 ## Key Insights
 
+- China and several Asian chip-linked markets were treated as relative winners because the tariff reset reduced pressure on Chinese goods and kept the infrastructure side of the AI trade intact.
+- The transcript draws a sharp distinction between AI beneficiaries such as semis and power infrastructure and threatened intermediaries such as delivery or payment platforms.
+- China's holiday consumer data looked stronger in travel than in cinemas, which matters because the note is more nuanced than a blanket consumer-recovery story.
+- The market conversation still assumes that retail money and sidelined cash can keep making pullbacks shallower than headline fear might suggest.
 
-- A lot of uncertainty also on the trade environment of course with President Trump potentially now according to reports announcing new national security tariffs on top.
-- I would say for the first one, Japan net is considered neutral because Japan had a 15% tariff deal with the US before and the US.
-- By the way, Morgan Stanley is estimating that the average tariff now on goods from China will drop from a rate that is around 32% now.
-- Lot of those things are listed in Asia that also sort of explains why Asia is now considered a little bit of.
-- Um just because China without that 10% fentinel tariff, China's now having the same tariff rate uh with all the other trading partners with the US.
-- On that front I think uh we're not seeing a lot of reaction out of Japan.
+## Claims
 
-## People Mentioned
-
-
-- [[Daybreak Asia]]
-
-- [[Truth Social]]
-
-- [[Morgan Stanley]]
-
-- [[Leant Tingu]]
-
-- [[Asia Equities]]
-
-- [[Lean Ting]]
-
-
-
+- [[Lean Ting - China was the clearest equity winner in Asia from the Supreme Court tariff ruling because the removal of the fentanyl tariff put it closer to peer tariff treatment]]
+- [[Lean Ting - Asia is a relative haven in the AI scare trade because many likely winners such as chip and infrastructure suppliers are listed there while many threatened intermediaries are listed in the United States]]
+- [[Lean Ting - Investor excitement around Chinese humanoid robots is running ahead of proven revenue visibility because the demonstrations look impressive but monetization is still unclear]]
+- [[Lean Ting - Lunar New Year data in China showed strong travel and tourism activity even though cinema box office performance was weak]]
+- [[Lean Ting - Japan looked roughly neutral on the Supreme Court tariff ruling because its earlier 15 percent deal left it broadly in line with the new global tariff structure]]
+- [[Lean Ting - Japan is partly insulated in the AI scare trade because major Nikkei components are chip-equipment suppliers rather than the most exposed software-style intermediaries]]
+- [[Ethan Devitt - The most durable AI investment opportunities are in energy and grid infrastructure rather than in the most momentum-driven software trades]]
+- [[Ethan Devitt - Markets remain fundamentally supported because retail money and sidelined cash keep buying pullbacks despite tariff and geopolitical shocks]]
 
 ## Full Transcript
 

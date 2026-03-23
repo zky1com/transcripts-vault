@@ -1,35 +1,67 @@
 ---
-title: "Philip Morris CEO Says Cigarettes Belong in a Museum as Zyn and IQOS Surge"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "74De2915cK4"
-url: "https://www.youtube.com/watch?v=74De2915cK4"
-publish_date: 2026-03-08
-duration: "12:46"
+batch_id: ""
+companies_mentioned: ["Philip Morris International", "Goldman Sachs", "McDonalds", "Disney", "Swedish Match"]
+tags: ["nicotine", "smoke-free-products", "iqos", "zyn", "harm-reduction"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Jacek Olczak", "Ken Shea", "Lauren Czaplicki", "Michael McKee"]
+evidence_status: "pending"
+content_type: "documentary-interview"
+claims_count: 8
+primary_person: "Jacek Olczak"
 word_count: 2011
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
+subcategories: ["nicotine", "harm-reduction", "consumer-health"]
+tools_mentioned: 
+claims_status: "done"
+title: "Philip Morris CEO Says Cigarettes Belong in a Museum as Zyn and IQOS Surge"
+channel: "Bloomberg Television"
+locations_mentioned: ["Neuchatel", "Switzerland", "United States", "Japan", "South Korea", "Italy", "Colorado"]
+speech_evidence_count: 0
+publish_date: 2026-03-08
+speaker_profiles: "Jacek Olczak - Philip Morris International CEO"
+world_evidence_count: 0
+interviewee_profiles: "Jacek Olczak - Philip Morris International CEO"
+speech_status: "pending"
+organizations_mentioned: ["Philip Morris International", "Johns Hopkins University"]
+delivery_mode: "tv-feature"
+evidence_count: 0
+topics: ["nicotine", "smoke-free-products", "iqos", "zyn", "harm-reduction"]
+interviewer_names: 
 episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+broad_category: "health"
+url: "https://www.youtube.com/watch?v=74De2915cK4"
+duration: "12:46"
+video_id: "74De2915cK4"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Jacek Olczak argues that Philip Morris has deliberately pivoted away from combustibles toward smoke-free nicotine products because the real harm comes from smoke and combustion, not from preserving the old cigarette form factor. The transcript presents that strategy alongside the companys commercial success in IQOS and Zyn, while also making clear that addiction, public-health mistrust, and unresolved long-run health questions remain central to the debate.
 
+## Key Insights
 
+- Olczak explicitly says cigarettes should end up in a museum.
+- He describes the strategic pivot as a near-total redirection of investment away from combustibles.
+- His harm-reduction logic rests on removing combustion and therefore reducing exposure to toxicants.
+- He treats IQOS as a high-conversion product because many users who try it stop smoking entirely.
+- He sees Zyn as a fast-growing complementary product with strong reduction potential.
+- The broader segment shows smoke-free products are already a very large share of PMI revenue.
+- At the same time, the transcript repeatedly emphasizes that nicotine addiction remains real and long-run health effects are still uncertain.
+- The note is as much about the business transition as it is about the unresolved health tradeoffs.
 
+## Claims
+
+- [[Jacek Olczak - Philip Morris has deliberately redirected investment away from combustible cigarettes toward smoke free products]]
+- [[Jacek Olczak - Olczak thinks cigarettes should eventually end up in a museum]]
+- [[Jacek Olczak - The central harm reduction argument is that smoke and combustion drive most of cigarettes health damage]]
+- [[Jacek Olczak - Removing combustion can let smokers keep using nicotine while materially reducing exposure to harmful toxicants]]
+- [[Jacek Olczak - IQOS succeeded in part because it replicated enough of the smoking ritual to help many users fully stop smoking cigarettes]]
+- [[Jacek Olczak - Philip Morris learned early that roughly seventy percent of people who bought IQOS stayed with it and stopped smoking]]
+- [[Jacek Olczak - Zyn and nicotine pouches are growing faster than IQOS even if IQOS remains stronger on conversion]]
+- [[Jacek Olczak - Philip Morris expects smoke free products to dominate its revenue mix by 2030]]
 
 ## Full Transcript
 

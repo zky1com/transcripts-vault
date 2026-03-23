@@ -1,64 +1,63 @@
 ﻿---
-title: "Fedâ€™s Goolsbee Says Tariff Ruling Could Help Cool Inflation"
-people_mentioned: ["Jay Powell", "Supreme Court"]
+title: "Fed’s Goolsbee Says Tariff Ruling Could Help Cool Inflation"
+people_mentioned: ["Austan Goolsbee","Jay Powell","Kevin Warsh"]
 channel: "Bloomberg Podcasts"
 video_id: "chB_brnm3k8"
 url: "https://www.youtube.com/watch?v=chB_brnm3k8"
 publish_date: 2026-02-24
 duration: "13:47"
 word_count: 2078
-content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "product-ux"
-subcategories: ["product-management", "product-discovery", "product-strategy"]
+content_type: "interview"
+delivery_mode: "conversation"
+broad_category: "economics"
+subcategories: ["monetary-policy","inflation","labor-market"]
 series_name: "Bloomberg Podcasts"
 episode_id: ""
-primary_person: "Jay Powell"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Jay Powell - Bloomberg"]
+primary_person: "Austan Goolsbee"
+host_names: []
+interviewer_names: []
+interviewee_profiles: "Austan Goolsbee - President of the Federal Reserve Bank of Chicago"
 speaker_profiles: []
-organizations_mentioned: ["Bloomberg Podcasts"]
-locations_mentioned: ["United States"]
+organizations_mentioned: ["Federal Reserve Bank of Chicago","Federal Open Market Committee","Supreme Court","USMCA"]
+locations_mentioned: ["United States","Midwest","Chicago"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["product-management", "product-discovery", "product-strategy", "ai-safety", "ai-regulation", "ai-jobs"]
-tags: ["product-management", "product-discovery", "product-strategy", "ai-safety", "ai-regulation", "ai-jobs"]
+companies_mentioned: []
+topics: ["monetary-policy","inflation","labor-market","tariffs"]
+tags: ["monetary-policy","inflation","labor-market","tariffs"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on inflation, some, it's. Productivity is going to be a big issue for the Fed coming up with a new chairman coming in, Kevin Warsh, who's pretty much. I'm pretty optimistic that we can get rates down further, multiple cuts in 2026 as long as we see the progress on inflation that. It's just we must get inflation down from this 3% level that we've been stalled out for now a year or more.
+Austan Goolsbee says inflation has re-emerged as the more important near-term policy risk because growth and the job market still look steady. He remains open to rate cuts if inflation clearly resumes falling, but argues that tariff uncertainty and sector-specific hiring hesitation make this a wait-and-see environment rather than a textbook recession signal.
 
 ## Key Insights
 
+- He distinguishes a low-hiring low-firing economy from a true recessionary labor-market break.
+- He expects tariff inflation to fade only if the shock really proves transitory instead of repeatedly shifting into new forms.
+- He sees policy uncertainty as a direct drag on hiring, especially in trade-sensitive industries like autos.
+- He also warns that productivity booms can be disinflationary in the long run while still creating short-run bottlenecks and price pressure.
 
-- Productivity is going to be a big issue for the Fed coming up with a new chairman coming in, Kevin Warsh, who's pretty much wedded to.
-- I'm pretty optimistic that we can get rates down further, multiple cuts in 2026 as long as we see the progress on inflation that forecasters have.
-- It's just we must get inflation down from this 3% level that we've been stalled out for now a year or more.
-- As I say, I think rates can still keep going down.
-- You said you want to see inflation going down.
-- I'm a little more concerned about inflation right now because I think the job market is pretty steady.
+## Claims
 
-## People Mentioned
-
-
-- [[Jay Powell]]
-
-
-
+- [[Austan Goolsbee - Inflation is the bigger near-term risk because growth and the labor market still look steady]]
+- [[Austan Goolsbee - Multiple 2026 rate cuts are still plausible if inflation resumes clear progress back toward 2 percent]]
+- [[Austan Goolsbee - Tariff-driven inflation should fade if it is truly transitory even when tariff policy is reshuffled into new legal forms]]
+- [[Austan Goolsbee - A low-hiring low-firing labor market looks more like uncertainty than the start of a classic recession]]
+- [[Austan Goolsbee - Businesses will be slow to hire until they know the rules of the road on trade and other policy questions]]
+- [[Austan Goolsbee - Labor-market conditions now differ sharply by sector with healthcare still expanding while some software firms weigh cuts]]
+- [[Austan Goolsbee - Productivity booms can reduce inflation over time but still push prices higher in the short run through investment bottlenecks]]
+- [[Austan Goolsbee - Fed forecasts in a shock-heavy environment should be held with humility because uncertainty is unusually high]]
 
 ## Full Transcript
 
@@ -244,3 +243,4 @@ But. Where the public financing that's out of
 the Fed's that's out of the Fed's lane.
 
 </details>
+

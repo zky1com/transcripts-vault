@@ -1,36 +1,67 @@
 ---
-title: "Fed’s Christopher Waller on War-Related Inflation, Jobs, Private Credit"
-people_mentioned: []
+title: "Feds Christopher Waller on War-Related Inflation, Jobs, Private Credit"
+people_mentioned: ["Christopher Waller", "Lisa Abramowicz", "Mike McKee", "Chris Waller", "Stephen Miran"]
 channel: "Bloomberg Television"
 video_id: "Pzn4gVw0oMs"
 url: "https://www.youtube.com/watch?v=Pzn4gVw0oMs"
 publish_date: 2026-03-06
 duration: "10:13"
 word_count: 2187
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "interview"
+delivery_mode: "interview"
+broad_category: "economics"
+subcategories: ["federal-reserve", "inflation", "labor-market"]
 series_name: ""
 episode_id: ""
-primary_person: ""
+primary_person: "Christopher Waller"
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+interviewee_profiles: ["Christopher Waller - Federal Reserve Governor"]
+speaker_profiles: ["Christopher Waller - Federal Reserve Governor"]
+organizations_mentioned: ["Federal Reserve"]
+locations_mentioned: ["United States", "Middle East"]
 tools_mentioned: []
 companies_mentioned: []
-topics: []
-tags: []
+topics: ["federal-reserve", "inflation", "labor-market", "oil", "private-credit"]
+tags: ["federal-reserve", "inflation", "labor-market", "oil", "private-credit"]
+pipeline_stage: video_only
+claims_status: done
+evidence_status: pending
+claims_count: 8
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
 ---
 
+## Summary
 
+Christopher Waller argues that the Middle East oil spike matters for households but is not yet a sustained inflation problem for Fed policy unless it persists and spreads. He remains more worried about labor-market fragility than many colleagues, though he says stronger jobs data and hot inflation would justify waiting longer on cuts. He also treats current private-credit blowups as isolated trouble spots rather than evidence of a broad systemic event.
 
+## Key Insights
 
+- Waller says oil shocks matter for policy mainly if they last long enough to bleed into the rest of the price system.
+- He thinks the 1970s analogy is too strong unless repeated energy shocks keep hitting one after another.
+- He still sees the labor market as fragile because hiring remains narrow and much of the economy is barely adding jobs.
+- He says solid jobs plus hotter inflation would make it easier to sit and wait rather than cut.
+- He also says weak jobs would quickly revive the argument for easing because labor risks remain real.
+- He expects tariff-driven inflation to fade and does not see tariff risks as heavily skewed toward more price pressure.
+- He rejects the idea that the Fed should simply do nothing because uncertainty makes policy less powerful.
+- He says private-credit stress is showing up in scattered cases, not yet as a systemic market threat.
 
+## Claims
 
+- [[Christopher Waller - The Middle East oil spike is unlikely to create sustained inflation unless it persists and feeds through the broader economy]]
+- [[Christopher Waller - The 1970s are the wrong comparison unless repeated oil shocks keep arriving one after another]]
+- [[Christopher Waller - The labor market is fragile because hiring is narrow and much of the economy is barely creating jobs]]
+- [[Christopher Waller - Strong jobs data plus hot inflation would justify waiting longer before cutting rates]]
+- [[Christopher Waller - Weak labor data would strengthen the case for cuts because labor-market downside still worries him more than inflation]]
+- [[Christopher Waller - Tariff inflation should fade over time and he does not see tariff risks as skewed toward much more price pressure]]
+- [[Christopher Waller - The Fed still has to try to support the economy even if uncertainty limits how powerful rate cuts may be]]
+- [[Christopher Waller - Private-credit stress looks like isolated trouble spots rather than a systemic financial-stability problem]]
 ## Full Transcript
 
 <details>

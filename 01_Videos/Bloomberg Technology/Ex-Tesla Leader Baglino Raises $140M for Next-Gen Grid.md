@@ -1,64 +1,67 @@
-﻿---
-title: "Ex-Tesla Leader Baglino Raises $140M for Next-Gen Grid"
-people_mentioned: ["Elon Musk"]
-channel: "Bloomberg Technology"
-video_id: "XVbhKJazTLY"
-url: "https://www.youtube.com/watch?v=XVbhKJazTLY"
-publish_date: 2026-02-18
-duration: "5:04"
-word_count: 951
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "engineering-tools"
-subcategories: ["developer-productivity", "api-integration", "data-tools"]
-series_name: ""
-episode_id: ""
-primary_person: "Elon Musk"
-host_names: ["Bloomberg Technology"]
-interviewer_names: ["Bloomberg Technology"]
-interviewee_profiles: ["Elon Musk - Tesla"]
-speaker_profiles: []
-organizations_mentioned: ["American Dynamism Fund", "Bloomberg Technology"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Tesla", "Bloomberg"]
-topics: ["developer-productivity", "api-integration", "data-tools", "ai-safety", "ai-regulation", "ai-coding", "lead-generation", "product-management"]
-tags: ["developer-productivity", "api-integration", "data-tools", "ai-safety", "ai-regulation", "ai-coding", "lead-generation", "product-management"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
 ---
-
+batch_id: ""
+companies_mentioned: ["Heron","Tesla","Crusoe"]
+tags: ["energy","grid-modernization","data-centers","solar","power-electronics","manufacturing"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: "Ed Ludlow"
+people_mentioned: ["Drew Baglino","Elon Musk"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Drew Baglino"
+word_count: 951
+subcategories: ["energy-infrastructure","grid-modernization","industrial-policy"]
+tools_mentioned: "Heron Link"
+claims_status: "done"
+title: "Ex-Tesla Leader Baglino Raises $140M for Next-Gen Grid"
+channel: "Bloomberg Technology"
+locations_mentioned: "United States"
+speech_evidence_count: 0
+publish_date: 2026-02-18
+speaker_profiles: "Drew Baglino - Heron founder and former Tesla executive"
+world_evidence_count: 0
+interviewee_profiles: "Drew Baglino - Heron founder and former Tesla executive"
+speech_status: "pending"
+organizations_mentioned: ["Andreessen Horowitz","American Dynamism Fund"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["energy","grid-modernization","data-centers","solar","power-electronics","manufacturing"]
+interviewer_names: "Ed Ludlow"
+episode_id: ""
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=XVbhKJazTLY"
+duration: "5:04"
+video_id: "XVbhKJazTLY"
+series_name: "Bloomberg Technology"
+---
 
 ## Summary
 
-The discussion centers on we're, yeah, heron. Yeah, we're we're building it at home, and we're building it with completely different supply chain that's way more scalable. We're we're focused on building new technology and manufacturing in The United States, and that's really aligned with a 16 c's thesis through their. To do that, we need more renewable energy, and we need more electricity.
+Drew Baglino presents Heron as a grid-modernization company built around a simple thesis: power electronics have advanced dramatically for decades, but the core of the electricity system still relies on old mechanical infrastructure. He argues that bringing silicon-and-software power conversion into data centers, renewables, and storage can reduce equipment complexity, lower losses, and help the United States meet surging electricity demand from AI and electrification.
 
 ## Key Insights
 
+- Baglino frames Heron as an attempt to bring modern power-semiconductor capability into the grid itself.
+- He says domestic manufacturing is part of the product thesis because current grid equipment supply chains are too slow and overseas-dependent.
+- Heron is also trying to simplify data-center buildouts by removing much of the equipment between the grid and the chip.
+- Reducing losses from grid to chip means customers can get more compute output from the same hard-to-secure interconnection.
+- He sees the US power system at an inflection point because AI demand and broader electrification both require much more electricity.
+- Baglino is explicitly bullish that 100 gigawatts of solar in the United States is achievable if industry commits.
+- Heron treats solar, batteries, and data centers as one broad market because they share the same conversion bottleneck.
+- He also describes investors like Andreessen Horowitz as execution partners, not just sources of capital.
 
-- Yeah, we're we're building it at home, and we're building it with completely different supply chain that's way more scalable.
-- We're we're focused on building new technology and manufacturing in The United States, and that's really aligned with a 16 c's thesis through their American dynamism.
-- To do that, we need more renewable energy, and we need more electricity.
-- We're bringing that to a sector that hasn't seen much change, which is the electricity sector itself.
-- In layman's terms, where would Heron fit in the build out of a new data center?
-- Second, we're simplifying what they need to build out.
+## Claims
 
-## People Mentioned
-
-
-- [[Elon Musk]]
-
-
-
+- [[Drew Baglino - Heron is trying to modernize the grid by bringing decades of power-semiconductor progress into core electricity infrastructure]]
+- [[Drew Baglino - Heron's domestic manufacturing strategy is meant to offer a faster and more scalable alternative to overseas grid equipment]]
+- [[Drew Baglino - Heron aims to simplify data-center power architecture by removing much of the equipment between the grid and the chip]]
+- [[Drew Baglino - Lowering losses from grid to chip effectively increases compute output from the same power interconnection]]
+- [[Drew Baglino - The US power system is at a pivotal moment because AI demand and electrification both require much more electricity]]
+- [[Drew Baglino - Scaling solar to 100 gigawatts in the United States is achievable if industry commits to it]]
+- [[Drew Baglino - Heron sees solar batteries and data centers as one addressable power-conversion opportunity]]
+- [[Drew Baglino - Investors like Andreessen Horowitz matter to Heron for recruiting policy and execution support beyond capital]]
 
 ## Full Transcript
 

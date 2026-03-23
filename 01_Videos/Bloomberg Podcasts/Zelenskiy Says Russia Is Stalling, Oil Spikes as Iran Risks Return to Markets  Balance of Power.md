@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Zelenskiy Says Russia Is Stalling, Oil Spikes as Iran Risks Return to Markets | Balance of Power"
-people_mentioned: ["Kaylee Lines", "Joe Matthew", "House Intelligence Committee", "Democratic Congressman Raja", "Krishna Murthy", "Jerry Ford", "Android Auto", "Middle East"]
+people_mentioned: ["Kailey Leinz","Joe Mathieu","Raja Krishnamoorthi","Christina Ruffini","William Taylor","Matthew Miller","Donald Trump","Volodymyr Zelenskyy","Vladimir Putin","Marco Rubio","JD Vance","Steve Witkoff","Jared Kushner","Dan Goldman"]
 channel: "Bloomberg Podcasts"
 video_id: "CrBArU48B6U"
 url: "https://www.youtube.com/watch?v=CrBArU48B6U"
@@ -8,67 +8,56 @@ publish_date: 2026-02-19
 duration: "38:43"
 word_count: 7648
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
-series_name: "Bloomberg Podcasts"
+delivery_mode: "conversation"
+broad_category: "politics"
+subcategories: ["ukraine","russia","iran","congressional-oversight"]
+series_name: "Balance of Power"
 episode_id: ""
-primary_person: "Kaylee Lines"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Kaylee Lines - Apple"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Audio Studios", "Bloomberg Balance", "Bloomberg Business App", "Bloomberg Podcasts"]
-locations_mentioned: ["New York"]
+primary_person: "William Taylor"
+host_names: ["Kailey Leinz","Joe Mathieu"]
+interviewer_names: ["Kailey Leinz","Joe Mathieu"]
+interviewee_profiles: ["Raja Krishnamoorthi - Democratic congressman and House Intelligence Committee member","Christina Ruffini - Bloomberg This Weekend co-host","William Taylor - former US ambassador to Ukraine","Matthew Miller - Venovo partner and former State Department spokesperson"]
+speaker_profiles: ["Kailey Leinz - Bloomberg host","Joe Mathieu - Bloomberg host"]
+organizations_mentioned: ["House Intelligence Committee","State Department","Pentagon","Department of Homeland Security","ICE","Congress","Venovo","Bloomberg Audio Studios"]
+locations_mentioned: ["Washington","Middle East","Ukraine","Russia","Iran","Geneva","Munich","New York"]
 tools_mentioned: []
-companies_mentioned: ["Apple", "Bloomberg"]
-topics: ["saas-growth", "startup-strategy", "ai-safety"]
-tags: ["saas-growth", "startup-strategy", "ai-safety"]
+companies_mentioned: ["Bloomberg","Axios","CBS","Paramount"]
+topics: ["ukraine","russia","iran","congressional-oversight","corporate-politics"]
+tags: ["ukraine","russia","iran","congressional-oversight","corporate-politics"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on democrats, that's, trump. If there's anything that's going to be done, it's going to be have to be done like something that's hugely bipartisan. Uh Kristen, if President Trump is maybe going to do uh the tour we were promised on affordability, it seems it's going to be. I don't think I'm going on a limb here to say that lots of times the things that the president said, it was the.
+This Balance of Power episode moves between two kinds of pressure campaigns: military and diplomatic pressure around Iran and Ukraine, and political pressure that Democrats could apply to companies if they retake the House. William Taylor and Christina Ruffini frame both Middle East and Ukraine negotiations as situations where force posture and leverage matter more than optimistic rhetoric, while Matthew Miller argues that a future Democratic majority would likely route oversight through corporations because executive agencies can run out the clock more easily.
 
 ## Key Insights
 
+- The foreign-policy segments all converge on the same warning: diplomacy without real leverage gives adversaries room to delay, posture, or escalate on their own timetable.
+- The Ukraine discussion is especially clear that a lasting settlement cannot come from forcing Kyiv into surrender and calling that peace.
+- The Iran segment treats the scale of US military deployments as evidence that Washington wants to preserve a credible kinetic option even while talks continue.
+- The corporate-oversight segment is unusually concrete about why companies, rather than the White House, could become the easiest subpoena targets in a future Democratic House.
 
-- If there's anything that's going to be done, it's going to be have to be done like something that's hugely bipartisan.
-- Uh Kristen, if President Trump is maybe going to do uh the tour we were promised on affordability, it seems it's going to be resuming in.
-- I don't think I'm going on a limb here to say that lots of times the things that the president said, it was the president who.
-- Is that the last real legislative work we're going to see in this Congress because now it's getting into electoral politics and all the actual legislating.
-- It's it's a big waiting game as well to see how much pressure Washington wants to put on Russia.
-- Ballroom although the ballroom is a much more traditional you see company companies contribute to various projects over time >> they're going.
+## Claims
 
-## People Mentioned
-
-
-- [[Kaylee Lines]]
-
-- [[Joe Matthew]]
-
-- [[House Intelligence Committee]]
-
-- [[Democratic Congressman Raja]]
-
-- [[Krishna Murthy]]
-
-- [[Jerry Ford]]
-
-
-
+- [[Raja Krishnamoorthi - Iran should not be allowed to obtain a nuclear weapon but the United States should pursue diplomacy with allies rather than slide into another Middle East war]]
+- [[Christina Ruffini - The scale of US military hardware moving into the Middle East suggests officials are preparing for the possibility of real military action even as diplomacy continues]]
+- [[Christina Ruffini - Russia is using negotiations with Ukraine mainly to influence the White House and buy time rather than to reach a genuine settlement with Kyiv]]
+- [[William Taylor - There is no real middle ground between Ukraine's desire to remain sovereign and Russia's desire to dominate it]]
+- [[William Taylor - The United States would need to pressure Putin economically and militarily because talks alone will not produce a meaningful ceasefire]]
+- [[William Taylor - Forcing Ukraine into capitulation would be a failure because Zelenskyy will not surrender and Trump would not achieve a real win]]
+- [[Matthew Miller - If Democrats win the House they are likely to target companies rather than the White House because firms cannot stonewall congressional subpoenas as easily as executive agencies can]]
+- [[Matthew Miller - The bigger corporate risk from Democratic oversight is document disclosure and reputational damage rather than only the public hearing itself]]
 
 ## Full Transcript
 

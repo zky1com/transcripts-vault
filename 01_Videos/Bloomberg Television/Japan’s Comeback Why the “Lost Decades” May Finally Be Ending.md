@@ -1,75 +1,55 @@
-﻿---
-title: "Japanâ€™s Comeback: Why the â€œLost Decadesâ€ May Finally Be Ending"
-people_mentioned: ["As Germany", "Mark Rowan", "Mireya Solis", "Asia Policy Studies", "Brookings Institution", "Quiet Leadership", "Prime Minister Abe"]
+---
+title: "Japan's Comeback: Why the \"Lost Decades\" May Finally Be Ending"
+people_mentioned: ["Mark Rowan", "Mireya Solis", "Hiromi Yamaguchi", "Shigekazu Wada", "Shinzo Abe"]
 channel: "Bloomberg Television"
 video_id: "PeqPG0l9M0o"
 url: "https://www.youtube.com/watch?v=PeqPG0l9M0o"
-publish_date: 2026-02-21
+publish_date: "2026-02-21"
 duration: "12:11"
-word_count: 1901
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+word_count: "1901"
+content_type: "feature"
+delivery_mode: "news_feature"
+broad_category: "economics"
+subcategories: ["Japan", "inflation", "corporate governance", "demographics"]
 series_name: ""
 episode_id: ""
-primary_person: "As Germany"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["As Germany - Bloomberg"]
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
 speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+organizations_mentioned: ["Brookings Institution", "Japan Exchange Group", "Tokyo Stock Exchange"]
+locations_mentioned: ["Japan", "Tokyo"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
+companies_mentioned: ["Apollo Global Management"]
+topics: ["Japan", "inflation", "corporate reform", "demographics", "productivity"]
+tags: ["economics", "japan", "inflation", "governance", "productivity"]
+claims_status: "done"
+claims_count: "8"
+last_processed_at: "2026-03-20"
 ---
-
 
 ## Summary
 
-The discussion centers on japan, japanese, more. Most people's expectation of Japan or business mindset of Japan is 30 years of stagnation. About what's happening in Japan and in Japan. What's happening here is totally different than people's expectation, because most people's expectation of Japan or business mindset of Japan is 30 years of.
+This feature argues that Japan's comeback is being driven by a macro regime shift as much as by stock-market enthusiasm: inflation is back, governance reform has real force behind it, and companies are being pushed to use capital more productively. Mark Rowan, Mireya Solis, and Hiromi Yamaguchi all describe a Japan that no longer fits the old story of passive stagnation and instead faces a new era of reform, productivity pressure, and large long-term investment needs.
 
 ## Key Insights
 
+- The note frames inflation as the catalyst that finally makes old cash-heavy habits and deflation-era assumptions untenable.
+- It pushes back on the cliche that Japan simply stood still for thirty years, arguing that the foundations for change were already being laid.
+- Yamaguchi treats mindset change inside management teams as the real bottleneck in reform, more than any single valuation metric.
+- The long-run constraint remains demographics, which is why productivity, automation, and digitization matter so much to the Japan story.
 
-- Most people's expectation of Japan or business mindset of Japan is 30 years of stagnation.
-- What's happening here is totally different than people's expectation, because most people's expectation of Japan or business mindset of Japan is 30 years of stagnation.
-- The need for Japan to provide for its ageing population and to deal with its aging population, the need for Japan to finance what it needs.
-- How many significant changes in the Japanese not only Japanese market but also Japanese society?
-- Since the Prime Minister Abe supported our governance reform back in 2015, I think all the successors of Mr.
-- Since taking over the TSC in 2021, Yamaguchi has implemented a series of reforms to encourage Japanese companies to become more profitable and more accountable.
+## Claims
 
-## People Mentioned
-
-
-- [[As Germany]]
-
-- [[Mark Rowan]]
-
-- [[Mireya Solis]]
-
-- [[Asia Policy Studies]]
-
-- [[Brookings Institution]]
-
-- [[Quiet Leadership]]
-
-
-
-
+- [[Mark Rowan - Three percent inflation is forcing Japanese savers to redeploy cash more productively than they did during deflation]]
+- [[Mark Rowan - Japan is going through simultaneous generational shifts in governance rates and policy that make it look very different from the stagnation stereotype]]
+- [[Mireya Solis - The idea of Japan as thirty years of total stasis is overstated because important political and corporate changes kept building underneath the surface]]
+- [[Mireya Solis - Corporate governance reform and stronger female labor participation were two meaningful gains made during the so-called lost decades]]
+- [[Hiromi Yamaguchi - Japanese leaders of every administration since Abe have backed governance reform because private-sector growth is essential for the whole economy]]
+- [[Hiromi Yamaguchi - The hardest part of reform is changing management mindset rather than simply improving financial metrics like price-to-book ratios]]
+- [[Hiromi Yamaguchi - Japanese companies cannot rely on labor-force growth and therefore must raise productivity through automation and digitization]]
+- [[Mark Rowan - Japan now has enormous long-duration capital needs in manufacturing energy AI data and infrastructure measured in trillions]]
 ## Full Transcript
 
 <details>

@@ -1,66 +1,67 @@
-﻿---
-title: "Nassim Taleb Warns About Software Bankruptcies, Volatility"
-people_mentioned: ["Nassim Taleb", "Universe Investments"]
-channel: "Bloomberg Television"
-video_id: "cyds4kP_n80"
-url: "https://www.youtube.com/watch?v=cyds4kP_n80"
-publish_date: 2026-02-23
-duration: "8:45"
-word_count: 1391
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "risk-management", "market-data"]
-series_name: ""
-episode_id: ""
-primary_person: "Nassim Taleb"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Nassim Taleb - Meta"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Meta", "Bloomberg"]
-topics: ["stock-analysis", "risk-management", "market-data", "ai-safety", "ai-regulation", "options-trading"]
-tags: ["stock-analysis", "risk-management", "market-data", "ai-safety", "ai-regulation", "options-trading"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
 ---
-
+batch_id: ""
+companies_mentioned: 
+tags: ["volatility","tail-risk","gold","tariffs","oil","software"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: "Nassim Nicholas Taleb"
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Nassim Nicholas Taleb"
+word_count: 1391
+subcategories: ["risk-management","market-volatility","macro"]
+tools_mentioned: "Grok"
+claims_status: "done"
+title: "Nassim Taleb Warns About Software Bankruptcies, Volatility"
+channel: "Bloomberg Television"
+locations_mentioned: ["Miami","United States"]
+speech_evidence_count: 0
+publish_date: 2026-02-23
+speaker_profiles: "Nassim Nicholas Taleb - Universa Investments"
+world_evidence_count: 0
+interviewee_profiles: "Nassim Nicholas Taleb - Universa Investments"
+speech_status: "pending"
+organizations_mentioned: ["Universa Investments","Federal Reserve","BRICS"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["volatility","tail-risk","gold","tariffs","oil","software"]
+interviewer_names: 
+episode_id: ""
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=cyds4kP_n80"
+duration: "8:45"
+video_id: "cyds4kP_n80"
+series_name: "Bloomberg Television"
+---
 
 ## Summary
 
-The discussion centers on it's, more, because. As a Taylor, it's not the risk of drawdown in the stock market, it's a risk of large drawdown. The structure of the price is even more underpriced now, I think, because we can still face a rally in the stock market. Yes, the main risk right now is that if Iran blocks the delivery of oil from the Gulf Coast, some people are saying that.
+Nassim Taleb frames the current environment as one where structural fragilities matter far more than short-term market commentary. He argues that reserve-currency trust is eroding, tariff execution is erratic and regressive, AI market winners are being misidentified too early, and volatility remains too cheap relative to the size of the tail risks sitting in oil, geopolitics, deficits, and technology-driven market concentration.
 
 ## Key Insights
 
+- Taleb sees gold's rise as structural and tied to declining trust in the dollar system.
+- He thinks tariffs can be rational in theory, but the current execution is too erratic to support investment.
+- In his view the tariff mix is regressive and worsens an already more unequal economy.
+- He is skeptical that today's AI pioneers will necessarily be the ultimate winners.
+- He openly expects software bankruptcies as AI-driven instability reshapes the sector.
+- Taleb thinks volatility still underprices the real tail risks facing markets.
+- He sees a major oil shock as especially dangerous because it would create stagflation that central banks cannot easily fix.
+- Outside explicit tail hedges, he still prefers metals because official and BRICS demand is structurally rising.
 
-- As a Taylor, it's not the risk of drawdown in the stock market, it's a risk of large drawdown.
-- The structure of the price is even more underpriced now, I think, because we can still face a rally in the stock market.
-- Yes, the main risk right now is that if Iran blocks the delivery of oil from the Gulf Coast, some people are saying that the price.
-- Last time we spoke in October and since then we had a lot of volatility in the stock market and the price of gold has spiked.
-- We don't have enough volatility compared to the risks involved with the risk to take a risk that don't show early.
-- It is a problem because we have a deficit and we need progressively more and more foreign currencies.
+## Claims
 
-## People Mentioned
-
-
-- [[Nassim Taleb]]
-
-- [[Universe Investments]]
-
-
-
+- [[Nassim Taleb - Gold strength is structural because the US is gradually losing reserve-currency credibility]]
+- [[Nassim Taleb - The tariff problem is not tariffs in principle but an erratic execution that discourages investment]]
+- [[Nassim Taleb - Current tariff policy is regressive and likely to worsen inequality]]
+- [[Nassim Taleb - Many early AI pioneers in software and hardware are more likely to be losers than eventual winners]]
+- [[Nassim Taleb - Software bankruptcies are a plausible consequence of AI-driven instability in the current market structure]]
+- [[Nassim Taleb - Market volatility is still underpricing the real tail risks facing investors]]
+- [[Nassim Taleb - A serious oil shock would recreate a form of stagflation that monetary policy cannot easily fix]]
+- [[Nassim Taleb - Taleb's non-tail portfolio still favors metals because central-bank and BRICS demand is structurally rising]]
 
 ## Full Transcript
 

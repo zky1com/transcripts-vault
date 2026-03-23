@@ -1,6 +1,6 @@
-﻿---
-title: "Global 10% US Tariff in Force, AI Scare Trade Roars Back, How Much for AI Ray Bans? | Bloomberg..."
-people_mentioned: ["Caroline Hepka", "Steven Carol", "Eselor Luxotica", "Donald Trump", "Eugene Siroka", "Los Angeles", "Eugene Sroka", "Supreme Court"]
+---
+title: "Global 10% US Tariff in Force, AI Scare Trade Roars Back, How Much for AI Ray Bans? | Bloomberg Daybreak: Europe"
+people_mentioned: ["Caroline Hepker","Stephen Carroll","Eugene Seroka","Josh Wingrove","Alap Shah","Jamie Dimon","Ta Adebayo","Vali Klitschko","Donald Trump"]
 channel: "Bloomberg Podcasts"
 video_id: "4Yuba3mPp8M"
 url: "https://www.youtube.com/watch?v=4Yuba3mPp8M"
@@ -8,69 +8,56 @@ publish_date: 2026-02-24
 duration: "19:32"
 word_count: 3424
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: "Bloomberg Podcasts"
+delivery_mode: "news-analysis"
+broad_category: "economics"
+subcategories: ["tariffs","ai-markets","europe","trade-policy"]
+series_name: "Bloomberg Daybreak: Europe"
 episode_id: ""
-primary_person: "Caroline Hepka"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Caroline Hepka - Meta"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Audio Studios", "Bloomberg Daybu", "Bloomberg Podcasts"]
-locations_mentioned: []
+primary_person: "Eugene Seroka"
+host_names: ["Caroline Hepker","Stephen Carroll"]
+interviewer_names: ["Caroline Hepker","Stephen Carroll"]
+interviewee_profiles: ["Eugene Seroka - Port of Los Angeles executive director","Josh Wingrove - Bloomberg White House reporter","Alap Shah - Citrini Research co-author"]
+speaker_profiles: ["Caroline Hepker - Bloomberg host","Stephen Carroll - Bloomberg host"]
+organizations_mentioned: ["Supreme Court","European Union","European Parliament","Port of Los Angeles","JP Morgan","Bloomberg"]
+locations_mentioned: ["London","Brussels","United States","Los Angeles","China","Ukraine"]
 tools_mentioned: []
-companies_mentioned: ["Meta", "Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation"]
+companies_mentioned: ["American Express","Blackstone","DoorDash","Meta","EssilorLuxottica","IBM","Anthropic","Bloomberg"]
+topics: ["tariffs","ai-markets","europe","trade-policy","ports"]
+tags: ["tariffs","ai-markets","europe","trade-policy","ports"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on more, some, trade. Now, these tariffs under section 122 of the trade act are a lot more prescriptive, have many more exclusions and are temporary, which means. >> Well, an assessment by the European Union has found that President Trump's planned 15% increase means that levies on some goods would be. >> Donald Trump's new 10% global tariffs are now in effect.
+This Daybreak Europe episode links together two stress signals that markets were trying to absorb at once: the activation of Trump's new 10 percent global tariff and a renewed AI scare trade around white-collar disruption. The tariff segment is the cleaner source-video anchor here, with Eugene Seroka and Josh Wingrove emphasizing that the policy may be lower than the previous regime but still leaves importers and trading partners dealing with unstable planning assumptions.
 
 ## Key Insights
 
+- The key tariff insight is that lower headline rates do not equal lower uncertainty when rules exclusions and future sector probes remain unclear.
+- The AI segment is notable because the report's own co-author seemed surprised by how violently markets reacted to the disruption thesis.
+- The episode also shows how Europe is moving from negotiation to procedural resistance by slowing ratification rather than just complaining publicly.
+- Port logistics remains a useful real-economy lens because it reveals how quickly policy volatility translates into operational confusion.
 
-- Now, these tariffs under section 122 of the trade act are a lot more prescriptive, have many more exclusions and are temporary, which means there will.
-- >> Well, an assessment by the European Union has found that President Trump's planned 15% increase means that levies on some goods would be above the.
-- >> Donald Trump's new 10% global tariffs are now in effect.
-- The European Union is warning that the new tariffs break their trade deal with the US.
-- Donald Trump's new 10% global levy came into force early this morning after Friday's Supreme Court decision.
-- Coming up today, Trump's new 10% global trade tariff comes into force with a hike to 15% still in the works.
+## Claims
 
-## People Mentioned
-
-
-- [[Caroline Hepka]]
-
-- [[Steven Carol]]
-
-- [[Eselor Luxotica]]
-
-- [[Donald Trump]]
-
-- [[Eugene Siroka]]
-
-- [[Los Angeles]]
-
-- [[Eugene Sroka]]
-
-
-
+- [[Eugene Seroka - The new Section 122 tariffs are more prescriptive and temporary than the old regime which means importers now face more debate and more uncertainty rather than real clarity]]
+- [[Josh Wingrove - The administration moved so quickly to rebuild tariffs that some negotiated trade deals are now colliding with poorly resolved fine print]]
+- [[Josh Wingrove - The European complaint about higher effective tariffs shows that the replacement tariff regime may unintentionally break parts of previously negotiated deals]]
+- [[Alap Shah - The AI scare trade resonated so hard because investors are finally confronting how much more powerful AI has become in the last six months]]
+- [[Alap Shah - Governments should start thinking about taxing AI because white-collar employment could be meaningfully disrupted over a short horizon]]
+- [[Jamie Dimon - The next credit accident could come from software and AI-related disruption rather than from the same sectors that broke in prior cycles]]
+- [[Vali Klitschko - Any peace arrangement that amounts to capitulation would be unacceptable because Putin remains the person responsible for the war]]
+- [[Chiara Albanese - Meta and EssilorLuxottica still lead smart glasses but their partnership is under strain as competition forces harder choices on pricing and strategy]]
 
 ## Full Transcript
 

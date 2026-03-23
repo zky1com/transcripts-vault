@@ -1,36 +1,67 @@
 ---
-title: "US Is ‘Hammering’ Iran’s Ability to Threaten Hormuz Says Trump (Full Remarks)"
-people_mentioned: []
+title: "US Is Hammering Irans Ability to Threaten Hormuz Says Trump Full Remarks"
+people_mentioned: ["Donald Trump", "Emmanuel Macron", "Xi Jinping", "Ayatollah Ali Khamenei"]
 channel: "Bloomberg Television"
 video_id: "go0PVgCWB2E"
 url: "https://www.youtube.com/watch?v=go0PVgCWB2E"
 publish_date: 2026-03-16
 duration: "20:13"
 word_count: 3389
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "speech"
+delivery_mode: "full-remarks"
+broad_category: "politics"
+subcategories: ["iran", "middle-east", "national-security"]
 series_name: ""
 episode_id: ""
-primary_person: ""
+primary_person: "Donald Trump"
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+interviewee_profiles: ["Donald Trump - US President"]
+speaker_profiles: ["Donald Trump - US President"]
+organizations_mentioned: ["US government", "NATO"]
+locations_mentioned: ["Strait of Hormuz", "Iran", "China", "Japan", "United Kingdom", "Ukraine", "Tel Aviv", "Qatar", "Saudi Arabia"]
 tools_mentioned: []
 companies_mentioned: []
-topics: []
-tags: []
+topics: ["iran", "strait-of-hormuz", "oil", "alliances", "national-security"]
+tags: ["iran", "strait-of-hormuz", "oil", "alliances", "national-security"]
+pipeline_stage: video_only
+claims_status: done
+evidence_status: pending
+claims_count: 8
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
 ---
 
+## Summary
 
+Trump says the US is aggressively degrading Irans ability to threaten the Strait of Hormuz while testing how willing allies are to help reopen it. He argues the United States does not materially need Hormuz oil, whereas countries like China and Japan depend on it far more. He also describes Iranian information as unreliable, says the regimes leadership is in disarray, and indicates negotiations are difficult because Washington is not sure who is actually left to negotiate.
 
+## Key Insights
 
+- Trump says the US is pounding the Iranian coast and destroying mine-laying capacity to reduce Hormuz risk.
+- He argues America protects the strait mostly for allies and third countries rather than for its own energy needs.
+- He says Chinese and Japanese oil dependence on Hormuz is a prime example of why burden-sharing should be higher.
+- He says he is watching how allies respond because he wants to know who actually helps when the US asks.
+- He criticizes the UK for being insufficiently enthusiastic about support earlier in the conflict.
+- He says shipping will not normalize instantly because shipowners still fear mines even after US strikes.
+- He claims Iranian information is deeply unreliable and heavily dependent on fabricated AI-generated imagery.
+- He says the Iranian leadership structure is so disrupted that the US is not even sure who remains to negotiate.
 
+## Claims
 
+- [[Donald Trump - The United States is hammering Irans coastal ability to threaten the Strait of Hormuz]]
+- [[Donald Trump - The United States does not really need Hormuz oil and mainly protects the strait for other countries]]
+- [[Donald Trump - China and Japan depend far more on Hormuz oil than the United States does]]
+- [[Donald Trump - He is using the Hormuz coalition effort partly to test which allies actually help when asked]]
+- [[Donald Trump - The United Kingdom was not enthusiastic enough about helping when he first asked for support]]
+- [[Donald Trump - Shipping through Hormuz will not normalize instantly because shipowners still fear residual mine risk]]
+- [[Donald Trump - Iranian public messaging is heavily driven by disinformation and fabricated imagery]]
+- [[Donald Trump - Irans leadership has been disrupted so badly that the United States does not clearly know who is left to negotiate]]
 ## Full Transcript
 
 <details>

@@ -1,70 +1,67 @@
-﻿---
-title: "'Musk Will Get Richer, People Will Get Unemployed': Nobel Laureate Hinton on AI"
-people_mentioned: ["Geoffrey Hinton", "Dario Amodei", "Demis Hassabis", "Jeff Dean"]
-channel: "Bloomberg Television"
-video_id: "e1Hf-o1SzL4"
-url: "https://www.youtube.com/watch?v=e1Hf-o1SzL4"
-publish_date: 2025-11-02
-duration: "11:37"
-word_count: 2054
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
-episode_id: ""
-primary_person: "Geoffrey Hinton"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Geoffrey Hinton - Anthropic"]
-speaker_profiles: []
-organizations_mentioned: ["Deep Mind", "Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Anthropic", "Google", "Meta", "Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "anthropic"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "anthropic"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
 ---
-
+batch_id: ""
+companies_mentioned: ["Anthropic", "Google", "Meta", "OpenAI", "Amazon"]
+tags: ["ai", "ai-safety", "labor-market", "china", "research"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Geoffrey Hinton", "Dario Amodei", "Demis Hassabis", "Jeff Dean", "Donald Trump", "Elon Musk", "Xi Jinping", "Vladimir Putin"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Geoffrey Hinton"
+word_count: 2054
+subcategories: ["ai-safety", "labor-market", "geopolitics"]
+tools_mentioned: 
+claims_status: "done"
+title: "'Musk Will Get Richer, People Will Get Unemployed': Nobel Laureate Hinton on AI"
+channel: "Bloomberg Television"
+locations_mentioned: ["China", "United States"]
+speech_evidence_count: 0
+publish_date: 2025-11-02
+speaker_profiles: "Geoffrey Hinton - computer scientist"
+world_evidence_count: 0
+interviewee_profiles: "Geoffrey Hinton - computer scientist"
+speech_status: "pending"
+organizations_mentioned: ["Anthropic", "Google", "Meta", "OpenAI", "Chinese Communist Party"]
+delivery_mode: "tv-feature"
+evidence_count: 0
+topics: ["ai", "ai-safety", "labor-market", "china", "research"]
+interviewer_names: 
+episode_id: ""
+broad_category: "ai"
+url: "https://www.youtube.com/watch?v=e1Hf-o1SzL4"
+duration: "11:37"
+video_id: "e1Hf-o1SzL4"
+series_name: "Bloomberg Television"
+---
 
 ## Summary
 
-The discussion centers on more, it's, some. Um, we need something to make people um, pay more attention and put more resources. It's not going to be like that when it's smarter than us and more powerful than us. We're constructing these aliens, but they're going to get here in about 10 years and they're going to be smarter than us.
+Geoffrey Hinton argues that advanced AI is now a near-horizon planning problem rather than a distant abstraction. He thinks the race dynamic among labs is still overpowering safety work, that current business incentives point toward job replacement as the main route to returns, and that societies have done far less preparation than the stakes require.
 
 ## Key Insights
 
+- Hinton treats superhuman AI as a roughly decade-scale coexistence problem.
+- He thinks some labs are serious about safety, but not enough to break the race dynamic.
+- He rejects the idea that superintelligence will remain a subordinate assistant under human control.
+- He thinks China has a credible path to overtake the US if American research capacity is weakened.
+- He sees labor replacement as a central monetization path for current AI investment.
+- He doubts the labor market will regenerate enough replacement jobs this time.
+- He separates AI's productive upside from the distributional damage current institutions can create.
+- His deeper warning is that policy and social adaptation are lagging well behind capability progress.
 
-- Um, we need something to make people um, pay more attention and put more resources.
-- It's not going to be like that when it's smarter than us and more powerful than us.
-- We're constructing these aliens, but they're going to get here in about 10 years and they're going to be smarter than us.
-- Um, it's not clear to me that this will and I think the big companies are betting on it causing massive job replacement by AI because.
-- >> As you say, some economists say we go back in history and new technology destroys some jobs but creates other jobs and net you have.
-- Even if the public were more concerned than they are about some of the risks you describe, they're going to say, "Wait a second.
+## Claims
 
-## People Mentioned
-
-
-- [[Geoffrey Hinton]]
-
-- [[Dario Amodei]]
-
-- [[Demis Hassabis]]
-
-- [[Jeff Dean]]
-
-
-
+- [[Geoffrey Hinton - AI could surpass humans within about ten years and society should already be planning for coexistence with it]]
+- [[Geoffrey Hinton - Some leading labs take AI safety seriously but the commercial race still dominates their incentives]]
+- [[Geoffrey Hinton - Governments and tech leaders are using the wrong control model because superintelligence will not behave like a fireable assistant]]
+- [[Geoffrey Hinton - A baby-mother style dependency is a more realistic model for coexistence with superintelligence than top-down human control]]
+- [[Geoffrey Hinton - China could overtake the United States in AI if American attacks on universities and basic research continue]]
+- [[Geoffrey Hinton - The economic payoff to current AI investment is likely to come largely from replacing human labor]]
+- [[Geoffrey Hinton - This AI wave may not create enough replacement jobs to offset the jobs it destroys]]
+- [[Geoffrey Hinton - AI could do tremendous good but the way society is organized means the gains may flow to capital while workers absorb the damage]]
 
 ## Full Transcript
 

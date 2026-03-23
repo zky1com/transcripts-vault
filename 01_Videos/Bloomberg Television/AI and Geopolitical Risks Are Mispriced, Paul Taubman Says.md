@@ -1,35 +1,67 @@
 ---
-title: "AI and Geopolitical Risks Are Mispriced, Paul Taubman Says"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "QOpHH6jo0nw"
-url: "https://www.youtube.com/watch?v=QOpHH6jo0nw"
-publish_date: 2026-03-11
-duration: "11:26"
+batch_id: ""
+companies_mentioned: ["PJT Partners", "Morgan Stanley"]
+tags: ["m-and-a", "ai", "geopolitics", "software", "regulation"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Paul Taubman", "Donald Trump"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Paul Taubman"
 word_count: 2059
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
+subcategories: ["m-and-a", "ai", "geopolitics"]
+tools_mentioned: 
+claims_status: "done"
+title: "AI and Geopolitical Risks Are Mispriced, Paul Taubman Says"
+channel: "Bloomberg Television"
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+speech_evidence_count: 0
+publish_date: 2026-03-11
+speaker_profiles: "Paul Taubman - PJT Partners CEO"
+world_evidence_count: 0
+interviewee_profiles: "Paul Taubman - PJT Partners CEO"
+speech_status: "pending"
+organizations_mentioned: ["PJT Partners", "Morgan Stanley"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["m-and-a", "ai", "geopolitics", "software", "regulation"]
+interviewer_names: 
+episode_id: ""
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=QOpHH6jo0nw"
+duration: "11:26"
+video_id: "QOpHH6jo0nw"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Paul Taubman argues that markets have been too casual about both geopolitical shocks and the destructive side of AI. His view is not that dealmaking is structurally broken, but that volatility, software valuation uncertainty, and repricing of tail risks are temporarily suppressing M and A activity even while the long-run pressure for corporate adaptation remains intact.
 
+## Key Insights
 
+- Taubman thinks geopolitical and AI disruption risks were mispriced rather than ignored.
+- He sees volatility as the clearest short-run brake on M and A.
+- He remains a long-run bull on M and A because companies still need scale, supply-chain control, and adaptation.
+- He thinks software and credit markets are repricing tail risks that now look less remote.
+- He argues AI has made terminal-value questions much harder for many software businesses.
+- At PJT, AI is being deployed to augment senior bankers rather than reduce staff.
+- He thinks AI strategy punishes both complacency and premature lock-in.
+- He sees Trump-era regulation as more open to deals overall, but not permissive on consumer-price-sensitive mergers.
 
+## Claims
+
+- [[Paul Taubman - AI disruption and geopolitical risk have been mispriced even if markets have not fully ignored them]]
+- [[Paul Taubman - Volatility is still the biggest near-term killer of M and A activity]]
+- [[Paul Taubman - Long-run M and A should rise because faster change forces companies to adapt focus and scale more aggressively]]
+- [[Paul Taubman - Tail risks in software and credit have started to move closer to the base case]]
+- [[Paul Taubman - Many software valuations are unstable because markets still cannot price their long-term terminal value under AI disruption]]
+- [[Paul Taubman - PJT is using AI primarily to augment senior bankers rather than to shrink headcount]]
+- [[Paul Taubman - Moving too quickly on AI strategy can be as dangerous as moving too slowly because the technology path is changing so fast]]
+- [[Paul Taubman - The Trump regulatory environment is more constructive for deals but not a blanket anything-goes regime for consumer mergers]]
 
 ## Full Transcript
 

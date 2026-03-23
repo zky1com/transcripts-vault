@@ -1,67 +1,53 @@
-﻿---
+---
 title: "How Will Trump Respond to the Supreme Court Tariff Ruling?"
-people_mentioned: ["Nathan Dean", "Anne Marie", "White House"]
+people_mentioned: ["Nathan Dean"]
 channel: "Bloomberg Television"
 video_id: "ccqlL5zF4FM"
 url: "https://www.youtube.com/watch?v=ccqlL5zF4FM"
-publish_date: 2026-02-20
+publish_date: "2026-02-20"
 duration: "3:47"
-word_count: 714
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["options-trading", "portfolio-management"]
+word_count: "714"
+content_type: "interview"
+delivery_mode: "news_interview_clip"
+broad_category: "economics"
+subcategories: ["trade policy", "tariffs", "political economy"]
 series_name: ""
 episode_id: ""
 primary_person: "Nathan Dean"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Nathan Dean - CNN"]
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
 speaker_profiles: []
-organizations_mentioned: ["Bloomberg Intelligence", "Bloomberg Television"]
-locations_mentioned: []
+organizations_mentioned: ["Bloomberg Intelligence", "International Trade Commission", "White House"]
+locations_mentioned: ["United States"]
 tools_mentioned: []
-companies_mentioned: ["CNN", "Bloomberg"]
-topics: ["options-trading", "portfolio-management", "ai-regulation"]
-tags: ["options-trading", "portfolio-management", "ai-regulation"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
+companies_mentioned: []
+topics: ["tariffs", "Section 122", "trade policy", "midterms"]
+tags: ["economics", "tariffs", "trade-policy", "us-politics"]
+claims_status: "done"
+claims_count: "6"
+last_processed_at: "2026-03-20"
 ---
-
 
 ## Summary
 
-The discussion centers on tariffs, section, trump. My reaction is just on board with what Anne Marie was saying is, is that Section 122 is most likely what you're going to. It looks like the first thing that they would do is use something called Section 122, which allows the president to put on 15%. The Section 232, the national security issue that they've used with China, There's one called Section two, a one that needs an investigation.
+Nathan Dean argues that the Supreme Court ruling does not end Trump's tariff agenda but does narrow his easiest options and weaken some of his leverage. His main point is that Section 122 is the likeliest immediate fallback, yet the administration now has to think more carefully about timing, legal fit, and political backlash as it rebuilds tariff policy.
 
 ## Key Insights
 
+- Dean sees Section 122 as the most plausible immediate bridge because it can preserve tariffs while other investigations are launched.
+- He thinks the ruling matters politically as much as legally because tariff escalation closer to the midterms becomes harder to sustain.
+- The administration still has several fallback statutes, but each one requires more process and tighter legal framing than the old IEEPA path.
+- His broader message is that the White House still has options, but each option now comes with more uncertainty and more friction.
 
-- My reaction is just on board with what Anne Marie was saying is, is that Section 122 is most likely what you're going to see President.
-- It looks like the first thing that they would do is use something called Section 122, which allows the president to put on 15% tariffs for.
-- The Section 232, the national security issue that they've used with China, There's one called Section two, a one that needs an investigation.
-- Now, that gives the Trump administration plenty of time to do other tariffs, be it section 232 or Section three or one, and they have them.
-- If President Trump wants to transfer those 122 tariffs into something else within 150 days, he's going to be doing that just months before the midterm.
-- It's much more difficult to put tariffs back on place on an American populace that generally is not on board with President Trump's tariff strategy.
+## Claims
 
-## People Mentioned
-
-
-- [[Nathan Dean]]
-
-- [[Anne Marie]]
-
-
-
-
+- [[Nathan Dean - Section 122 is the most likely first fallback after the Supreme Court tariff ruling]]
+- [[Nathan Dean - A Section 122 tariff would buy the administration time to pursue Section 232 or Section 301 measures by the summer]]
+- [[Nathan Dean - The ruling takes away some of Trump's negotiating leverage with other countries]]
+- [[Nathan Dean - Trying to shift Section 122 tariffs into a longer-lasting framework close to the midterms would be politically awkward]]
+- [[Nathan Dean - It is easy to launch tariff investigations but harder to reimpose tariffs on a public that is not on board with Trump's strategy]]
+- [[Nathan Dean - The administration's tariff response now depends on how convincingly it can fit alternative statutes to specific legal conditions]]
 ## Full Transcript
 
 <details>
@@ -127,3 +113,4 @@ which which sections they're going to choose, but how they frame this to try
 to fit the conditions of each of these sections.
 
 </details>
+

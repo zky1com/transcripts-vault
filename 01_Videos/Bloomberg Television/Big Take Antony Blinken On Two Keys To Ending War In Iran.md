@@ -1,35 +1,67 @@
 ---
-title: "Big Take: Antony Blinken On Two Keys To Ending War In Iran"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "VVEtuzWsGqE"
-url: "https://www.youtube.com/watch?v=VVEtuzWsGqE"
-publish_date: 2026-03-05
-duration: "2:24"
-word_count: 499
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
+batch_id: ""
 companies_mentioned: []
-topics: []
-tags: []
+tags: ["iran", "war", "oil", "munitions", "national-security"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Antony Blinken", "Donald Trump"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Antony Blinken"
+word_count: 499
+subcategories: ["iran", "war", "national-security"]
+tools_mentioned: 
+claims_status: "done"
+title: "Big Take: Antony Blinken On Two Keys To Ending War In Iran"
+channel: "Bloomberg Television"
+locations_mentioned: ["Iran", "China", "Russia"]
+speech_evidence_count: 0
+publish_date: 2026-03-05
+speaker_profiles: "Antony Blinken - former US Secretary of State"
+world_evidence_count: 0
+interviewee_profiles: "Antony Blinken - former US Secretary of State"
+speech_status: "pending"
+organizations_mentioned: ["US government"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["iran", "war", "oil", "munitions", "national-security"]
+interviewer_names: 
+episode_id: ""
+broad_category: "politics"
+url: "https://www.youtube.com/watch?v=VVEtuzWsGqE"
+duration: "2:24"
+video_id: "VVEtuzWsGqE"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Antony Blinken argues that any plausible off-ramp in the Iran conflict will be constrained less by rhetoric than by hard market signals and munitions depletion. His core point is that the real limits on escalation are oil, stocks, bonds, and the rate at which expensive defensive and offensive weapons are consumed, because a long campaign could degrade US readiness against larger rivals even if Trump tries to declare victory early.
 
+## Key Insights
 
+- Blinken thinks markets and munitions are the two decisive variables in how this conflict ends.
+- He believes Trump will pay close attention to oil and financial-market stress as a practical limit on escalation.
+- He treats interceptor and missile depletion as a strategic issue, not just a tactical one.
+- He is worried about the poor economics of using expensive weapons against cheap drones.
+- He thinks arsenal depletion has second- and third-order consequences for deterrence against China and Russia.
+- He argues these constraints should have been factored in before any campaign began.
+- He thinks an off-ramp could simply be a unilateral declaration of victory by Trump.
+- His broad message is that ending the conflict cleanly depends as much on logistics and politics as on battlefield success.
 
+## Claims
+
+- [[Antony Blinken - Markets and munitions are the two critical variables that will shape how the Iran conflict ends]]
+- [[Antony Blinken - A sustained jump in oil or a persistent drop in stocks and bonds could become a practical limit on Trumps room to escalate]]
+- [[Antony Blinken - There is a real race over which side depletes its munitions first and that matters strategically]]
+- [[Antony Blinken - Using expensive interceptors and missiles against cheap drones is an unsustainable equation over time]]
+- [[Antony Blinken - A prolonged campaign could leave the United States in a weaker position against China or Russia because rebuilding munitions takes time]]
+- [[Antony Blinken - Any decision to undertake a campaign like this should start by clearly explaining necessity timing and objectives to the American people]]
+- [[Antony Blinken - A likely off-ramp is that Trump simply declares victory after degrading Irans nuclear missile and naval capabilities]]
+- [[Antony Blinken - How Iran responds after a US declaration of victory remains a major source of uncertainty]]
 
 ## Full Transcript
 

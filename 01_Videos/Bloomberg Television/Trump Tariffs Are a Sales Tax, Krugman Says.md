@@ -1,66 +1,67 @@
-﻿---
-title: "Trump Tariffs Are a Sales Tax, Krugman Says"
-people_mentioned: ["Jerry Bolsonaro", "Bretton Woods"]
-channel: "Bloomberg Television"
-video_id: "GDxK6Yd-53Y"
-url: "https://www.youtube.com/watch?v=GDxK6Yd-53Y"
-publish_date: 2026-02-20
-duration: "6:23"
-word_count: 1287
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "sales"
-subcategories: ["sales-process", "outbound"]
-series_name: ""
-episode_id: ""
-primary_person: "Jerry Bolsonaro"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Jerry Bolsonaro - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["sales-process", "outbound", "ai-safety", "ai-regulation"]
-tags: ["sales-process", "outbound", "ai-safety", "ai-regulation"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
 ---
-
+batch_id: ""
+companies_mentioned: ["FedEx","DHL"]
+tags: ["tariffs","trade-law","inflation","taxation","trade-deals"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Paul Krugman","Donald Trump","Jair Bolsonaro"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Paul Krugman"
+word_count: 1287
+subcategories: ["trade-policy","tariffs","inflation"]
+tools_mentioned: 
+claims_status: "done"
+title: "Trump Tariffs Are a Sales Tax, Krugman Says"
+channel: "Bloomberg Television"
+locations_mentioned: ["Brazil","Europe","Greenland","United States"]
+speech_evidence_count: 0
+publish_date: 2026-02-20
+speaker_profiles: "Paul Krugman - economist"
+world_evidence_count: 0
+interviewee_profiles: "Paul Krugman - economist"
+speech_status: "pending"
+organizations_mentioned: ["Supreme Court","Congress","Federal Reserve"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["tariffs","trade-law","inflation","taxation","trade-deals"]
+interviewer_names: 
+episode_id: ""
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=GDxK6Yd-53Y"
+duration: "6:23"
+video_id: "GDxK6Yd-53Y"
+series_name: "Bloomberg Television"
+---
 
 ## Summary
 
-The discussion centers on tariffs, it's, revenue. It's, it's a certainly, it is a significant increase in the cost of living, not a gigantic increase in the cost of living, but. Of course, if this is a net reduction in tariffs because, you know, Trump is basically proposing a new set of tariffs to Yeah. Because it was so, you know, not really about tariffs, Trump took it as a license to impose tariffs whenever he felt like it.
+Paul Krugman argues that the Supreme Court tariff ruling matters less because it punches a hole in revenue than because it strips away the unusually broad discretionary power Trump had been using to threaten countries and cut bespoke deals. He also keeps returning to a simpler economic point: tariffs are a sales tax paid by Americans, so even if the administration rebuilds tariff revenue through other tools, the economic burden still falls on domestic consumers and complicates inflation and Fed policy.
 
 ## Key Insights
 
+- Krugman does not think tariff revenue was the true center of the administration's tariff agenda.
+- He thinks the core loss for Trump is broad discretion, not just a revenue stream.
+- Deals negotiated around scaling back IEEPA tariff threats lose much of their meaning if that threat disappears.
+- A flat replacement tariff cannot reproduce the same country-specific coercive leverage as the old setup.
+- Krugman insists tariffs are ultimately a sales tax borne by Americans.
+- He sees tariffs as contractionary because they raise living costs and make it harder for the Fed to ease.
+- Any consumer relief from lower tariffs could be brief if the administration quickly replaces the old regime with a new one.
+- Price relief does not require sticker prices to fall outright; slower future price increases can still show up as lower inflation.
 
-- It's, it's a certainly, it is a significant increase in the cost of living, not a gigantic increase in the cost of living, but everybody's cost.
-- Of course, if this is a net reduction in tariffs because, you know, Trump is basically proposing a new set of tariffs to Yeah.
-- Because it was so, you know, not really about tariffs, Trump took it as a license to impose tariffs whenever he felt like it.
-- Although it may be able to replace the revenue, it may be able to collect enough money from these other tariffs that the revenue hole is.
-- It's it's a there's a lot of, you know, moving parts in the way that works out, but it's in the end.
-- That's very, very different from saying, I'm doing 50% on Brazil because I don't like what they're doing domestically.
+## Claims
 
-## People Mentioned
-
-
-- [[Jerry Bolsonaro]]
-
-- [[Bretton Woods]]
-
-
-
+- [[Paul Krugman - Tariff revenue was never the central point of Trump's tariff agenda]]
+- [[Paul Krugman - The real significance of the ruling is that Trump lost unusually broad discretion not just revenue]]
+- [[Paul Krugman - Trade deals built around IEEPA tariff threats are effectively nullified by the ruling]]
+- [[Paul Krugman - A flat replacement tariff cannot restore the same country-specific coercive leverage Trump had before]]
+- [[Paul Krugman - Tariffs are ultimately a sales tax paid by Americans not by foreigners]]
+- [[Paul Krugman - Tariffs are mildly to materially contractionary because they raise living costs and complicate Fed easing]]
+- [[Paul Krugman - Any consumer relief from lower tariffs could be brief if Trump replaces the old tariffs with new ones]]
+- [[Paul Krugman - Companies do not need to cut sticker prices for tariff relief to show up in inflation]]
 
 ## Full Transcript
 

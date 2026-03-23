@@ -1,35 +1,67 @@
 ---
-title: "Private Credit Infecting Public Markets, Boaz Weinstein Says"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "BqSV6_eQGkI"
-url: "https://www.youtube.com/watch?v=BqSV6_eQGkI"
-publish_date: 2026-03-16
-duration: "2:50"
+batch_id: ""
+companies_mentioned: ["Goldman Sachs"]
+tags: ["private-credit", "public-credit", "liquidity", "hedging", "etfs"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Boaz Weinstein"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Boaz Weinstein"
 word_count: 538
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
+subcategories: ["private-credit", "public-markets", "liquidity"]
+tools_mentioned: 
+claims_status: "done"
+title: "Private Credit Infecting Public Markets, Boaz Weinstein Says"
+channel: "Bloomberg Television"
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+speech_evidence_count: 0
+publish_date: 2026-03-16
+speaker_profiles: "Boaz Weinstein - hedge fund manager"
+world_evidence_count: 0
+interviewee_profiles: "Boaz Weinstein - hedge fund manager"
+speech_status: "pending"
+organizations_mentioned: ["Goldman Sachs"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["private-credit", "public-credit", "liquidity", "hedging", "etfs"]
+interviewer_names: 
+episode_id: ""
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=BqSV6_eQGkI"
+duration: "2:50"
+video_id: "BqSV6_eQGkI"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Boaz Weinstein argues that private-credit stress does not stay trapped inside private markets because investors, dealers, and hedgers eventually transmit the pain into liquid public-credit instruments. His core point is that illiquidity, leverage, and weak price discovery create a setup where public markets become the first place stress shows up, which is why he keeps emphasizing discounts, basis risk, and the market value of real bid information.
 
+## Key Insights
 
+- Weinstein is using public-credit shorts and discounted private-credit bids as a paired but imperfect expression of the same stress thesis.
+- He thinks basis risk is real because public-credit issuers are often larger and stronger than private-credit borrowers.
+- He sees the growth of private-credit hedging products as evidence that investors increasingly want cleaner one-to-one exposure management.
+- His central contagion point is that people sell what they can sell when they cannot sell what they own.
+- He points to COVID-era ETF discounts as proof that even liquid public wrappers can gap when cash is urgently needed.
+- He believes public markets will likely register private-credit stress earlier than many investors expect.
+- He also thinks the information value of real bids in this market is unusually high because price discovery is so scarce.
+- The through line is that illiquidity does not remove risk; it only delays where the mark first shows up.
 
+## Claims
+
+- [[Boaz Weinstein - Buying discounted private credit can make sense as part of a broader short public debt view even if the hedge is imperfect]]
+- [[Boaz Weinstein - There is substantial basis risk between public credit shorts and private credit portfolios because the public issuers are often larger and stronger]]
+- [[Boaz Weinstein - Investors are increasingly seeking more one to one hedges for private credit exposure including total return swaps]]
+- [[Boaz Weinstein - Private credit stress can infect public credit because investors sell what they can sell when illiquid assets cannot be moved]]
+- [[Boaz Weinstein - COVID showed that even high yield ETFs can trade at deep discounts when liquidity becomes urgent]]
+- [[Boaz Weinstein - Real bids on discounted private credit contain unusually valuable price discovery because the market craves hard information]]
+- [[Boaz Weinstein - If a discounted private credit auction fills easily it can imply the next rational bid should be materially lower]]
+- [[Boaz Weinstein - Illiquidity and leverage mean the first visible mark in a private credit problem may show up in public markets before private books fully adjust]]
 
 ## Full Transcript
 

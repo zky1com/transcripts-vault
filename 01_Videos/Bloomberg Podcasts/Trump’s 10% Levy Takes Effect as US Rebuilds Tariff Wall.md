@@ -1,6 +1,6 @@
-﻿---
-title: "Trumpâ€™s 10% Levy Takes Effect as US Rebuilds Tariff Wall"
-people_mentioned: ["Claudia Some", "Douglas Irwin", "Dartmouth College", "Barry Eichengreen", "Paul Sweeney", "New York Fed", "Supreme Court", "World War Two"]
+---
+title: "Trump\u0027s 10% Levy Takes Effect as US Rebuilds Tariff Wall"
+people_mentioned: ["Claudia Sahm","Douglas Irwin","Barry Eichengreen","Paul Sweeney","Donald Trump"]
 channel: "Bloomberg Podcasts"
 video_id: "itQ3QjXZS6c"
 url: "https://www.youtube.com/watch?v=itQ3QjXZS6c"
@@ -8,67 +8,56 @@ publish_date: 2026-02-24
 duration: "12:16"
 word_count: 2188
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
+delivery_mode: "interview"
+broad_category: "economics"
+subcategories: ["tariffs","trade-policy","history"]
 series_name: "Bloomberg Podcasts"
 episode_id: ""
-primary_person: "Claudia Some"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Claudia Some - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Podcasts"]
-locations_mentioned: []
+primary_person: "Douglas Irwin"
+host_names: ["Claudia Sahm","Paul Sweeney"]
+interviewer_names: ["Claudia Sahm","Paul Sweeney"]
+interviewee_profiles: ["Douglas Irwin - Dartmouth College trade historian","Barry Eichengreen - economist"]
+speaker_profiles: ["Claudia Sahm - economist and host","Paul Sweeney - Bloomberg host"]
+organizations_mentioned: ["Supreme Court","New York Fed","Dartmouth College","Congress"]
+locations_mentioned: ["United States","China","Canada"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["saas-growth", "startup-strategy", "ai-regulation", "ai-jobs", "product-management"]
-tags: ["saas-growth", "startup-strategy", "ai-regulation", "ai-jobs", "product-management"]
+companies_mentioned: ["FedEx","Bloomberg"]
+topics: ["tariffs","trade-policy","history","congress"]
+tags: ["tariffs","trade-policy","history","congress"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on tariffs, trade, some. Results of the Supreme Court decision last week is maybe some companies, some individuals may want to get some rebates of the tariffs that. Now, we do have special tariffs on China under a different provision of trade law. Delegate began being delegated to the president, and we entered the era after World War Two of the president negotiating trade agreements to reduce.
+This interview is a compact trade-policy explainer anchored by Douglas Irwin's historical view of tariffs. The transcript's core argument is that the Supreme Court ruling was important but not decisive because it redirected Trump toward other tariff authorities, while leaving Congress and the courts facing a new round of uncertainty over legal limits, refunds, and the political toxicity of tariffs close to the midterms.
 
 ## Key Insights
 
+- Irwin frames the current moment as a sharp break from the postwar pattern in which presidential trade authority was used mainly to lower tariffs rather than raise them broadly.
+- The legal issue is not just that new tariffs may also be challenged, but that Section 122 itself looks awkward in a world of floating exchange rates.
+- The refund question is a major practical consequence because the administration may be legally obliged to return large sums while still resisting doing so quickly.
+- The transcript also suggests that Congress may rediscover its constitutional interest in trade policy even if it is hesitant to confront Trump directly.
 
-- Results of the Supreme Court decision last week is maybe some companies, some individuals may want to get some rebates of the tariffs that they've incurred.
-- Now, we do have special tariffs on China under a different provision of trade law.
-- Delegate began being delegated to the president, and we entered the era after World War Two of the president negotiating trade agreements to reduce tariffs.
-- Professor, I guess most of our viewing and listening audience, what they know about tariffs they've learned over the last six, seven, eight years, which is.
-- Professor, we had the New York Fed come out with a report, I guess, a week or so ago that said, you know, 90% ish of.
-- We're sort of in this uneasy truce with Beijing about they're not going to restrict rare earths and we're not going to impose further tariffs.
+## Claims
 
-## People Mentioned
-
-
-- [[Claudia Some]]
-
-- [[Douglas Irwin]]
-
-- [[Dartmouth College]]
-
-- [[Barry Eichengreen]]
-
-- [[Paul Sweeney]]
-
-- [[New York Fed]]
-
-
-
+- [[Douglas Irwin - The Supreme Court tariff ruling was historic but it mainly redirected Trump toward other statutory authorities rather than ending his tariff push]]
+- [[Douglas Irwin - The new tariffs are also vulnerable to legal challenge because the balance-of-payments rationale behind Section 122 is hard to justify under floating exchange rates]]
+- [[Douglas Irwin - Trump's tariff approach is a sharp historical break because postwar presidents were mainly delegated trade power to reduce tariffs rather than raise them broadly]]
+- [[Douglas Irwin - Importers formally pay tariffs but most of the cost is ultimately passed through to American businesses and consumers]]
+- [[Douglas Irwin - Tariffs could become politically toxic by the fall because Congress would be asked to revisit them close to midterm elections]]
+- [[Douglas Irwin - Beijing is likely to hold its cards close because the United States still has not shown what long-term trade framework it actually wants]]
+- [[Douglas Irwin - The administration may be legally required to rebate tariff collections but it has not identified a clean process for returning that money quickly]]
+- [[Douglas Irwin - The Supreme Court ruling could push Congress to reassert more authority over trade policy even if lawmakers remain reluctant to confront Trump directly]]
 
 ## Full Transcript
 

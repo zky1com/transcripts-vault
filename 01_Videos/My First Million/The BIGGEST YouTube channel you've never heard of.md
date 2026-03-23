@@ -1,35 +1,56 @@
 ---
 title: "The BIGGEST YouTube channel you've never heard of"
-people_mentioned: []
-channel: "My First Million"
-video_id: "x0_K4nfq5jM"
+people_mentioned: [Sam Parr, MrBeast, Rene Rechtman]
+channel: My First Million
+video_id: x0_K4nfq5jM
 url: "https://www.youtube.com/watch?v=x0_K4nfq5jM"
-publish_date: 
+publish_date: ""
 duration: ""
 word_count: 177
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
+content_type: clip
+delivery_mode: short
+broad_category: entrepreneurship
+subcategories: [acquisitions, media, "children's content"]
+series_name: My First Million
+episode_id: x0_K4nfq5jM
+primary_person: Sam Parr
+host_names: [Sam Parr]
 interviewer_names: []
 interviewee_profiles: []
-speaker_profiles: []
+speaker_profiles: [Sam Parr]
 organizations_mentioned: []
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
+tools_mentioned: [YouTube]
+companies_mentioned: [Cocomelon, Blippi, Little Baby Bum]
+topics: [media roll-ups, "children's content", acquisitions]
 tags: []
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 1
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Sam Parr highlights the Moonbug-style children's media roll-up as a reminder that the biggest internet assets are often hidden in plain sight. The core lesson is that buying already-proven digital attention assets in a fragmented niche can be an extraordinarily high-return strategy when the market has not yet been consolidated by larger incumbents.
 
+## Key Insights
 
+- The biggest YouTube properties are not always creator-led brands like MrBeast.
+- Children's media was fragmented enough that a buyer could consolidate category leaders before major studios fully competed.
+- The real opportunity was not producing the content from zero but acquiring and scaling proven assets.
+- The economics show how powerful media roll-ups can be when attention assets are mispriced.
 
+## Claims
+
+- [[Sam Parr - Roll-ups can create huge value when they consolidate fragmented digital media assets before big incumbents do]]
 
 ## Full Transcript
 
@@ -39,3 +60,4 @@ tags: []
 Do you know what the most viewed YouTube channel is? >> The obvious answer would be Mr. Beast. >> Mr. Beast number 13. Wait, why are we talking about number 13? I'm talking about number one. >> I don't. >> Coco Melon. What happens is there's this guy Renee. [music] He said, "Of the top 100 most viewed children's bands online, none of them were owned by big studios. They've raised about $150 million. They go and they buy Coco Melon for $103 million, 70 million on Blippy, and then Little Baby Bum was the third big one that they bought. And they did that for 65 million. So they raised about 400 million in total equity and debt to create the three billion exit like a [music] 10x return roughly on the capital that they used to buy these channels. And the founders of this thing Renee makes 300 million for this four years of work. His co-founder makes 300 million. The head of M&A made60 million and the CFO made like 20 or $30 million.
 
 </details>
+

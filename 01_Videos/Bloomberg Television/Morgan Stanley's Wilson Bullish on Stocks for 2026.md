@@ -1,70 +1,67 @@
-﻿---
-title: "Morgan Stanley's Wilson Bullish on Stocks for 2026"
-people_mentioned: ["Morgan Stanley", "Michael Asset", "Walden Waller", "Bill Ackman"]
-channel: "Bloomberg Television"
-video_id: "sj8tHn6lGAs"
-url: "https://www.youtube.com/watch?v=sj8tHn6lGAs"
-publish_date: 2025-11-24
-duration: "10:08"
-word_count: 2374
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
-episode_id: ""
-primary_person: "Morgan Stanley"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Morgan Stanley - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
-speech_status: pending
-world_status: pending
-speech_evidence_count: 0
-world_evidence_count: 0
 ---
-
+batch_id: ""
+companies_mentioned: ["Morgan Stanley","Fannie Mae","Freddie Mac"]
+tags: ["equities","liquidity","federal-reserve","ai-capex","market-rotation","macro"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: "Alix Steel"
+people_mentioned: ["Michael Wilson","Bill Ackman"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Michael Wilson"
+word_count: 2374
+subcategories: ["equities","federal-reserve","liquidity","ai-capex"]
+tools_mentioned: 
+claims_status: "done"
+title: "Morgan Stanley's Wilson Bullish on Stocks for 2026"
+channel: "Bloomberg Television"
+locations_mentioned: "United States"
+speech_evidence_count: 0
+publish_date: 2025-11-24
+speaker_profiles: "Michael Wilson - Morgan Stanley chief US equity strategist"
+world_evidence_count: 0
+interviewee_profiles: "Michael Wilson - Morgan Stanley chief US equity strategist"
+speech_status: "pending"
+organizations_mentioned: ["Federal Reserve","US Treasury","Morgan Stanley"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["equities","liquidity","federal-reserve","ai-capex","market-rotation","macro"]
+interviewer_names: "Alix Steel"
+episode_id: ""
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=sj8tHn6lGAs"
+duration: "10:08"
+video_id: "sj8tHn6lGAs"
+series_name: "Bloomberg Television"
+---
 
 ## Summary
 
-The discussion centers on mean, more, it's. There's always going to be a challenge on the return you're going to get. I would say if we don't get at least one of those items surprising the markets, meaning more than three cuts or we get. What's been going on, right?
+Michael Wilson argues that the 2026 equity bull case is less about another narrow mega-cap melt-up and more about a broader earnings rotation supported by easier policy and better liquidity. His view is that the private economy has already absorbed much of the recessionary pain, while the real swing factor now is whether markets can force the Fed toward enough rate cuts or balance-sheet support to unlock a wider productivity-and-capex cycle.
 
 ## Key Insights
 
+- Wilson says the next step in the bull case depends on earnings broadening beyond mega-cap tech.
+- He wants the Fed to ease more, but mainly to enable market rotation rather than to stage an emergency rescue.
+- His core macro thesis is that the private economy already lived through a rolling recession and is now rebalancing.
+- He thinks a more dovish policy path will likely arrive through either weaker labor data or another bout of financial stress.
+- Liquidity is his central hidden variable, even if it is hard to measure cleanly.
+- Balance-sheet expansion matters almost as much as rate cuts for his 7800 target.
+- He still thinks AI capex can justify broader wealth creation if productivity gains diffuse into the real economy.
+- Wilson explicitly argues that the Fed is constrained in practice by markets and Treasury funding needs.
 
-- There's always going to be a challenge on the return you're going to get.
-- I would say if we don't get at least one of those items surprising the markets, meaning more than three cuts or we get more balance.
-- No, we need the latter, and I think we're going to get there one of two ways.
-- That data then will allow the Fed to cut more or signal they're going to cut more.
-- We think the market we wrote about this back in September or early October, we thought the market was going to have a 10 to 15%.
-- If you do get that posturing from the Fed that maybe they cut in December, but it's a meeting by meeting approach, they're not necessarily going.
+## Claims
 
-## People Mentioned
-
-
-- [[Morgan Stanley]]
-
-- [[Michael Asset]]
-
-- [[Walden Waller]]
-
-- [[Bill Ackman]]
-
-
-
+- [[Michael Wilson - The next leg of the 2026 bull case depends on broadening earnings beyond mega-cap tech]]
+- [[Michael Wilson - The Fed needs to ease more to unlock rotation not because it has to rescue the economy]]
+- [[Michael Wilson - The private economy already went through a rolling recession and is now positioned to rebound]]
+- [[Michael Wilson - Markets will probably force the Fed into a more dovish path through weak labor data or financial stress]]
+- [[Michael Wilson - Liquidity is the invisible variable behind a lot of current market fragility]]
+- [[Michael Wilson - Balance-sheet expansion matters almost as much as rate cuts for the 2026 equity upside case]]
+- [[Michael Wilson - AI capex can broaden the bull market if the real economy starts capturing productivity gains]]
+- [[Michael Wilson - The Fed is not truly independent from markets and Treasury funding needs]]
 
 ## Full Transcript
 

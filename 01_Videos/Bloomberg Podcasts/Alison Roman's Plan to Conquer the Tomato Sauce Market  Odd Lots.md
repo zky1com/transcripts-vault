@@ -1,73 +1,72 @@
 ﻿---
 title: "Alison Roman's Plan to Conquer the Tomato Sauce Market | Odd Lots"
-people_mentioned: ["Odd Lots", "Tracy Alloway", "Pepsi Cola", "Alison Roman", "First Bloom", "Very Good Tomato"]
+people_mentioned: ["Alison Roman", "Joe Weisenthal", "Tracy Alloway"]
 channel: "Bloomberg Podcasts"
 video_id: "uLiPlMRT5pQ"
 url: "https://www.youtube.com/watch?v=uLiPlMRT5pQ"
 publish_date: 2026-02-23
 duration: "54:34"
 word_count: 11218
-content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "saas-startups"
-subcategories: ["pricing", "saas-growth"]
-series_name: "Bloomberg Podcasts"
-episode_id: ""
-primary_person: "Odd Lots"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Odd Lots - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Podcasts"]
-locations_mentioned: []
+content_type: "interview"
+delivery_mode: "conversation"
+broad_category: "entrepreneurship"
+subcategories: ["CPG", "branding", "distribution", "product-development"]
+series_name: "Odd Lots"
+episode_id: 
+primary_person: "Alison Roman"
+host_names: ["Joe Weisenthal", "Tracy Alloway"]
+interviewer_names: ["Joe Weisenthal", "Tracy Alloway"]
+interviewee_profiles: ["Alison Roman"]
+speaker_profiles: ["Alison Roman", "Joe Weisenthal", "Tracy Alloway"]
+organizations_mentioned: ["Odd Lots"]
+locations_mentioned: ["Brooklyn", "Manhattan"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["pricing", "saas-growth", "product-management"]
-tags: ["pricing", "saas-growth", "product-management"]
+companies_mentioned: ["PepsiCo", "Rao's", "Carbone", "First Bloom", "A Very Good Tomato Sauce"]
+topics: ["CPG", "branding", "pricing", "distribution", "product-development"]
+tags: ["CPG", "branding", "pricing", "distribution", "product-development"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
+batch_id: 
+last_processed_at: 2026-03-19
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on it's, yeah, because. It's funny that I that got into the tomato sauce business because I've written recipes for tomato sauce, and I'm very proud of mine. Yeah, I think it's an interesting thing because sometimes, often people start a business saying what doesn't exist. It's like it's it's relatively small.
+Alison Roman joins Odd Lots to explain why she entered the tomato-sauce business, how her grocery-store demand turned into a broader CPG project, and what actually makes packaged food hard: pricing, shelf competition, co-packers, recipe scaling, and logistics. The conversation is a grounded walkthrough of how a creator-led food brand tries to turn taste and identity into a real operating business.
 
 ## Key Insights
 
 
-- It's funny that I that got into the tomato sauce business because I've written recipes for tomato sauce, and I'm very proud of mine, and I.
-- Yeah, I think it's an interesting thing because sometimes, often people start a business saying what doesn't exist.
-- It's like it's it's relatively small.
-- I would imagine people would think if she's going to do this, I know it's going to be good.
-- I make tomato sauce and I make really good tomato sauce.
-- I don't know, I just was sort of like, I want to do something totally different, even if it's tomato sauce, I don't think they're all.
+- Roman makes clear that premium, local, responsibly made food runs into hard pricing limits long before it becomes easy to scale.
+- She did not start with an abstract market thesis; she started with a product her store customers already wanted more of than she could make herself.
+- Much of the conversation is about operational realism: scaling recipes changes flavor behavior, and co-packers plus logistics matter as much as branding.
+- She also explains why competing in a crowded aisle can still make sense when the incumbent products all cluster around the same style.
+- Her current operating model stays intentionally small and direct-to-consumer so she can keep quality and process under control while learning.
 
 ## People Mentioned
 
-
-- [[Odd Lots]]
-
+- [[Alison Roman]]
+- [[Joe Weisenthal]]
 - [[Tracy Alloway]]
 
-- [[Pepsi Cola]]
-
-- [[Alison Roman]]
-
-- [[First Bloom]]
-
-- [[Very Good Tomato]]
+## Claims
 
 
+- [[Alison Roman - Truly local high-wage premium CPG becomes too expensive for the mass market long before it becomes easy to scale]]
+- [[Alison Roman - Demand from her grocery-store customers validated the sauce before she tried to scale it commercially]]
+- [[Alison Roman - Scaling a recipe requires reformulating for batch size because ingredients behave differently in industrial volumes]]
+- [[Alison Roman - A crowded grocery category can still offer room if no existing product really tastes or feels like yours]]
+- [[Alison Roman - Competing sauces like Rao's and Carbone represent a sweeter marinara style rather than the exact product she wanted to make]]
+- [[Alison Roman - CPG success depends heavily on shelf space merchandising and distribution logistics not just product quality]]
+- [[Alison Roman - Tomato sauce was a pragmatic first CPG product because specialized co-packers already know how to manufacture it]]
+- [[Alison Roman - Staying small and mostly direct-to-consumer keeps quality control and logistics manageable while the product is still being refined]]
 
 
 ## Full Transcript
@@ -843,3 +842,4 @@ then please leave a comment or like the video
 or better yet, subscribe! Thanks for watching.
 
 </details>
+

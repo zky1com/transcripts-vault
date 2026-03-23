@@ -1,36 +1,67 @@
 ---
-title: "Fed's Hammack Sees Two-Sided Risks to Interest Rates"
-people_mentioned: []
+title: "Feds Hammack Sees Two-Sided Risks to Interest Rates"
+people_mentioned: ["Beth Hammack", "Jerome Powell", "Kevin Warsh"]
 channel: "Bloomberg Television"
 video_id: "akKo9943RKE"
 url: "https://www.youtube.com/watch?v=akKo9943RKE"
 publish_date: 2026-03-06
 duration: "9:51"
 word_count: 2115
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "interview"
+delivery_mode: "interview"
+broad_category: "economics"
+subcategories: ["federal-reserve", "interest-rates", "inflation"]
 series_name: ""
 episode_id: ""
-primary_person: ""
+primary_person: "Beth Hammack"
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+interviewee_profiles: ["Beth Hammack - Cleveland Fed President"]
+speaker_profiles: ["Beth Hammack - Cleveland Fed President"]
+organizations_mentioned: ["Federal Reserve"]
+locations_mentioned: ["United States"]
 tools_mentioned: []
 companies_mentioned: []
-topics: []
-tags: []
+topics: ["federal-reserve", "interest-rates", "inflation", "labor-market", "neutral-rate"]
+tags: ["federal-reserve", "interest-rates", "inflation", "labor-market", "neutral-rate"]
+pipeline_stage: video_only
+claims_status: done
+evidence_status: pending
+claims_count: 8
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
 ---
 
+## Summary
 
+Beth Hammack says the Feds current problem is genuinely two-sided because labor-market softness and still-sticky inflation both matter. She argues the economy still looks healthy enough that policy is probably near neutral rather than clearly restrictive, and that inflation remaining near 3 percent means officials should avoid adding more accommodation for now. She also suggests the committee can stay on hold for quite some time unless the balance of risks changes materially.
 
+## Key Insights
 
+- Hammack says weak payroll details matter because more Americans not working is a real disappointment even if the broader economy still looks healthy.
+- She describes the labor market as stabilizing rather than collapsing.
+- She says inflation has made virtually no progress for two years and remains too far from target.
+- She argues rates are probably around neutral because the economy, lending, and investment appetite still look resilient.
+- She does not think current conditions call for more accommodation.
+- She says the committee could remain on hold for quite some time from here.
+- She expects Fed leadership transitions to be manageable because the institution has handled many before.
+- She emphasizes that the chair is influential partly because the job is to bring the committee together around a shared view.
 
+## Claims
 
+- [[Beth Hammack - The latest jobs report was disappointing mainly because it meant more Americans were out of work]]
+- [[Beth Hammack - The labor market looks more like it is stabilizing than continuing to deteriorate sharply]]
+- [[Beth Hammack - Inflation has made virtually no progress for two years and is still stuck around 3 percent]]
+- [[Beth Hammack - Current policy is probably around neutral rather than meaningfully restrictive]]
+- [[Beth Hammack - Ongoing business optimism loan growth and investment plans suggest policy is not choking the economy]]
+- [[Beth Hammack - The Fed does not need to provide more accommodation right now]]
+- [[Beth Hammack - Rates could stay on hold for quite some time under current conditions]]
+- [[Beth Hammack - A new Fed chair would be influential but the committee is built to adapt through leadership transitions]]
 ## Full Transcript
 
 <details>

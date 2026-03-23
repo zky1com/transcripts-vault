@@ -1,35 +1,67 @@
 ---
-title: "CalPERS 'Not Too Concerned' About Software Exposure, CEO Frost Says"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "oQ90FD31AsI"
-url: "https://www.youtube.com/watch?v=oQ90FD31AsI"
-publish_date: 2026-02-26
-duration: "8:52"
+batch_id: ""
+companies_mentioned: ["CalPERS"]
+tags: ["private-credit", "private-equity", "pensions", "venture", "climate"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Marcie Frost"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Marcie Frost"
 word_count: 1618
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
+subcategories: ["private-markets", "pensions", "climate-investing"]
+tools_mentioned: 
+claims_status: "done"
+title: "CalPERS 'Not Too Concerned' About Software Exposure, CEO Frost Says"
+channel: "Bloomberg Television"
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+speech_evidence_count: 0
+publish_date: 2026-02-26
+speaker_profiles: "Marcie Frost - CalPERS CEO"
+world_evidence_count: 0
+interviewee_profiles: "Marcie Frost - CalPERS CEO"
+speech_status: "pending"
+organizations_mentioned: ["CalPERS"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["private-credit", "private-equity", "pensions", "venture", "climate"]
+interviewer_names: 
+episode_id: ""
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=oQ90FD31AsI"
+duration: "8:52"
+video_id: "oQ90FD31AsI"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Marcie Frost argues that CalPERS is in a stronger private-markets position than many peers because it recalibrated the book earlier, improved liquidity, reduced fees, and stayed selective on managers. She says the fund is not especially worried about software exposure in private credit, is still willing to opportunistically expand private-credit exposure if terms help diversification, and still expects to meet its large climate and sustainable-investment targets by leaning into venture and innovation.
 
+## Key Insights
 
+- Frost says CalPERS is not broadly alarmed by software exposure inside its private-credit book.
+- She still has conviction in private markets because both returns and liquidity have held up.
+- She credits the last few years of recalibration, manager selection, and fee reductions for that confidence.
+- She sees room to expand private-credit exposure selectively rather than retreat from it.
+- She frames private-credit buying as an opportunistic diversification decision, not a panic response.
+- She says private-debt strategy is still broadening beyond the existing mix.
+- On climate and energy, she still expects CalPERS to meet its 2030 target.
+- She highlights venture and innovation as especially fertile parts of the climate opportunity set.
 
+## Claims
+
+- [[Marcie Frost - CalPERS is not especially concerned about software exposure in its private credit book because the allocation is smaller diversified and focused on high quality managers]]
+- [[Marcie Frost - CalPERS still has conviction in private markets after strong recent returns in both private equity and private credit]]
+- [[Marcie Frost - Three years of recalibration manager selection and fee reduction are the main reasons CalPERS is comfortable with its current private equity setup]]
+- [[Marcie Frost - Strong liquidity gives CalPERS room to hold its private equity allocation while some peers are cutting back]]
+- [[Marcie Frost - CalPERS would consider buying private credit assets from peers if the terms help diversify the portfolio]]
+- [[Marcie Frost - CalPERS is still expanding its private debt strategy beyond its current direct and specialty lending mix]]
+- [[Marcie Frost - CalPERS still expects to reach its one hundred billion dollar sustainable investment goal by 2030]]
+- [[Marcie Frost - Venture and climate innovation are among the most attractive areas for deploying the remaining climate allocation]]
 
 ## Full Transcript
 

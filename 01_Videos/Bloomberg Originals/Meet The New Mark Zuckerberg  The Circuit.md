@@ -1,66 +1,74 @@
 ﻿---
-title: "Meet The New Mark Zuckerberg | The Circuit"
-people_mentioned: ["Mark Zuckerberg", "Open Compute Project"]
+title: "Meet The New Mark Zuckerberg  The Circuit"
+people_mentioned: ["Mark Zuckerberg", "Emily Chang", "Priscilla Chan", "Sam Altman", "Donald Trump", "Steve Jobs"]
 channel: "Bloomberg Originals"
 video_id: "YuIc4mq7zMU"
 url: "https://www.youtube.com/watch?v=YuIc4mq7zMU"
 publish_date: 2024-07-23
 duration: "24:02"
 word_count: 4536
-content_type: "news"
-delivery_mode: "news-report"
+content_type: "interview"
+delivery_mode: "analytical"
 broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
+subcategories: ["ai-strategy", "open-source-ai", "consumer-ai", "ai-competition", "ai-jobs"]
+series_name: "The Circuit"
 episode_id: ""
 primary_person: "Mark Zuckerberg"
-host_names: ["Bloomberg Originals"]
-interviewer_names: ["Bloomberg Originals"]
-interviewee_profiles: ["Mark Zuckerberg - OpenAI"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Originals"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["OpenAI", "Google", "Meta", "Apple", "Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
+host_names: ["Emily Chang"]
+interviewer_names: ["Emily Chang"]
+interviewee_profiles: ["Mark Zuckerberg", "Priscilla Chan"]
+speaker_profiles: ["Mark Zuckerberg", "Emily Chang", "Priscilla Chan"]
+organizations_mentioned: ["Bloomberg Originals", "Open Compute Project", "Office of the Surgeon General"]
+locations_mentioned: ["Palo Alto", "China"]
+tools_mentioned: ["Meta AI", "Llama 3.1", "ChatGPT"]
+companies_mentioned: ["Meta", "OpenAI", "Google", "Apple", "Facebook", "Instagram", "WhatsApp", "Oculus"]
+topics: ["ai-strategy", "open-source-ai", "consumer-ai", "platform-control", "us-china-ai"]
+tags: ["ai-strategy", "open-source-ai", "consumer-ai", "platform-control", "us-china-ai"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on it's, mean, there's. Yeah, no, I think it's, you know, it's probably gonna be a banger. It's, you know, as, and I think, look, at some level, as an American, it's, like, hard to not get kind of emotional about. I don't think they're gonna be Gods, but I do think that to some degree, if you're like an organization, you.
+Emily Chang interviews Mark Zuckerberg about Meta's open-source AI strategy, platform ambition, consumer AI products, and the long arc of Meta's bet on AI and AR. Zuckerberg argues that open source helps Meta shape the next computing platform, that the AI future will involve many specialized models rather than one system, and that even a potentially overbuilt infrastructure cycle is rational if the alternative is falling behind on the next major technology wave.
 
 ## Key Insights
 
-
-- Yeah, no, I think it's, you know, it's probably gonna be a banger.
-- It's, you know, as, and I think, look, at some level, as an American, it's, like, hard to not get kind of emotional about that spirit.
-- I don't think they're gonna be Gods, but I do think that to some degree, if you're like an organization, you.
-- I actually think, well, I get it, but, yeah.
-- Hopefully it's not- No, it's fine.
-- Yeah, I braid Max's hair and I'm like, "Oh, you know," it's like, "I think I did well tonight," or it's like.
+- Zuckerberg frames open-source AI as both a philosophical preference and a strategic move to avoid depending on rival-controlled platforms again.
+- He expects the market to support many customized AI systems rather than one dominant model serving every use case.
+- Meta sees consumer AI as a product race around utility, creativity, and social interaction, not just benchmark competition.
+- He views current AI capex as potentially early or overbuilt in timing, but still rational because the downside of missing the platform shift is worse.
+- Zuckerberg thinks the United States should compete with China through fast decentralized innovation instead of trying to freeze the field.
+- He is broadly optimistic that AI will expand what people can build, including lowering the barrier to software creation.
 
 ## People Mentioned
 
-
 - [[Mark Zuckerberg]]
+- [[Emily Chang]]
+- [[Priscilla Chan]]
+- [[Sam Altman]]
+- [[Donald Trump]]
+- [[Steve Jobs]]
 
-- [[Open Compute Project]]
+## Claims
 
-
-
+- [[Mark Zuckerberg - Open-source AI is strategic for Meta because it helps the company shape the next platform instead of building on rivals' rails]]
+- [[Mark Zuckerberg - Meta believes the AI future will contain millions of specialized models rather than one centralized superintelligence]]
+- [[Mark Zuckerberg - Open-source frontier models can teach startups enterprises and governments to build smaller custom systems]]
+- [[Mark Zuckerberg - AI assistants become more compelling when they support real-time creation and personalized social use cases]]
+- [[Mark Zuckerberg - Creator-trained AI versions of people will become a major consumer use case on social platforms]]
+- [[Mark Zuckerberg - Even if the AI buildout is somewhat overbuilt, leading firms are still investing rationally because being behind would be worse]]
+- [[Mark Zuckerberg - The United States should compete with China in AI through decentralized innovation and a persistent lead rather than by locking the field down]]
+- [[Mark Zuckerberg - AI will lower the skill barrier to building software and expand human creativity rather than end it]]
 
 ## Full Transcript
 
@@ -315,3 +323,4 @@ about how to protect us. I brought you some sunscreen. This is, like, about the 
 of sunscreen that I need. So, I appreciate that.
 
 </details>
+

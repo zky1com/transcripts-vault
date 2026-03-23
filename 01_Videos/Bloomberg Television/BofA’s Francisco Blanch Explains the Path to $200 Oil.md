@@ -1,35 +1,67 @@
 ---
-title: "BofA’s Francisco Blanch Explains the Path to $200 Oil"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "VzlLCnJr8CI"
-url: "https://www.youtube.com/watch?v=VzlLCnJr8CI"
-publish_date: 2026-03-16
-duration: "3:30"
+batch_id: ""
+companies_mentioned: "Bank of America"
+tags: ["oil","shipping","commodities","inventory","recession","geopolitics"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: "Francisco Blanch"
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Francisco Blanch"
 word_count: 640
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
+subcategories: ["energy-markets","oil","geopolitics"]
+tools_mentioned: 
+claims_status: "done"
+title: "BofA's Francisco Blanch Explains the Path to $200 Oil"
+channel: "Bloomberg Television"
+locations_mentioned: ["Hormuz","Bab el-Mandeb","Europe","Northeast Asia","United States","China","Yemen"]
+speech_evidence_count: 0
+publish_date: 2026-03-16
+speaker_profiles: "Francisco Blanch - BofA head of global commodities research"
+world_evidence_count: 0
+interviewee_profiles: "Francisco Blanch - BofA head of global commodities research"
+speech_status: "pending"
+organizations_mentioned: "Bank of America"
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["oil","shipping","commodities","inventory","recession","geopolitics"]
+interviewer_names: 
 episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=VzlLCnJr8CI"
+duration: "3:30"
+video_id: "VzlLCnJr8CI"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Francisco Blanch argues that the real oil-market danger is not simply a temporary price spike but the possibility that Hormuz becomes a prolonged shipping choke point with no workable rerouting option. In that world, the shock spreads beyond barrels into insurance, shipping behavior, stockpiling, and recession risk, with Europe and Northeast Asia far more exposed than the United States.
 
+## Key Insights
 
+- Blanch sees Hormuz as much more dangerous than Bab el-Mandeb because there is no obvious rerouting valve.
+- If the disruption lasts, the problem quickly becomes one of shipping and insurance, not only oil supply.
+- He expects a more persistent commodities risk premium because governments and firms will keep stockpiling.
+- His framework is that the world is shifting from just-in-time commodity management to just-in-case inventories.
+- If the conflict drags into April, he thinks recession risk rises week by week.
+- He openly treats $160 oil and even $200 oil as plausible if the crisis lasts long enough.
+- Europe and Northeast Asia look far more exposed than the United States.
+- The core market variable is how long insecurity keeps shipping effectively frozen.
 
+## Claims
+
+- [[Francisco Blanch - Hormuz is far more dangerous for oil markets than Bab el-Mandeb because there is no clear rerouting alternative]]
+- [[Francisco Blanch - A prolonged Hormuz disruption would quickly become a shipping and insurance crisis not just an oil-supply issue]]
+- [[Francisco Blanch - A new commodities risk premium could persist after the war because countries will keep stockpiling]]
+- [[Francisco Blanch - The old just-in-time commodity mindset is giving way to a just-in-case inventory regime]]
+- [[Francisco Blanch - The risk of recession rises week by week if the conflict remains unresolved into April]]
+- [[Francisco Blanch - Oil prices above $160 and even $200 become plausible if the conflict drags on long enough]]
+- [[Francisco Blanch - Europe and Northeast Asia are more exposed than the US to a prolonged Hormuz shock]]
+- [[Francisco Blanch - The key oil-market question is no longer just supply but how long insecurity keeps shipping frozen]]
 
 ## Full Transcript
 

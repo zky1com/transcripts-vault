@@ -1,65 +1,70 @@
 ﻿---
 title: "Citrini AI Report Co-Author Talks 'Scare-Trade' Selloff & Disruption"
-people_mentioned: ["Max Long", "Uber Eats"]
+people_mentioned: ["Max Long"]
 channel: "Bloomberg Podcasts"
 video_id: "xsdpKcFwpt4"
 url: "https://www.youtube.com/watch?v=xsdpKcFwpt4"
 publish_date: 2026-02-24
 duration: "16:15"
 word_count: 3265
-content_type: "podcast"
-delivery_mode: "technique"
+content_type: "interview"
+delivery_mode: "conversation"
 broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
+subcategories: ["AI-economics", "AI-jobs", "markets", "policy"]
 series_name: "Bloomberg Podcasts"
-episode_id: ""
+episode_id: 
 primary_person: "Max Long"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Max Long - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Podcasts"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
+host_names: []
+interviewer_names: []
+interviewee_profiles: ["Max Long"]
+speaker_profiles: ["Max Long"]
+organizations_mentioned: []
+locations_mentioned: ["United States", "China"]
+tools_mentioned: ["AI agents"]
+companies_mentioned: ["DoorDash", "Uber", "Chase", "Citi", "Raymond James", "Anthropic"]
+topics: ["AI-economics", "AI-jobs", "automation", "intermediation", "policy"]
+tags: ["AI-economics", "AI-jobs", "automation", "intermediation", "policy"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
+batch_id: 
+last_processed_at: 2026-03-19
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on it's, more, things. We think it's going to happen the fastest in the US because AI is largely being built there and it has the most dynamic. The underlying feedback loop is that the smarter the AI gets, the more things it can do, the more jobs it can replace and. Ultimately we do think it's going to take a while for this to diffuse through the entire economy.
+Max Long discusses the Citrini AI report and the market selloff around AI disruption. His core argument is that investors are moving from a simple AI-upside narrative toward a harder question: which business models are actually threatened when agents reduce switching friction, compress intermediation, and start displacing weak white-collar labor demand faster than expected.
 
 ## Key Insights
 
 
-- We think it's going to happen the fastest in the US because AI is largely being built there and it has the most dynamic labor markets.
-- The underlying feedback loop is that the smarter the AI gets, the more things it can do, the more jobs it can replace and that we.
-- Ultimately we do think it's going to take a while for this to diffuse through the entire economy.
-- In the last six months and it's going to start changing not you know, it's not just going to accrue to the.
-- There's two really interesting observations with what's going on in China right now.
-- World where, you know, we don't figure out what to do if the jobs start going faster than we think.
+- Long's thesis is not just that AI creates winners, but that it may now be strong enough to start exposing losers much sooner than the market had priced.
+- He sees software and other intermediation-heavy sectors as especially vulnerable because agentic AI can route around brand and interface loyalty.
+- He also thinks the labor-market channel matters more than equity narratives: if displaced white-collar workers flood other job categories, the consumer economy can weaken materially.
+- His policy point is narrower than a generic anti-tech stance: target the windfall gains tied to displacement, not AI in the abstract.
+- He treats China as a useful preview of what an automation-heavy economy can look like when productivity rises but consumer demand weakens.
 
 ## People Mentioned
 
-
 - [[Max Long]]
 
-- [[Uber Eats]]
+## Claims
 
 
+- [[Max Long - AI agents could hit the weak white-collar labor market faster than many investors expect]]
+- [[Max Long - The AI market is shifting from broad benefit stories toward sorting clear winners from clear losers]]
+- [[Max Long - Software remains especially vulnerable because the disruption thesis strengthens as the models improve even before revenues collapse]]
+- [[Max Long - Intermediation businesses face serious risk because agentic AI can remove much of the switching friction that protects incumbents]]
+- [[Max Long - Semiconductors data-center inputs and foundation-model builders are the clearest early winners of the AI buildout]]
+- [[Max Long - Without a policy response AI-driven white-collar job losses can spill into blue-collar wages and weaken the whole consumer economy]]
+- [[Max Long - The right policy response is to target AI windfall gains and job displacement mechanisms rather than impose blunt across-the-board tax hikes]]
+- [[Max Long - China may be an early preview of how automation can weaken hiring and the consumer economy before the United States fully feels it]]
 
 
 ## Full Transcript
@@ -334,3 +339,4 @@ the same way that, you know, there's quite a bit embedded in kind of the
 U.S..
 
 </details>
+

@@ -1,35 +1,67 @@
 ---
-title: "Big Take: Lloyd Blankfein on AI, Private Credit, and Politics"
-people_mentioned: []
-channel: "Bloomberg Television"
-video_id: "Z_4uaToYgT8"
-url: "https://www.youtube.com/watch?v=Z_4uaToYgT8"
-publish_date: 2026-03-01
-duration: "35:59"
+batch_id: ""
+companies_mentioned: ["Goldman Sachs"]
+tags: ["ai", "private-credit", "market-cycles", "retirement", "risk"]
+last_processed_at: 2026-03-19
+world_status: "pending"
+pipeline_stage: "video_only"
+host_names: 
+people_mentioned: ["Lloyd Blankfein", "Jamie Dimon"]
+evidence_status: "pending"
+content_type: "interview"
+claims_count: 8
+primary_person: "Lloyd Blankfein"
 word_count: 6941
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
+subcategories: ["private-credit", "ai", "market-risk"]
+tools_mentioned: 
+claims_status: "done"
+title: "Big Take: Lloyd Blankfein on AI, Private Credit, and Politics"
+channel: "Bloomberg Television"
+locations_mentioned: ["Riyadh"]
+speech_evidence_count: 0
+publish_date: 2026-03-01
+speaker_profiles: "Lloyd Blankfein - former Goldman Sachs CEO"
+world_evidence_count: 0
+interviewee_profiles: "Lloyd Blankfein - former Goldman Sachs CEO"
+speech_status: "pending"
+organizations_mentioned: ["Goldman Sachs"]
+delivery_mode: "tv-interview"
+evidence_count: 0
+topics: ["ai", "private-credit", "market-cycles", "retirement", "risk"]
+interviewer_names: 
 episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+broad_category: "economics"
+url: "https://www.youtube.com/watch?v=Z_4uaToYgT8"
+duration: "35:59"
+video_id: "Z_4uaToYgT8"
+series_name: "Bloomberg Television"
 ---
 
+## Summary
 
+Lloyd Blankfein argues that the biggest current danger is not any single fashionable product but a long cycle of good markets that has eroded discipline around opaque and illiquid assets. He is open to AI as a real technology wave, but he thinks investors still need to distinguish between a real theme and guaranteed winners, while remaining especially cautious about pushing private-credit-style risk into retail retirement accounts late in the cycle.
 
+## Key Insights
 
+- Blankfein treats AI as real, but not as a guarantee that every participant will win.
+- He thinks new technology often adds transitional complexity before it reduces labor needs.
+- He gives founder-led hyperscaler capex some credibility because the decision makers are risking their own wealth.
+- He is especially wary of opaque and illiquid private credit because marks are hard to test.
+- His broader market view is that long stretches without losses erode discipline and raise the odds of a reckoning.
+- He thinks retirement portfolios deserve a stricter risk lens because the political and social cost of losses is higher.
+- He sees the late-cycle timing of retail expansion into illiquid alternatives as particularly uncomfortable.
+- The through line is caution about risk migration into places where losses will be hardest to absorb.
 
+## Claims
+
+- [[Lloyd Blankfein - AI may be transformative without making every company investing in it a winner]]
+- [[Lloyd Blankfein - In the short run AI adoption can require more headcount before it reduces labor needs]]
+- [[Lloyd Blankfein - Founder-led hyperscalers deserve some credibility on AI capex because they are risking their own wealth]]
+- [[Lloyd Blankfein - Opaque illiquid private credit is inherently hard to mark and hard to discipline]]
+- [[Lloyd Blankfein - Long periods without market losses erode discipline and make a reckoning more likely]]
+- [[Lloyd Blankfein - Private credit is one of the clearest places to look for future write-downs in a late-cycle market]]
+- [[Lloyd Blankfein - Putting illiquid alternatives into retirement portfolios is more consequential because the losses hit real voters and taxpayers]]
+- [[Lloyd Blankfein - Pushing retail investors into private credit late in the cycle deserves much more caution than firms are showing]]
 
 ## Full Transcript
 

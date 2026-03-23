@@ -1,6 +1,6 @@
 ﻿---
 title: "Jared Sleeper on Which Software Companies Will Survive the SaaSpocalypse | Odd Lots"
-people_mentioned: ["Odd Lots", "Joe Weisenthal", "Tracy Alloway"]
+people_mentioned: ["Jared Sleeper","Joe Weisenthal","Tracy Alloway","David Skok","Elon Musk"]
 channel: "Bloomberg Podcasts"
 video_id: "_Y5xAZKIGU0"
 url: "https://www.youtube.com/watch?v=_Y5xAZKIGU0"
@@ -8,61 +8,56 @@ publish_date: 2026-02-19
 duration: "50:37"
 word_count: 10031
 content_type: "podcast"
-delivery_mode: "opinion"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "portfolio-management"]
-series_name: "Bloomberg Podcasts"
+delivery_mode: "conversation"
+broad_category: "ai"
+subcategories: ["ai-and-software","saas","software-investing"]
+series_name: "Odd Lots"
 episode_id: ""
-primary_person: "Odd Lots"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Odd Lots - Salesforce"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Podcasts"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Salesforce", "Bloomberg"]
-topics: ["stock-analysis", "portfolio-management", "ai-coding", "product-management"]
-tags: ["stock-analysis", "portfolio-management", "ai-coding", "product-management"]
+primary_person: "Jared Sleeper"
+host_names: ["Joe Weisenthal","Tracy Alloway"]
+interviewer_names: ["Joe Weisenthal","Tracy Alloway"]
+interviewee_profiles: "Jared Sleeper - Avenir partner focused on software investing"
+speaker_profiles: ["Joe Weisenthal - Bloomberg journalist and Odd Lots host","Tracy Alloway - Bloomberg journalist and Odd Lots host"]
+organizations_mentioned: ["Avenir","Matrix Partners","Bloomberg Audio Studios"]
+locations_mentioned: ["Boston","Silicon Valley"]
+tools_mentioned: ["Cloud Code","Claude Code","Zoom","Microsoft Excel"]
+companies_mentioned: ["Salesforce","Atlassian","Veeva","Microsoft","Elastic","Freshworks"]
+topics: ["ai-and-software","saas","software-investing","enterprise-software"]
+tags: ["ai-and-software","saas","software-investing","enterprise-software"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on software, it's, right. Yeah, I think I think that's right. It's like, sure, any of us could easily like, write some software, but like software, writing software is a cost center for these companies. I actually kind of think of it as there's three cases, there's the software, it gets wiped out case, there's the not much happens.
+Jared Sleeper argues that the SaaS selloff is not a simple story about AI making all software worthless. He separates code generation from the broader enterprise-software bundle of integrations, support, familiarity, and organizational change management, while also stressing that investors are now repricing long-run terminal value under the possibility of much stranger knowledge-work economics.
 
 ## Key Insights
 
+- He argues that the best current bearish case is about future workflow disruption, not about a sudden collapse in today's software demand.
+- He treats enterprise stickiness as a social and operational phenomenon as much as a code phenomenon.
+- He also emphasizes that many public software companies look less durable once stock-based compensation is treated as a real expense.
+- In his view AI changes the software labor model quickly, but near-term demand still favors adaptable engineers and product builders.
 
-- Yeah, I think I think that's right.
-- It's like, sure, any of us could easily like, write some software, but like software, writing software is a cost center for these companies, right?
-- I actually kind of think of it as there's three cases, there's the software, it gets wiped out case, there's the not much happens to software.
-- Yeah, I think that's that's a pretty good bet, right?
-- Yeah, it's a great question I think.
-- One is the world is going to stay the same, but software just going to get a lot cheaper over time now that it's cheaper to.
+## Claims
 
-## People Mentioned
-
-
-- [[Odd Lots]]
-
-- [[Joe Weisenthal]]
-
-- [[Tracy Alloway]]
-
-
-
+- [[Jared Sleeper - Cheaper code generation alone does not destroy software companies because customers also buy integration support standardization and ecosystem benefits]]
+- [[Jared Sleeper - Third-party enterprise software won historically because it was far cheaper than building and maintaining equivalent systems in house]]
+- [[Jared Sleeper - The hardest part of many enterprise integrations is understanding legacy processes and organizational mapping rather than writing code]]
+- [[Jared Sleeper - Enterprise software stocks panic easily because many investors do not have real product intuition about the tools they trade]]
+- [[Jared Sleeper - Software stickiness comes partly from herd familiarity because companies value products that employees already know how to use]]
+- [[Jared Sleeper - The current SaaS selloff reflects terminal-value fears about future knowledge-work disruption more than present operating collapse]]
+- [[Jared Sleeper - Stock-based compensation leaves many software companies with much weaker real profitability than their non-GAAP margins imply]]
+- [[Jared Sleeper - AI is pushing software engineering toward higher-leverage system and project work rather than immediately eliminating the role entirely]]
 
 ## Full Transcript
 
@@ -836,3 +831,4 @@ then please like or leave a comment on the video.
 Or better yet, subscribe! Thanks for watching.
 
 </details>
+

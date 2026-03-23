@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Stocks Decline as US-Iran Risks Spur Rally in Oil | Closing Bell"
-people_mentioned: ["Romaine Bostick", "Katie Graham Bell", "Carol Massar", "Tim Stenovec", "Carol Massar With", "Dow Jones", "Middle East", "White House"]
+people_mentioned: ["Romaine Bostick","Katie Greifeld","Carol Massar","Tim Stenovec"]
 channel: "Bloomberg Podcasts"
 video_id: "DOkxocQ2BSM"
 url: "https://www.youtube.com/watch?v=DOkxocQ2BSM"
@@ -8,67 +8,56 @@ publish_date: 2026-02-19
 duration: "10:10"
 word_count: 2021
 content_type: "podcast"
-delivery_mode: "analysis"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "risk-management", "market-data"]
-series_name: "Bloomberg Podcasts"
+delivery_mode: "market-wrap"
+broad_category: "economics"
+subcategories: ["markets","earnings","private-credit","geopolitics"]
+series_name: "Closing Bell"
 episode_id: ""
 primary_person: "Romaine Bostick"
-host_names: ["Bloomberg Podcasts"]
-interviewer_names: ["Bloomberg Podcasts"]
-interviewee_profiles: ["Romaine Bostick - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Podcasts"]
-locations_mentioned: ["United States"]
+host_names: ["Romaine Bostick","Katie Greifeld","Carol Massar","Tim Stenovec"]
+interviewer_names: ["Romaine Bostick","Katie Greifeld","Carol Massar","Tim Stenovec"]
+interviewee_profiles: 
+speaker_profiles: ["Romaine Bostick - Bloomberg host","Katie Greifeld - Bloomberg host","Carol Massar - Bloomberg host","Tim Stenovec - Bloomberg host"]
+organizations_mentioned: ["Bloomberg Podcasts","White House"]
+locations_mentioned: ["United States","Middle East","Georgia"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "risk-management", "market-data", "ai-safety", "b2b-marketing", "lead-generation", "product-management"]
-tags: ["stock-analysis", "risk-management", "market-data", "ai-safety", "b2b-marketing", "lead-generation", "product-management"]
+companies_mentioned: ["Akamai","Omnicom","Deere","Etsy","eBay","Booking Holdings","Blue Owl Capital","Klarna","Tradeweb","Kalshi","Walmart","Bloomberg"]
+topics: ["markets","earnings","private-credit","geopolitics","prediction-markets"]
+tags: ["markets","earnings","private-credit","geopolitics","prediction-markets"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-03-19"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on some, right, yeah. One of the few bright spots out there today and it's a minor one, is the Russell 2000 higher actually on the day by. Let's look at some of the worst performers in the S&P 500 today weighing down the index booking holdings. They're higher by about 8/10 of a percent, energy higher on the day as well as we sort of parse through some.
+This Closing Bell episode is a compact market wrap shaped by two themes: fresh geopolitical anxiety around Iran and a string of company-specific moves across software, ad spending, industrials, private credit, and payments. The panel presents the day's action as a fairly mild index decline with defensive leadership, while several individual-stock discussions point to a market that is still highly sensitive to guidance changes, fund liquidity signals, and sector-specific narratives.
 
 ## Key Insights
 
+- The show frames the day's tone as cautious rather than panicked: broad indexes were lower, but the Russell 2000 still managed to finish green.
+- Energy and gold moved in the expected defensive direction as Middle East risk returned to the tape.
+- Several single-stock discussions were actually about balance-sheet and structure issues rather than just macro headlines, especially Blue Owl and Klarna.
+- The ending discussion shows how prediction markets are spreading into more traditional financial infrastructure, even if the hosts remain skeptical about the right long-run structure.
 
-- One of the few bright spots out there today and it's a minor one, is the Russell 2000 higher actually on the day by about six.
-- Let's look at some of the worst performers in the S&P 500 today weighing down the index booking holdings.
-- They're higher by about 8/10 of a percent, energy higher on the day as well as we sort of parse through some.
-- Finally, watching what's going on today with shares of Klarna group, they fell by more than 26%.
-- Yeah, we've definitely seen gold's move up above 5000 again today.
-- You've seen the response from some of these equity exchanges now from, of course, trade webs and some of these debt trading platforms and certainly from.
+## Claims
 
-## People Mentioned
-
-
-- [[Romaine Bostick]]
-
-- [[Katie Graham Bell]]
-
-- [[Carol Massar]]
-
-- [[Tim Stenovec]]
-
-- [[Carol Massar With]]
-
-- [[Dow Jones]]
-
-
-
+- [[Carol Massar - Renewed geopolitical fears around the Middle East helped push oil and gold higher even as equities weakened]]
+- [[Romaine Bostick - The market tone was mixed rather than uniformly weak because the Russell 2000 still finished modestly higher despite broader index declines]]
+- [[Katie Greifeld - Akamai's weak near-term earnings outlook mattered more than its headline beat because the guidance landed below analyst expectations]]
+- [[Carol Massar - Omnicom rallied because stronger-than-expected results combined with a large buyback authorization improved investor sentiment]]
+- [[Carol Massar - Deere's stronger outlook suggested investors are starting to price in a long-awaited improvement in the agriculture economy]]
+- [[Romaine Bostick - Blue Owl's decision to restrict withdrawals intensified concerns that private credit may face broader liquidity stress]]
+- [[Romaine Bostick - Klarna's sharp drop showed investors are losing patience with growth stories that still require more provisioning for souring loans]]
+- [[Carol Massar - The Tradeweb-Kalshi partnership suggests prediction markets are becoming more embedded in mainstream financial infrastructure]]
 
 ## Full Transcript
 

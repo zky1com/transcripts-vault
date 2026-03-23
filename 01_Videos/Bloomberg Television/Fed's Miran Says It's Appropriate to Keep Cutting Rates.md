@@ -1,36 +1,67 @@
 ---
-title: "Fed's Miran Says It's Appropriate to Keep Cutting Rates"
-people_mentioned: []
+title: "Feds Miran Says Its Appropriate to Keep Cutting Rates"
+people_mentioned: ["Stephen Miran", "Jonathan Ferro", "Lisa Abramowicz", "Donald Trump"]
 channel: "Bloomberg Television"
 video_id: "16CWqo7etSA"
 url: "https://www.youtube.com/watch?v=16CWqo7etSA"
 publish_date: 2026-03-04
 duration: "11:40"
 word_count: 1787
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "interview"
+delivery_mode: "interview"
+broad_category: "economics"
+subcategories: ["federal-reserve", "interest-rates", "labor-market"]
 series_name: ""
 episode_id: ""
-primary_person: ""
+primary_person: "Stephen Miran"
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+interviewee_profiles: ["Stephen Miran - Federal Reserve official"]
+speaker_profiles: ["Stephen Miran - Federal Reserve official"]
+organizations_mentioned: ["Federal Reserve"]
+locations_mentioned: ["United States", "Middle East"]
 tools_mentioned: []
 companies_mentioned: []
-topics: []
-tags: []
+topics: ["federal-reserve", "interest-rates", "inflation", "labor-market", "private-credit", "artificial-intelligence"]
+tags: ["federal-reserve", "interest-rates", "inflation", "labor-market", "private-credit", "artificial-intelligence"]
+pipeline_stage: video_only
+claims_status: done
+evidence_status: pending
+claims_count: 8
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
 ---
 
+## Summary
 
+Stephen Miran argues that the Middle East shock is not yet a reason to change policy because oil is still mostly a headline inflation story rather than a core one. He still sees a multi-year trend of gradual labor-market weakening and thinks that justifies continuing rate cuts toward neutral unless evidence clearly changes. He also argues that private-credit stress may expose a blind spot in standard financial-conditions measures and that AI-driven job destruction is still too early to treat as a settled macro trend.
 
+## Key Insights
 
+- Miran says the current oil shock is different from 2022 because policy settings are much less inflationary now.
+- He thinks it is too early to abandon the view that labor markets have been gradually weakening for two years.
+- He argues inflation expectations are not signaling a serious long-run inflation scare.
+- He still favors continuing cuts because his forecast has not materially changed.
+- He says housing and goods disinflation could still push inflation below target later this year.
+- He wants cuts to proceed in smaller 25 basis point steps as policy approaches neutral.
+- He says AI layoffs may be an early signal of productivity change, but not yet enough to prove a durable labor-market trend.
+- He argues private-credit stress may show that standard financial-conditions measures miss tightening outside public markets.
 
+## Claims
 
+- [[Stephen Miran - The current Middle East oil shock is not yet a major reason to change policy because its pass-through to core inflation should be limited]]
+- [[Stephen Miran - The 2022 inflation experience was different because monetary and fiscal policy were far more expansionary then]]
+- [[Stephen Miran - It is too early to reject the view that labor markets have been gradually weakening for two years]]
+- [[Stephen Miran - Current inflation-market pricing does not show serious concern about long-term inflation becoming unanchored]]
+- [[Stephen Miran - It is still appropriate to keep cutting rates in line with his existing forecast until the data clearly change]]
+- [[Stephen Miran - Faster housing and goods disinflation could push inflation below target later this year]]
+- [[Stephen Miran - AI-driven layoffs are too early to treat as a durable labor-market trend]]
+- [[Stephen Miran - Standard financial-conditions measures may understate tightness because they miss stress in private credit]]
 ## Full Transcript
 
 <details>

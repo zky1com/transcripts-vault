@@ -1,36 +1,55 @@
 ---
-title: "Fed’s Hammack Expects Rates to Be On Hold for Some Time"
-people_mentioned: []
+title: "Fed's Hammack Expects Rates to Be On Hold for Some Time"
+people_mentioned: ["Beth Hammack"]
 channel: "Bloomberg Television"
 video_id: "n9-W31wlcOs"
 url: "https://www.youtube.com/watch?v=n9-W31wlcOs"
-publish_date: 2026-03-06
+publish_date: "2026-03-06"
 duration: "2:47"
-word_count: 584
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+word_count: "584"
+content_type: "interview"
+delivery_mode: "news_interview_clip"
+broad_category: "economics"
+subcategories: ["monetary policy", "inflation", "labor market"]
 series_name: ""
 episode_id: ""
-primary_person: ""
+primary_person: "Beth Hammack"
 host_names: []
 interviewer_names: []
 interviewee_profiles: []
 speaker_profiles: []
-organizations_mentioned: []
+organizations_mentioned: ["Federal Reserve", "Federal Open Market Committee"]
 locations_mentioned: []
 tools_mentioned: []
 companies_mentioned: []
-topics: []
-tags: []
+topics: ["Federal Reserve", "interest rates", "inflation", "labor market"]
+tags: ["economics", "federal-reserve", "rates", "inflation", "labor-market"]
+claims_status: "done"
+claims_count: "8"
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Beth Hammack says the March jobs report was disappointing because more people were out of work, but she still sees the labor market as stabilizing and the broader economy as healthy. Her main policy message is that inflation remains stuck near 3 percent, policy is probably around neutral rather than restrictive, and the Fed may be able to keep rates on hold for quite some time.
 
+## Key Insights
 
+- Hammack reads the labor market as softer but not collapsing, with stabilization around current unemployment levels.
+- She thinks inflation has stalled badly enough that the Fed still needs meaningful pressure on demand.
+- Business optimism, investment plans, and improving loan growth make her doubt that policy is overly restrictive.
+- Her baseline is that the Fed does not need more accommodation now and could stay on hold for a while.
 
+## Claims
 
+- [[Beth Hammack - The jobs report was disappointing mainly because it meant more Americans were out of work]]
+- [[Beth Hammack - The labor market looks more like it is stabilizing than continuing to deteriorate sharply]]
+- [[Beth Hammack - Late-2025 Fed accommodation helped steady the labor market]]
+- [[Beth Hammack - Business optimism and expected demand still point to a reasonably healthy economy]]
+- [[Beth Hammack - Inflation has made virtually no progress for two years and remains around 3 percent]]
+- [[Beth Hammack - Current policy is probably around neutral rather than overly restrictive]]
+- [[Beth Hammack - Continuing investment plans and improving loan growth suggest rates are not choking activity]]
+- [[Beth Hammack - Rates could stay on hold for quite some time because more accommodation is not needed now]]
 ## Full Transcript
 
 <details>
@@ -88,3 +107,4 @@ now. I'm just one person, but as I see it, I
 think we could be on hold for quite some time.
 
 </details>
+

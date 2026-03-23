@@ -1,36 +1,67 @@
 ---
 title: "US Trade Representative Greer on 15% Tariff, USMCA, EU Trade Deal"
-people_mentioned: []
+people_mentioned: ["Jamieson Greer", "Donald Trump"]
 channel: "Bloomberg Television"
 video_id: "T5XxlN8rpWA"
 url: "https://www.youtube.com/watch?v=T5XxlN8rpWA"
 publish_date: 2026-02-25
 duration: "13:17"
 word_count: 2611
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
+content_type: "interview"
+delivery_mode: "interview"
+broad_category: "economics"
+subcategories: ["trade-policy", "tariffs", "usmca"]
 series_name: ""
 episode_id: ""
-primary_person: ""
+primary_person: "Jamieson Greer"
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+interviewee_profiles: ["Jamieson Greer - US Trade Representative"]
+speaker_profiles: ["Jamieson Greer - US Trade Representative"]
+organizations_mentioned: ["Office of the United States Trade Representative", "European Union", "United Kingdom"]
+locations_mentioned: ["United States", "Brussels", "Canada", "Mexico", "China", "Vietnam", "Brazil"]
 tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+companies_mentioned: ["Stellantis", "General Motors"]
+topics: ["trade-policy", "tariffs", "usmca", "section-301", "section-122"]
+tags: ["trade-policy", "tariffs", "usmca", "section-301", "section-122"]
+pipeline_stage: video_only
+claims_status: done
+evidence_status: pending
+claims_count: 8
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
+speech_status: pending
+world_status: pending
+speech_evidence_count: 0
+world_evidence_count: 0
 ---
 
+## Summary
 
+Jamieson Greer says the administration is using temporary tariff powers only as a bridge while it rebuilds a more durable legal framework after the Supreme Court ruling. He argues that continuity of the tariff regime matters more than the specific statute, expects a 15 percent level to arrive quickly where appropriate, and says country-specific Section 301 investigations will recreate enforcement leverage. He also signals that the USMCA review will be substantive rather than automatic.
 
+## Key Insights
 
+- Greer says the current 10 percent tariff is a temporary bridge designed to preserve continuity while the White House rebuilds the policy legally.
+- He says a 15 percent level is coming soon where appropriate because many countries had already accepted higher tariff terms.
+- He argues the EU and UK arrangements need domestic implementation time rather than being treated as instantly broken.
+- He says Section 301 investigations will become a major tool for reconstructing tariff leverage country by country.
+- He defends the earlier emergency approach by saying trade deficits and offshoring justified speed and flexibility.
+- He suggests the North American review will likely produce negotiated fixes rather than a simple rubber-stamp renewal.
+- He identifies Mexico, Canada, and transshipment through both as core USMCA problem areas.
+- He says lawsuits are inevitable under any tariff authority but the administration feels confident using Section 122.
 
+## Claims
 
+- [[Jamieson Greer - The administration is using the temporary 150-day tariff authority as a bridge to preserve policy continuity after the Supreme Court ruling]]
+- [[Jamieson Greer - A 15 percent tariff rate is coming soon where appropriate because many countries had already accepted higher tariff levels]]
+- [[Jamieson Greer - The EU and UK deals are not automatically broken because both sides still need time to implement domestic procedures]]
+- [[Jamieson Greer - Section 301 investigations will be used country by country to rebuild tariff enforcement against unfair trade practices]]
+- [[Jamieson Greer - The administration chose emergency tariff powers first because it saw trade deficits and offshoring as an urgent national problem]]
+- [[Jamieson Greer - The USMCA review is likely to seek negotiated fixes or separate protocols rather than a simple rubber-stamp renewal]]
+- [[Jamieson Greer - Core USMCA concerns include Mexican energy discrimination, Canadian market barriers, and transshipment from third countries]]
+- [[Jamieson Greer - Legal challenges are expected under any tariff authority but the administration feels confident defending Section 122]]
 ## Full Transcript
 
 <details>
