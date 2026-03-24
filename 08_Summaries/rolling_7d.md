@@ -1,31 +1,33 @@
 # Rolling 7 Day Summary
 
-Updated: 2026-03-24 01:10 UTC
+Updated: 2026-03-24 23:15 UTC
 
 ## Top themes
 
-- Iran war escalation remains the dominant macro driver, with repeated focus on Strait of Hormuz access, Gulf infrastructure risk, and the possibility that oil stays high enough to keep inflation fears alive.
-- Markets are treating geopolitics and policy uncertainty as a combined shock. The recurring pattern across the week is weaker risk appetite, stress in global equities, and debate over whether markets still underprice a longer conflict.
-- AI stayed important, but the tone shifted from pure excitement to sorting winners from losers. Infrastructure, inference demand, and defense-tech use cases looked strong while traditional software and equity sentiment stayed more fragile.
+- Middle East escalation dominated the window. The fresh set centered on conflicting US-Iran negotiation signals, Gulf strike risk, and the market impact of any disruption around energy infrastructure and shipping.
+- Energy security moved from a pricing story to a system story. Oil, LNG, uranium, grid resilience, and power demand all showed up as linked topics rather than separate sectors.
+- AI stayed important, but the emphasis shifted toward deployment economics and strategic advantage. The strongest angles were cyber disruption, retail productivity, infrastructure demand, and defense use cases.
+- Markets are balancing tactical bounce behavior against a still-fragile backdrop. Repeated references to the S&P below its 200-day average, weak rates sentiment, and private-credit stress suggest risk appetite is unstable rather than repaired.
 
 ## What changed today
 
-- The fresh note set was heavily concentrated in Iran-war escalation coverage: deadline pressure around Hormuz, threats against Gulf targets, higher oil, and another leg lower in global risk sentiment.
-- Fed commentary in the changed set leaned cautious rather than decisive. The message was that policy should not overreact to headlines, but oil-led inflation risk is back in the frame.
-- Aviation was the secondary operational story. The LaGuardia collision and follow-on airline commentary tied transport risk back to the broader energy shock.
-- AI added a separate positive-current narrative through the All-In CEO panel and the Anduril discussion: compute demand, inference growth, and defense applications still look structurally strong even while public markets wobble.
+- The March 24 import set added 56 video notes and heavily concentrated the rolling view around Iran-war headlines, mixed diplomacy signals, and the knock-on effects for oil, equities, rates, and dollar moves.
+- Energy commentary broadened beyond crude. New inputs covered uranium demand, LNG volatility, oil-sands supply, grid and data-center power demand, and the possibility that geopolitical stress accelerates energy-security deals.
+- AI and software added a second major thread. Databricks argued agentic systems can disrupt legacy security tooling, retailers discussed AI partnerships, Zillow highlighted productivity gains, and Palantir framed the conflict as an AI-enabled warfare case study.
+- Credit and real-economy cracks were more visible. Private-credit redemption pressure, weaker home-flip profitability, CRE capital shifts, and airline fuel sensitivity all pointed to tighter operating conditions beneath the headline tape.
 
 ## Notable videos
 
-- **Global Stock Selloff Extends as Iran War Escalates**: a concise read on how war headlines, oil, and cross-asset weakness were feeding each other.
-- **Four CEOs on the Future of AI: CoreWeave, Perplexity, Mistral, and IREN**: strongest fresh input on AI infrastructure durability, inference demand, and the buildout of power and data-center capacity.
-- **99% of Drone Companies Will Die & Why Anduril’s Products Aren’t an Ethics Debate**: notable for tying defense-tech consolidation and drone economics into the broader geopolitical backdrop.
-- **The next five days will be critical in the Iran war**: useful framing for near-term market watchpoints and why the next headline cycle matters more than incremental commentary.
-- **United Airlines to cut more flights as it eyes oil above $100 through 2027**: practical downstream read-through from energy stress into transportation and operating-cost pressure.
+- **Oil Surge Shakes Global Markets | Open Interest 3/24/2026**: best single cross-asset snapshot of war headlines feeding through oil, equities, rates, and private-credit stress.
+- **Iran War Update: Negotiations Ongoing, As Trump Says 'War Has Been Won' (Full Q&A)**: useful for the core contradiction driving the day, where public talk of diplomacy sat beside continued strikes and weak confidence in de-escalation.
+- **Databricks CEO: AI will kill the security, information and event management systems**: strongest direct expression of AI shifting from feature layer to competitive disruption layer inside enterprise software.
+- **Cameco’s Grant Isaac on Uranium Demand and Prices**: important because it tied the conflict to a wider repricing of energy reliability, nuclear demand, and long-term fuel contracting.
+- **This is the start of a big crisis for private credit, says Verdad's Rasmussen**: notable bearish framing on liquidity mismatch, default risk, and why public and private credit marks may still be catching up.
+- **He Beat the Market over 25 Years: Interview with Bill Nygren**: the one non-news addition added a longer-horizon investing counterweight focused on valuation discipline and business quality during a noisy macro tape.
 
 ## Watchlist
 
-- Whether the Strait of Hormuz deadline converts into de-escalation, extension, or another round of escalation.
-- Oil sensitivity in airline, transport, and inflation expectations.
-- Any shift from "headline risk" to actual changes in Fed path expectations.
-- Whether AI infrastructure remains a clear relative winner while software and broader equities stay under pressure.
+- Whether the next Iran headline cycle produces a real diplomatic off-ramp or simply more contradictory signaling with higher energy volatility.
+- Whether oil strength starts to feed more directly into inflation expectations, rate pressure, transportation demand, and consumer sentiment.
+- Whether private-credit stress stays contained to gated vehicles and listed managers or begins to spill into broader risk pricing.
+- Whether AI leadership remains concentrated in infrastructure, data, and defense-adjacent use cases while legacy software multiples keep compressing.

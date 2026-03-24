@@ -1,30 +1,31 @@
 # Rolling 30 Day Summary
 
-Updated: 2026-03-24 01:10 UTC
+Updated: 2026-03-24 23:15 UTC
 
 ## Major themes
 
-- Geopolitics moved from background risk to the main organizing force in the vault. Across the month, Iran-related conflict, oil shock scenarios, and shipping or infrastructure risk repeatedly drove market interpretation.
-- AI remained the second major pillar, but the discussion broadened. The corpus moved from excitement about model progress toward infrastructure bottlenecks, inference economics, deployment, defense applications, and which public companies benefit versus get disrupted.
-- Trade and tariff uncertainty persisted as a third major macro thread. Even when war headlines dominated, tariff-policy volatility and legal or political uncertainty kept showing up as a parallel drag on confidence.
+- The 30-day window is currently dominated by the March 24 import because the staged corpus is still compact. Even so, the material is clear about the main organizing force: geopolitics, especially Iran-war escalation and its consequences for energy and global risk sentiment.
+- Energy is the second major pillar. Oil volatility, LNG, uranium, power infrastructure, and data-center electricity demand are repeatedly treated as strategic constraints rather than narrow commodity stories.
+- AI remains the main secular growth theme, but the tone is more selective than euphoric. The strongest recurring angles are enterprise workflow disruption, infrastructure and data advantage, and military or defense productivity.
+- Financial conditions are tightening at the edges. The set contains repeated concern about fragile equity technicals, weaker rates auctions, private-credit redemption pressure, housing profitability, and capital allocation under uncertainty.
 
 ## Persistent narratives
 
-- Higher energy prices are no longer treated as a temporary side note; they are repeatedly linked to inflation risk, weaker consumer and corporate sentiment, and tougher conditions for risk assets.
-- Markets keep oscillating between "this is overdone" and "the shock is still underpriced." That tension appears throughout the month in equity, credit, and macro commentary.
-- AI is still seen as a long-term growth engine, but the narrative is increasingly selective: compute, power, infrastructure, and a narrow group of product winners look stronger than broad software exposure.
-- Policy uncertainty matters as much as fundamentals. Tariffs, war signaling, and central-bank response functions all recur as sources of repricing.
+- Markets do not trust headline relief rallies. Several videos describe buying dips and short-term rebounds, but the broader message is that markets still need clearer evidence before treating the geopolitical shock as resolved.
+- Higher energy prices are being discussed as both an inflation risk and a practical operating-cost problem. Airlines, property, industrial planning, and power-system investment all appear downstream of the same energy-security issue.
+- AI winners are being defined more narrowly. The favored exposures are platforms with data, compute, infrastructure, or strategic distribution, while legacy software and traditional security tooling look more vulnerable to repricing.
+- Policy credibility matters as much as macro data. The window repeatedly returns to mixed public messaging, negotiation uncertainty, and the gap between what officials say and what markets believe.
 
 ## Most important recent additions
 
-- The 2026-03-23 import set pushed the rolling view decisively toward war-escalation monitoring: Hormuz deadlines, Gulf-target threats, rising oil, and broader market stress dominated the fresh material.
-- New AI inputs reinforced that demand for GPUs, data-center power, and inference capacity remains strong even in a weak tape.
-- Defense-tech and drone commentary became more relevant in context, linking venture, industrial policy, and wartime procurement into one storyline instead of separate categories.
-- Aviation and transport incidents added practical second-order effects to the macro picture, especially where fuel costs and operational risk overlap.
+- A dense cluster of March 24 videos made the Middle East conflict the clear center of gravity for the rolling summary, especially around negotiation skepticism, Gulf strike risk, and oil-market sensitivity.
+- New energy interviews added depth around non-oil supply chains, including uranium contracting, LNG investment, oil-sands output, and power demand linked to AI infrastructure.
+- Fresh AI coverage sharpened the difference between productivity beneficiaries and incumbents under threat, with cybersecurity, retail, real estate, and defense all showing up as early application areas.
+- Credit and property coverage added more signs that higher financing costs and tighter liquidity are no longer abstract macro concerns; they are showing up in private-credit gating, CRE caution, and weaker housing-flip economics.
 
 ## Watchlist
 
-- Whether energy stress becomes a sustained inflation regime rather than a short-lived spike.
-- Whether tariff and trade-policy uncertainty reasserts itself as the top macro story once war headlines cool.
-- Which AI companies keep compounding through infrastructure demand and which software names remain vulnerable to disruption.
-- Signs of stress spilling from public equities into credit, transport, or broader operating conditions.
+- A sustained break higher in energy prices that shifts the discussion from headline volatility to a longer inflation regime.
+- Any evidence that private-credit redemption stress or asset-quality concerns are spreading into broader financing markets.
+- Whether AI adoption keeps rewarding data-and-infrastructure owners while compressing value for application-layer incumbents.
+- Whether the next major addition to the corpus broadens the narrative beyond the March 24 geopolitical cluster or reinforces it further.
