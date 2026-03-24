@@ -3,12 +3,32 @@
 # Keep this file tracked
 !.gitignore
 !index.md
+# !.codex_runtime/
+# !.codex_runtime/channels_daily.txt
+# !.codex_runtime/daily_sync.env.example
 # Un-ignore only the transcript/source folders we want to push
+# !00_System/
+# !00_System/**
 !01_1Spotify/
 !01_1Spotify/**
 !01_3X/
 !01_3X/**
 !01_Videos/
 !01_Videos/**
+!08_Summaries/
+08_Summaries/**
+!08_Summaries/rolling_7d.md
+!08_Summaries/rolling_30d.md
 # !02_Claims/
 # !02_Claims/**
+# !03_Evidence/
+# !03_Evidence/**
+
+# Ignore local runtime artifacts for the embedded Windows pipeline toolchain
+00_System/tools/youtube_transcribe/.venv/
+00_System/tools/youtube_transcribe/output/
+00_System/tools/youtube_transcribe/logs/
+00_System/tools/youtube_transcribe/**/__pycache__/
+00_System/tools/youtube_transcribe/app/.env
+00_System/archive/**/__pycache__/
+00_System/scripts/__pycache__/
