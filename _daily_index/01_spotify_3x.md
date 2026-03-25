@@ -1,0 +1,61 @@
+# Spotify + 3X
+
+Auto-generated daily routing shard.
+Generated at (UTC): 2026-03-25T21:25:47Z
+
+## 01_1Spotify / The Twenty Minute VC (20VC)
+
+- 2026-03-02 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Monday.com CEO on Is SaaS Dead Will Everything Be Vibe Coded Will Systems of Record 7b45f672.md
+- 2026-02-28 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Why Cursor is Dead An AI Tsunami is Coming & You Need to Prepare Systems of Re 0fbfe837.md
+- 2026-02-26 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Anthropic Wipes Billions Off Markets Citrini Research The Ultimate Breakdown Agents, Gho 2f8e86c0.md
+- 2026-02-23 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Inside Coatue's $70BN Machine Why Price Matters Least Why Mega Markets are the Mos ffbdcfe4.md
+- 2026-02-21 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Codex vs Claude Code vs Cursor Who Wins, Who Loses Will All Coding Be Automated 80a10fe6.md
+- 2026-02-19 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Anthropic Raises $30BN at $380BN Valuation Thrive Raises New $10BN Fund OpenAI Buy 230140e3.md
+- 2026-02-16 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC SaaS is Dead Why Systems of Record Will Die in an Agentic World What Revenue Multi 05cc43d0.md
+- 2026-02-14 | 01_1Spotify/The Twenty Minute VC (20VC)/20Sales Inside ElevenLabs $330M ARR Sales Machine  The 20x Sales Comp Plan Reps cbda82ff-2.md
+- 2026-02-12 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Anthropic's Superbowl Ad Who Won - Who Lost  Harvey Raises $200M at $11BN 9c0ba029-3.md
+- 2026-02-09 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Is SaaS Dead in a World of AI  Do Margins Matter Anymore  Is Triple, Tripl 748d0c12-5.md
+- 2026-02-07 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC From $6.2BN Market Cap to $2.8BN What Is Not Translating About Navan's Pub 11caea69-e.md
+- 2026-02-05 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC SpaceX Completes Acquisition of xAI  The 2026 SaaS Massacre Public Market 62f39bf3-9.md
+- 2026-02-02 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC 50% of Funds Will Go Out of Business  Why Growth Expectations Today are BS a509c77c-1.md
+- 2026-01-31 | 01_1Spotify/The Twenty Minute VC (20VC)/20Growth How Wix Built a $100M Marketing Machine  Why LTV is BS and Why Time Re f050f33e-c.md
+- 2026-01-29 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Brex Acquired for $5.15BN  a16z Companies are 23 AI Revenues  Anthropic In c02606fb-c.md
+- 2026-01-26 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC From Only OpenAI to Die-Hard Anthropic The Downfall of OpenAI in Enterpris da3e65ab-b.md
+- 2026-01-24 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Raising $400M for 20VC Fundraising Lessons  Getting Marc Benioff Through 5 2469267a-f.md
+- 2026-01-22 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Sam Altman vs Elon Musk The $100BN Battle  The Implosion of Thinking Machi 7290040a-d.md
+- 2026-01-19 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC How Model Performance is Plateauing  Two Key Rules for Effective Deal-Maki f4f433fe-2.md
+- 2026-01-16 | 01_1Spotify/The Twenty Minute VC (20VC)/20Product Is the Design Phase Dead in a World of AI  Has Claude Code Crushed An 68d592b4-b.md
+- 2026-01-15 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Anthropic's $10BN Fundraise Have They Beaten Cursor Already  a16z's $15BN 173113cf-d.md
+- 2026-01-12 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC a16z's $15BN Fundraise with Alex Rampell  The Best Companies Have Hostages 93540c9e-5.md
+- 2026-01-11 | 01_1Spotify/The Twenty Minute VC (20VC)/20Growth The $6.6B Growth Engine Behind ElevenLabs  Why ElevenLabs Do Not Have e8487045-8.md
+- 2026-01-09 | 01_1Spotify/The Twenty Minute VC (20VC)/20Sales Why the Best Sales People are F in the Head  Why Remote Work is BS  Why c507ef17-e.md
+- 2026-01-08 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Groq's $20BN NVIDIA Acquisition  Manus Acquired by Meta for $2BN  Why Sam 59acbc93-0.md
+- 2026-01-05 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC $0-$260M in Revenue in Three Years How We Did It  You Need to Work Weekend feb1ecaf-2.md
+- 2025-12-31 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Enterprises Will Not Adopt AI without Forward-Deployed Engineers  Who Wins e47d1b28-2.md
+- 2025-12-22 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC's Big Fat Quiz of the Year Founder, Fund and Breakout Company of 2025  Pre b089151f-d.md
+- 2025-12-19 | 01_1Spotify/The Twenty Minute VC (20VC)/20Product On Running's CPO on How to Create Emotion Through Product  Why 99% of 0a07f8cb-0.md
+- 2025-12-18 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Will SpaceX IPO at $1.5TRN  Will Cursor Kill Figma  Lightspeed Raises $9BN f051f317-3.md
+- 2025-12-15 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC a16z's David George on How $BN Funds Can 5×, Do Margins & Revenue Matter ef3eefb1.md
+- 2025-12-12 | 01_1Spotify/The Twenty Minute VC (20VC)/20Growth How Wiz Built a $30BN Brand in Enterprise  What Worked vs What Was a M dbd9d00e-9.md
+- 2025-12-11 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC OGs SpaceX Valued at $800BN & Harvey Raises $160M at an $8BN Price  Airwal 2abff55b-1.md
+- 2025-12-08 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Kalshi's $1BN Raise, the Polymarket Feud, and the Battle to Replace Traditional Media.md
+- 2025-12-05 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Inside Bending Spoons Acquisition Machine Evernote, Eventbrite, Vimeo  How 0716fe4d-d.md
+- 2025-12-04 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Thrive & OpenAI Partnership  Eventbrite Acquired for $500M  Databricks Rai 46a7c3e7-a.md
+- 2025-11-28 | 01_1Spotify/The Twenty Minute VC (20VC)/20Sales John McMahon on How to Hire, Train & Retain the Best Sales Reps  How Sa 8c71e8e7-5.md
+- 2025-09-12 | 01_1Spotify/The Twenty Minute VC (20VC)/20VC Why AI SDRs are BS and Do Not Work How to Use AI in Your Sales Team and P 6d549b66.md
+- 2025-08-04 | 01_1Spotify/The Twenty Minute VC (20VC)/20Sales $0-$3.7BN The Databricks CRO's Playbook to Build the Fastest GTM Engine 6b7ae20f-e.md
+- 2025-06-27 | 01_1Spotify/The Twenty Minute VC (20VC)/20Sales How to Layer Enterprise Sales on PLG  How to Sell AI Tools To Enterpris 1c85f7a0-9.md
+- 2025-05-02 | 01_1Spotify/The Twenty Minute VC (20VC)/20Sales Sierra Inside Silicon Valley's Fastest Growing Sales Machine & How to P ce61ee62-d.md
+- 2025-04-04 | 01_1Spotify/The Twenty Minute VC (20VC)/20Sales How the Best Sales Teams Use AI to Win Enterprise Deals  Sales Teams Wi 08aa1f8d-6.md
+
+## 01_3X / _daily
+
+- undated | 01_3X/_daily/topic-digest-2026-03-25.md
+- undated | 01_3X/_daily/topic-digest-2026-03-24.md
+- undated | 01_3X/_daily/topic-digest-2026-03-23.md
+- undated | 01_3X/_daily/topic-digest-2026-03-22.md
+- undated | 01_3X/_daily/topic-digest-2026-03-21.md
+- undated | 01_3X/_daily/topic-digest-2026-03-20.md
+- undated | 01_3X/_daily/topic-digest-2026-03-19.md
+- undated | 01_3X/_daily/topic-digest-2026-03-18.md
+- undated | 01_3X/_daily/topic-digest-2026-03-15.md

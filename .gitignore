@@ -3,6 +3,8 @@
 # Keep this file tracked
 !.gitignore
 !index.md
+!_daily_index/
+!_daily_index/**
 # !.codex_runtime/
 # !.codex_runtime/channels_daily.txt
 # !.codex_runtime/daily_sync.env.example

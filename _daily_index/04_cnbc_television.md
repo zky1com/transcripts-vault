@@ -1,0 +1,461 @@
+# CNBC Television
+
+Auto-generated daily routing shard.
+Generated at (UTC): 2026-03-25T21:25:47Z
+
+## 01_Videos / CNBC Television
+
+- 2026-03-25 | 01_Videos/CNBC Television/Will tax refunds deliver Here's what to know.md
+- 2026-03-25 | 01_Videos/CNBC Television/White House press secretary Karoline Leavitt holds a briefing with reporters — 3252026.md
+- 2026-03-25 | 01_Videos/CNBC Television/Stocks rise and oil falls on cautious optimism for a resolution to the Iran War.md
+- 2026-03-25 | 01_Videos/CNBC Television/Squawk Pod Regulating prediction markets & Meta’s $375m lawsuit - 032526  Audio Only.md
+- 2026-03-25 | 01_Videos/CNBC Television/Several hundred Meta layoffs today Here's what you need to know.md
+- 2026-03-25 | 01_Videos/CNBC Television/Sens. Schiff and Curtis on the Prediction Markets Are Gambling Act, state of DHS negotiations.md
+- 2026-03-25 | 01_Videos/CNBC Television/Secretary of the Interior Doug Burgum speaks at CERAWeek in Houston — 3252026.md
+- 2026-03-25 | 01_Videos/CNBC Television/New Mexico AG Raul Torrez on $375M Meta ruling What we want is a safer space for our kids online.md
+- 2026-03-25 | 01_Videos/CNBC Television/Jim Boeheim Breaks Down The New Economics Of College Basketball.md
+- 2026-03-25 | 01_Videos/CNBC Television/Ives It's a white-knuckle moment for tech, this is a risk-off trade.md
+- 2026-03-25 | 01_Videos/CNBC Television/Former Israeli ambassador on Middle East conflict Iranians are 'very good negotiators'.md
+- 2026-03-25 | 01_Videos/CNBC Television/Bitcoin inches toward $71,000 as hopes for U.S.-Iran talks push oil prices lower CNBC Crypto World.md
+- 2026-03-25 | 01_Videos/CNBC Television/Arm unveils its first in-house AI CPU chip Here's what to know.md
+- 2026-03-24 | 01_Videos/CNBC Television/Zillow CEO Jeremy Wacksman on AI You're seeing productivity gains in the system.md
+- 2026-03-24 | 01_Videos/CNBC Television/Yale's Jeffrey Sonnenfeld on Pres. Trump's leadership strategy He's 'dumb as a fox'.md
+- 2026-03-24 | 01_Videos/CNBC Television/WNBPA president backs WNBA's progress under Commissioner Cathy Engelbert.md
+- 2026-03-24 | 01_Videos/CNBC Television/Weak two-year note auction reflects a 'bunker mentality' right now, says Wells Fargo's Schumacher.md
+- 2026-03-24 | 01_Videos/CNBC Television/Watch CNBC’s full interview with National Energy Dominance Council Executive Director Jarrod Agen.md
+- 2026-03-24 | 01_Videos/CNBC Television/Watch CNBC's full interview with TotalEnergies CEO Patrick Pouyanné.md
+- 2026-03-24 | 01_Videos/CNBC Television/Venezuelan opposition leader Maria Corina Machado speaks at CERAWeek in Houston — 3242026.md
+- 2026-03-24 | 01_Videos/CNBC Television/Trump participates in a swearing-in ceremony for DHS Secretary Markwayne Mullin — 3242026.md
+- 2026-03-24 | 01_Videos/CNBC Television/This is the start of a big crisis for private credit, says Verdad's Rasmussen.md
+- 2026-03-24 | 01_Videos/CNBC Television/Squawk Pod Inside energy power rations & Asia’s supply - 032426  Audio Only.md
+- 2026-03-24 | 01_Videos/CNBC Television/She's building a company to solve America's caregiving crisis.md
+- 2026-03-24 | 01_Videos/CNBC Television/Sen. Shelley Moore Capito on the Iran war, fate of DHS funding and SAVE Act.md
+- 2026-03-24 | 01_Videos/CNBC Television/Property Play JLL CEO on how global conflicts and capital shifts are reshaping CRE.md
+- 2026-03-24 | 01_Videos/CNBC Television/President Trump on Iran We're in negotiations right now.md
+- 2026-03-24 | 01_Videos/CNBC Television/Markets still have 'wood to chop' over the intermediate term, says Citi's Scott Chronert.md
+- 2026-03-24 | 01_Videos/CNBC Television/It's more important to watch what Pres. Trump actually does in the Iran war, says Victoria Coates.md
+- 2026-03-24 | 01_Videos/CNBC Television/Investors are weighing a lot of different scenarios right now, says Empower's Marta Norton.md
+- 2026-03-24 | 01_Videos/CNBC Television/Investors are still aggressively dip buying, says Interactive Brokers' Steve Sosnick.md
+- 2026-03-24 | 01_Videos/CNBC Television/How retailers like Gap are betting big on AI partnerships.md
+- 2026-03-24 | 01_Videos/CNBC Television/Home flippers see smallest profits since the Great Recession, real estate data firm says.md
+- 2026-03-24 | 01_Videos/CNBC Television/Databricks CEO AI will kill the security, information and event management systems.md
+- 2026-03-24 | 01_Videos/CNBC Television/Anthropic's and the Pentagon's legal showdown Here's what you need to know.md
+- 2026-03-23 | 01_Videos/CNBC Television/Watch CNBC's full interview with Chicago Fed President Austan Goolsbee.md
+- 2026-03-23 | 01_Videos/CNBC Television/United Airlines to cut more flights as it eyes oil above $100 through 2027.md
+- 2026-03-23 | 01_Videos/CNBC Television/Two dead and 41 injured in LaGuardia airport collision.md
+- 2026-03-23 | 01_Videos/CNBC Television/The next five days will be critical in the Iran war, says Allianz's Mohamed El-Erian.md
+- 2026-03-23 | 01_Videos/CNBC Television/Iran is running out of the ability to wage mass war Former Trump NSC official Rich Goldberg.md
+- 2026-03-20 | 01_Videos/CNBC Television/Warner Bros. CEO could make $887 million from Paramount merger.md
+- 2026-03-20 | 01_Videos/CNBC Television/Tom Lee Market will think less about Iran crisis and more on opportunity in back half of the year.md
+- 2026-03-20 | 01_Videos/CNBC Television/The S&P 500 200-day moving average looks vulnerable to us, says Fairlead's Katie Stockton.md
+- 2026-03-20 | 01_Videos/CNBC Television/Super Micro shares tank after employees charged with smuggling Nvidia chips to China.md
+- 2026-03-20 | 01_Videos/CNBC Television/Squawk Pod Aaru, Iran, & an AI horror story - 032026  Audio Only.md
+- 2026-03-20 | 01_Videos/CNBC Television/Sizing up the rally's road ahead.md
+- 2026-03-20 | 01_Videos/CNBC Television/Prosecutors charge Super Micro with smuggling chips to China.md
+- 2026-03-20 | 01_Videos/CNBC Television/President Trump presents Commander-in-Chief's trophy  — 3202026.md
+- 2026-03-20 | 01_Videos/CNBC Television/Potential for a recession is less than 30%, says Morgan Stanley’s Lisa Shalett.md
+- 2026-03-20 | 01_Videos/CNBC Television/Our indicators are moving toward oversold, says Truist’s Keith Lerner.md
+- 2026-03-20 | 01_Videos/CNBC Television/Markets face prolonged conflict risk as energy drives inflation fears.md
+- 2026-03-20 | 01_Videos/CNBC Television/Mad Money 032026  Audio Only.md
+- 2026-03-20 | 01_Videos/CNBC Television/Katie Haun on the promise of stablecoins, crypto regulation and future of agentic finance.md
+- 2026-03-20 | 01_Videos/CNBC Television/Google pursues Pentagon contracts as employees side with Anthropic in Defense Department battle.md
+- 2026-03-20 | 01_Videos/CNBC Television/Google clearly sees Pentagon contracts as an opportunity, says Big Technology's Alex Kantrowitz.md
+- 2026-03-20 | 01_Videos/CNBC Television/Fed Governor Chris Waller on interest rate outlook Caution is warranted.md
+- 2026-03-20 | 01_Videos/CNBC Television/Cracking the human simulation code Aaru co-founders on refining the science of prediction.md
+- 2026-03-19 | 01_Videos/CNBC Television/Nvidia's one of the fastest growing companies with one of the lowest valuations, says Jim Cramer.md
+- 2026-03-19 | 01_Videos/CNBC Television/Mad Money 031826  Audio Only.md
+- 2026-03-18 | 01_Videos/CNBC Television/War in Iran still a good distance away from ending, says Brookings' Michael O'Hanlon.md
+- 2026-03-18 | 01_Videos/CNBC Television/Trump’s 60-day shipping waiver could ease East Coast fuel prices Goldman Sachs’ Daan Struyven.md
+- 2026-03-18 | 01_Videos/CNBC Television/Trump waives U.S. shipping law for 60 days to steady oil market.md
+- 2026-03-18 | 01_Videos/CNBC Television/Teeing up the trading day with a top panel on the Fed, tech and impact of the war in Iran.md
+- 2026-03-18 | 01_Videos/CNBC Television/Squawk Pod Iran retaliation & “Know Your Value” with Mika Brzezinski - 031826  Audio Only.md
+- 2026-03-18 | 01_Videos/CNBC Television/SEC clarifies position on crypto Chair Atkins on new interpretation of digital assets.md
+- 2026-03-18 | 01_Videos/CNBC Television/Rep. French Hill Senate housing bill has narrow but 'substantive' differences.md
+- 2026-03-18 | 01_Videos/CNBC Television/Oklo CEO on nuclear growth strategy 'We're in full build mode'.md
+- 2026-03-18 | 01_Videos/CNBC Television/It's hard to see how the Iran war ends, says Evercore's Roger Altman.md
+- 2026-03-18 | 01_Videos/CNBC Television/How to game out the Fed's next move.md
+- 2026-03-18 | 01_Videos/CNBC Television/Former St. Louis Fed Pres. Bullard on February PPI A disturbing trend toward higher inflation.md
+- 2026-03-18 | 01_Videos/CNBC Television/Fed Chair Powell If no new Fed chair is confirmed by end of my term I will serve as 'chair pro tem'.md
+- 2026-03-18 | 01_Videos/CNBC Television/Fed Chair Jerome Powell talks inflation and labor market after leaving rates unchanged.md
+- 2026-03-18 | 01_Videos/CNBC Television/Bitcoin faces pressure after hotter-than-expected inflation data CNBC Crypto World.md
+- 2026-03-18 | 01_Videos/CNBC Television/'CNBC Cures Defying Rare Disease,' hosted by Becky Quick.md
+- 2026-03-17 | 01_Videos/CNBC Television/Squawk Pod Kevin Hassett, Sen. Rand Paul, & the property brothers - 031726  Audio Only.md
+- 2026-03-17 | 01_Videos/CNBC Television/Software firms are on the defensive as AI accelerates.md
+- 2026-03-17 | 01_Videos/CNBC Television/Sen. Van Hollen on Working Americans' Tax Cut Act A bigger boost than tax breaks for millionaires.md
+- 2026-03-17 | 01_Videos/CNBC Television/Private equity stocks have been the most toxic area of 2026, says Jim Cramer.md
+- 2026-03-17 | 01_Videos/CNBC Television/President Trump holds a bilateral meeting with Taoiseach of Ireland Micheál Martin — 3172026.md
+- 2026-03-17 | 01_Videos/CNBC Television/Orlando Bravo Many software companies in the public markets will be disrupted by AI.md
+- 2026-03-17 | 01_Videos/CNBC Television/Oil surge and geopolitics drive markets as leadership shifts.md
+- 2026-03-17 | 01_Videos/CNBC Television/Nvidia will be a major beneficiary of the growing inference pie Big Technology's Alex Kantrowitz.md
+- 2026-03-17 | 01_Videos/CNBC Television/Nvidia sets $1 trillion revenue goal.md
+- 2026-03-17 | 01_Videos/CNBC Television/Nvidia CEO Jensen Huang Our growth is accelerating at a larger scale.md
+- 2026-03-17 | 01_Videos/CNBC Television/Next generation of tech winners to emerge outside of U.S., says Tekne Capital's Kothari.md
+- 2026-03-17 | 01_Videos/CNBC Television/NEC Director Kevin Hassett Tankers are starting to go through the Strait of Hormuz.md
+- 2026-03-17 | 01_Videos/CNBC Television/Mad Money 031726  Audio Only.md
+- 2026-03-17 | 01_Videos/CNBC Television/Investors want to lean into the dip as fundamentals remain strong, says Raymond James' Matt Orton.md
+- 2026-03-17 | 01_Videos/CNBC Television/How this CEO rose to lead a $1.7 trillion financial giant.md
+- 2026-03-17 | 01_Videos/CNBC Television/How equities, fixed income, crypto and commodities are coming together in the ETF space.md
+- 2026-03-17 | 01_Videos/CNBC Television/How AI and tokenization combined could disrupt disruption in the ETF space.md
+- 2026-03-17 | 01_Videos/CNBC Television/Gary Cohn on economic impact of Iran war ‘We in the United States do not have a supply problem'.md
+- 2026-03-17 | 01_Videos/CNBC Television/Delta Air Lines CEO Ed Bastian on state of travel, rising jet fuel costs and TSA staffing shortage.md
+- 2026-03-17 | 01_Videos/CNBC Television/Can the rally find new footing Here's what you need to know.md
+- 2026-03-17 | 01_Videos/CNBC Television/Biggest ideas at Exchange Crypto, tokenization, AI and what’s likely to change in 2026.md
+- 2026-03-16 | 01_Videos/CNBC Television/U.S.-China trade talks Here's what you need to know.md
+- 2026-03-16 | 01_Videos/CNBC Television/Trump speaks to the press ahead of lunch with the Trump Kennedy Center board members — 31626.md
+- 2026-03-16 | 01_Videos/CNBC Television/Treasury Secretary Bessent U.S. is allowing Iranian tankers through Strait of Hormuz.md
+- 2026-03-16 | 01_Videos/CNBC Television/The Fed has to look through the spike in oil prices, says Wharton's Jeremy Siegel.md
+- 2026-03-16 | 01_Videos/CNBC Television/SEC Commissioner Peirce weighs in on levered ETFs, tokenization and new products.md
+- 2026-03-16 | 01_Videos/CNBC Television/Risks to the country's growth story are mounting, says Bartlett's Holly Mazzocca.md
+- 2026-03-16 | 01_Videos/CNBC Television/President Trump on Iran Encourage other countries to come and help us.md
+- 2026-03-16 | 01_Videos/CNBC Television/President Trump and VP JD Vance participate in signing time at the White House — 3162026.md
+- 2026-03-16 | 01_Videos/CNBC Television/Nvidia's battle for inference tech.md
+- 2026-03-16 | 01_Videos/CNBC Television/Nvidia is still years ahead of any competitor, says Wedbush's Dan Ives.md
+- 2026-03-16 | 01_Videos/CNBC Television/Nvidia CEO laying the foundation for regular enterprises to deploy AI SemiAnalysis CEO Dylan Patel.md
+- 2026-03-16 | 01_Videos/CNBC Television/Markets brace for volatility as oil spikes and Fed decision looms.md
+- 2026-03-16 | 01_Videos/CNBC Television/Mad Money 031626  Audio Only.md
+- 2026-03-16 | 01_Videos/CNBC Television/How long the Iran war lasts will impact midterm voter turnout, says Morgan Stanley's Monica Guerra.md
+- 2026-03-16 | 01_Videos/CNBC Television/How ETF investors are positioning as markets whipsaw.md
+- 2026-03-16 | 01_Videos/CNBC Television/Employers say AI makes workers faster — but it's also creating 'friction or mistrust,' report finds.md
+- 2026-03-16 | 01_Videos/CNBC Television/Each day the Strait of Hormuz stays closed could add $3–$5 to oil prices Atlantic Council CEO.md
+- 2026-03-16 | 01_Videos/CNBC Television/DHS shutdown impact Former United Airlines CEO Oscar Munoz on the disruption to travel.md
+- 2026-03-16 | 01_Videos/CNBC Television/CNBC Cures Defying Rare Disease documentary preview.md
+- 2026-03-13 | 01_Videos/CNBC Television/‘Rubrik cannot be vibe-coded,’ says CEO Bipul Sinha on AI disruption.md
+- 2026-03-13 | 01_Videos/CNBC Television/World View Enterprises CEO Ryan Hartman on future of surveillance, Palantir partnership.md
+- 2026-03-13 | 01_Videos/CNBC Television/Why Wheaton Precious Metals CEO Randy Smallwood remains bullish on gold long term.md
+- 2026-03-13 | 01_Videos/CNBC Television/U.S. Trade Rep. Jamieson Greer on U.S.-China trade relations, Iran war impact and tariffs agenda.md
+- 2026-03-13 | 01_Videos/CNBC Television/U.S. Attorney Jeanine Pirro responds to judge blocking subpoenas against Fed Chair Powell.md
+- 2026-03-13 | 01_Videos/CNBC Television/U.S. Attorney Jeanine Pirro gives update on Federal Reserve investigation — 3132026.md
+- 2026-03-13 | 01_Videos/CNBC Television/Trading strategies as volatility rises amid the war in Iran and rising oil.md
+- 2026-03-13 | 01_Videos/CNBC Television/Strait or Hormuz seeing less than a handful of tankers pass per day, says Kpler's Matt Smith.md
+- 2026-03-13 | 01_Videos/CNBC Television/SquawkPod China trade pressure & TSA staffing shortages-31326 Audio Only.md
+- 2026-03-13 | 01_Videos/CNBC Television/Software sector sees C-suite shake-ups amid AI disruption fears.md
+- 2026-03-13 | 01_Videos/CNBC Television/Pete Hegseth on Strait of Hormuz 'We have been dealing with it, and don't need to worry about it'.md
+- 2026-03-13 | 01_Videos/CNBC Television/Oil surge and inflation fears test markets ahead of key data.md
+- 2026-03-13 | 01_Videos/CNBC Television/Nothing erodes household liquidity faster than higher gas prices, says Joe Lavorgna.md
+- 2026-03-13 | 01_Videos/CNBC Television/Mad Money 031226  Audio Only.md
+- 2026-03-13 | 01_Videos/CNBC Television/Judge blocks subpoenas in criminal probe of Fed Chair Jerome Powell.md
+- 2026-03-13 | 01_Videos/CNBC Television/Judge blocks subpoenas against Fed Chair Powell citing 'essentially zero evidence'.md
+- 2026-03-13 | 01_Videos/CNBC Television/Fmr. Dallas Fed President Richard Fisher of Powell investigation Pirro will lose these appeals.md
+- 2026-03-13 | 01_Videos/CNBC Television/Defense Sec. Pete Hegseth and General Dan Caine hold briefing on the U.S.-Iran war — 3132026.md
+- 2026-03-13 | 01_Videos/CNBC Television/Defense Sec. Hegseth Reports that Trump administration underestimated war impact are 'ridiculous'.md
+- 2026-03-13 | 01_Videos/CNBC Television/Consumer staples will lose pricing as energy costs rise from Hormuz blockage, says RBC's Nik Modi.md
+- 2026-03-13 | 01_Videos/CNBC Television/CNBC’s Official MLB Team Valuations 2026 Here’s how the 30 franchises stack up.md
+- 2026-03-13 | 01_Videos/CNBC Television/CNBC's Official MLB Team Valuation 2026 Here's how the 30 franchises stack up.md
+- 2026-03-12 | 01_Videos/CNBC Television/We will have 'modestly growing demand' for oil and gas long term, says Ariel's Charles Bobrinskoy.md
+- 2026-03-12 | 01_Videos/CNBC Television/U.S. Navy will escort vessels through Strait of Hormuz as soon as 'militarily possible,' Bessent.md
+- 2026-03-12 | 01_Videos/CNBC Television/Tom Lee Equity markets will make their bottom this month.md
+- 2026-03-12 | 01_Videos/CNBC Television/The debasement of purchasing power and our unit of account is 'horrendous', says Judy Shelton.md
+- 2026-03-12 | 01_Videos/CNBC Television/SquawkPod Energy Sec. Wright on Iran Oil Disruption & Pentagon CTO on Anthropic-31226 Audio Only.md
+- 2026-03-12 | 01_Videos/CNBC Television/Societe Generale sounds alarm on stagflation risks, worries about all risk assets.md
+- 2026-03-12 | 01_Videos/CNBC Television/Sec. Bessent U.S. Navy will escort vessels through Strait of Hormuz as soon as militarily possible.md
+- 2026-03-12 | 01_Videos/CNBC Television/Private equity's AI balancing act.md
+- 2026-03-12 | 01_Videos/CNBC Television/Perplexity CEO on new 'Personal Computer' A digital worker on the cloud with access to your data.md
+- 2026-03-12 | 01_Videos/CNBC Television/NASCAR's Tyler Reddick Says A Jab From Michael Jordan Helped Fuel His Daytona 500 Win.md
+- 2026-03-12 | 01_Videos/CNBC Television/Mad Money 031226  Audio Only (MsK1NxlzwvY).md
+- 2026-03-12 | 01_Videos/CNBC Television/Mad Money 031126  Audio Only.md
+- 2026-03-12 | 01_Videos/CNBC Television/Mad Money 031026  Audio Only.md
+- 2026-03-12 | 01_Videos/CNBC Television/If oil goes much higher we are going to start experiencing major pain, says Jim Cramer.md
+- 2026-03-12 | 01_Videos/CNBC Television/How the war is impacting the markets.md
+- 2026-03-12 | 01_Videos/CNBC Television/Former ambassador Puneet Talwar on Iran war 'I don't think surrender is in the cards'.md
+- 2026-03-12 | 01_Videos/CNBC Television/Energy Secretary Chris Wright U.S. 'not ready' to escort tankers through Strait of Hormuz yet.md
+- 2026-03-12 | 01_Videos/CNBC Television/Defense Undersecretary Emil Michael Anthropic’s Claude would ‘pollute’ defense supply chain.md
+- 2026-03-12 | 01_Videos/CNBC Television/Dan Ives This is the most disconnected trade I’ve seen in my career.md
+- 2026-03-12 | 01_Videos/CNBC Television/Companies need to be on high alert for cyber threats amid Iran conflict TrustedSec's David Kennedy.md
+- 2026-03-12 | 01_Videos/CNBC Television/BlackRock's Robert Mitchnick on the launch of the firm's staked ether ETF.md
+- 2026-03-12 | 01_Videos/CNBC Television/AI’s new power brokers Ramp’s chief economist and the 24-yr-old taking on Big AI.md
+- 2026-03-12 | 01_Videos/CNBC Television/AI’s new power brokers Ramp’s chief economist and the 24-yr-old taking on Big AI — 3122026.md
+- 2026-03-11 | 01_Videos/CNBC Television/Wharton's Jeremy Siegel The Fed still has room to cut interest rates this year.md
+- 2026-03-11 | 01_Videos/CNBC Television/We got verification of the strength of the data center theme with Oracle earnings, says Jim Cramer.md
+- 2026-03-11 | 01_Videos/CNBC Television/WaFd Bank CEO There is reason for concern in the private credit market.md
+- 2026-03-11 | 01_Videos/CNBC Television/Squawk Pod Anthropic’s fight & the AI job revolution - 031126  Audio Only.md
+- 2026-03-11 | 01_Videos/CNBC Television/Software spending strategies under scrutiny amid AI disruption.md
+- 2026-03-11 | 01_Videos/CNBC Television/Securitize CEO Carlos Domingo on new tokenized securities guidance from regulators.md
+- 2026-03-11 | 01_Videos/CNBC Television/Schwab's Liz Ann Sonders talks the recent market rebound.md
+- 2026-03-11 | 01_Videos/CNBC Television/RockCreek Group CEO Oil prices have been all over the place since the war started.md
+- 2026-03-11 | 01_Videos/CNBC Television/President Trump delivers remarks during his visit to Kentucky — 3112026.md
+- 2026-03-11 | 01_Videos/CNBC Television/Microsoft backs Anthropic in Pentagon blacklist battle, urges temporary restraining order.md
+- 2026-03-11 | 01_Videos/CNBC Television/Microsoft backs Anthropic in Pentagon blacklist battle, urges temporary restraining order (bdKecS3noXE).md
+- 2026-03-11 | 01_Videos/CNBC Television/JPMorgan's Priya Misra Higher oil prices for longer will drag on growth.md
+- 2026-03-11 | 01_Videos/CNBC Television/How to trade Wednesday's volatile market.md
+- 2026-03-11 | 01_Videos/CNBC Television/How ETF investors are keeping sight of their long-term objectives, amidst wild market swings.md
+- 2026-03-11 | 01_Videos/CNBC Television/Former Cleveland Fed Pres. Mester High gas prices are salient for people's inflation perceptions.md
+- 2026-03-11 | 01_Videos/CNBC Television/Fed's next rate decision almost certainly a pause, says former Fed vice chair Roger Ferguson.md
+- 2026-03-11 | 01_Videos/CNBC Television/Consumer prices rose 2.4% annually in February, as expected.md
+- 2026-03-11 | 01_Videos/CNBC Television/Bitcoin holds near $70,000 as investors watch oil prices, inflation data CNBC Crypto World.md
+- 2026-03-11 | 01_Videos/CNBC Television/Andrew Yang on AI's impact on jobs, Anthropic's battle with the Pentagon and NYC Mayor Mamdani.md
+- 2026-03-11 | 01_Videos/CNBC Television/American companies will increase oil production amid supply shocks, says Interior Sec. Doug Burgum.md
+- 2026-03-11 | 01_Videos/CNBC Television/America can't end the war in Iran unilaterally, says CFR's Richard Haass.md
+- 2026-03-11 | 01_Videos/CNBC Television/Aleph's Michael Eisenberg weighs in on business in Israel amid Iran war.md
+- 2026-03-10 | 01_Videos/CNBC Television/White House Trump will determine when Iran is in place of 'unconditional surrender'.md
+- 2026-03-10 | 01_Videos/CNBC Television/White House press secretary Karoline Leavitt holds a briefing with reporters — 3102026.md
+- 2026-03-10 | 01_Videos/CNBC Television/Watch Pres. Trump's full address on Iran War from Miami.md
+- 2026-03-10 | 01_Videos/CNBC Television/Tom Lee Markets will move higher in March but bear market will hit later in the year.md
+- 2026-03-10 | 01_Videos/CNBC Television/Squawk Pod Timing the Iran War & AI on the Battlefield - 031026  Audio Only.md
+- 2026-03-10 | 01_Videos/CNBC Television/SL Green Realty CEO Marc Holliday New York leasing growth is the strongest I've seen in my career.md
+- 2026-03-10 | 01_Videos/CNBC Television/She's the world's youngest self-made female billionaire.md
+- 2026-03-10 | 01_Videos/CNBC Television/Sen. Ted Cruz We will see a new regime in Iran in the next few weeks.md
+- 2026-03-10 | 01_Videos/CNBC Television/Regime change in Iran will be much harder than it was in Iraq, says Harvard's Megan O'Sullivan.md
+- 2026-03-10 | 01_Videos/CNBC Television/Property Play Ryan Serhant on real estate’s AI future and his bet on CRE.md
+- 2026-03-10 | 01_Videos/CNBC Television/Pres. Trump on Iran We have completely destroyed 10 inactive mine-laying vessels in last few hours.md
+- 2026-03-10 | 01_Videos/CNBC Television/Nvidia planning to launch open-source AI agent platform, report says.md
+- 2026-03-10 | 01_Videos/CNBC Television/Melius’ Ben Reitzes Software is going through a ‘generational transition’.md
+- 2026-03-10 | 01_Videos/CNBC Television/Mad Money 030926  Audio Only.md
+- 2026-03-10 | 01_Videos/CNBC Television/HPE CEO Antonio Neri on Q1 earnings 'Our strategy is paying off'.md
+- 2026-03-10 | 01_Videos/CNBC Television/Defense Sec. Pete Hegseth and Chairman of the Joint Chiefs of Staff Dan Caine — 352026.md
+- 2026-03-10 | 01_Videos/CNBC Television/Council on Foreign Relations President says ending Iran War isn't just up to the U.S.md
+- 2026-03-10 | 01_Videos/CNBC Television/Celsius Holdings CEO John Fieldly Biggest opportunity for us is the convenience channel.md
+- 2026-03-09 | 01_Videos/CNBC Television/This isn't over 'not by a long way', says Paul Sankey on disruption in oil market.md
+- 2026-03-09 | 01_Videos/CNBC Television/The global economy is subject to more violent and frequent shocks, says Mohamed El-Erian.md
+- 2026-03-09 | 01_Videos/CNBC Television/Squawk Pod The Biggest Oil Disruption in History - 030926  Audio Only.md
+- 2026-03-09 | 01_Videos/CNBC Television/RBC’s Lori Calvasina on the Iran war’s impact on different market sectors.md
+- 2026-03-09 | 01_Videos/CNBC Television/RBC's Helima Croft on what needs to be done to cool volatility in the oil market.md
+- 2026-03-09 | 01_Videos/CNBC Television/Professional Capital Management CEO Bitcoin is more mobile and resilient than gold.md
+- 2026-03-09 | 01_Videos/CNBC Television/President Trump holds a news conference in Miami — 392026.md
+- 2026-03-09 | 01_Videos/CNBC Television/OpenAI executives pivot on expanding Stargate to put capacity in other locations.md
+- 2026-03-09 | 01_Videos/CNBC Television/Oil tops $100 per barrel Here's what you need to know.md
+- 2026-03-09 | 01_Videos/CNBC Television/Oil prices will 'destroy' demand until supply goes back up, says ClearView's Kevin Book.md
+- 2026-03-09 | 01_Videos/CNBC Television/Large cap tech stocks like Nvidia are a deal now, says Silvant Capital's Michael Sansoterra.md
+- 2026-03-09 | 01_Videos/CNBC Television/Jay Clayton on regulating prediction markets My prosecutors are looking at what laws we can use.md
+- 2026-03-09 | 01_Videos/CNBC Television/Is the ‘crypto winter’ thawing ETF managers weigh in.md
+- 2026-03-09 | 01_Videos/CNBC Television/Hyperscalers will increasingly get their power off-grid, says Morgan Stanley's Stephen Byrd.md
+- 2026-03-09 | 01_Videos/CNBC Television/How to trade higher oil amid the Iran war.md
+- 2026-03-09 | 01_Videos/CNBC Television/How Middle East turmoil will impact the ongoing market sector rotation.md
+- 2026-03-09 | 01_Videos/CNBC Television/Health care and industrials are the sectors to put money to work Crossmark's Victoria Fernandez.md
+- 2026-03-09 | 01_Videos/CNBC Television/Fmr. NATO Supreme Allied Commander U.S. has set back Iran's ballistic missile program.md
+- 2026-03-09 | 01_Videos/CNBC Television/ETF Edge on crypto's rebound, the new ETFs to watch and what's different this time.md
+- 2026-03-09 | 01_Videos/CNBC Television/Airbus North America CEO Robin Hayes on impact of war in Iran on aviation industry.md
+- 2026-03-07 | 01_Videos/CNBC Television/Mad Money 030626  Audio Only.md
+- 2026-03-06 | 01_Videos/CNBC Television/Vast CEO Max Haot on raising $500M in new investment round.md
+- 2026-03-06 | 01_Videos/CNBC Television/U.S. payrolls unexpectedly fell by 92,000 in February; unemployment rate rises to 4.4%.md
+- 2026-03-06 | 01_Videos/CNBC Television/Trump leaning toward Venezuela-style regime change in Iran, says AEI's Michael Rubin.md
+- 2026-03-06 | 01_Videos/CNBC Television/Torsten Slok The risk now is that the economy may begin to accelerate.md
+- 2026-03-06 | 01_Videos/CNBC Television/Squawk Pod A weak jobs report & regulating prediction markets - 030626  Audio Only.md
+- 2026-03-06 | 01_Videos/CNBC Television/San Francisco Fed Pres. Daly on February jobs report No one month of data is decisional.md
+- 2026-03-06 | 01_Videos/CNBC Television/Private credit is in a 'liquidity crisis, not a credit crisis', says Moody's Marc Pinto.md
+- 2026-03-06 | 01_Videos/CNBC Television/President Trump participates in a roundtable on saving college sports — 362026.md
+- 2026-03-06 | 01_Videos/CNBC Television/Paramount may unwind WBD’s sports strategy if merger goes through.md
+- 2026-03-06 | 01_Videos/CNBC Television/No indication of movement towards reopening Strait of Hormuz, says RBC's Helima Croft.md
+- 2026-03-06 | 01_Videos/CNBC Television/Navigating the market as crude oil tops $90 per barrel.md
+- 2026-03-06 | 01_Videos/CNBC Television/Mad Money 030526  Audio Only.md
+- 2026-03-06 | 01_Videos/CNBC Television/Kevin Hassett on energy prices There's been no discussion the SPR will be released any time soon.md
+- 2026-03-06 | 01_Videos/CNBC Television/Jeremy Siegel Oil could hit $100 if no breakthrough in Iran.md
+- 2026-03-06 | 01_Videos/CNBC Television/It's still a pretty weak labor market with very little job growth, says Goldman Sachs' Jan Hatzius.md
+- 2026-03-06 | 01_Videos/CNBC Television/Inflation is a clear and present danger, warns Wells Fargo's Michael Schumacher.md
+- 2026-03-06 | 01_Videos/CNBC Television/Home sellers are relisting properties at fastest pace in a decade.md
+- 2026-03-06 | 01_Videos/CNBC Television/Here's how AI is impacting the labor market and 'HALO' trade.md
+- 2026-03-06 | 01_Videos/CNBC Television/Fed Governor Stephen Miran Labor demand isn't strong enough because monetary policy is too tight.md
+- 2026-03-06 | 01_Videos/CNBC Television/Early indicator of AI labor impact.md
+- 2026-03-06 | 01_Videos/CNBC Television/Coalition for Prediction Markets CEO on regulation There are serious issues we need to contend with.md
+- 2026-03-05 | 01_Videos/CNBC Television/Trump says he will replace DHS Secretary Kristi Noem with Senator Markwayne Mullin.md
+- 2026-03-05 | 01_Videos/CNBC Television/The internet's coming structural shift.md
+- 2026-03-05 | 01_Videos/CNBC Television/Squawk Pod Berkshire’s new CEO Greg Abel - 030526  Audio Only.md
+- 2026-03-05 | 01_Videos/CNBC Television/Regime change is very hard to do from the air, says CFR's Michael Froman.md
+- 2026-03-05 | 01_Videos/CNBC Television/Pentagon official Elbridge Colby testifies on U.S. defense strategy amid Iran war — 352026.md
+- 2026-03-05 | 01_Videos/CNBC Television/Oil stocks could be wrong, but right now they're saying the Strait of Hormuz will reopen Cramer.md
+- 2026-03-05 | 01_Videos/CNBC Television/Nvidia CEO Jensen Huang calls OpenClaw 'the most important software release probably ever'.md
+- 2026-03-05 | 01_Videos/CNBC Television/Morgan Stanley's David Chen on the AI shift that’s keeping Wall Street up at night.md
+- 2026-03-05 | 01_Videos/CNBC Television/Morgan Stanley's David Chen on the AI shift that’s keeping Wall Street up at night — 352026.md
+- 2026-03-05 | 01_Videos/CNBC Television/Mad Money 030426  Audio Only.md
+- 2026-03-05 | 01_Videos/CNBC Television/LIVE President Trump hosts 2025 MLS champions Inter Miami CF team at the White House — 352026.md
+- 2026-03-05 | 01_Videos/CNBC Television/LIVE Defense Sec. Pete Hegseth and Admiral Brad Cooper hold briefing on the Iran war — 352026.md
+- 2026-03-05 | 01_Videos/CNBC Television/Investor dilemma To buy or not to buy the dip.md
+- 2026-03-05 | 01_Videos/CNBC Television/Hermitage Capital Management CEO If Hormuz stays closed, Putin wins.md
+- 2026-03-05 | 01_Videos/CNBC Television/Friday’s market may struggle amid current news cycle, says Cerity Partners' Jim Lebenthal.md
+- 2026-03-05 | 01_Videos/CNBC Television/Former House Majority Leader Eric Cantor on the Iran war, Anthropic's battle with the Pentagon.md
+- 2026-03-05 | 01_Videos/CNBC Television/David Ellison The Warner Bros. transaction will be positive for both CBS News and CNN.md
+- 2026-03-05 | 01_Videos/CNBC Television/Dan Niles Investors need to be broadly diversified to get through market period in better shape.md
+- 2026-03-05 | 01_Videos/CNBC Television/Berkshire Hathaway CEO Greg Abel on resuming buyback program I absolutely talked to Warren.md
+- 2026-03-05 | 01_Videos/CNBC Television/AWS CEO Adam Selipsky on impact of slowing economy, cloud consumption.md
+- 2026-03-05 | 01_Videos/CNBC Television/AI can eliminate a huge percentage of knowledge work, says Oaktree's Howard Marks.md
+- 2026-03-04 | 01_Videos/CNBC Television/White House press secretary Karoline Leavitt holds a briefing with reporters — 342026.md
+- 2026-03-04 | 01_Videos/CNBC Television/White House defends efforts to evacuate Americans.md
+- 2026-03-04 | 01_Videos/CNBC Television/Treasury Sec. Bessent U.S. will make 'series of announcements' to support oil trade in the Gulf.md
+- 2026-03-04 | 01_Videos/CNBC Television/The House Judiciary Committee holds a hearing with Sec. Kristi Noem on DHS oversight — 3426.md
+- 2026-03-04 | 01_Videos/CNBC Television/Squawk Pod Bessent on global oil trade - 030426  Audio Only.md
+- 2026-03-04 | 01_Videos/CNBC Television/Sen. Lummis on Iran conflict, war powers resolution and crypto regulation.md
+- 2026-03-04 | 01_Videos/CNBC Television/Selling in the hottest semiconductor stocks was brutal, says Jim Cramer.md
+- 2026-03-04 | 01_Videos/CNBC Television/Private companies added 63,000 jobs in February, January revised to just 11,000 additions ADP.md
+- 2026-03-04 | 01_Videos/CNBC Television/President Trump participates in a roundtable on Ratepayer Protection Pledge — 342026.md
+- 2026-03-04 | 01_Videos/CNBC Television/Nubank Scores One Of MLS' Largest Sponsorship Deals, Lands Inter Miami Stadium Naming Rights.md
+- 2026-03-04 | 01_Videos/CNBC Television/Market is overly optimistic about resumption of Strait of Hormuz, says Rapidan Energy's Bob McNally.md
+- 2026-03-04 | 01_Videos/CNBC Television/Mad Money 030326  Audio Only.md
+- 2026-03-04 | 01_Videos/CNBC Television/Frank Cappelleri says markets stuck in range as oil rises and VIX climbs.md
+- 2026-03-04 | 01_Videos/CNBC Television/Former VP Mike Pence We have an opportunity to reset the balance across the Arab world.md
+- 2026-03-04 | 01_Videos/CNBC Television/Disney's largest cruise ship debuts.md
+- 2026-03-04 | 01_Videos/CNBC Television/Defense Sec. Pete Hegseth and General Dan Caine hold briefing on the U.S.-Iran war — 342026.md
+- 2026-03-04 | 01_Videos/CNBC Television/Conflict in Iran could become much more problematic for the oil market, says Citi's Max Layton.md
+- 2026-03-04 | 01_Videos/CNBC Television/Box CEO AI agents will be the biggest users of software in the future.md
+- 2026-03-04 | 01_Videos/CNBC Television/Bitcoin crosses $73,000 as investors look past Iran tensions CNBC Crypto World.md
+- 2026-03-04 | 01_Videos/CNBC Television/Apple's new strategy is a smart one, says Wedbush's Dan Ives.md
+- 2026-03-04 | 01_Videos/CNBC Television/Anthropic tops $19 billion in annual revenue rate.md
+- 2026-03-04 | 01_Videos/CNBC Television/'Beast Games' winner Jeff Allen on finding rare disease treatments.md
+- 2026-03-03 | 01_Videos/CNBC Television/Why Latin America could be the next international market to watch.md
+- 2026-03-03 | 01_Videos/CNBC Television/When markets opened it seemed they didn't mind the Iran conflict, says Jim Cramer.md
+- 2026-03-03 | 01_Videos/CNBC Television/Volatility is here, says Virtus' Joe Terranova.md
+- 2026-03-03 | 01_Videos/CNBC Television/This self-described accidental CEO is powering America's energy future.md
+- 2026-03-03 | 01_Videos/CNBC Television/The Senate Armed Services Committee holds a hearing on Joint Force readiness amid Iran war — 3326.md
+- 2026-03-03 | 01_Videos/CNBC Television/Squawk Pod Sen. Tim Kaine on war powers and Iran - 030326  Audio Only.md
+- 2026-03-03 | 01_Videos/CNBC Television/President Trump holds a bilateral meeting with German Chancellor Friedrich Merz — 332026.md
+- 2026-03-03 | 01_Videos/CNBC Television/Not expecting oil prices to have a big impact on inflation, says Neuberger Berman's Joe Amato.md
+- 2026-03-03 | 01_Videos/CNBC Television/Markets will rally if fears around crude prices abate, says Freedom Capital's Jay Woods.md
+- 2026-03-03 | 01_Videos/CNBC Television/Markets are making what looks like a bottom, says Fundstrat's Tom Lee.md
+- 2026-03-03 | 01_Videos/CNBC Television/Mad Money 030226  Audio Only.md
+- 2026-03-03 | 01_Videos/CNBC Television/KKR's Henry McVey talks navigating market anxiety amid geopolitical tensions.md
+- 2026-03-03 | 01_Videos/CNBC Television/ETF Edge on positioning in international markets amid the war in the Middle East.md
+- 2026-03-03 | 01_Videos/CNBC Television/Energy importers and exporters that could benefit from the war in the Middle East.md
+- 2026-03-03 | 01_Videos/CNBC Television/Defiance ETFs CIO Sylvia Jablonski on finding opportunities amid Iran conflict.md
+- 2026-03-03 | 01_Videos/CNBC Television/Defense Department CTO Emil Michael We can’t be reliant on any one AI provider anymore.md
+- 2026-03-03 | 01_Videos/CNBC Television/Credo CEO Bill Brennan This AI buildout is global in nature.md
+- 2026-03-03 | 01_Videos/CNBC Television/Council on Foreign Relations' Richard Haass on Iran 'This was not a war we had to fight now'.md
+- 2026-03-03 | 01_Videos/CNBC Television/China in better position to endure extended oil disruption, says RBC's Helima Croft.md
+- 2026-03-03 | 01_Videos/CNBC Television/Bond market saying Fed can't cut rates into higher oil prices, says One Point BFG's Peter Boockvar.md
+- 2026-03-03 | 01_Videos/CNBC Television/Blackstone President Jon Gray on private credit fund redemptions.md
+- 2026-03-03 | 01_Videos/CNBC Television/A spike in energy prices should really prompt the Fed to cut rates, says Ironsides' Barry Knapp.md
+- 2026-03-02 | 01_Videos/CNBC Television/Wendy Sherman on U.S.-Iran war 'Once war starts, no one ever knows where it's going to go'.md
+- 2026-03-02 | 01_Videos/CNBC Television/The spokesperson for the United Nations Secretary-General delivers remarks — 322026.md
+- 2026-03-02 | 01_Videos/CNBC Television/Strikes in Iran and Lloyd Blankfein Looks Back 3226.md
+- 2026-03-02 | 01_Videos/CNBC Television/S&P Global's Dan Yergin Iran war's impact on oil will come down to length of conflict.md
+- 2026-03-02 | 01_Videos/CNBC Television/President Trump participates in a Medal of Honor ceremony at the White House — 322026.md
+- 2026-03-02 | 01_Videos/CNBC Television/Pres. Trump delivers updates on situation in Iran from White House.md
+- 2026-03-02 | 01_Videos/CNBC Television/OpenAI strikes deal with Defense Department after Trump bans Anthropic.md
+- 2026-03-02 | 01_Videos/CNBC Television/Middle East conflict is another negative shock to global economy, says Mohamed El-Erian.md
+- 2026-03-02 | 01_Videos/CNBC Television/LIVE First Lady Melania Trump presides over the UN Security Council amid the Iran war — 322026.md
+- 2026-03-02 | 01_Videos/CNBC Television/Kharg Island is a 'choke point' for Iran's oil exports, says VanEck Funds CEO.md
+- 2026-03-02 | 01_Videos/CNBC Television/It's All A Miracle Beast Games' Jeffrey Allen Wins Biggest Prize In History.md
+- 2026-03-02 | 01_Videos/CNBC Television/Iran strikes halt Qatar LNG output Here's what you need to know.md
+- 2026-03-02 | 01_Videos/CNBC Television/Iran could engage in a drone war for a much longer period, says Eurasia Group’s Ian Bremmer.md
+- 2026-03-02 | 01_Videos/CNBC Television/How investors can trade markets amid the Iran conflict.md
+- 2026-03-02 | 01_Videos/CNBC Television/Former CIA Director David Petraeus You can't take down a regime through the air in most cases.md
+- 2026-03-02 | 01_Videos/CNBC Television/Expect March to be an up month for the stock market, says Fundstrat's Tom Lee.md
+- 2026-03-02 | 01_Videos/CNBC Television/Evercore ISI's Julian Emanuel Backdrop remains favorable for the markets, despite uncertainty.md
+- 2026-03-02 | 01_Videos/CNBC Television/DraftKings CEO on launch of new 'super app,' prediction markets and more.md
+- 2026-03-02 | 01_Videos/CNBC Television/Dimon If Iran conflict is not prolonged, there's not going to be a major inflationary hit.md
+- 2026-03-02 | 01_Videos/CNBC Television/Defense Sec. Hegseth and General Dan Caine speak on U.S.-Israel strikes on Iran — 322026.md
+- 2026-03-02 | 01_Videos/CNBC Television/Christopher Hill The U.S. has bitten off more than it can chew.md
+- 2026-03-02 | 01_Videos/CNBC Television/Anthropic's Claude tops Apple App Store after clash with Pentagon.md
+- 2026-03-02 | 01_Videos/CNBC Television/5 Things To Know March 2, 2026.md
+- 2026-03-01 | 01_Videos/CNBC Television/UK had no role in Iran attacks, condemns Iranian regime UK PM Starmer.md
+- 2026-03-01 | 01_Videos/CNBC Television/President Trump tells CNBC that U.S. military operations in Iran are 'ahead of schedule'.md
+- 2026-03-01 | 01_Videos/CNBC Television/President Trump 'There will likely be more' U.S. casualties from Iran military operation.md
+- 2026-02-28 | 01_Videos/CNBC Television/Trump announces U.S. military has begun combat operations in Iran.md
+- 2026-02-28 | 01_Videos/CNBC Television/Mad Money 022726  Audio Only.md
+- 2026-02-28 | 01_Videos/CNBC Television/Jim Cramer looks ahead to next week's market game plan.md
+- 2026-02-27 | 01_Videos/CNBC Television/Zscaler CEO Jay Chaudhry 'For every employee, there will be 50 to 100 AI agents'.md
+- 2026-02-27 | 01_Videos/CNBC Television/Williams CEO Chad Zamarin on AI-related demand for natural gas.md
+- 2026-02-27 | 01_Videos/CNBC Television/WBD CEO David Zaslav made an ‘incredible’ decision to split the company LightShed’s Rich Greenfield.md
+- 2026-02-27 | 01_Videos/CNBC Television/The China & U.S. AI weapons divide.md
+- 2026-02-27 | 01_Videos/CNBC Television/Strong consumer holds up economy as markets split and AI reshapes jobs.md
+- 2026-02-27 | 01_Videos/CNBC Television/Squawk Pod OpenAI CEO Sam Altman & Amazon CEO Andy Jassy 022726 Audio Only.md
+- 2026-02-27 | 01_Videos/CNBC Television/Private credit concerns are not overblown, says Verdad's Dan Rasmussen.md
+- 2026-02-27 | 01_Videos/CNBC Television/President Trump delivers remarks on energy agenda in Texas — 2272026.md
+- 2026-02-27 | 01_Videos/CNBC Television/Morgan Stanley's Simonetti Still not known which companies will be effected negatively by AI.md
+- 2026-02-27 | 01_Videos/CNBC Television/Mad Money 022526  Audio Only (ygHitzOCg3k).md
+- 2026-02-27 | 01_Videos/CNBC Television/Former NEC Director Gary Cohn We've got a lot of really strong economic tailwinds.md
+- 2026-02-27 | 01_Videos/CNBC Television/Duke Energy CEO Agree with Administration's push to make data centers pay their fair share.md
+- 2026-02-27 | 01_Videos/CNBC Television/Don't take today a referendum on anything, says Jim Cramer.md
+- 2026-02-27 | 01_Videos/CNBC Television/Demand for AI infrastructure has been relentless, says CoreWeave CEO Mike Intrator.md
+- 2026-02-27 | 01_Videos/CNBC Television/Dan Ives Software sector will start to bottom from current levels.md
+- 2026-02-27 | 01_Videos/CNBC Television/BMO's Brennan Hawkin talks private credit fears spooking the markets.md
+- 2026-02-27 | 01_Videos/CNBC Television/Anthropic trying to put limitations on its AI models 'really has no standing', says Brent Sadler.md
+- 2026-02-27 | 01_Videos/CNBC Television/Anthropic as the new AI kingmaker.md
+- 2026-02-27 | 01_Videos/CNBC Television/3Fourteen's Warren Pies AI having an impact on labor, 'it is absolutely a big deal' for markets.md
+- 2026-02-26 | 01_Videos/CNBC Television/Zoom CEO Eric Yuan Human to human interactions are still essential in the AI era.md
+- 2026-02-26 | 01_Videos/CNBC Television/U.S. zero enrichment demands will cause unavoidable military action with Iran RBC's Helima Croft.md
+- 2026-02-26 | 01_Videos/CNBC Television/Today the market was brought back to reality, says Jim Cramer.md
+- 2026-02-26 | 01_Videos/CNBC Television/The pharma executive working to end HIV in our lifetime.md
+- 2026-02-26 | 01_Videos/CNBC Television/The AI agent inflection point.md
+- 2026-02-26 | 01_Videos/CNBC Television/Strong tech earnings calm AI fears as markets search for stability.md
+- 2026-02-26 | 01_Videos/CNBC Television/Squawk Pod Jensen Huang, FDA commissioner Makary, & Beast Industries CEO - 022626 Audio Only.md
+- 2026-02-26 | 01_Videos/CNBC Television/Salesforce hikes buyback to $50 billion.md
+- 2026-02-26 | 01_Videos/CNBC Television/Nvidia’s exposure to Anthropic and OpenAI is beneficial for the company, says Melius' Ben Reitzes.md
+- 2026-02-26 | 01_Videos/CNBC Television/Nvidia CEO Jensen Huang AI has gone through a new inflection point.md
+- 2026-02-26 | 01_Videos/CNBC Television/Media Mogul Tom Rogers Netflix has a great path ahead after freeing itself from Warner Bros. deal.md
+- 2026-02-26 | 01_Videos/CNBC Television/Markets are 'in for some volatility' this year, says Nuveen's Saira Malik.md
+- 2026-02-26 | 01_Videos/CNBC Television/Mad Money 022526  Audio Only.md
+- 2026-02-26 | 01_Videos/CNBC Television/How to gauge if the bottom is in for software stocks.md
+- 2026-02-26 | 01_Videos/CNBC Television/How the AI agent inflection point could reset the leaderboard.md
+- 2026-02-26 | 01_Videos/CNBC Television/Faber Report Victory Capital launches counterbid for Janus Henderson, taking on Trian deal.md
+- 2026-02-26 | 01_Videos/CNBC Television/Companies with real assets is where we're finding opportunity Ariel Investments' Charles Bobrinskoy.md
+- 2026-02-26 | 01_Videos/CNBC Television/Chris Berman On ESPN-NFL deal Let's See How It Goes.md
+- 2026-02-26 | 01_Videos/CNBC Television/Carlyle CEO Harvey Schwartz The demand for capital is going up in all forms.md
+- 2026-02-26 | 01_Videos/CNBC Television/Beast Industries CEO We're moving away from an individual to building an entertainment platform.md
+- 2026-02-26 | 01_Videos/CNBC Television/AI's impact on software stock prices is overdone, says Yardeni Research's Ed Yardeni.md
+- 2026-02-25 | 01_Videos/CNBC Television/Worried about how much upside from here Nvidia can actually get, says Susquehanna's Chris Roland.md
+- 2026-02-25 | 01_Videos/CNBC Television/Women transforming business Meet the 2026 CNBC Changemakers.md
+- 2026-02-25 | 01_Videos/CNBC Television/Warner Bros. Discovery Paramount increased offer to $31 per share in cash.md
+- 2026-02-25 | 01_Videos/CNBC Television/Virginia Gov. Spanberger delivers Democrats rebuttal to Trump's State of the Union — 2242026.md
+- 2026-02-25 | 01_Videos/CNBC Television/USA Men's Hockey team introduced at State of the Union.md
+- 2026-02-25 | 01_Videos/CNBC Television/Trump welcomes National Guardsmen shot in D.C. and awards him a Purple Heart.md
+- 2026-02-25 | 01_Videos/CNBC Television/Trump policy benefits will start to emerge in 2026, says Strategas' Dan Clifton.md
+- 2026-02-25 | 01_Videos/CNBC Television/The state of the tech trade.md
+- 2026-02-25 | 01_Videos/CNBC Television/The economic race to the midterms Here's what to know.md
+- 2026-02-25 | 01_Videos/CNBC Television/Tariffs, taxes and AI power plans dominate outlook after the State of the Union.md
+- 2026-02-25 | 01_Videos/CNBC Television/Squawk Pod State of the Union Digest Dr. Mehmet Oz & Rep. Gottheimer (D-NJ) - 022526 Audio Only.md
+- 2026-02-25 | 01_Videos/CNBC Television/SpaceX IPO will reprice the entire private space market, says Space Capital's Chad Anderson.md
+- 2026-02-25 | 01_Videos/CNBC Television/SentinelOne CEO on AI Claude and other products raise the bar for what cybersecurity products do.md
+- 2026-02-25 | 01_Videos/CNBC Television/Rick Rieder Market will have a pretty good year but not in a straight line.md
+- 2026-02-25 | 01_Videos/CNBC Television/Rep. Schneider We need to focus on the things that are making life hard for American families.md
+- 2026-02-25 | 01_Videos/CNBC Television/President Trump delivers the 2026 State of the Union address to Congress — 2242026.md
+- 2026-02-25 | 01_Videos/CNBC Television/Pres. Trump delivers opening remarks of State of the Union address.md
+- 2026-02-25 | 01_Videos/CNBC Television/Pres. Trump announces new 401K initiative and pushes to pass ban on congressional stock trading.md
+- 2026-02-25 | 01_Videos/CNBC Television/Pres. Trump addresses tariff ruling in front of Supreme Court justices.md
+- 2026-02-25 | 01_Videos/CNBC Television/Meta-AMD deal makes sense for Meta but less so for AMD, says Clockwise Capital's Jams Cakmak.md
+- 2026-02-25 | 01_Videos/CNBC Television/Mad Money 022426  Audio Only.md
+- 2026-02-25 | 01_Videos/CNBC Television/Hut 8 CEO Asher Genoot on powering data centers.md
+- 2026-02-25 | 01_Videos/CNBC Television/Evercore's Roger Altman The economic outlook is good, but the K-shaped economy remains.md
+- 2026-02-25 | 01_Videos/CNBC Television/ETF industry ‘not going to run out of innovation’, says ETF Action founder.md
+- 2026-02-25 | 01_Videos/CNBC Television/David Tepper sends scathing letter to Whirlpool for destroying shareholder value, pushes for changes.md
+- 2026-02-25 | 01_Videos/CNBC Television/CMS Administrator Dr. Mehmet Oz Most favored nation drug pricing will become the standard.md
+- 2026-02-25 | 01_Videos/CNBC Television/Bitcoin climbs toward $70,000 level as U.S. equities rise CNBC Crypto World.md
+- 2026-02-25 | 01_Videos/CNBC Television/Apple, Alphabet could win the trillion dollar personal AI market Intelligent Alpha's Doug Clinton.md
+- 2026-02-25 | 01_Videos/CNBC Television/Anthropic's Pentagon conflict What you need to know.md
+- 2026-02-25 | 01_Videos/CNBC Television/Anthropic clashes with Pentagon.md
+- 2026-02-24 | 01_Videos/CNBC Television/Sen. Warren Fed chair nominee Kevin Warsh is a 'sock puppet'.md
+- 2026-02-24 | 01_Videos/CNBC Television/Sen. Mullin on state of the economy, SCOTUS tariff ruling and U.S.-Iran tensions.md
+- 2026-02-24 | 01_Videos/CNBC Television/Property Play CEO of Bozzuto Group on his latest apartment strategy.md
+- 2026-02-24 | 01_Videos/CNBC Television/Mad Money 022326  Audio Only.md
+- 2026-02-24 | 01_Videos/CNBC Television/Jim Cramer says AI anxiety is overblown.md
+- 2026-02-24 | 01_Videos/CNBC Television/AMD CEO Lisa Su We want to place bets on who will be AI winners going forward.md
+- 2026-02-23 | 01_Videos/CNBC Television/Today's panel weighs in on retail trading activity, tariffs, and what seems like a rangebound market.md
+- 2026-02-23 | 01_Videos/CNBC Television/The tariff toll How tariff uncertainty could impact businesses.md
+- 2026-02-23 | 01_Videos/CNBC Television/The tariff toll How policy uncertainty could impact businesses.md
+- 2026-02-23 | 01_Videos/CNBC Television/The SCOTUS tariff decision fallout What it means for markets.md
+- 2026-02-23 | 01_Videos/CNBC Television/Squawk Pod Blizzards & tariffs hit Washington - 022326  Audio Only.md
+- 2026-02-23 | 01_Videos/CNBC Television/Software earnings vs. AI disruption.md
+- 2026-02-23 | 01_Videos/CNBC Television/President Trump participates in Angel Families Remembrance Ceremony — 2232026.md
+- 2026-02-23 | 01_Videos/CNBC Television/Navigating the Saas-pocalypse.md
+- 2026-02-23 | 01_Videos/CNBC Television/Fed Gov. Waller Supreme Court ruling on tariffs may have positive impact on spending, investment.md
+- 2026-02-23 | 01_Videos/CNBC Television/ETF investors The divide between retail and institutional.md
+- 2026-02-23 | 01_Videos/CNBC Television/Blockstream CEO Adam Back on Bitcoin's downturn.md
+- 2026-02-20 | 01_Videos/CNBC Television/White House Official All countries with trade agreements now drop to a 10% tariff rate.md
+- 2026-02-20 | 01_Videos/CNBC Television/West Virginia AG on Apple lawsuit It's important the company meet law enforcement halfway.md
+- 2026-02-20 | 01_Videos/CNBC Television/Trump speaks after Supreme Court strikes down tariffs — 2202026.md
+- 2026-02-20 | 01_Videos/CNBC Television/Supreme Court strikes down Trump tariffs, rebuking president’s signature economic policy.md
+- 2026-02-20 | 01_Videos/CNBC Television/Polymarket and Kalshi are violating laws in all 50 states, says Chris Christie.md
+- 2026-02-20 | 01_Videos/CNBC Television/Fourth-quarter U.S. GDP up just 1.4%, badly missing estimate.md
+- 2026-02-20 | 01_Videos/CNBC Television/Blue Owl's Craig Packer We're not halting redemptions, we're just changing the form.md
+- 2026-02-19 | 01_Videos/CNBC Television/YouTube creator Jesser on his rapid rise and the explosion of sports content.md
+- 2026-02-19 | 01_Videos/CNBC Television/Tariff study fallout Are Americans footing the bill.md
+- 2026-02-19 | 01_Videos/CNBC Television/President Trump speaks at the Board of Peace — 2192026.md
+- 2026-02-19 | 01_Videos/CNBC Television/President Trump delivers remarks on the economy in Rome, Georgia — 2192026.md
+- 2026-02-19 | 01_Videos/CNBC Television/Joseph Stiglitz on impact of tariffs on inflation Prices are affected by cost.md
+- 2026-02-19 | 01_Videos/CNBC Television/Figma CEO Dylan Field on Q4 results, Anthropic partnership and state of AI tech race.md
+- 2026-02-19 | 01_Videos/CNBC Television/ETF Edge Navigating market volatility to find the best sources of income.md
+- 2026-02-19 | 01_Videos/CNBC Television/Brookings Institute Michael O'Hanlon on Iran U.S. 'may not know consequences if we strike again'.md
+- 2026-02-19 | 01_Videos/CNBC Television/Alger CEO Dan Chung This year is an extraordinary buying opportunity for a patient investor.md
+- 2026-02-19 | 01_Videos/CNBC Television/'Economic Armageddon' about both inflation and growth have not played out Jefferies' David Zervos.md
+- 2026-02-18 | 01_Videos/CNBC Television/Watch CNBC’s full interview with U.S. Attorney for the Southern District of New York Jay Clayton.md
+- 2026-02-18 | 01_Videos/CNBC Television/Watch CNBC's full interview with White House National Economic Council Director Kevin Hassett.md
+- 2026-02-18 | 01_Videos/CNBC Television/Trade Tracker Karen Firestone details her latest portfolio moves.md
+- 2026-02-18 | 01_Videos/CNBC Television/Middle-income financial stress Here's what to know.md
+- 2026-02-18 | 01_Videos/CNBC Television/FDA's Marty Makary Everything should be over-the-counter unless it's unsafe or requires monitoring.md
+- 2026-02-18 | 01_Videos/CNBC Television/Crypto leaders and lawmakers meet at Trump family's World Liberty Forum CNBC Crypto World.md
+- 2026-02-17 | 01_Videos/CNBC Television/The $700 billion AI capex 'doesn't bother me at all', says former Cisco Systems CEO John Chambers.md
+- 2026-02-17 | 01_Videos/CNBC Television/Netflix grants Warner Bros. Discovery 7-day waiver to reopen deal talks with Paramount Skydance.md
+- 2026-02-17 | 01_Videos/CNBC Television/China's Lunar New Year tech showcase.md
+- 2026-02-06 | 01_Videos/CNBC Television/Nvidia CEO Jensen Huang AI is going to fundamentally change how we compute everything.md
+- 2026-01-22 | 01_Videos/CNBC Television/Tesla CEO Elon Musk speaks at the World Economic Forum in Davos, Switzerland — 1222026.md
+- 2026-01-21 | 01_Videos/CNBC Television/Anthropic CEO Dario Amodei on AI race Focused on making our models as smart and capable as possible.md
+- 2026-01-05 | 01_Videos/CNBC Television/There's a lot to be optimistic about in 2026, says Fundstrat's Tom Lee.md
+- 2025-11-22 | 01_Videos/CNBC Television/Brushing off new bubble warnings, Google’s AI comeback and Nvidia’s China threat.md
+- 2023-06-06 | 01_Videos/CNBC Television/Deepmind's Mustafa Suleyman says A.I. will create 'serious number of losers' in white collar work.md
