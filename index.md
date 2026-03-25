@@ -1,7 +1,7 @@
 # Transcript Vault - File Index
 
 Auto-generated. Re-run the daily transcript sync job to refresh this file.
-Generated at (UTC): 2026-03-25T21:25:47Z
+Generated at (UTC): 2026-03-25T21:36:34Z
 Base raw URL: https://raw.githubusercontent.com/zky1com/transcripts-vault/main/
 Shard directory: _daily_index/
 
@@ -17,8 +17,8 @@ Primary entry points for daily and rolling synthesis:
 
 Routing shards for daily-use channels only:
 
-- Spotify + 3X | _daily_index/01_spotify_3x.md | updated 2026-03-25 | 51 notes | 2025-04-04 -> 2026-03-02 | The Twenty Minute VC (20VC), _daily
-- Naval + Drew Cohen + Dan Koe | _daily_index/02_core_voices.md | updated 2026-03-25 | 178 notes | 2019-03-16 -> 2026-03-23 | Naval, Drew Cohen, Dan Koe
-- 20VC Videos + All-In + My First Million | _daily_index/03_podcasts.md | updated 2026-03-25 | 267 notes | 2023-05-27 -> 2026-03-25 | All-In Podcast, 20VC with Harry Stebbings, My First Million
-- CNBC Television | _daily_index/04_cnbc_television.md | updated 2026-03-25 | 454 notes | 2023-06-06 -> 2026-03-25 | CNBC Television
-- Bloomberg Television | _daily_index/05_bloomberg_television.md | updated 2026-03-25 | 781 notes | 2017-10-25 -> 2026-03-25 | Bloomberg Television
+- Spotify + 3X | _daily_index/01_spotify_3x__2025-04-04__2026-03-02.md | updated 2026-03-25 | 51 notes | 2025-04-04 -> 2026-03-02 | The Twenty Minute VC (20VC), _daily
+- Naval + Drew Cohen + Dan Koe | _daily_index/02_core_voices__2019-03-16__2026-03-23.md | updated 2026-03-25 | 178 notes | 2019-03-16 -> 2026-03-23 | Naval, Drew Cohen, Dan Koe
+- 20VC Videos + All-In + My First Million | _daily_index/03_podcasts__2023-05-27__2026-03-25.md | updated 2026-03-25 | 267 notes | 2023-05-27 -> 2026-03-25 | All-In Podcast, 20VC with Harry Stebbings, My First Million
+- CNBC Television | _daily_index/04_cnbc_television__2023-06-06__2026-03-25.md | updated 2026-03-25 | 454 notes | 2023-06-06 -> 2026-03-25 | CNBC Television
+- Bloomberg Television | _daily_index/05_bloomberg_television__2017-10-25__2026-03-25.md | updated 2026-03-25 | 781 notes | 2017-10-25 -> 2026-03-25 | Bloomberg Television
