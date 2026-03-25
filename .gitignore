@@ -19,8 +19,8 @@
 !01_Videos/**
 !08_Summaries/
 08_Summaries/**
-!08_Summaries/rolling_7d.md
-!08_Summaries/rolling_30d.md
+!08_Summaries/rolling_7d__*.md
+!08_Summaries/rolling_30d__*.md
 # !02_Claims/
 # !02_Claims/**
 # !03_Evidence/
