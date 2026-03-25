@@ -1,31 +1,31 @@
 # Rolling 30 Day Summary
 
-Updated: 2026-03-24 23:15 UTC
+Updated: 2026-03-25 20:11 UTC
 
 ## Major themes
 
-- The 30-day window is currently dominated by the March 24 import because the staged corpus is still compact. Even so, the material is clear about the main organizing force: geopolitics, especially Iran-war escalation and its consequences for energy and global risk sentiment.
-- Energy is the second major pillar. Oil volatility, LNG, uranium, power infrastructure, and data-center electricity demand are repeatedly treated as strategic constraints rather than narrow commodity stories.
-- AI remains the main secular growth theme, but the tone is more selective than euphoric. The strongest recurring angles are enterprise workflow disruption, infrastructure and data advantage, and military or defense productivity.
-- Financial conditions are tightening at the edges. The set contains repeated concern about fragile equity technicals, weaker rates auctions, private-credit redemption pressure, housing profitability, and capital allocation under uncertainty.
+- The 30-day window is still a compact staged corpus, so today's March 25 additions materially reshape the full view. The dominant theme is still geopolitics, but the emphasis has shifted from pure escalation to the credibility gap around ceasefire and peace-plan messaging.
+- Energy security is the strongest cross-cutting narrative. Oil, jet fuel, air freight, shipping lanes, and operational access through Hormuz are treated as strategic bottlenecks with direct effects on inflation and growth.
+- AI remains the main secular growth story, but the pattern is selective and infrastructure-heavy. The strongest current signals come from chips, compute capacity, and execution bottlenecks rather than broad software optimism.
+- Regulation and institutional power are becoming more visible in the corpus. Meta litigation, prediction-market scrutiny, DHS funding talks, and coalition politics in Europe all point to policy risk mattering alongside market pricing.
 
 ## Persistent narratives
 
-- Markets do not trust headline relief rallies. Several videos describe buying dips and short-term rebounds, but the broader message is that markets still need clearer evidence before treating the geopolitical shock as resolved.
-- Higher energy prices are being discussed as both an inflation risk and a practical operating-cost problem. Airlines, property, industrial planning, and power-system investment all appear downstream of the same energy-security issue.
-- AI winners are being defined more narrowly. The favored exposures are platforms with data, compute, infrastructure, or strategic distribution, while legacy software and traditional security tooling look more vulnerable to repricing.
-- Policy credibility matters as much as macro data. The window repeatedly returns to mixed public messaging, negotiation uncertainty, and the gap between what officials say and what markets believe.
+- Markets repeatedly rally on the possibility of de-escalation before there is hard evidence that the underlying conflict is stabilizing.
+- Energy stress keeps broadening from a commodity move into a systems issue affecting transport, logistics, politics, and household costs.
+- Growth winners are being separated from everyone else by access to infrastructure, scale, distribution, and balance-sheet flexibility.
+- The staged notes keep returning to the same trust problem: what officials signal publicly is not yet enough to convince markets, operators, or counterparties that the risk is contained.
 
 ## Most important recent additions
 
-- A dense cluster of March 24 videos made the Middle East conflict the clear center of gravity for the rolling summary, especially around negotiation skepticism, Gulf strike risk, and oil-market sensitivity.
-- New energy interviews added depth around non-oil supply chains, including uranium contracting, LNG investment, oil-sands output, and power demand linked to AI infrastructure.
-- Fresh AI coverage sharpened the difference between productivity beneficiaries and incumbents under threat, with cybersecurity, retail, real estate, and defense all showing up as early application areas.
-- Credit and property coverage added more signs that higher financing costs and tighter liquidity are no longer abstract macro concerns; they are showing up in private-credit gating, CRE caution, and weaker housing-flip economics.
+- The March 25 import concentrated the rolling set around the proposed US 15-point Iran plan, Iran's pushback, and the market's attempt to look through the conflict toward a near-term diplomatic outcome.
+- New aviation and energy notes added a more practical stress layer than the prior day, especially around jet fuel, air-cargo capacity, and the possibility that even a temporary crude pullback still leaves a stagflationary aftershock.
+- The tech slice deepened with Arm's in-house AI CPU launch, showing how AI demand is pushing further into hardware ownership while supply constraints remain severe.
+- Meta-related coverage made regulation a bigger theme by pairing restructuring with legal pressure over child safety and product design, while Washington coverage added more direct policy friction around prediction markets and DHS operations.
 
 ## Watchlist
 
-- A sustained break higher in energy prices that shifts the discussion from headline volatility to a longer inflation regime.
-- Any evidence that private-credit redemption stress or asset-quality concerns are spreading into broader financing markets.
-- Whether AI adoption keeps rewarding data-and-infrastructure owners while compressing value for application-layer incumbents.
-- Whether the next major addition to the corpus broadens the narrative beyond the March 24 geopolitical cluster or reinforces it further.
+- Whether the corpus starts to show an actual diplomatic settlement or continues to document only rhetorical oscillation around the Iran conflict.
+- Whether energy and logistics strain spill more clearly into macro data, earnings revisions, and consumer-facing sectors.
+- Whether AI leadership keeps consolidating around compute owners and platform-scale firms while labor cuts and legal risk rise elsewhere in tech.
+- Whether future imports diversify the staged corpus beyond the Iran-energy complex or continue to reinforce it as the month-defining narrative.
