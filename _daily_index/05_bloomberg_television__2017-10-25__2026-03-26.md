@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-03-25T21:36:34Z
-Date range: 2017-10-25 -> 2026-03-25
+Generated at (UTC): 2026-03-26T20:17:10Z
+Date range: 2017-10-25 -> 2026-03-26
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-03-26 | 01_Videos/Bloomberg Television/World Is Losing 10 Million Barrels of Oil a Day, Morse Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/US Continuing Claims Fall to a Nearly Two-Year Low.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/US and Iran Wrangle Over Talks; Stocks Slip, Oil Gains  Horizons Middle East & Africa 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/US & Iran Spar Over Talks & Trump-Xi To Hold Summit in May  Daybreak Europe 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump, Xi to Meet in Beijing on May 14–15  The China Show 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Threatens Escalation in Iran  Open Interest 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Stacked Tech Council With ‘Star Power,’ David Sacks Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Says Iran’s Gift Was 10 Boats Transiting Hormuz (Q&A with press).md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Questions Iran Deal  Balance of Power Early Edition 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Jokes Warsh as Fed Chair Might Work at White House.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/The Best of Bloomberg Invest 2026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Stock Selloff Gains Speed on Ceasefire Doubts  Bloomberg Businessweek Daily 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Senators Try to Put Guardrails Around Prediction Markets.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Oil Climbs as US, Iran Argue Over Terms to End War.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Negotiations With Iran Are Likely 'DOA,' Says Wasser.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/It's Not Worth Being a Premature Bull 3-Minutes MLIV.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Iran War Update Are the US and Israel On the Same Page.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Iran War Military Strikes Continue as US, Tehran Argue Over Terms  The Opening Trade 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Iran War Canada To Push For De-escalation at G7 in France  The Pulse 326.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Higher Oil Prices Are Holding Back Some Deals, Says M&A Lawyer Spottswood.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/G-7 Foreign Ministers to Discuss Iran, Ukraine Conflicts.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Fed Should Do Nothing for This Moment, Goldman’s Robert Kaplan Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Ex-Goldman CEO Blankfein Warns of Risk in Private Credit.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/EU's Kallas on War in Iran, Ukraine, Opening Hormuz.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Conflicting Signals on Iran War Sap Market Sentiment  Insight with Haslinda Amin 03262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Canada Wants a Role in US-Iran Diplomacy, Anand Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Asian Stocks Weigh US-Iran Ceasefire Talks  The Asia Trade 3262026.md
 - 2026-03-25 | 01_Videos/Bloomberg Television/Who's Really in Charge of Iran.md
 - 2026-03-25 | 01_Videos/Bloomberg Television/White House Press Briefing.md
 - 2026-03-25 | 01_Videos/Bloomberg Television/What We Know About Trump's 15-Point Plan.md
