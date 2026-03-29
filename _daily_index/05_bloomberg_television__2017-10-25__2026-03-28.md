@@ -1,11 +1,46 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-03-26T20:17:10Z
-Date range: 2017-10-25 -> 2026-03-26
+Generated at (UTC): 2026-03-28T20:03:31Z
+Date range: 2017-10-25 -> 2026-03-28
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-03-28 | 01_Videos/Bloomberg Television/TSA Union Rep Voices Concerns Over Privatization.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Trump Administration Signals No Immediate Plans for Invasion.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/This Weekend  Houthis Enter Middle East Conflict, DHS Fundinl, SpaceX, Anthropic Eye IPOs.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/SpaceX, Anthropic Eye Prospective IPOs.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Rubio Says Weapons for Ukraine Not Diverted to Middle East, But Could.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Rubio Downplays Need for Ground Troops in Iran.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Iran War Sends Shockwaves From Energy Markets to Global Food Supply.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/IMO Negotiating Evacuation Corridor for Seafarers.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/House GOP Plans Vote on 8-Week Stopgap on DHS Funding  Balance of Power 03272026.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Funding Africa's Water Future  Bloomberg Next Africa.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/DHS Funding Causes Impasse in Congress.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/BTW  Cruises, First Class and Netflix Opening Night.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Ammunition, Hoarding, Trade  Pointed News Quiz.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/American Farmer We Need a Farm Bill.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump to Sign Order to Get TSA Staff Paid.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump Pushes Back Iran Deadline as War Continues.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump Pushes Back Iran Deadline  Balance of Power Early Edition 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump Extends Energy-Attack Pause; Stock Selloff Eases  Horizons Middle East & Africa 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Stock Selloff Extends As Iran Conflict Drags On  The Asia Trade 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Stock Selloff Eases as Trump Gives Iran More Time  Daybreak Europe 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Senate Vote Remains Open Amid DHS Negotiations  Balance of Power 032626.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Oil Steadies as Trump Extends Energy-Attack Pause.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Nasdaq Correction Exposes AI Divide  Open Interest 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Markets Fall on Gap Between Trump's Talk and Actions  Bloomberg The China Show 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Market Optimism Fades as War in Iran Drags On  Insight with Haslinda Amin 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/JPM's Michele See Growth Slowdown, But Not Recession Amid $100 Oil.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran War Triggers Economic Uncertainty, Credit Concerns Persist  Real Yield 3272025.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran War & China-US Trade Probe Pull Stocks Lower  The Pulse 327.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran Keeps Up Strikes in Middle East, Oil Rises  The Opening Trade 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran Awaits US Response to Its Plan to End War.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Inflation Expectations Are Stable, Says Apollo's Slok.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Indian Premier League Teams Turning Into Billion-Dollar Assets.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/How Weekends Became Traders’ Worst Worry 3-Minutes MLIV.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Anthropic Could Go Public by October.md
 - 2026-03-26 | 01_Videos/Bloomberg Television/World Is Losing 10 Million Barrels of Oil a Day, Morse Says.md
 - 2026-03-26 | 01_Videos/Bloomberg Television/US Continuing Claims Fall to a Nearly Two-Year Low.md
 - 2026-03-26 | 01_Videos/Bloomberg Television/US and Iran Wrangle Over Talks; Stocks Slip, Oil Gains  Horizons Middle East & Africa 3262026.md
