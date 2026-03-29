@@ -1,11 +1,26 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-03-28T20:03:31Z
-Date range: 2017-10-25 -> 2026-03-28
+Generated at (UTC): 2026-03-29T20:03:11Z
+Date range: 2017-10-25 -> 2026-03-29
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-03-29 | 01_Videos/Bloomberg Television/Young, Slotkin Our hope is that it will restore trust in the decision making here in Congress.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/US Considers Ground Operations in Middle East.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/This Weekend  Soldiers Arrive in Middle East, Crowds at No Kings Protests, Limiting Insider Bets.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/The Hidden Cost of Viral Food Trends.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/The 90s Internet Boom and The AI Revolution of Today.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/New Investment Opportunities in Venezuela.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/New Democrat Florida State Rep talks staying disciplined on the issues.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/NASA Prepares for Artemis II for Moon Flyby Mission.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Middle East Conflict Risks Escalate Infrastructure Disruptions.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/How Singapore and Australia Took Opposite Paths on Housing.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/How Gen Z Is Bringing Back The Mall.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Conflict Overshadows CPAC 2026.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Can't Look Away The Case Against Social Media.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Can Lesotho Solve Johannesburg's Water Crisis.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/BTW  Tech Neck, Relax Row and Opera, Australia's Social Media Ban.md
 - 2026-03-28 | 01_Videos/Bloomberg Television/TSA Union Rep Voices Concerns Over Privatization.md
 - 2026-03-28 | 01_Videos/Bloomberg Television/Trump Administration Signals No Immediate Plans for Invasion.md
 - 2026-03-28 | 01_Videos/Bloomberg Television/This Weekend  Houthis Enter Middle East Conflict, DHS Fundinl, SpaceX, Anthropic Eye IPOs.md
