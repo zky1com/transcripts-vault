@@ -1,11 +1,33 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-03-29T20:03:11Z
-Date range: 2017-10-25 -> 2026-03-29
+Generated at (UTC): 2026-03-30T20:04:57Z
+Date range: 2017-10-25 -> 2026-03-30
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-03-30 | 01_Videos/Bloomberg Television/Why Iran War is Making German Inflation Soar  The Pulse 330.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Why Curbs on Speculation Won't Resolve Indian Rupee Woes.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Warns Iran of Escalation  Balance of Power Early Edition 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Talks Up Iran Deal Hopes; Proxy Attacks  Horizons Middle East & Africa 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Says Iran Really Wants to Settle the War.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Says Iran Gave In to US Demands Despite 15-Point Plan Rejection  Daybreak Europe 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Rallies in Equities Likely to be Shortlived This Week 3-Minutes MLIV.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Oil jumps as Iran War enters fifth week  Insight with Haslinda Amin 03302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Oil Gains As Iran War Escalates with Houthi Attacks  The Opening Trade 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Oil Climbs, Global Bonds Rally as US, Israel Keep Up Strikes on Iran  Bloomberg Brief 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Middle East Conflict Red Sea Transit Is Becoming a Concern as War Widens.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Markets Brace For Fallout  Open Interest 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Iran War US Troop Buildup in Middle East Spurs Escalation Concern.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Iran War Escalation Triggers Risk Aversion  The Asia Trade 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/If the War Drags On, Rates Could Rise, Rochester Says.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Fed's Powell Says Long-Term Inflation Expectations Well-Anchored.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Fears of Widening Iran War Grow  The China Show 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Churchill's Kencel on the State of Private Credit.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Breaking Down the Gold Trade.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Bonds Rally as Investors Eye Growth Risks Over Inflation.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Billionaire Kirsh Sells Jetro Restaurant Depot to Sysco for $29 Billion.md
 - 2026-03-29 | 01_Videos/Bloomberg Television/Young, Slotkin Our hope is that it will restore trust in the decision making here in Congress.md
 - 2026-03-29 | 01_Videos/Bloomberg Television/US Considers Ground Operations in Middle East.md
 - 2026-03-29 | 01_Videos/Bloomberg Television/This Weekend  Soldiers Arrive in Middle East, Crowds at No Kings Protests, Limiting Insider Bets.md
