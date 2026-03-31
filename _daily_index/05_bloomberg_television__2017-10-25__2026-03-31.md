@@ -1,11 +1,38 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-03-30T20:04:57Z
-Date range: 2017-10-25 -> 2026-03-30
+Generated at (UTC): 2026-03-31T20:12:43Z
+Date range: 2017-10-25 -> 2026-03-31
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-03-31 | 01_Videos/Bloomberg Television/Why Eli Lilly Is Buying Centessa for $7.8 Billion.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Where to Invest After $12 Trillion Market Cap Wipeout.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/What To Expect From the Artemis II Launch.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/USTR Greer on Hormuz, China Talks, Trade Tariffs.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/US Withdrawal Without Hormuz Reopening Poses Issue for Stocks 3-Minutes MLIV.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/US Job Openings Fall as Consumer Confidence Rises.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Trump Tells Allies to Just 'Take' Jet Fuel From Hormuz.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Trump Seeks Iran Exit Plan; Houthis Red Sea Threats  Horizons Middle East & Africa 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Refiners Could Wait Weeks for Oil, Even After Strait Is Fully Reopened, Macquarie Says.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/President Trump Reportedly Mulling Iran Exit; Iran Attacks Oil Tanker  Bloomberg Brief 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Prediction Pushback, Traditional Finance Adopting Tokenized Assets  Bloomberg Crypto 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Markets Wrap Volatile Month War Risks, $4 Gas, M&A Action  Open Interest 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Markets Weigh Trump Remarks, Iran Tanker Strike  The Asia Trade 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Markets React as Iran, US Signal Willingness to End War  Bloomberg Businessweek Daily 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Update Strikes Will Intensify If There's No Deal Hegseth Says (Full Press Conference).md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Trump Willing to End War Without Reopening Hormuz WSJ  Daybreak Europe 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Trump Wavers On Escalation as US Pump Price Tops $4  The Pulse 331.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Trump Reported to Seek Exit Plan Without Hormuz Deal.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Triggers Inflation and Growth Fears  Insight with Haslinda Amin 03312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Stocks Rally, Oil Swings As US Weighs End to War  The Opening Trade 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran Strikes Kuwaiti Tanker; Trump Reportedly Weighs War Exit  The China Show 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran Ready to End War But Wants Guarantees, President Says.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Energy Crisis in US Will Get Worse, Says Former Biden Advisor Hochstein.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Energy Crisis Gas Tops $4 a Gallon in US.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Breaking Down the $44.8 Billion Unilever-McCormick Deal.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Air Canada CEO to Quit After Furor About Crash Condolence Video.md
 - 2026-03-30 | 01_Videos/Bloomberg Television/Why Iran War is Making German Inflation Soar  The Pulse 330.md
 - 2026-03-30 | 01_Videos/Bloomberg Television/Why Curbs on Speculation Won't Resolve Indian Rupee Woes.md
 - 2026-03-30 | 01_Videos/Bloomberg Television/Trump Warns Iran of Escalation  Balance of Power Early Edition 3302026.md
