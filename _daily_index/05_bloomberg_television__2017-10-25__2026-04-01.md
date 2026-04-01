@@ -1,11 +1,34 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-03-31T20:12:43Z
-Date range: 2017-10-25 -> 2026-03-31
+Generated at (UTC): 2026-04-01T20:08:07Z
+Date range: 2017-10-25 -> 2026-04-01
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-01 | 01_Videos/Bloomberg Television/US Manufacturing Expands as Input Costs Surge.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Signals Iran War End; Plan For Hormuz  Horizons Middle East & Africa 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Says Iran Ceasefire Possible Only When Hormuz Reopens.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Outlines Ceasefire Demands  Balance of Power Early Edition 4012026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Has to Finish the War in Iran, Roubini Says.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Stocks Higher as Trump Signals Iran War Exit; Oil Slips near $100  Bloomberg Brief 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/SpaceX Has Filed Confidentially For IPO, The AI Divide In Venture Capital  Bloomberg Deals 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/SpaceX Eyes Record-Breaking IPO.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Sen. Kelly Wants to Beat China to the Moon.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Oil Falls on War-End Optimism  Open Interest 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/NATO Operating in a World of Shock, Not Crisis, Admiral Says.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Is Iran War Nearing Its End  The China Show 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Iran War UAE Prepared to Help US in Strait of Hormuz, Report Says.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Iran War Stocks Rally Ahead of Trump Speech on Mideast Conflict  The Pulse 41.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Iran War Market Euphoria As Trump Envisions US Withdrawal In Weeks  Daybreak Europe 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/How Iran Counters US Military Might.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Former VP Pence Happy Trump Pulled 'Trigger' on Iran.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Extent of Crude Slump is Key for Stocks and Bonds 3-Minutes MLIV.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Brent Oil Drops Below $100 As Trump Talks War End  The Opening Trade 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Astronauts Suit Up for Launch of Artemis II.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Asian Stocks Jump on Iran War Offramp   The Asia Trade 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Asia Needs a Strait Answer on Iran From Trump  Insight with Haslinda Amin 04012026.md
 - 2026-03-31 | 01_Videos/Bloomberg Television/Why Eli Lilly Is Buying Centessa for $7.8 Billion.md
 - 2026-03-31 | 01_Videos/Bloomberg Television/Where to Invest After $12 Trillion Market Cap Wipeout.md
 - 2026-03-31 | 01_Videos/Bloomberg Television/What To Expect From the Artemis II Launch.md
