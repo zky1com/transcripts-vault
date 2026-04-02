@@ -1,11 +1,29 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-01T20:08:07Z
-Date range: 2017-10-25 -> 2026-04-01
+Generated at (UTC): 2026-04-02T20:11:26Z
+Date range: 2017-10-25 -> 2026-04-02
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump’s Aggressive but Vague Iran Announcement  Insight with Haslinda Amin  04022026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Vows More Iran Strikes; Oil Soars  Horizons Middle East & Africa 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Threatens Iran Escalation, Rattling Markets  The China Show 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Removes Bondi as Attorney General.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Ousts Bondi As Attorney General  Balance of Power Early Edition 04022026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Stocks Fall, Oil Climbs on President's Trump Address  Bloomberg Brief 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Risk-Off Playbook to Hold into Long Weekend 3-Minutes MLIV.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Private Credit Faces Redemption Pressure  Open Interest 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Oil Surges As Trump Vows To Hit Iran Hard  The Opening Trade 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Oaktree's Panossian Says Private Credit Correction Not Systemic.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Nick Candy Sells London Home For Over $350 Million  The Pulse 42.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Iran’s President Issues Open Letter to the American Public.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Iran War Trump Threats Dim Hopes For Quick End to Conflict  Daybreak Europe 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Iran War Soaring Jet Fuel Prices Disrupt Global Aviation.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Asian Stocks Rise Ahead of Trump Speech  The Asia Trade 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Artemis II Update Crew Begins Initial Phase of Moon Mission.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Apollo’s Zelter Says Private Credit Concerns Are Just Growing Pains.md
 - 2026-04-01 | 01_Videos/Bloomberg Television/US Manufacturing Expands as Input Costs Surge.md
 - 2026-04-01 | 01_Videos/Bloomberg Television/Trump Signals Iran War End; Plan For Hormuz  Horizons Middle East & Africa 412026.md
 - 2026-04-01 | 01_Videos/Bloomberg Television/Trump Says Iran Ceasefire Possible Only When Hormuz Reopens.md
