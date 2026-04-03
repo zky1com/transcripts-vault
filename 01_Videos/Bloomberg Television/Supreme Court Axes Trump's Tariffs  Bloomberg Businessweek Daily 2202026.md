@@ -1,6 +1,6 @@
 ﻿---
 title: "Supreme Court Axes Trump's Tariffs | Bloomberg Businessweek Daily 2/20/2026"
-people_mentioned: []
+people_mentioned: ["Carol Massar", "Emily Graffeo", "Norah Mulinda", "Olu Sonola", "Denitsa Tsekova", "Donald Trump"]
 channel: "Bloomberg Television"
 video_id: "gYTBJOe6qyU"
 url: "https://www.youtube.com/watch?v=gYTBJOe6qyU"
@@ -8,29 +8,29 @@ publish_date: 2026-02-20
 duration: "56:22"
 word_count: 8580
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
-series_name: ""
+delivery_mode: "studio-roundup"
+broad_category: "economics"
+subcategories: ["tariffs", "markets", "private-credit", "us-economy"]
+series_name: "Bloomberg Businessweek Daily"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+primary_person: "Carol Massar"
+host_names: ["Carol Massar", "Emily Graffeo"]
+interviewer_names: ["Carol Massar", "Emily Graffeo"]
+interviewee_profiles: ["Norah Mulinda - Bloomberg markets anchor", "Olu Sonola - Fitch economics head", "Denitsa Tsekova - Bloomberg cross-asset reporter"]
+speaker_profiles: ["Carol Massar - Bloomberg Television host", "Emily Graffeo - Bloomberg Television host", "Norah Mulinda - Bloomberg markets anchor", "Olu Sonola - Fitch economics head", "Denitsa Tsekova - Bloomberg cross-asset reporter"]
+organizations_mentioned: ["Bloomberg Television", "Supreme Court of the United States", "HSBC"]
+locations_mentioned: ["United States", "White House", "Middle East"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["saas-growth", "startup-strategy", "ai-jobs", "lead-generation"]
-tags: ["saas-growth", "startup-strategy", "ai-jobs", "lead-generation"]
+companies_mentioned: ["Walmart", "Amazon", "Blue Owl", "Bloomberg"]
+topics: ["tariffs", "markets", "US economy", "private credit", "retail"]
+tags: ["tariffs", "markets", "us-economy", "private-credit", "retail"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,44 +40,33 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on president, carol, trump. CAROL: ALL RIGHT, AND SOME OF THOSE ALTERNATIVES WE HEARD FROM THE PRESIDENT IN THAT LIVE PRESIDENT, PRESIDENT TRUMP IN THE LAST HOUR FROM. HE SAID, "I DON'T NEED TO, I'M NOT GOING TO DO THAT BECAUSE I DON'T NEED TO." I FELT LIKE THE TOP LINE FROM. SUPREME COURT STRUCK DOWN PRESIDENT TRUMP'S GLOBAL TARIFFS.
+This *Bloomberg Businessweek Daily* episode treats the Supreme Court tariff ruling as both a market event and a new source of business uncertainty. The usable tariff section of the transcript centers on Carol Massar and Emily Graffeo speaking with Norah Mulinda, Olu Sonola, and Denitsa Tsekova, who together argue that tariffs were not really gone, but their legal basis and likely shape had become more confusing for markets, companies, and private-credit investors.
 
 ## Key Insights
 
+- The market initially treated the ruling as good news, but the rebound was tied to an assumption that Trump would quickly replace the old tariffs through other mechanisms.
+- Olu Sonola's main emphasis is that uncertainty itself has become the economic problem, especially for pricing, investment, and supply-chain decisions.
+- The transcript suggests a temporary blanket tariff may be less damaging than a later patchwork of sectoral tariffs that land unevenly across countries and industries.
+- The note also captures a parallel risk theme in private credit, where Blue Owl is being watched as a visible test of retail confidence and liquidity tolerance.
+- I treated the tariff and private-credit segments as the transcript-grounded core and did not use the unrelated opening material as claim evidence.
 
-- BUT THE COURT ALSO IN A SECTION THAT WAS JOINED BY TWO TRUMP APPOINTEES, NEIL GORSUCH AND AMY CONEY BARRETT, AND ALSO THE CHIEF JUSTICE JOHN ROBERTS, TALKED ABOUT CONGRESS'S TARIFF AUTHORITY, CONGRESS'S TAXING AUTHORITY, AND SAID THAT UNLESS CONGRESS HAS CLEARLY HANDED OVER THAT POWER TO THE PRESIDENT, WE ARE NOT JUST GOING TO ASSUME THAT THE PRESIDENT CAN DO SOMETHING.
+## People Mentioned
 
-- HE SAID, "I DON'T NEED TO, I'M NOT GOING TO DO THAT BECAUSE I DON'T NEED TO." I FELT LIKE THE TOP LINE FROM THE PRESIDENT'S WE ARE STILL GOING TO HAVE TARIFFS, BUT THEY ARE GOING TO LOOK DIFFERENT.
+- [[Carol Massar]]
+- [[Emily Graffeo]]
+- [[Norah Mulinda]]
+- [[Olu Sonola]]
+- [[Denitsa Tsekova]]
+- [[Donald Trump]]
 
-- CAROL: ALL RIGHT, AND SOME OF THOSE ALTERNATIVES WE HEARD FROM THE PRESIDENT IN THAT LIVE PRESIDENT, PRESIDENT TRUMP IN THE LAST HOUR FROM THE WHITE HOUSE.
+## Claims
 
-- CAROL: I LOVE THAT QUESTION FROM EMILY AND WHAT YOU JUST SAID, GREG, BECAUSE I THINK ABOUT WHAT THE PRESIDENT -- YOU KNOW, WE HAVE TALKED SO MUCH ABOUT THE EXPANSION OF THE EXECUTIVE BRANCH AND OF PRESIDENTIAL POWERS IN THE SECOND TERM OF THE TRUMP WHITE HOUSE.
-
-- SHE IS BLOOMBERG NEWS WHITE HOUSE CORRESPONDENT, JUST COMING OFF THE WHITE HOUSE PRESS BRIEFING WITH THE PRESIDENT, OBVIOUSLY DEALING A LOT WITH THAT SUPREME COURT DECISION WHEN IT COMES TO TARIFFS.
-
-- WE TOUCH ON THIS FROM THE PRESS CONFERENCE WITH THE PRESIDENT THERE AT THE WHITE HOUSE, BUT ALSO WITH GREG, AND WE WANT TO GET INTO MORE OF WHAT WE ARE HEARING FROM THAT PRESS CONFERENCE AFTER THAT PRESS CONFERENCE, WHAT IS GOING ON INSIDE THE WHITE HOUSE.
-
-
-
-
-## Key Quotes
-
-
-> THE PRESIDENT OF SYRIA WHO I ESSENTIALLY PUT THERE, IS DOING A PHENOMENAL JOB.
-
-
-> HE'S A ROUGH GUY, HE'S NOT A CHOIR BOY.
-
-
-> BUT SYRIA IS COMING TOGETHER, REALLY COMING TOGETHER WELL.
-
-
-> THUS FAR HE'S BEEN REALLY GOOD TO THE KURDS.
-
-
-
-
-
+- [[Norah Mulinda - Markets recovered after the tariff ruling because investors quickly concluded Trump would pursue alternatives]]
+- [[Olu Sonola - The tariff ruling mattered most because it brought uncertainty back just as tariff risk had started to recede]]
+- [[Olu Sonola - A blanket 10 percent tariff with exemptions would be manageable but a truly universal tariff would still create fresh business uncertainty]]
+- [[Olu Sonola - The real problem is what replaces the 150-day stopgap because sector-specific tariffs would hit countries unevenly]]
+- [[Denitsa Tsekova - Blue Owl has become a public stress signal for retail exposure to private credit as investors search for cracks in the sector]]
+- [[Denitsa Tsekova - Slower fundraising and withdrawal restrictions are making investors more visibly nervous about private credit]]
 
 ## Full Transcript
 
@@ -986,3 +975,4 @@ IT WILL BE A GOOD SHOW. CAROL: WE HAVE GOT THE LEAD PLAINTIFF
 IN THE CASE THAT THE SUPREME
 
 </details>
+

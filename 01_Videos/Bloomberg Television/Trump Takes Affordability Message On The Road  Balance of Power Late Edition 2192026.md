@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Trump Takes Affordability Message On The Road | Balance of Power: Late Edition 2/19/2026"
-people_mentioned: []
+people_mentioned: ["Joe Mathieu", "Kailey Leinz", "Mark Esper"]
 channel: "Bloomberg Television"
 video_id: "WoIZMGKs-k0"
 url: "https://www.youtube.com/watch?v=WoIZMGKs-k0"
@@ -9,82 +9,63 @@ duration: "47:57"
 word_count: 5418
 content_type: "news"
 delivery_mode: "news-report"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
-series_name: ""
-episode_id: ""
+broad_category: "geopolitics"
+subcategories: ["iran", "state-of-the-union", "war-powers"]
+series_name: "Balance of Power: Late Edition"
+episode_id: "2026-02-19"
 primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+host_names: ["Joe Mathieu", "Kailey Leinz"]
+interviewer_names: ["Joe Mathieu", "Kailey Leinz"]
+interviewee_profiles: ["Mark Esper - Former U.S. Secretary of Defense"]
+speaker_profiles: ["Joe Mathieu - Bloomberg Television host", "Kailey Leinz - Bloomberg Television host", "Mark Esper - Former U.S. Secretary of Defense"]
+organizations_mentioned: ["Bloomberg Television", "IRGC"]
+locations_mentioned: ["United States", "Iran", "Middle East", "Rome, Georgia"]
 tools_mentioned: []
 companies_mentioned: ["Bloomberg"]
-topics: ["saas-growth", "startup-strategy", "options-trading"]
-tags: ["saas-growth", "startup-strategy", "options-trading"]
+topics: ["iran", "military-strategy", "war-powers", "state-of-the-union"]
+tags: ["iran", "military-strategy", "war-powers", "state-of-the-union"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 3
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on president, kailey, some. JOE: PRESIDENT TRUMP THREATENS -- PICKETS BACK HOME TO THE AFFORDABILITY. IF THIS IS HOW THE PRESIDENT WANTS TO TALK ABOUT AFFORDABILITY OR PERHAPS DOESN'T WANT TO TALK ABOUT IT, DO YOU WANT HIM OUT. JOE: THIS IS "BALANCE OF POWER." WE HAVE BEEN LISTENING TO PRESIDENT TRUMP.
+This episode of Balance of Power pivots from the White House's affordability messaging back to the much more consequential question of possible U.S. military action against Iran. The cleanest transcript-grounded interview is with former Defense Secretary Mark Esper, who says any limited strike has to be tied to a clear objective, should probably wait for additional U.S. assets to arrive, and cannot be separated from the broader political and regional consequences of escalation. Esper also warns that even if the Iranian regime were destabilized, the likely successor could be an even harder-line force unless the United States and its allies have a wider plan.
 
 ## Key Insights
 
+- Mark Esper says a so-called bloody-nose strike only makes sense if it is clearly designed to pressure Tehran toward negotiations.
+- Esper says the United States should probably wait for the additional carrier strike group because those assets improve regional defense and reduce operational risk.
+- Esper says a strike on Iran should not overshadow the administration's domestic affordability message heading into the State of the Union.
+- Esper says regime change without a broader plan could leave power in the hands of an even more hard-line successor force.
 
-- IF THIS IS HOW THE PRESIDENT WANTS TO TALK ABOUT AFFORDABILITY OR PERHAPS DOESN'T WANT TO TALK ABOUT IT, DO YOU WANT HIM OUT THERE AT ALL?
+## People Mentioned
 
-- I THINK PRESIDENT TRUMP IS ABSOLUTELY GIDDY WITH THE IDEA THAT SOMEONE ELSE HAS SOMETHING THAT IS CLASSIFIED AND SET IT OUT LOUD.
+- [[Joe Mathieu]]
+- [[Kailey Leinz]]
+- [[Mark Esper]]
 
-- KAILEY: WHEN WE THINK ABOUT THAT PROSPECT OF BEING DONE WITH IT, WHEN WE THINK ABOUT WHAT IRAN DID, THEY DID SEND SOME MISSILES TOWARD AN AIR FORCE BASE.
+## Claims
 
-- PRETTY STRIKING TO SEE A PRESIDENT WHILE THE ONE HAND IS TOUTING PEACE BUT ALSO COULD BE ANY DAY NOW REALISTICALLY PULLING THE TRIGGER ON CONFLICT WITH IRAN.
-
-- COMING UP, PRESIDENT TRUMP CLAIMING THAT PRESIDENT OBAMA GAVE AWAY CLASSIFIED INFORMATION ABOUT ALIENS FOLLOWING A PODCAST INTERVIEW WHERE HE CONFIRMED THEIR EXISTENCE.
-
-- HIS TOP AIDES WANT THE PRESIDENT TO FOCUS ON DOMESTIC ISSUES, THE AFFORDABILITY, SOMETHING HE HAS SINCE EXPECTED TO FOCUS ON TODAY HIS SPEECH.
-
-
-
-
-## Key Quotes
-
-
-> â™ª THIS IS BALANCE OF POWER, LIVE FROM WASHINGTON.
-
-
-> PRESIDENT TRUMP THREATENING BAD THINGS THAT IRAN REFUSES A DEAL AS A SECOND AIRCRAFT CARRIER GOES TO THE REGION.
-
-
-> JOE: PRESIDENT TRUMP THREATENS -- PICKETS BACK HOME TO THE AFFORDABILITY.
-
-
-> MORE ON HIS ECONOMIC MESSAGE AND HOW THE DEMOCRATS ARE PUSHING BACK.
-
-
-
-
-
+- [[Mark Esper - Any limited strike on Iran should have a clear coercive purpose tied to negotiations]]
+- [[Mark Esper - The United States should wait for more regional military assets before striking Iran]]
+- [[Mark Esper - Regime change in Iran could easily produce a harder-line successor without a broader plan]]
 
 ## Full Transcript
 
 <details>
 <summary>Click to expand full transcript (5418 words)</summary>
 
-â™ª THIS IS BALANCE OF POWER, LIVE
+Ã¢â„¢Âª THIS IS BALANCE OF POWER, LIVE
 FROM WASHINGTON. WELCOME. TONIGHT, WAR AND PEACE.
 PRESIDENT TRUMP THREATENING BAD THINGS THAT IRAN REFUSES A DEAL AS A SECOND AIRCRAFT CARRIER
 GOES TO THE REGION. JOE:
@@ -388,7 +369,7 @@ THE UNION NIGHT TO BREAK DOWN THE SPEECH AND THE RESPONSE AND
 ALL OF IT. THANK YOU SO MUCH. COMING UP, DEMOCRATS AND
 REPUBLICANS REMAIN AT AN IMPASSE OVER FUNDING FOR THE
 DHS. WE WILL TALK MORE ABOUT THIS
-NEXT. â™ª â™ª AND TO THINK THAT I HAVE TO BE >> >> IN THE UNITED STATES
+NEXT. Ã¢â„¢Âª Ã¢â„¢Âª AND TO THINK THAT I HAVE TO BE >> >> IN THE UNITED STATES
 SUPREME COURT FOR MANY MONTHS WAITING FOR A DECISION ON
 TARIFFS. WITHOUT THEM, THIS COUNTRY
 WOULD BE IN SUCH TROUBLE RIGHT NOW. JOE:
@@ -530,7 +511,7 @@ COMING UP, PRESIDENT TRUMP CLAIMING THAT PRESIDENT OBAMA
 GAVE AWAY CLASSIFIED INFORMATION ABOUT ALIENS
 FOLLOWING A PODCAST INTERVIEW WHERE HE CONFIRMED THEIR
 EXISTENCE. WE WILL BRING YOU THE DETAILS
-AND DISCUSS WITH OUR POLITICAL PANEL, NEXT. â™ª KAILEY:
+AND DISCUSS WITH OUR POLITICAL PANEL, NEXT. Ã¢â„¢Âª KAILEY:
 THIS IS "BALANCE OF POWER." WE WILL HAVE MUCH MORE ON
 TODAY'S TOP BOYS WHEN A POLITICAL PANEL JOINS US.
 BUT HERE'S WHAT WE ARE WATCHING. THE U.S.
@@ -623,6 +604,6 @@ DEPARTMENT ON ANYONE. KAILEY: HIS FACE IS THERE. JOE:
 CAN WE SEE THAT? KAILEY: I THINK WE JUST SHOWED IT.
 YOU CAN FIND THE IMAGES ONLINE. THANK YOU SO MUCH FOR JOINING
 US. JOE: THANK YOU FOR JOINING US ON
-"BALANCE OF POWER." THIS IS BLOOMBERG. â™ª
+"BALANCE OF POWER." THIS IS BLOOMBERG. Ã¢â„¢Âª
 
 </details>

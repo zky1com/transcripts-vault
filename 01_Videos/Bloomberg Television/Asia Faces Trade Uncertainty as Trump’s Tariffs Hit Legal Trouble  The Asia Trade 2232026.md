@@ -1,6 +1,6 @@
 ﻿---
-title: "Asia Faces Trade Uncertainty as Trumpâ€™s Tariffs Hit Legal Trouble | The Asia Trade 2/23/2026"
-people_mentioned: []
+title: "Asia Faces Trade Uncertainty as Trump's Tariffs Hit Legal Trouble | The Asia Trade 2/23/2026"
+people_mentioned: ["Shery Ahn", "Avril Hong", "Stephen Engle", "Deborah Elms", "Kyle Rodda", "Xi Jinping", "Donald Trump"]
 channel: "Bloomberg Television"
 video_id: "F9adXgxoXa4"
 url: "https://www.youtube.com/watch?v=F9adXgxoXa4"
@@ -8,29 +8,29 @@ publish_date: 2026-02-23
 duration: "1:35:00"
 word_count: 11000
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "product-ux"
-subcategories: ["product-management", "product-discovery", "product-strategy"]
-series_name: ""
+delivery_mode: "panel-roundup"
+broad_category: "economics"
+subcategories: ["tariffs", "asia-markets", "us-china-trade", "trade-law"]
+series_name: "The Asia Trade"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+primary_person: "Shery Ahn"
+host_names: ["Shery Ahn", "Avril Hong"]
+interviewer_names: ["Shery Ahn", "Avril Hong"]
+interviewee_profiles: ["Stephen Engle - Bloomberg correspondent", "Deborah Elms - Hinrich Foundation trade-policy head", "Kyle Rodda - Capital.com market analyst"]
+speaker_profiles: ["Shery Ahn - Bloomberg Television host", "Avril Hong - Bloomberg Television host", "Stephen Engle - Bloomberg correspondent", "Deborah Elms - Hinrich Foundation trade-policy head", "Kyle Rodda - Capital.com market analyst"]
+organizations_mentioned: ["Bloomberg Television", "Supreme Court of the United States", "US-China Business Council", "Hinrich Foundation", "Oxford Economics"]
+locations_mentioned: ["Tokyo", "Singapore", "Asia", "Beijing", "United States", "China", "India", "European Union", "Japan"]
 tools_mentioned: []
-companies_mentioned: ["Meta", "Bloomberg"]
-topics: ["product-management", "product-discovery", "product-strategy", "ai-regulation", "lead-generation"]
-tags: ["product-management", "product-discovery", "product-strategy", "ai-regulation", "lead-generation"]
+companies_mentioned: ["Capital.com", "Nvidia", "Meta", "Bloomberg"]
+topics: ["tariffs", "Asia markets", "US-China trade", "trade law", "Treasuries"]
+tags: ["tariffs", "asia-markets", "us-china-trade", "trade-law", "treasuries"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,44 +40,36 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on tariffs, trade, more. SUPREME COURT STRIKING DOWN PRESIDENT TRUMP'S RECIPROCAL TARIFFS, ALTHOUGH PRESIDENT TRUMP IS STILL THREATENING 15% TARIFFS AND LET'S NOT FORGET IT IS STILL NVIDIA. SUPREME COURT RULING STRIKING DOWN SOME OF PRESIDENT TRUMP'S GLOBAL TARIFFS. COUNTRIES HEAVILY DEPENDENT ON TRADE LIKE SOUTH KOREA, JAPAN AS WELL, TAIWAN, ARE THEY MORE VULNERABLE IN 2026 IF THESE TARIFFS ALTHOUGH STRICKEN DOWN.
+This episode of *The Asia Trade* examines how Asian markets, trade partners, and policymakers are responding after the Supreme Court disrupted Trump's tariff framework but did not end tariff risk. The transcript ties together host framing from Shery Ahn and Avril Hong with reporting and analysis from Stephen Engle, Deborah Elms, and Kyle Rodda, all of whom emphasize that the ruling reduced one threat while increasing uncertainty about what comes next.
 
 ## Key Insights
 
+- The court decision softened some immediate worst-case tariff fears, but for Asian economies the bigger problem became uncertainty about what legal tools Washington would use next.
+- Beijing appears to have gained tactical leverage ahead of a Xi-Trump meeting, yet Chinese officials still have reason to stay publicly restrained.
+- Existing bilateral deals became harder to interpret because companies and governments no longer know whether previously negotiated tariff caps still apply.
+- The transcript repeatedly argues that alternative US trade authorities still matter, so the ruling should not be mistaken for a clean end to protectionism.
+- The market angle is not just about equities: Treasuries, the dollar, and Asia's broader macro outlook are all being repriced around US policy uncertainty.
 
-- COUNTRIES HEAVILY DEPENDENT ON TRADE LIKE SOUTH KOREA, JAPAN AS WELL, TAIWAN, ARE THEY MORE VULNERABLE IN 2026 IF THESE TARIFFS ALTHOUGH STRICKEN DOWN BY THE SUPREME COURT, IT COULD MEAN MORE UNCERTAINTY IN TERMS OF WHAT TARIFF REGIMES ARE IMPLEMENTED FOR HOW LONG.
+## People Mentioned
 
-- IS TELLING PARTNERS IN BILATERAL TRADE AGREEMENTS THAT DESPITE CONFUSION FOLLOWING THE SUPREME COURT RULING AGAINST TRUMP'S SO-CALLED RECIPROCAL TARIFFS, TRUMP NOW SAYING HE WILL IMPOSE A 15% BASELINE TARIFF ON ALL GLOBAL TRADING PARTNERS, BUT THE EU'S WARNING IT MAY FREEZE RATIFICATION OF THE DEAL WHILE SOURCES SAY INDIAN OFFICIALS ARE POSTPONING TALKS TO FINALIZE ITS PACT WITH THE U.S..
+- [[Shery Ahn]]
+- [[Avril Hong]]
+- [[Stephen Engle]]
+- [[Deborah Elms]]
+- [[Kyle Rodda]]
+- [[Xi Jinping]]
+- [[Donald Trump]]
 
-- SUPREME COURT STRIKING DOWN PRESIDENT TRUMP'S RECIPROCAL TARIFFS, ALTHOUGH PRESIDENT TRUMP IS STILL THREATENING 15% TARIFFS AND LET'S NOT FORGET IT IS STILL NVIDIA EARNINGS WEEK AS WELL.
+## Claims
 
-- HAVING SAID THAT, MOST OF ASIA'S FEAR COMES FROM THE FACT THAT -- THAT RESILIENCE IS BEING CALLED INTO QUESTION NOW BECAUSE NOT JUST ON THE TRADE SIDE BUT THE FISCAL SUPPORT THAT THESE TARIFFS WOULD GIVE ARE GOING TO GO AWAY, SO THAT'S GOING TO QUESTION HOW MUCH -- THAT WILL IMPACT ASIAN ECONOMIES OUT HERE.
-
-- THEY'VE ALREADY SEEN BILLIONS OF DOLLARS OF TARIFFS COME IN BUT IF YOU TAKE AWAY THAT SOURCE OF MONEY COMING IN, PLUS THE RISK THAT THEY MAY NEED TO REIMBURSE PEOPLE FOR SOME OF THESE DEALS WHICH ARE NO LONGER GOING TO BE IN PLACE, THAT IS A NEGATIVE FOR THE TREASURY MARKET, YIELDS WOULD NEED TO RIDE, ESPECIALLY AT THE LONGER END OF THE CURVE WHERE THAT IS WHERE MOST -- THAT IS WHERE PEOPLE PUT THE MOST PREVIEW IN VALUE COMPARED TO THE REST OF THE COUNTRIES.
-
-- EVER SINCE GENEVA, TARIFFS HAVE LOST MOST OF THEIR EDGE AS LEVERAGE FOR THE UNITED STATES SO IF YOU LOOK AT THAT AS THE FIRST TRUCE IN THE U.S.-CHINA TRADE WAR OF 2025, TARIFFS, THAT WAS FOUGHT TO A STANDSTILL AND THEN THE TRADE WAR MOVED INTO OTHER AREAS LIKE EXPORT CONTROLS AND SANCTIONS.
-
-
-
-
-## Key Quotes
-
-
-> SHERY: THIS IS THE ASIAN TRADE, I AM SHERY AHN IN TOKYO.
-
-
-> FRESH TRADE UNCERTAINTY SET TO HIT ASIAN MARKETS AS PRESIDENT TRUMP SAYS HE IS RAISING HIS GLOBAL TARIFF TO 15% AFTER THE U.S.
-
-
-> SUPREME COURT STRUCK DOWN HIS SO-CALLED RECIPROCAL LEVIES.
-
-
-> OFFICIALS SAY KEY TRADE DEALS REMAIN IN EFFECT, BUT INDIA AND THE EU STEPPED BACK FROM TALKS RATIFICATION WHILE JAPAN CALLED THE SITUATION A MESS.
-
-
-
-
-
+- [[Shery Ahn - Asian markets were entering their first full reaction window after the tariff ruling with uncertainty still dominating the outlook]]
+- [[Avril Hong - The tariff shift hit US assets after the cash close which raised fresh questions for deficits the dollar and Treasury pricing]]
+- [[Stephen Engle - The ruling gave Xi more leverage before the Beijing summit because the reciprocal tariff threat was effectively neutralized]]
+- [[Stephen Engle - Beijing was likely to stay muted and avoid antagonizing Trump ahead of the summit despite Chinese social-media celebration]]
+- [[Deborah Elms - The immediate problem for Asia is that companies and governments no longer know what tariff rates existing bilateral deals actually lock in]]
+- [[Deborah Elms - The United States still has powerful trade tools because Section 301 can create broad new pressure even if the old tariff path was struck down]]
+- [[Kyle Rodda - The ruling mainly means more uncertainty which markets will keep pricing into deficits Treasuries and the dollar]]
+- [[Kyle Rodda - The overall effect is still likely negative for Asia because US policy uncertainty becomes a broader global macro headwind]]
 
 ## Full Transcript
 
@@ -1210,3 +1202,4 @@ ALL OF THESE TRADE DEVELOPMENTS IN THE PAST COUPLE OF DAYS.
 THIS IS BLOOMBERG.
 
 </details>
+

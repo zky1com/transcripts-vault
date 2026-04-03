@@ -1,6 +1,6 @@
 ﻿---
 title: "Stocks Slump on AI, Tariff Jitters | Bloomberg Businessweek Daily 2/23/26"
-people_mentioned: []
+people_mentioned: ["Carol Massar", "Emily Graffeo", "Charlie Pellett", "Chris Waller", "Michael McKee", "Greg Daco", "Nassim Nicholas Taleb"]
 channel: "Bloomberg Television"
 video_id: "7nIVPOwbvjE"
 url: "https://www.youtube.com/watch?v=7nIVPOwbvjE"
@@ -8,29 +8,29 @@ publish_date: 2026-02-23
 duration: "48:49"
 word_count: 7275
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
+delivery_mode: "multi-segment-news"
+broad_category: "economics"
+subcategories: ["trade-policy", "macroeconomics", "ai-labor", "consumer-outlook"]
+series_name: "Bloomberg Businessweek Daily"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+primary_person: "Greg Daco"
+host_names: ["Carol Massar", "Emily Graffeo"]
+interviewer_names: ["Carol Massar", "Emily Graffeo"]
+interviewee_profiles: ["Michael McKee - Bloomberg economics and policy correspondent", "Greg Daco - EY-Parthenon chief economist"]
+speaker_profiles: ["Carol Massar - Bloomberg host", "Emily Graffeo - Bloomberg host", "Charlie Pellett - Bloomberg anchor", "Michael McKee - Bloomberg economics and policy correspondent", "Greg Daco - EY-Parthenon chief economist"]
+organizations_mentioned: ["Bloomberg", "Federal Reserve", "National Association for Business Economics", "EY-Parthenon", "Anthropic"]
+locations_mentioned: ["New York City", "Washington, D.C.", "United States"]
 tools_mentioned: []
-companies_mentioned: ["Microsoft", "Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation"]
+companies_mentioned: ["Microsoft", "Oracle", "Palantir", "Blue Owl", "Bloomberg"]
+topics: ["trade-policy", "tariffs", "macroeconomics", "ai-labor", "consumer-income"]
+tags: ["trade-policy", "tariffs", "macroeconomics", "ai-labor", "consumer-income"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,22 +40,17 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on tariffs, carol, down. CAROL MASSAR ALONG WITH EMILY GRAFFEO HERE IN OUR BLOOMBERG STUDIO IN NEW YORK CITY, A SNOWY NEW YORK CITY. NOW THE S&P 500 INDEX IS DOWN 82, A DROP OF ONE POINT 2%, THE S&P AT 6826, DOW INDUSTRIALS DOWN 840, A DROP. BITCOIN DOWN 4.2%, BACK DOWN BELOW $65,000, 64,716.
+The episode ties a tariff-driven market selloff to two macro questions: how much policy uncertainty the Supreme Court tariff ruling has reintroduced, and how quickly AI could disrupt labor markets and corporate margins. Michael McKee says economists still cannot model the tariff path cleanly and notes the Fed is inclined to treat replacement tariffs as a one-off price shock, while Greg Daco argues that instability itself is the bigger economic problem because it impairs planning, weakens real disposable income, and raises downside risks to growth even if the economy is not yet in stagflation.
 
 ## Key Insights
 
-
-- SO, IF YOU PUT IT SIMPLY AND YOU THINK ABOUT THE IEEPA TARIFFS THAT WERE IMPOSED, WITH THE IEEPA TARIFFS >> [SPEAKING CHINESE] YOU HAD AN AVERAGE COST OF DOING --ALIGNED WITH THE IEEPA TARIFFS BEING IMPOSED, YOU HAD THE AVERAGE COST, WITH THE SUPREME COURT RULING THAT THESE TARIFFS WERE NOT LEGAL, THAT BROUGHT DOWN THE AVERAGE TARIFF RATE TO ABOUT 9%.
-
-- WE DON'T KNOW WHAT THE PRESIDENT IS GOING TO DO IN TERMS OF THE LEVEL OF TARIFFS HE'S GOING TO BE ABLE TO PUT ON OR EVEN WHEN HE WILL BE ABLE TO DO IT, AND EVEN IF AND WHEN HE DOES IT, AS WALLER SAID, THE FED HAS SAID IT LARGELY AS A ONE-OFF, PRICES MAY GO UP TO MEET THE NEW TARIFF LEVELS, BUT THEN THEY WILL STOP GOING UP.
-
-- AFTER THAT, YOU WILL PROBABLY SEE REPUBLICANS MOVE MORE TOWARD THE CENTER AND AT LEAST AN AIRING OF UNEASINESS TARIFFS WHERE THEY WILL OPPOSE THE PRESIDENT, BUT THAT'S WHERE THE REPUBLICANS PUBLICLY VERSUS WHAT THEY ARE THINKING IN PRIVATE, THERE'S A LOT OF UNEASINESS WITH TARIFFS IN THE UNITED STATES RIGHT NOW, THEY HAVE TO FIGURE IT OUT BEFORE THE MIDTERMS.
-
-- NATHAN: IT'S REALLY A MIXED MESSAGE COMING FROM THE WHITE HOUSE, BECAUSE TOMORROW NIGHT IN THE STATE OF THE UNION, YOU WILL HEAR PRESIDENT TRUMP DOUBLE DOWN ON TARIFFS, AND HE WILL CONTINUE TO SAY WE ARE THE ENGLISH LANGUAGE, BUT AT THE SAME TIME, HE WILL BE TALKING ABOUT AFFORDABILITY, PRICES, YOU KNOW, FOOD PRICES, CONSUMER GOODS, CETERA TRYING TO DRIVE PRICES DOWN.
-
-- LET ME GO THERE, BECAUSE HE DID, JUST AFTER THE MARKET OPENED THIS MORNING IN NEW YORK, PRESIDENT TRUMP OUT ON SOCIALS SAYING IN A COUNTRY THAT WANTS TO "PLAY GAMES WITH THE RIDICULOUS SUPREME COURT DECISION," ESPECIALLY THOSE WHO HAVE "RIPPED OFF THE USA YEARS AND EVEN DECADES WILL BE MET WITH AN EVEN HIGHER TARIFFS, AND EVEN WORSE THAT THEY ALREADY AGREED TO.
-
-- WE ARE ALSO GOING TO TALK ABOUT THE LATEST ON THE BLIZZARD, WHAT YOU NEED TO KNOW, WHERE WE ARE, AND WE WILL GET THE LATEST ON PRESIDENT TRUMP'S 2.0 WHEN IT COMES TO TARIFFS, THE SUPREME COURT DECISION ON FRIDAY, AND THE PRESIDENT IMPOSING NEW ACROSS THE BOARD TARIFFS.
+- Michael McKee says the central tariff problem is not just the level of duties but that nobody knows what the administration can impose next or how quickly it can do so.
+- McKee reads both Waller and the conference mood as cautious rather than panicked: the Fed would mostly treat replacement tariffs as a one-off, and a weak labor print could still justify a cut.
+- On AI, McKee says economists and researchers agree the impact could be large but still cannot say confidently whether the net effect on jobs will be positive or negative.
+- Greg Daco says the Supreme Court ruling briefly cut tariff drag, but the Section 122 replacement quickly rebuilt much of it.
+- Daco argues businesses can adapt to bad policy better than to erratic policy because planning and hiring depend on stability.
+- He also warns that lower tariff averages do not guarantee cheaper consumer prices because firms may use the room to restore margins instead.
+- Daco is more worried about slowing real disposable income than about textbook stagflation, since income growth is weakening even if top-line growth still looks decent.
 
 
 
@@ -78,6 +73,17 @@ The discussion centers on tariffs, carol, down. CAROL MASSAR ALONG WITH EMILY GR
 
 
 
+
+## Claims
+
+- [[Michael McKee - Economists still do not know what tariff levels Trump can ultimately impose or when he can impose them]]
+- [[Michael McKee - The Fed is likely to treat replacement tariffs mainly as a one-off price shift rather than persistent inflation]]
+- [[Michael McKee - Weak February labor data would strengthen the case for a March rate cut]]
+- [[Michael McKee - Economists and AI researchers still have no clear consensus on whether AI will be net positive or net negative for jobs]]
+- [[Greg Daco - Striking down the IEEPA tariffs reduced the tariff drag materially but replacement tariffs quickly rebuilt much of it]]
+- [[Greg Daco - Policy uncertainty is economically damaging because businesses plan better around stable policy]]
+- [[Greg Daco - Lower average tariff rates may not deliver much consumer price relief because firms can use the room to rebuild margins]]
+- [[Greg Daco - The bigger macro risk is slowing real disposable income growth rather than classic stagflation]]
 
 ## Full Transcript
 

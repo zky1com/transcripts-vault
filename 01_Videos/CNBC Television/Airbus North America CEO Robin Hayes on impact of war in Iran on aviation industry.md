@@ -1,35 +1,60 @@
 ---
-title: "Airbus North America CEO Robin Hayes on impact of war in Iran on aviation industry"
-people_mentioned: []
-channel: "CNBC Television"
-video_id: "XiLiu-O-2Y4"
+title: Airbus North America CEO Robin Hayes on impact of war in Iran on aviation industry
+people_mentioned: [Robin Hayes, Phil LeBeau]
+channel: CNBC Television
+video_id: XiLiu-O-2Y4
 url: "https://www.youtube.com/watch?v=XiLiu-O-2Y4"
 publish_date: 2026-03-09
-duration: "4:05"
+duration: 4:05
 word_count: 763
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+content_type: interview
+delivery_mode: tv_interview
+broad_category: economics
+subcategories: [aviation, oil, manufacturing]
+series_name: CNBC Television
+episode_id: XiLiu-O-2Y4
+primary_person: Robin Hayes
+host_names: [Phil LeBeau]
+interviewer_names: [Phil LeBeau]
+interviewee_profiles: [Robin Hayes]
+speaker_profiles: [Robin Hayes, Phil LeBeau]
+organizations_mentioned: [Airbus, Pratt & Whitney]
+locations_mentioned: [Iran, San Diego, North Carolina, Mobile]
 tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+companies_mentioned: [Airbus, Pratt & Whitney, JetBlue]
+topics: [jet fuel, airline capacity, aircraft production]
+tags: [video, economics, cnbc]
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Robin Hayes says airlines are resilient to geopolitical fuel shocks, but whether they adjust prices or capacity depends on how long elevated oil prices persist. He also says Airbus North America is still growing output despite supply-chain bottlenecks, with Pratt & Whitney engine shortages moderating next year's outlook rather than halting expansion altogether.
 
+## Key Insights
 
+- Hayes distinguishes between a short sharp fuel shock that airlines can absorb and a persistent one that forces pricing or capacity changes.
+- He argues that oil fundamentals had pointed toward moderation before the Iran conflict, which matters for how airlines interpret the current spike.
+- Airbus is still expanding US production even while a narrower set of post-Covid supply-chain constraints remains unresolved.
+- Engine shortages have become a focused bottleneck rather than the broad supply-chain breakdown seen earlier in the recovery.
 
+## Claims
+
+- [[Robin Hayes - Airlines can usually absorb a short fuel shock but not a persistent one]]
+- [[Robin Hayes - Airlines are structurally resilient to geopolitical shocks and oil spikes]]
+- [[Robin Hayes - Oil fundamentals had been pointing toward moderation before the Iran conflict]]
+- [[Robin Hayes - Airbus is still growing US production despite engine bottlenecks]]
+- [[Robin Hayes - The post-Covid supply chain problem has narrowed to a few focused bottlenecks]]
 
 ## Full Transcript
 
@@ -39,3 +64,4 @@ tags: []
 >> WELCOME BACK. AIRBUS WITH PLANS TO EXPAND ITS U.S. PRODUCTION FOOTPRINT. BUT THIS WAR IN IRAN AND A SURGE IN JET FUEL PRICES COULD IMPACT THAT. OUR PHIL LEBEAU IS IN SAN DIEGO WITH MORE ON THAT STORY. HEY PHIL. >> GOOD MORNING CARL. ROBIN HAYES, CEO OF AIRBUS NORTH AMERICA, JOINING US HERE AT THE ISTAT CONFERENCE IN SAN DIEGO. HERE WE ARE. WE'LL TALK ABOUT PRODUCTION FOR AIRBUS AND NORTH AMERICA IN JUST A LITTLE BIT. BUT FIRST LET'S TALK ABOUT THE MIDDLE EAST, THIS CONFLICT. WHAT WE'RE SEEING WITH JET FUEL PRICES. HOW WORRIED ARE YOU ABOUT THE SURGE IN PRICES WE'RE SEEING RIGHT NOW? >> WELL, LOOK, PHIL, WE'VE. >> SEEN THIS BEFORE. AIRLINES ARE INCREDIBLY RESILIENT. THEY GO THROUGH MANY, MANY SHOCKS, MANY GEOPOLITICAL SHOCKS. OIL PRICES IS A NORMAL HIGHER OIL PRICES IS A NORMAL OCCURRENCE TO THAT. WE SAW THAT WITH THE WHEN THE RUSSIA-UKRAINE WAR STARTED A FEW YEARS AGO. AND YOU KNOW RIGHT NOW AIRLINES WILL BE VERY MUCH FOCUSED ON THEIR NETWORKS, THEIR PEOPLE MAKING SURE THEY'RE SAFE, THEIR ASSETS ARE SAFE AND ALSO MITIGATING IN THE SHORT TERM WHAT THEY CAN DO ABOUT HIGHER OIL. >> WHEN YOU RAN JETBLUE, YOU WENT THROUGH MORE THAN A FEW CRISES LIKE THIS WHERE JET FUEL PRICES WOULD SPIKE. AT WHAT POINT DO THE AIRLINES HAVE TO MAKE A DECISION ABOUT POTENTIALLY GROUNDING AIRCRAFT? IS IT REALLY ABOUT DEMAND AT THIS POINT? GIVE US SOME PERSPECTIVE OF WHAT AN AIRLINE EXECUTIVE COMMITTEE IS LOOKING AT RIGHT NOW. >> WELL, IT'S TRUE THAT YOU GO THROUGH THIS TYPE OF EVENT A LOT, BUT EVERY EVENT IS A LITTLE BIT DIFFERENT. AND I THINK COMING INTO THIS, YOU KNOW, THE THE WE'VE SEEN PRETTY LOW OIL PRICES FOR A WHILE. WE HAVE SEEN A LOT OF NEW SUPPLY. COME ON. WE'VE SEEN MORE SUPPLY OUT OF VENEZUELA AS OF LATE AS WELL. SO I THINK THE FUNDAMENTALS ARE POINT TO A CONTINUE SORT OF MODERATION OF OIL PRICES. SO THAT WILL DEFINITELY BE IN THE BACK OF AIRLINES MINDS. SO IT THEN BECOMES HOW LONG ARE WE GOING TO BE IN THIS ELEVATED SITUATION FOR, AND WHEN DO WE NEED TO START TAKING SOME ACTION AROUND THAT. IF AIRLINES THINK IT'S GOING TO BE A SHORT, SHARP EVENT, THEY'LL PROBABLY LOOK TO SORT OF JUST, IF YOU LIKE, GET THROUGH IT. IF THEY THINK HIGHER OIL IS HERE TO STAY, YOU'RE GOING TO START SEEING THINGS LIKE POTENTIALLY HIGHER PRICES, YOU KNOW, SOME CAPACITY, BUT IT'S COMING OUT. BUT IT'S TOO EARLY AT THIS POINT. >> IT'S STILL TOO EARLY. >> STILL TOO EARLY. WE'RE EIGHT DAYS, NINE DAYS INTO THIS EVENT. >> FOR AIRBUS NORTH AMERICA. YOU ARE IN THE MIDST OF EXPANDING YOUR PRODUCTION, YET AT THE SAME TIME, YOU HAVE ISSUES WITH THE SUPPLY OF ENGINES COMING FROM PRATT AND WHITNEY. HOW MUCH IS THAT SLOWING DOWN, WHAT YOU PLAN TO PRODUCE, OR IS IT A CASE OF PRODUCTION INCREASES ARE GOING THROUGH? YOU'RE JUST GOING TO HAVE POTENTIALLY TO PARK A FEW AIRCRAFT BEFORE YOU CAN DELIVER THEM. >> WELL, WE'RE STILL GROWING SIGNIFICANTLY. I MEAN, IN THE LAST YEAR ALONE IN THE US, WE'VE ADDED ABOUT 20% TO OUR EMPLOYEE BASE. THAT'S OUR NEW 350 COMPOSITE FUSELAGE FACILITY IN NORTH CAROLINA, KINSTON, NORTH CAROLINA, AND THE THIRD LINE IN MOBILE, WHICH PHIL, YOU I WAS THERE YOU WERE THERE TO SEE IT. SO WE'RE GROWING YOU KNOW WE ARE STILL GROWING. WE'LL BE PRODUCING MORE AIRPLANES THIS YEAR THAN WE DID LAST YEAR. THERE WAS SOME MODERATION IN THAT OUTLOOK FOR NEXT YEAR BECAUSE OF CHALLENGES WE ARE WE'VE HAD WITH GETTING PRATT AND WHITNEY ENGINES, AND THAT'S SOMETHING WE CONTINUE TO WORK THROUGH WITH PRATT. >> IS THAT ONE OF THOSE EXISTENTIAL LONG TERM CHALLENGES THAT YOU'RE LOOKING AT, OR DO YOU FEEL MORE CONFIDENT AS YOU DEAL WITH PRATT, AND YOU GUYS HAVE REGULAR CONVERSATIONS ABOUT THEIR ABILITY TO RAMP UP PRODUCTION? >> WELL, THE SUPPLY CHAIN HAS BEEN A CHALLENGE REALLY SINCE COVID. AND, YOU KNOW, IT WENT FROM A VERY BROAD BASED SET OF ISSUES TO A COUPLE OF ISSUES. WE'VE ALSO SEEN SOME ISSUES WITH INTERIOR CABIN EQUIPMENT, TOO. BUT I THINK THE SO THE ISSUE IS VERY FOCUSED. SO OF COURSE, A LOT OF ONGOING ISSUES, CONVERSATIONS WITH PRATT AND WHITNEY, THEY OBVIOUSLY STILL HAVE A LOT OF AIRPLANES AROUND THE WORLD THAT ARE GROUNDED WITH THEIR AIRLINE CUSTOMERS THAT DON'T HAVE ENGINES. SO A LOT OF ISSUES THAT THEY'RE WORKING THROUGH. BUT WE HAVE
 
 </details>
+

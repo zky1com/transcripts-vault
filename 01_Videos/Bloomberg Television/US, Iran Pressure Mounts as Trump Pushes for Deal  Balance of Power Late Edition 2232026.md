@@ -1,6 +1,6 @@
-﻿---
+---
 title: "US, Iran Pressure Mounts as Trump Pushes for Deal | Balance of Power: Late Edition 2/23/2026"
-people_mentioned: []
+people_mentioned: ["Chris Coons", "Don Bacon", "Jodey Arrington"]
 channel: "Bloomberg Television"
 video_id: "_zIZ-NyQpPQ"
 url: "https://www.youtube.com/watch?v=_zIZ-NyQpPQ"
@@ -9,77 +9,62 @@ duration: "51:20"
 word_count: 6998
 content_type: "news"
 delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["portfolio-management", "stock-analysis"]
-series_name: ""
-episode_id: ""
+broad_category: "geopolitics"
+subcategories: ["iran", "tariffs", "congress", "trade-policy"]
+series_name: "Balance of Power: Late Edition"
+episode_id: "2026-02-23"
 primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+host_names: ["Joe Mathieu", "Kailey Leinz"]
+interviewer_names: ["Joe Mathieu", "Kailey Leinz"]
+interviewee_profiles: ["Chris Coons - U.S. Senator from Delaware", "Don Bacon - U.S. Representative from Nebraska", "Jodey Arrington - U.S. Representative from Texas"]
+speaker_profiles: ["Joe Mathieu - Bloomberg Television host", "Kailey Leinz - Bloomberg Television host", "Chris Coons - U.S. Senator from Delaware", "Don Bacon - U.S. Representative from Nebraska", "Jodey Arrington - U.S. Representative from Texas"]
+organizations_mentioned: ["Bloomberg Television", "U.S. Congress", "Supreme Court", "White House"]
+locations_mentioned: ["United States", "Iran", "Middle East", "Nebraska", "Texas", "Delaware"]
 tools_mentioned: []
 companies_mentioned: ["Bloomberg"]
-topics: ["portfolio-management", "stock-analysis", "ai-regulation"]
-tags: ["portfolio-management", "stock-analysis", "ai-regulation"]
+topics: ["iran", "tariffs", "trade-policy", "war-powers", "congress", "budget-policy"]
+tags: ["iran", "tariffs", "trade-policy", "war-powers", "congress", "budget-policy"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on president, tariffs, after. I DON'T THINK PEOPLE VOTED FOR HIM BECAUSE OF TARIFFS. IT IS A MATTER OF TIME BEFORE THIS TEMPORARY SECTION 122, WHICH ALLOWS UP TO 15% FOR 150 DAYS, I THINK THIS WILL SNAP. EVERY POLL OF THE AMERICAN PEOPLE, 2-1 AGAINST TARIFFS GIVE OR TAKE A LITTLE BUT ALMOST EVERYONE IS 2-1 UNFAVORABLE TOWARDS TARIFFS.
+This episode of Balance of Power centers on two policy fronts destabilizing Washington at once: the Trump administration's post-ruling tariff scramble and the risk of renewed U.S. military action against Iran. Senator Chris Coons argues Congress and the public still have not been given a clear objective for possible military action and says lawmakers should debate sustained operations before another strike. Representative Don Bacon criticizes broad tariffs as constitutionally dubious, economically harmful, and politically unpopular while still expecting the administration to reconstruct much of the tariff regime through other statutes. Jodey Arrington, by contrast, says the White House will keep the tariff strategy in place and eventually restore it through longer-lasting trade authorities.
 
 ## Key Insights
 
+- Chris Coons says the administration has not explained a clear objective, duration, or cost for renewed military action against Iran.
+- Coons argues Congress should debate and authorize sustained operations rather than allowing another open-ended escalation by default.
+- Don Bacon says global tariffs are constitutionally suspect because Congress, not the president, holds the core taxing power.
+- Bacon says tariffs are bad economics and bad politics because they raise costs for households without clearly improving the trade balance.
+- Jodey Arrington says the administration will likely rebuild the temporary tariff structure through more durable statutory authorities such as Section 301.
 
-- I THINK IT IS A MATTER OF TIME BEFORE THIS TEMPORARY SECTION 122, WHICH ALLOWS UP TO 15% FOR 150 DAYS, I THINK THIS WILL SNAP BACK TO THE INITIAL REGIME WITH A MORE PERMANENT 301 TARIFFS STATUTORY AUTHORITY.
+## People Mentioned
 
-- THE PRESIDENT WAS DEALT A MASSIVE BLOW ON TARIFFS BY THE SUPREME COURT, WHICH IS CONSIDERING STRIKES AGAINST IRAN AND COMMITTING MORE AMERICANS TO CONFLICT IN THE MIDDLE EAST.
+- [[Chris Coons]]
+- [[Don Bacon]]
+- [[Jodey Arrington]]
 
-- >> LAWMAKERS HAD AFTER -- BACK TO WASHINGTON BUT THE POLITICAL STORM IS FAR FROM OVER READ PARTIAL SHUTDOWN DRAGS ON WITH TARIFF UNCERTAINTY AND STRIKES AGAINST IRAN, THE BACKDROP FOR THE STATE OF THE UNION.
+## Claims
 
-- SENATOR COONS TOUCHED ON THIS, THE PRESIDENT HAS THE ABILITY TO DO A STRIKE OR INITIAL OPERATION ONE OR TWO DAYS BUT FOR SUSTAINED OPERATIONS I THINK BY LONG HE HAS TO COME TO CONGRESS AND GET APPROVAL.
-
-- AS WE CONSIDER THE WORDS AROUND IRAN, PRESIDENT TRUMP TOOK TO TRUTH SOCIAL SUGGESTING GENERAL DANIEL KANE, THINKING IF THERE IS ACTION IN IRAN, IT WILL BE SOMETHING THAT WILL BE EASILY WON TAKE ACTION AT A MILITARY LEVEL.
-
-- BUT IN TERMS OF WHERE THE TRADE DEALS AND THE TARIFFS ARE GOING, THEY AREN'T GOING ANYWHERE BECAUSE I THINK THE PRESIDENT'S TEAM AT USTR AND COMMERCE WILL EXPEDITE THE INVESTIGATIVE PROCESS.
-
-
-
-
-## Key Quotes
-
-
-> >> THIS IS BALANCE OF FROM WASHINGTON, D.C.
-
-
-> >> FROM BLOOMBERG'S STUDIOS TO TV AND RADIO AUDIENCES, WELCOME TO BALANCE OF POWER.
-
-
-> TRADING PARTNERS ON EDGE AFTER THE SUPREME COURT UPENDS TARIFF POLICIES.
-
-
-> REACTION FROM LAWMAKERS ON BOTH SIDES OF THE AISLE STARTING WITH DELAWARE SENATOR CHRIS COONS.
-
-
-
-
-
+- [[Chris Coons - Congress and the public still have not been told the real objective of renewed military action against Iran]]
+- [[Chris Coons - Sustained operations against Iran should require congressional debate and authorization]]
+- [[Don Bacon - Broad global tariffs are constitutionally suspect, economically harmful, and politically unpopular]]
+- [[Don Bacon - If the White House wants action against Iran, it should explain whether the goal is regime change or only nuclear disruption]]
+- [[Jodey Arrington - The administration will likely restore its tariff regime through more durable trade authorities after Section 122 expires]]
 
 ## Full Transcript
+
 
 <details>
 <summary>Click to expand full transcript (6998 words)</summary>
@@ -335,7 +320,7 @@ WE WILL HAVE TO MEET AFTER THAT EARNINGS REPORT.
 ROMAINE BOSTICK GETTING US STARTED ON AN IMPORTANT WEEK
 FOR MARKETS. REPUBLICAN CONGRESSMAN JODEY
 ARRINGTON, DON BACON OF NEBRASKA WILL JOIN US ON
-BLOOMBERG TV AND RADIO. â™ª >> ONE OF MY CONCERNS ABOUT THE WAY THE
+BLOOMBERG TV AND RADIO. Ã¢â„¢Âª >> ONE OF MY CONCERNS ABOUT THE WAY THE
 PRESIDENT HAS GONE ABOUT THESE TARIFFS, APART FROM THE FACT
 THAT HE OVERREACHED HIS PRESIDENTIAL AUTHORITY, IS THAT
 IT HAS CREATED SO MUCH UNCERTAINTY.
@@ -684,7 +669,7 @@ UNION. SPECIAL COVERAGE BEGINS AT 8:00
 EASTERN READY HERE ON BLOOMBERG TV AND RADIO.
 STILL AHEAD, ANOTHER BLIZZARD IS WREAKING HAVOC ON THE
 NORTHEAST. THIS TIME, BLANKETING MANHATTAN WITH 15
-INCHES OF SNOW. THE LATEST, NEXT ON BLOOMBERG. â™ª
+INCHES OF SNOW. THE LATEST, NEXT ON BLOOMBERG. Ã¢â„¢Âª
 JOE: THIS IS BALANCE OF POWER ON
 BLOOMBERG TV AND RADIO. THANKS FOR JOINING US.
 WE WILL HAVE MORE ON TOP STORIES WHEN WE ASSEMBLE OUR
@@ -803,7 +788,7 @@ MEN'S HOCKEY TEAM FRESH OFF THE GOLD MEDAL WIN, THEY WERE IN A
 CELEBRATORY MOOD AS WAS THE DIRECTOR OF THE FBI, IN THE
 LOCKER ROOM CHUGGING BEER AFTER FLYING ON A TAXPAYER-FUNDED
 DEBT. I KNOW YOU CAN GET AWAY WITH A
-LOT AS A MEMBER OF. TRUMPâ€™S CABINET. RICK: KASH MODELO IS HIS NEW NICKNAME.
+LOT AS A MEMBER OF. TRUMPÃ¢â‚¬â„¢S CABINET. RICK: KASH MODELO IS HIS NEW NICKNAME.
 HE SHOWED ENTHUSIASM AFTER 46 YEARS OF NOT WINNING THE GOLD
 MEDAL. THE AMERICAN TAXPAYER SHOULDN'T
 BE PAYING A PENNY FOR THIS, BUT I CAN'T BEGRUDGE A PATRIOTIC
@@ -818,6 +803,6 @@ JOE: THANK YOU BOTH. THIS IS A GREAT PANEL.
 THERE WILL BE BACK WITH US TOMORROW FOR SPECIAL COVERAGE.
 TUNE INTO BLOOMBERG TOMORROW EVENING FOR PRESIDENT TRUMP'S
 STATE OF THE UNION ADDRESS. SPECIAL COVERAGE BEGINS AT 8:00
-EASTERN ON BLOOMBERG TV AND RADIO. â™ª
+EASTERN ON BLOOMBERG TV AND RADIO. Ã¢â„¢Âª
 
 </details>

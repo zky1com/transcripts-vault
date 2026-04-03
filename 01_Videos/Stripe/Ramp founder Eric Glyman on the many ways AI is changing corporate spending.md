@@ -1,64 +1,60 @@
-﻿---
-title: "Ramp founder Eric Glyman on the many ways AI is changing corporate spending"
-people_mentioned: ["Eric Glyman"]
-channel: "Stripe"
-video_id: "TRPCRIhrYac"
+---
+title: Ramp founder Eric Glyman on the many ways AI is changing corporate spending
+people_mentioned: [Eric Glyman]
+channel: Stripe
+video_id: TRPCRIhrYac
 url: "https://www.youtube.com/watch?v=TRPCRIhrYac"
 publish_date: 2026-02-17
-duration: "1:11:30"
+duration: 1:11:30
 word_count: 13200
-content_type: "solo-talk"
-delivery_mode: "opinion"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
-episode_id: ""
-primary_person: "Eric Glyman"
+content_type: interview
+delivery_mode: conversation
+broad_category: ai
+subcategories: [finance automation, corporate spending, software economics]
+series_name: Stripe
+episode_id: TRPCRIhrYac
+primary_person: Eric Glyman
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: ["Eric Glyman"]
-organizations_mentioned: ["Stripe"]
-locations_mentioned: ["United States"]
+interviewee_profiles: [Eric Glyman]
+speaker_profiles: [Eric Glyman]
+organizations_mentioned: [Ramp, Stripe]
+locations_mentioned: [United States]
 tools_mentioned: []
-companies_mentioned: []
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "product-management"]
+companies_mentioned: [Ramp, Google]
+topics: [corporate spending, ai automation, cost savings, workflow software]
+tags: [ai, finance-automation, ramp]
 pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
+claims_status: done
 speech_status: pending
 world_status: pending
+evidence_status: pending
+claims_count: 4
 speech_evidence_count: 0
 world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
-
 
 ## Summary
 
-The discussion centers on it's, actually, business. One is like these hard-dollar cost savings and then some of this is time, and I'll start with the time because it's the squishy. Yeah, I think it's 5% in the US. It's much healthier.
+Eric Glyman explains how AI is changing corporate spend management by turning software from a static tracking layer into an increasingly autonomous system that can find waste, save time, and make better default decisions. He distinguishes between hard-dollar savings and softer but still important time savings, arguing that AI changes both sides of the equation because the underlying software cost of doing more work keeps collapsing. The broader view is that corporate finance software is becoming more valuable not just by reporting what happened, but by taking action in the flow of work and reducing avoidable spending at scale.
 
 ## Key Insights
 
+- Eric frames AI value in finance through both hard-dollar and time-based savings.
+- He treats falling software execution costs as a major unlock for much more ambitious automation.
+- Ramp is positioned as moving from visibility into spend toward action on spend.
+- Accuracy matters because finance workflows only automate deeply once trust is high enough.
+- The interview treats corporate spend as an optimization problem that AI can increasingly solve in real time.
 
-- One is like these hard-dollar cost savings and then some of this is time, and I'll start with the time because it's the squishy one, but.
-- Maybe the cost ofâ€¦ It's a software type cost, maybe it's pennies of tokens to actually go and do that.
-- I'm going to charge you 18%." It's like, yeah, but it's Google.
-- Today it's over 99% accurate, which turns out it's much more accurate than people are.
-- Yeah, there's breakage and other stuff, but it's actually a quite, it's quite a valuable value proposition for the receiving merchant because they know that you're.
-- The short version of it is, I think one, it's yes, I think you can offer a bulk discount.
+## Claims
 
-## People Mentioned
-
-
-- [[Eric Glyman]]
-
-
-
+- [[Eric Glyman - AI creates value in finance software through both direct cost reduction and reclaimed employee time]]
+- [[Eric Glyman - Falling software execution costs make it economically viable to automate many more finance tasks than before]]
+- [[Eric Glyman - Finance automation only becomes strategic once the system is accurate enough for operators to trust it]]
+- [[Eric Glyman - Corporate spend software is becoming more valuable as it shifts from passive reporting to active decision-making]]
 
 ## Full Transcript
 
@@ -678,3 +674,4 @@ who has the bounced check? No, I don't. So it's like I have toâ€” This kid 
 Eric, thank you. Thanks for the Guinness. It was a great time.
 
 </details>
+

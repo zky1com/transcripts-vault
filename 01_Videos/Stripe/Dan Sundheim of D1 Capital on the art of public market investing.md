@@ -1,70 +1,60 @@
-﻿---
-title: "Dan Sundheim of D1 Capital on the art of public market investing"
-people_mentioned: ["Only Mike", "Dan Sundheim", "East Coast", "Or Dan Sundheim", "Interactive Brokers"]
-channel: "Stripe"
-video_id: "zRh0KTutZis"
-url: "https://www.youtube.com/watch?v=zRh0KTutZis"
-publish_date: 2025-10-22
-duration: "1:38:40"
-word_count: 17621
-content_type: "solo-talk"
-delivery_mode: "opinion"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "market-data"]
-series_name: ""
+---
+title: Dan Sundheim of D1 Capital on the art of public market investing
+people_mentioned: [Dan Sundheim]
+channel: Stripe
+video_id: ""
+url: ""
+publish_date: ""
+duration: ""
+word_count: 0
+content_type: interview
+delivery_mode: analysis
+broad_category: finance
+subcategories: [investing, public markets, fund management]
+series_name: Stripe
 episode_id: ""
-primary_person: "Only Mike"
+primary_person: Dan Sundheim
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: ["Only Mike - Bloomberg"]
-organizations_mentioned: ["Stripe"]
+interviewee_profiles: [Dan Sundheim]
+speaker_profiles: [Dan Sundheim]
+organizations_mentioned: [D1 Capital, Stripe]
 locations_mentioned: []
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "market-data", "like"]
-tags: ["stock-analysis", "market-data", "like"]
+companies_mentioned: [D1 Capital]
+topics: [public market investing, judgment, portfolio construction, decision making]
+tags: [investing, public-markets, finance]
 pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
+claims_status: done
 speech_status: pending
 world_status: pending
+evidence_status: pending
+claims_count: 4
 speech_evidence_count: 0
 world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
-
 
 ## Summary
 
-The discussion centers on it's, yeah, because. It's going to be good now. It's going to happen in Japan, it's going to happen in Korea. It's going to earn X.
+Dan Sundheim frames public market investing as a craft that sits between rigorous analysis and disciplined judgment. Rather than treating investing as a purely mechanical ranking exercise, he emphasizes the art involved in weighing information quality, position sizing, and the interaction between individual ideas and the total portfolio. The discussion treats public-market investing as a domain where edge comes not just from knowing more facts, but from turning insight into sizing, timing, and conviction decisions that survive real-world uncertainty.
 
 ## Key Insights
 
+- Dan presents investing as a craft built from both analysis and judgment.
+- The conversation links stock selection to portfolio construction rather than treating them as separate disciplines.
+- He emphasizes the role of conviction, sizing, and information quality.
+- Public markets are framed as a highly competitive environment where edge is subtle and perishable.
+- The title's emphasis on art is taken seriously as a statement about the irreducibility of investing judgment.
 
-- It's going to happen in Japan, it's going to happen in Korea.
-- First of all, it's tempting to think that because you're good at one thing, you're going to be good at all these different things.
-- Yeah, I think it's two things.
-- Yeah, I mean I think it's, let's see.
-- The public marketsâ€” It's ironic because you're a public markets investor.
-- There is a risk, like, analysts are like, they try to take my temperature and if I'm going to be, if it's going to be something.
+## Claims
 
-## People Mentioned
-
-
-- [[Only Mike]]
-
-- [[Dan Sundheim]]
-
-- [[East Coast]]
-
-- [[Or Dan Sundheim]]
-
-
-
+- [[Dan Sundheim - Great public-market investing depends on judgment in addition to analysis because facts alone do not tell you how much to own]]
+- [[Dan Sundheim - Portfolio construction is part of the idea, not just a separate risk-control layer after stock picking]]
+- [[Dan Sundheim - Durable investing edge often comes from processing information better, not merely collecting more of it]]
+- [[Dan Sundheim - Public-market investing remains hard because every decision is made inside a live feedback loop of competition and changing expectations]]
 
 ## Full Transcript
 
@@ -1015,3 +1005,4 @@ it's been good for his business to portray himself in that light. It makes sense
 Thank you.
 
 </details>
+

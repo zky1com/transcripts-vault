@@ -1,36 +1,36 @@
 ﻿---
 title: "Wall Street Week | Investment Opportunities, Corporate Transformation and the Private Capital Boom"
-people_mentioned: ["David Westin", "Marc Rowan", "Panasonic Automotive", "Eiji Ueda", "Asia Pacific"]
+people_mentioned: ["David Westin", "Marc Rowan", "Eiji Ueda", "Mireya Solis", "Hiromi Yamaji", "Masashi Nagayasu", "Hiroki Totoki"]
 channel: "Bloomberg Television"
 video_id: "ydcgs6qNqs4"
 url: "https://www.youtube.com/watch?v=ydcgs6qNqs4"
 publish_date: 2026-02-21
 duration: "56:38"
 word_count: 8419
-content_type: "news"
-delivery_mode: "news-report"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
+content_type: "feature"
+delivery_mode: "documentary-feature"
+broad_category: "economics"
+subcategories: ["japan", "corporate-governance", "private-credit", "corporate-transformation"]
+series_name: "Wall Street Week"
 episode_id: ""
 primary_person: "David Westin"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["David Westin - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
+host_names: ["David Westin"]
+interviewer_names: ["David Westin"]
+interviewee_profiles: ["Marc Rowan - Apollo Global Management CEO", "Eiji Ueda - Apollo Asia Pacific head", "Mireya Solis - Brookings Institution scholar", "Hiromi Yamaji - Japan Exchange Group CEO", "Masashi Nagayasu - Panasonic Automotive CEO", "Hiroki Totoki - Sony Group CEO"]
+speaker_profiles: ["David Westin - Bloomberg Television host", "Marc Rowan - Apollo Global Management CEO", "Mireya Solis - Brookings Institution scholar", "Hiromi Yamaji - Japan Exchange Group CEO", "Masashi Nagayasu - Panasonic Automotive CEO", "Hiroki Totoki - Sony Group CEO"]
+organizations_mentioned: ["Bloomberg Television", "Brookings Institution", "Japan Exchange Group", "Tokyo Stock Exchange", "Osaka Exchange"]
+locations_mentioned: ["Japan", "Tokyo", "Osaka"]
+tools_mentioned: ["AI"]
+companies_mentioned: ["Apollo Global Management", "Panasonic Holdings", "Panasonic Automotive Systems", "Sony Group", "Meta", "SMBC", "Nvidia"]
+topics: ["Japan", "corporate governance", "private credit", "capital markets", "corporate transformation"]
+tags: ["japan", "corporate-governance", "private-credit", "capital-markets", "corporate-transformation"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,33 +40,36 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on westin, japan, japanese. Most people's expectation of Japan or business mindset of Japan is 30 years of stagnation. Westin: Carveouts may help bring more discipline to companies like Panasonic Automotive, but there are other transformations in Japanese business that require injection of. Westin: Things are changing in Japan.
+This episode of *Wall Street Week* argues that Japan is finally moving beyond its long stagnation narrative because inflation, governance reform, labor constraints, and new financing channels are all pushing companies to adapt. David Westin's reporting ties together Marc Rowan's case for private capital in Japan, Mireya Solis's view that the "lost decades" label hides real progress, Hiromi Yamaji's governance push at the exchange, and company-level transformations at Panasonic Automotive and Sony.
 
 ## Key Insights
 
-
-- Most people's expectation of Japan or business mindset of Japan is 30 years of stagnation.
-- Westin: Carveouts may help bring more discipline to companies like Panasonic Automotive, but there are other transformations in Japanese business that require injection of patient capital.
-- Westin: Apollo CEO Marc Rowan sees his company as providing a much needed third way to finance the capital investment Japan needs.
-- That's adding, again, more dynamism to the Japanese labor market.
-- Japanese companies are already adopters of new technologies.
-- Westin: Japan may have a big need for investment.
+- Japan's return to inflation is forcing households and institutions to rethink the old habit of sitting in cash and low-yield government bonds.
+- Governance reform in Japan is being framed less as a one-off market rule change and more as a long campaign to change management behavior.
+- Japan's aging and shrinking workforce means productivity gains from automation, digitalization, and AI matter more than simple labor-force expansion.
+- Apollo and similar firms see an opening in Japan because banks and public equity do not naturally provide enough long-dated transformational capital.
+- Corporate carve-outs and business-model shifts at Panasonic Automotive and Sony are presented as signs that Japanese companies are becoming more willing to rethink ownership and strategy.
 
 ## People Mentioned
 
-
 - [[David Westin]]
-
 - [[Marc Rowan]]
-
-- [[Panasonic Automotive]]
-
 - [[Eiji Ueda]]
+- [[Mireya Solis]]
+- [[Hiromi Yamaji]]
+- [[Masashi Nagayasu]]
+- [[Hiroki Totoki]]
 
-- [[Asia Pacific]]
+## Claims
 
-
-
+- [[Marc Rowan - Japans return of inflation is forcing its cash savings culture to become more productive]]
+- [[Marc Rowan - Private finance is becoming a third funding channel in Japan because banks and equity do not fit many long-dated needs]]
+- [[Mireya Solis - The lost decades label overstates Japans stagnation because major change kept building underneath]]
+- [[Mireya Solis - Corporate governance reform and womenomics were real areas of progress during Japans slow-growth era]]
+- [[Hiromi Yamaji - Successive Japanese governments have backed governance reform because private-sector growth is essential]]
+- [[Hiromi Yamaji - Changing management mindset is harder and more important than hitting a price-to-book metric]]
+- [[Masashi Nagayasu - Apollo ownership lets Panasonic Automotive focus fully on autos with more discipline and fewer conglomerate constraints]]
+- [[Hiroki Totoki - Sony had to shift away from consumer electronics because digital hardware became too hard to differentiate at scale]]
 
 ## Full Transcript
 
@@ -950,3 +953,4 @@ on "Wall Street Week". Coming to you from Tokyo. I'm David Westin,
 see you next week for more stories of capitalism.
 
 </details>
+

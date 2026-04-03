@@ -1,6 +1,6 @@
 ﻿---
 title: "SCOTUS Strikes Down Tariffs, West Virginia Sues Apple | Bloomberg Tech 2/20/2026"
-people_mentioned: []
+people_mentioned: ["Ed Ludlow", "Annmarie Hordern", "Brett Kavanaugh", "Jamieson Greer", "Peter Navarro", "Mike McKee", "Kate Sullivan", "Tim Cook"]
 channel: "Bloomberg Technology"
 video_id: "VYh2lI_Gq6g"
 url: "https://www.youtube.com/watch?v=VYh2lI_Gq6g"
@@ -8,29 +8,29 @@ publish_date: 2026-02-20
 duration: "48:39"
 word_count: 6152
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "market-data"]
-series_name: ""
+delivery_mode: "multi-segment-news"
+broad_category: "economics"
+subcategories: ["trade-policy", "us-china", "apple-supply-chain", "tariff-law"]
+series_name: "Bloomberg Tech"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Technology"]
-interviewer_names: ["Bloomberg Technology"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Technology"]
-locations_mentioned: []
+primary_person: "Annmarie Hordern"
+host_names: ["Ed Ludlow"]
+interviewer_names: ["Ed Ludlow"]
+interviewee_profiles: ["Annmarie Hordern - Bloomberg White House correspondent", "Mike McKee - Bloomberg economics and policy correspondent"]
+speaker_profiles: ["Ed Ludlow - Bloomberg Technology host", "Annmarie Hordern - Bloomberg White House correspondent", "Mike McKee - Bloomberg economics and policy correspondent", "Kate Sullivan - Bloomberg White House reporter"]
+organizations_mentioned: ["Bloomberg", "US Supreme Court", "White House", "European Commission"]
+locations_mentioned: ["United States", "China", "Beijing", "Washington, D.C.", "Vietnam", "India", "Mexico", "Canada"]
 tools_mentioned: []
 companies_mentioned: ["Amazon", "Apple", "Bloomberg"]
-topics: ["stock-analysis", "market-data", "ai-regulation", "lead-generation"]
-tags: ["stock-analysis", "market-data", "ai-regulation", "lead-generation"]
+topics: ["trade-policy", "tariffs", "us-china", "apple-supply-chain", "tariff-law"]
+tags: ["trade-policy", "tariffs", "us-china", "apple-supply-chain", "tariff-law"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,22 +40,17 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on president, tariffs, court. SUPREME COURT HAS STRUCK DOWN PRESIDENT TRUMP'S TARIFFS, A MAJOR DECISION WITH IMPACTS ON GLOBAL TRADE. SUPREME COURT HAS STRUCK DOWN PRESIDENT TRUMP'S SWEEPING GLOBAL TARIFFS. DOLLARS AND BONDS FELL AS THE SUPREME COURT STRUCK DOWN PRESIDENT TRUMP'S GLOBAL TARIFFS.
+The show focuses on the immediate fallout from the Supreme Court striking down the administration's use of IEEPA tariffs. Annmarie Hordern explains that IEEPA had become the White House's main tariff tool, that the ruling leaves rebate disputes for lower courts, and that officials were already preparing fallback authorities such as Sections 232, 301, 122, and 338. Mike McKee adds that Section 122 is the fastest near-term substitute, but the larger uncertainty is how far the administration can rebuild tariff pressure and what that means for trade partners, Apple’s supply chain decisions, and the president’s upcoming China trip.
 
 ## Key Insights
 
-
-- MCCUSKEY: WE HAVE A PRESIDENT WHO LIKES TO PUSH THE ENVELOPE AND WHEN YOU DO THAT YOU WILL OCCASIONALLY RUN AFOUL TRYING AS HARD AS YOU CAN TO EFFECTUATE YOUR POLICIES TO WHAT THE PRESIDENT WILL DO IS GO BACK AND ANALYZE WHICH TARIFFS ARE STILL ON THE BOOK AFFECTED BY THIS AS HE SPOKE ABOUT BEFORE WHICH IS KIND OF A LOT OF THEM AND HE WILL WORK ON TRYING TO IMPLEMENT WHAT HE THINKS AND WHAT I THINK IS AN IMPORTANT POLICY OF RESHORING SO MUCH OF THIS AMERICAN MANUFACTURING AND HOLDING CHINA ACCOUNTABLE FOR THEIR IMPROPER TRADE PRACTICES AND THE WAYS THEY HAVE HURT THE AMERICAN ECONOMY.
-
-- FOR TIM COOK, HE HAS TO DO BOTH AT THE SAME TIME, MAKE SURE HE IS SHOWING HE IS COMMITTED TO THE CHINA MARKET AND WHEN YOU SAY THIS ADMINISTRATION HAVING TO GO BACK TO THE DRAWING BOARD AND CHINA COMING OUT USING RARE EARTH'S, TIM COOK WILL PROBABLY CONTINUE TO DIVERSIFY THE MANUFACTURING SUPPLY CHAIN AS WE SEE APPLE MOVE INTO VIETNAM AND INDIA.
-
-- NOT QUITE SURE WHAT HAPPENS WITH SPECIFIC COMPANIES BUT WHEN IT COMES TO BILATERAL TRADING RELATIONSHIPS, WHAT THEY HAVE GOTTEN IS THE SAME INFORMATION WE HAVE RECEIVED WHICH IS IF THE SUPREME COURT DECIDES TO STRIKE DOWN OUR TARIFFS, WE ARE GOING TO MAKE SURE WE ENACT SIMILAR POLICY USING OTHER FORMS.
-
-- THIS IS THE FIRST PART OF HOW THIS WILL PLAY OUT BUT I WANT TO MAKE ONE POINT AND THAT IS IF THE MARKET WAS CONVINCED THIS WAS THE ENDGAME, YOU WOULD SEE TECHNOLOGY LEADING, YOU WOULD SEE SMALL CAPS OR THE CYCLICAL STUFF LEADING AND YOU SEE MORE REACTION OUT OF THE LONG END OF THE YIELD CURVE.
-
-- THE BREAKING STORY OF THE DAY IS THAT THE SUPREME COURT HAS STRUCK DOWN PRESIDENT TRUMP'S GLOBAL TARIFFS POLICY IN A 6-3 DECISION ARGUING HE EXCEEDED HIS AUTHORITY IN THE INTERNATIONAL EMERGENCY ECONOMIC POWERS ACT.
-
-- THAT DOES IT FOR THIS EDITION OF "BLOOMBERG TECH," AN ADDITION WHERE THE SUPREME COURT DID MAKE A RULE -- RULING, FINALLY, STRIKING DOWN PRESIDENT TRUMP'S GLOBAL TARIFFS.
+- Annmarie Hordern says IEEPA covered most of the administration’s tariff posture, so the ruling hits a core White House policy tool rather than a side issue.
+- She stresses that the Court ruled on legality, not refunds, leaving retailers and importers to keep fighting rebate claims in lower courts.
+- The administration already had a fallback menu, but those alternatives are less flexible because some need investigations and others cap the available rate.
+- Hordern says the timing is especially awkward for Trump’s China trip because IEEPA had been central to the latest Washington-Beijing tariff escalation.
+- Foreign officials she spoke with expect the White House to keep pursuing broadly similar outcomes through Section 301 and related authorities.
+- Mike McKee says Section 122 is the fastest fallback because it allows a quick 15 percent tariff, while other authorities can be stacked afterward.
+- He also argues the ruling lowers the tariff burden only temporarily, because the administration can still rebuild pressure through other legal routes.
 
 
 
@@ -78,6 +73,17 @@ The discussion centers on president, tariffs, court. SUPREME COURT HAS STRUCK DO
 
 
 
+
+## Claims
+
+- [[Annmarie Hordern - IEEPA had become the administrations dominant tariff tool and accounted for most of the current tariff posture]]
+- [[Annmarie Hordern - The Supreme Court ruling answered the legality question on IEEPA tariffs but left the rebate mess for lower courts]]
+- [[Annmarie Hordern - The White House had already prepared a fallback tariff plan using sections 232 301 122 and 338]]
+- [[Annmarie Hordern - Replacement tariff authorities are less flexible because many require investigations or cap the available rates]]
+- [[Annmarie Hordern - The China trip became more awkward because the court struck down a key tariff tool Trump had been using against Beijing]]
+- [[Annmarie Hordern - Foreign officials expect the administration to pursue broadly similar tariff outcomes through Section 301 if necessary]]
+- [[Mike McKee - Section 122 is the most immediate fallback because it lets the president impose a 15 percent tariff quickly]]
+- [[Mike McKee - The tariff ruling does not end trade pressure because the administration can still stack other authorities to rebuild rates]]
 
 ## Full Transcript
 

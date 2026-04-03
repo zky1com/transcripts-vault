@@ -1,70 +1,60 @@
-﻿---
-title: "Julia DeWahl of Antares on building nuclear reactors for the US military"
-people_mentioned: ["Diablo Canyon", "Nuclear Cold War", "At Opendoor", "Home Depot"]
-channel: "Stripe"
-video_id: "a_i39TTzGQw"
-url: "https://www.youtube.com/watch?v=a_i39TTzGQw"
-publish_date: 2025-11-25
-duration: "46:46"
-word_count: 8968
-content_type: "solo-talk"
-delivery_mode: "opinion"
-broad_category: "marketing-growth"
-subcategories: ["lead-generation", "b2b-marketing"]
-series_name: ""
+---
+title: Julia DeWahl of Antares on building nuclear reactors for the US military
+people_mentioned: [Julia DeWahl]
+channel: Stripe
+video_id: ""
+url: ""
+publish_date: ""
+duration: ""
+word_count: 0
+content_type: interview
+delivery_mode: analysis
+broad_category: entrepreneurship
+subcategories: [nuclear, defense, hard tech]
+series_name: Stripe
 episode_id: ""
-primary_person: "Diablo Canyon"
+primary_person: Julia DeWahl
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: ["Diablo Canyon"]
-organizations_mentioned: ["Stripe"]
-locations_mentioned: []
+interviewee_profiles: [Julia DeWahl]
+speaker_profiles: [Julia DeWahl]
+organizations_mentioned: [Antares, US military, Stripe]
+locations_mentioned: [United States]
 tools_mentioned: []
-companies_mentioned: []
-topics: ["lead-generation", "b2b-marketing", "ai-safety", "product-management", "options-trading"]
-tags: ["lead-generation", "b2b-marketing", "ai-safety", "product-management", "options-trading"]
+companies_mentioned: [Antares]
+topics: [nuclear energy, defense technology, hard tech, company building]
+tags: [nuclear, defense, entrepreneurship]
 pipeline_stage: video_only
-claims_status: pending
-evidence_status: pending
-claims_count: 0
-evidence_count: 0
-batch_id: ""
-last_processed_at: "2026-03-03"
+claims_status: done
 speech_status: pending
 world_status: pending
+evidence_status: pending
+claims_count: 4
 speech_evidence_count: 0
 world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
-
 
 ## Summary
 
-The discussion centers on it's, nuclear, actually. It's going to be fun. I actually don't think there's going to be a world that's going to be like a hundred percent nuclear. It's actually almost surprising it's that low in some ways.
+Julia DeWahl explains why building nuclear reactors for military use is both a national-security problem and a company-building challenge. She treats advanced energy systems as strategic infrastructure that can unlock resilience and flexibility for defense operations, while also highlighting the unusual difficulty of creating a company in a domain where regulation, engineering, and government procurement all matter at once. The result is a conversation about what it means to build serious hard tech in a field where timelines are long, technical standards are unforgiving, and the end customer has mission-critical needs.
 
 ## Key Insights
 
+- Julia frames nuclear power as a strategic capability, not just an energy source.
+- Defense customers create unusually high performance and reliability demands.
+- Hard-tech company building in nuclear sits at the intersection of engineering, regulation, and procurement.
+- The military context changes the value proposition by emphasizing resilience and autonomy.
+- The conversation treats infrastructure startups as part of national capability formation.
 
-- I actually don't think there's going to be a world that's going to be like a hundred percent nuclear.
-- It's actually almost surprising it's that low in some ways.
-- Anyway, this world and where it's headed, I think it's still going to involve multiple sources.
-- It's real, you know, and so I think we're always going to want to have multiple sources of energy, right?
-- It's certainly one of excellence, and I think that means delivering quality product.
-- It's important to have power in space and I think that's a whole other frontier.
+## Claims
 
-## People Mentioned
-
-
-- [[Diablo Canyon]]
-
-- [[Nuclear Cold War]]
-
-- [[At Opendoor]]
-
-- [[Home Depot]]
-
-
-
+- [[Julia DeWahl - Advanced nuclear can matter to the military because energy resilience is itself a strategic advantage]]
+- [[Julia DeWahl - Nuclear startups are hard because founders must solve engineering, regulation, and procurement at the same time]]
+- [[Julia DeWahl - Hard-tech companies serving defense must build credibility around reliability before they can scale ambition]]
+- [[Julia DeWahl - Building serious infrastructure companies can be part of rebuilding national capability, not just private enterprise creation]]
 
 ## Full Transcript
 
@@ -545,3 +535,4 @@ results-oriented culture. Results speak for themselves
 in a lot of ways, yeah. Julia, thank you. Thanks. Thanks for having me.
 
 </details>
+

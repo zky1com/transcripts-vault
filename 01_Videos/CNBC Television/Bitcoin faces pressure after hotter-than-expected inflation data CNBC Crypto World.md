@@ -1,35 +1,60 @@
 ---
 title: "Bitcoin faces pressure after hotter-than-expected inflation data: CNBC Crypto World"
-people_mentioned: []
-channel: "CNBC Television"
-video_id: "IEWU2V79Aa0"
+people_mentioned: [Mackenzie Sagallos, Pashant K, Bam Aizi, Paul Atkins]
+channel: CNBC Television
+video_id: IEWU2V79Aa0
 url: "https://www.youtube.com/watch?v=IEWU2V79Aa0"
 publish_date: 2026-03-18
-duration: "13:40"
+duration: 13:40
 word_count: 2418
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+content_type: news_roundup
+delivery_mode: tv_show_segment
+broad_category: crypto
+subcategories: [inflation, stablecoins, institutional adoption]
+series_name: CNBC Crypto World
+episode_id: IEWU2V79Aa0
+primary_person: Mackenzie Sagallos
+host_names: [Mackenzie Sagallos]
+interviewer_names: [Mackenzie Sagallos]
+interviewee_profiles: [Pashant K, Bam Aizi]
+speaker_profiles: [Mackenzie Sagallos, Pashant K, Bam Aizi, Paul Atkins]
+organizations_mentioned: [SEC, CFTC, Mastercard, Coinbase, EY Parthenon, Mesh]
+locations_mentioned: [Iran, United States, London]
+tools_mentioned: [stablecoins, tokenized securities, ETFs]
+companies_mentioned: [Mastercard, BVNK, Coinbase, Mesh, Visa, Bridge]
+topics: [crypto regulation, stablecoin adoption, institutional strategy]
+tags: [video, crypto, cnbc]
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Mackenzie Sagallos reports that crypto prices stayed positive over the week but lost momentum after hotter inflation data, even as regulators took a major step toward clarifying how federal securities laws apply to digital assets. The episode argues that regulatory clarity remains the main driver of institutional adoption, while Mesh's Bam Aizi says stablecoins and tokenized assets are becoming the real center of gravity for the industry's next phase of growth.
 
+## Key Insights
 
+- The show presents policy clarity as more important than short-term price volatility for institutional adoption decisions.
+- Regulators' classification guidance is framed as a major break from the prior enforcement-heavy approach.
+- Aizi treats stablecoins and tokenization as the path from crypto speculation to real financial infrastructure.
+- The episode links payments infrastructure, tokenized securities, and institutional governance into one adoption story.
 
+## Claims
+
+- [[Paul Atkins - Most crypto assets are not securities under the new federal guidance]]
+- [[Pashant K - Regulatory clarity is the main driver of bigger institutional crypto allocations]]
+- [[Pashant K - Institutional demand is broadening from crypto prices toward stablecoins and tokenized assets]]
+- [[Bam Aizi - Stablecoin usage is rising even while many crypto assets remain under pressure]]
+- [[Bam Aizi - Tokenizing financial assets can drive the next major expansion of the crypto market]]
 
 ## Full Transcript
 
@@ -39,3 +64,4 @@ tags: []
 This week, crypto prices rise, but hotter than expected inflation data put a dent in recent gains. The SEC and CFTC issue guidelines on regulatory classification of crypto assets. And Bamazi of Mesh discusses running a crypto firm in the midst of current market volatility. Welcome to CNBC's Crypto World. I'm Mackenzie Sagallos. Major cryptocurrencies in the green from a week ago. As of noon Eastern, Bitcoin rose more than 1%, trading at that $70,000 level. Ether jumped more than 5% and XRP climbed more than 3%. This week's gains were slashed after hotter than expected inflation data this morning. The latest read on wholesale prices rose.7% in February. Now, that's much higher than what economists had been predicting, 3%. Crypto markets were still outperforming Wall Street over the week. Cryptocurrencies were in the green. Meanwhile, the S&P 500 index dipped nearly one and a half percent over the last seven days. Okay, let's talk about the top stories. The SEC and CFTC issued guidance for the first time on how federal securities laws apply to crypto. Now, most cryptocurrencies are not deemed securities under these rules that were issued on Tuesday. A major pivot from the previous SEC's leadership stance. Under President Biden, numerous enforcement actions against crypto firms claimed that they broke securities laws. Many of those lawsuits have since been dropped. SEC Chair Paul Atkins joined CNBC's Squawkbox this morning to explain these new guidelines. >> We are outlining four types of assets that are not securities. And those are digital commodities, digital tools, digital collectibles, and stable coins. and stable coins per the Genius Act that was enacted uh last year. >> Crypto lobbyists have long pressured regulators to clarify which tokens are deemed securities, arguing that the decades old Howie test shouldn't be used for emerging technologies. Next, Mastercard is buying stablecoin startup BVNK. The credit card giant announced Tuesday that it agreed to acquire the Londonbased stablecoin infrastructure firm for up to $1.8 billion. Now, according to Mastercard, the deal also includes $300 million to be paid if BVNK hits key performance metrics this year. Mastercard's chief product officer says the company expects most financial institutions and fintexs will eventually provide digital currency services. This comes after the Genius Act went into law last summer, giving a legal framework for stable coins in the US. Mastercard is the second largest payment network after Visa, which is also moving deeper into stable coins with its partnership with Stripe back stable coin infrastructure platform, Bridge. Last, institutional crypto adoption may continue picking up despite the lull in markets. That's according to a survey from EY Parthonon and Coinbase released today across 351 institutional decision makers. I caught up with EY Parthonon managing director Pashant K about some of the results. So this report on institutional investors and their approach to digital assets was conducted in January and institutions made it clear that they were focused on being disciplined during this period of volatility in digital assets. So what does a disciplined approach look like for these institutions? What asset classes are they picking? >> That's a great question, Mackenzie, and and appreciate you having me on today. So what we're seeing is institutions um were really excited about digital assets and and and being focused and uh in their investment in their investment approach in 2025. As they move into 2026 is very clear that they are interested in getting exposure to spot cryptocurrency. Now the way they're looking to get exposure is is through ETFs or exchange traded products or regulated vehicles which are very familiar to the institutional investor. Um and they're very as they look towards 2026, a big area of focus that they really highlighted was their approach towards risk and overall governance of the asset class. >> Now this survey found that firms allocating more than 5% of assets under management to digital assets will grow to 29% by the end of this year. And my question to you is what will have the greatest impact on leading that adoption? Is it regulation or is it some other factor that's really driving that adoption? The biggest factors behind driving more allocations towards digital assets is regulatory clarity. Um it's regul is regulatory clarity specifically when asked around what areas it was around market structure and around tax treatment. So as as investors see more focus and clarity in those areas that's going to be a signal towards allocating more other areas where as they look across the population of third parties as they get more comfortable with third party risk with governance with the regulatory readiness around many of these partners in the digital asset space that's another big area of focus that institution investors are looking at >> now I mentioned that the survey was taken in January and a lot has changed since then volatility has increased with the conflict in Iran there are concerns over inflation we've seen the Clarity Act uh hit some turbulence in Washington. There are now questions about whether that will be passed into law this year. So, do you think that that changes institutional strategy or do they just double down on discipline? >> So, it's it's a great point, right? And when the survey was done, it was done towards middle or second half of January. So, there was some volatility already. Um 50% of investors said volatility is just really strengthening their focus on risk management, governance around digital assets. Um but what I think the survey shows is the narrative is shifting also a bit beyond cryptocurrency and really around usage of stable coins um stable coins for movement of money stable coins of settlement of assets and the discussion around tokenized assets and so I don't I I I think the broader discussion even with the with the volatility is expanding from just the volatility and price action with Bitcoin Ethereum into what else can digital assets do whether it's stable coins tokenized cash or tokenized funds or securities for the asset management in institutional investor All right, let's dive into stable coins for our main story. Yesterday, I spoke with Bam Aizi of Mesh. That's a crypto payments infrastructure firm enabling payments and conversions for various financial services. We talked about why the company recently pivoted from being consumerf facing to now a B2B firm and what recent economic and geopolitical uncertainties mean for crypto startups. So, there's a lot of uncertainty right now in the global economy around the risk of recession. How do crypto companies avoid the downturn or is it possible for certain firms to even thrive in an environment like this? >> Yeah, I think uh actually crypto and blockchain specifically can help a lot of companies that they're not crypto companies to be more efficient, more transaction efficient, more costefficient, more time efficient. Uh but also on the crypto side even though uh a lot of crypto assets are down you can see that the stable coin usage is going up and up and up. Uh so we strongly believe that the that's the future and it's happening before our eyes and super excited days for companies like mesh and and others that are building uh within the stable coin ecosystem >> and mesh pivoted from its focus on consumers to instead focusing on infrastructure and B2B. That seems like the major pivot in the crypto space at large right now. Talk me through how you made that decision as a business and whether crypto should be something primarily for institutions. It wasn't pitched that way when most cryptocurrencies came to market. >> Yeah, I remember back in 2022 when we did made the pivot from consumer to B2B, every single consumer app was down. like Robin Hood had I remember $6 billion cash on their balance sheet but they were trading at five billion now you can see that they're like hundred billion dollar company uh but it was very very hard for us as an earliest stage startup and my background is B2B and then what we have what was kind of helpful for us at Mesh as a as a consumer app that building our own integration or own infrastructure and we said like maybe we can enable the entire world to use our infrastructure versus just using it for one single consumer app. We launched on product hunt, ranked top three that day, landed our first five customers and then within three four years we were one of the main uh leaders in the crypto stable coin payment infrastructure. >> Now a lot has been said about how crypto is in its early stages, but Bitcoin's white paper was published only a year after the release of the first iPhone and I think it's fair to say that both are well established at this stage. So how does the industry move beyond this idea of we are in the early stages and people need to understand crypto? What's the informed argument for institutional adoption in 2026? >> Don't forget, Bitcoin was a peer-to-peer crypto payment. That was the white paper title. So, Bitcoin is supposed to fix the payment problem, but it becomes like a digital version of gold. Um, and and uh Bitcoin is a curse and blessing. It's uh basically the main characteristics of the Bitcoin is it's really hard to change it. it's really hard to build stuff on top of it. It's a it's a curse, but it's also a blessing. You cannot really mess around with it. So, that's why it's like similar to gold that you you're not you're not using gold anymore for payments. It's just an asset that you can basically use it as an anti-inflation type of asset. Uh it helps you uh to basically reserve your capital. uh versus after what happened with Ethereum and Solana and many other L1's that enabled smart contracts and enabled uh for money to move from point A to point B faster to be more energy efficient to be more adoptable to the modern technology and that's when stable coin came to the picture generally speaking I believe um the future of economy will be tokenized everything will move onchain including real estate deposits equity uh and it's because just cost efficient. It's it's also like time efficient and I compare that uh very often to what happened in the SAS around cloud like everything moved from onrem to cloud there is a big difference cloud you have to pay for it blockchain is free so my prediction is the crypto market cap will hit 100 trillion in short term in next 5 to 10 years not because bitcoin price is going up it's just because we're bringing all the real world assets on chain >> I I mean to your point, stable coins seem to be the area where most people agree that there is room for great adoption of cryptocurrencies, but that also creates a certain risk of fragmentation as more businesses adopt their own tokens. So how do you combat that or work alongside a growing list of tokens? >> Yeah, so we are the Nvidia of the stable coin and crypto. We are the only crypto company that can sell to other crypto companies. We are the basically we are helping for fragmentation to be at rest. So mesh in in the nutshell we are a user experience play. We want to kind of make it easier for businesses and end users to navigate this fragmented world. Uh so we'll have different wallets, different exchanges, different chains, uh different tokens, different stable coin. Every country is going to issue its own estable coin. States we're hearing in US issuing their own stable coin. It would be a it would be very very challenging for end users to navigate this maze. At the end of the day, I call it like it doesn't pass the grandma test. Crypto is kind of built by crypto bros for crypto bros. We have to take a step back and fix this once for all. Uh and I think everyone uh wants the benefit of blockchain if it's faster, cheaper, better, but they don't want to kind of uh go through this maze of like which is stable coin I should pick, which network should I pick for the payment. they just simply want to swipe their card or swipe their phone and then pay for things and then get the benefit of it. Uh and I think mesh is uh even though fragmentation is good for us but the added value of mesh is going to be greater if you have a more fragmented space. >> You bring up consumers just wanting the upside of swiping a credit card for example and the parallel in the stable coin world is of course the rewards and the yield that they can offer. What do you make of the fight around stable coin rewards right now on Capitol Hill? It's been a major sticking point and trying to get market structure legislation passed. Do you see a compromise between banks and the crypto industry? >> I I think it's inevitable. Uh I think US if US wants to lead the global market, we have to embrace uh stablecoin. We have to embrace uh uh crypto in general. I think genius act was more focused on stablecoin and uh clear act is more about uh crypto in general in a nutshell u and I think it was a bipartisan I think it was a big success it was a great signal to send to the rest of the world that the US is leading this market and I think we have to continue that so I'm I'm pro I'm on the camp of Brian Armstrong but I believe as a as a as an unbiased person I believe that banks will come around and we have to embrace stable coin as it is should not uh change it uh or change its DNA to be able to compete with it. I think we have to embrace it. Uh as if if I if I was the CEO of a big bank, I would move everything on chain before it's too late. >> Okay, that's all for Crypto World today, but we'll be back again next Wednesday. And we look forward to seeing you then.
 
 </details>
+

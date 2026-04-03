@@ -1,6 +1,6 @@
 ﻿---
 title: "Trump's 10% Global Tariffs Take Effect | Horizons Middle East & Africa 2/24/2026"
-people_mentioned: []
+people_mentioned: ["Donald Trump", "Joumanna Bercetche", "Minmin Low"]
 channel: "Bloomberg Television"
 video_id: "pWBlHZTHoyc"
 url: "https://www.youtube.com/watch?v=pWBlHZTHoyc"
@@ -8,29 +8,29 @@ publish_date: 2026-02-24
 duration: "46:02"
 word_count: 6334
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "risk-management", "market-data"]
-series_name: ""
+delivery_mode: "news-roundup"
+broad_category: "economics"
+subcategories: ["tariffs", "trade-policy", "asia-markets", "ai-trade"]
+series_name: "Horizons Middle East & Africa"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "risk-management", "market-data", "ai-safety"]
-tags: ["stock-analysis", "risk-management", "market-data", "ai-safety"]
+primary_person: "Joumanna Bercetche"
+host_names: ["Joumanna Bercetche"]
+interviewer_names: ["Joumanna Bercetche"]
+interviewee_profiles: ["Minmin Low - Bloomberg reporter"]
+speaker_profiles: ["Joumanna Bercetche - Bloomberg anchor", "Minmin Low - Bloomberg reporter"]
+organizations_mentioned: ["Bloomberg Television", "White House", "Supreme Court of the United States"]
+locations_mentioned: ["Middle East", "Asia", "China", "Hong Kong", "Riyadh", "United States"]
+tools_mentioned: ["AI"]
+companies_mentioned: ["Blackstone", "IBM", "American Express", "DoorDash"]
+topics: ["tariffs", "trade policy", "Asia markets", "AI disruption", "China"]
+tags: ["tariffs", "trade-policy", "asia-markets", "ai-disruption", "china"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,44 +40,30 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on year, joumanna, tariffs. I DID SAY ASIAN MARKETS ARE BACK ONLINE IN THE BIG NEWS IN THE PAST THREE MINUTES, TRUMP'S NEW 10% GLOBAL TARIFFS HAVE JUST. CHINESE MARKETS ARE BACK ONLINE AFTER LUNAR NEW YEAR. CHINA IS BACK FROM LUNAR NEW YEAR.
+This *Horizons Middle East & Africa* episode ties together the immediate activation of Trump's replacement global tariff with the uneven market reaction across the United States and Asia. Joumanna Bercetche frames the legal and market implications of the new 10 percent tariff regime, while Minmin Low explains why Chinese and broader emerging-market equities were holding up better than tariff headlines alone might suggest.
 
 ## Key Insights
 
+- The transcript presents the new tariff regime as legally narrower but still very live, with the White House openly keeping a higher rate on the table.
+- The market reaction was split: US software and private-capital names absorbed the AI scare, while many Asian benchmarks stayed comparatively resilient.
+- Chinese markets were reacting not just to the tariff ruling but also to domestic sentiment drivers like robotics enthusiasm and holiday consumption data.
+- The note is transcript-grounded around Joumanna Bercetche and Minmin Low; later segments with incomplete speaker naming were not used for claims.
+- Old finance/AI leftover metadata has been replaced with tariff and Asia-markets metadata that actually matches the transcript.
 
-- GOING FORWARD, THIS YEAR WE WILL SEE A FOCUS ON MORE SORT OF SMALL I INNOVATION, QUIET INNOVATION THAT DOES NOT CATCH HEADLINES BUT WHETHER IT COMES IN THE FORM OF LET'S SAY THE CHINESE APPROACH TO AI, SO MORE OPEN-SOURCE MODELING OF HOW THEY GET THE BEST OF HOW THEY GET THE BEST OUT OF THESE MODELS AT A LOWER COST, WE ARE LIKELY TO SEE THE SAME ACROSS A RANGE OF INDUSTRIES.
+## People Mentioned
 
-- LET'S GO BACK TO THE TOP STORY OF THE DAY, PRESIDENT TRUMP'S NEW 10% GLOBAL TARIFFS HAVE COME INTO EFFECT, KICKING OFF WHITE HOUSE EFFORTS TO PRESERVE THE PRESIDENT'S TRADE AGENDA AFTER THE SUPREME COURT STRUCK DOWN HIS ORIGINAL SWEEPING LEVEES.
+- [[Donald Trump]]
+- [[Joumanna Bercetche]]
+- [[Minmin Low]]
 
-- THERE WAS QUITE A BIT OF SPEND ON PROMOTIONAL VALUES, SO I'M WONDERING IF THAT WAS A SELLING POINT FOR INVESTORS OR POTENTIALLY, THEY WANT TO SEE A BIT MORE STREAMLINED, A BIT MORE SIMPLISTIC BUSINESS MODEL AND POTENTIALLY, EXECUTING ON SOME OF THE BOTTOM LINE OF WHAT ANGELO, IN HIS TWO YEARS AS CEO, HAD STARTED AND REALLY, GET TO BUSINESS ON THE EXECUTION THAT HE WAS NOT ABLE TO FINISH IN HIS TERM.
+## Claims
 
-- I DID SAY ASIAN MARKETS ARE BACK ONLINE IN THE BIG NEWS IN THE PAST THREE MINUTES, TRUMP'S NEW 10% GLOBAL TARIFFS HAVE JUST GONE INTO EFFECT.
-
-- WE HAVE SEEN THE SHARE PRICE DOWN JUST OVER 17% YEAR TO DATE SO A LOT OF CHALLENGES AHEAD FOR THIS NEW CEO, WHO IS TAKING OVER THE SECOND BIGGEST GROCER IN SOUTH AFRICA BUT REGIONALLY, A BIG PLAYER.
-
-- IN THE NEXT FEW SECONDS, THEN YOU TARIFFS ARE GOING INTO EFFECT AND THAT JUST HAPPENED NOW, 10% GLOBAL TARIFFS HAVE GONE INTO EFFECT AFTER THE SUPREME COURT DEFEAT DOWN FRIDAY.
-
-
-
-
-## Key Quotes
-
-
-> PRESIDENT TRUMP SET A NEW GLOBAL 10% TARIFF SUCH A TICKET BACK MOMENTARILY UNDER A RUDELY TESTED TRADE LAW AFTER THE U.S.
-
-
-> TRUMP IS THREATENING TO RAISE TARIFFS FURTHER AS TRADING PARTNERS SEEK CLARITY AMID FRESH LEGAL CHALLENGES.
-
-
-> PRESIDENT SAYS AND IRAN STRIKE WOULD BE EASILY WON, BUT HE PREFERS A DIPLOMATIC DEAL AS HE REBUFFS REPORTS THE PENTAGON WAS CONCERNED ABOUT A POTENTIAL WAR.
-
-
-> IN THE NEXT FEW SECONDS, THEN YOU TARIFFS ARE GOING INTO EFFECT AND THAT JUST HAPPENED NOW, 10% GLOBAL TARIFFS HAVE GONE INTO EFFECT AFTER THE SUPREME COURT DEFEAT DOWN FRIDAY.
-
-
-
-
-
+- [[Joumanna Bercetche - Trumps new 10 percent global tariff went into effect immediately after the Supreme Court rejected the old IEEPA tariff basis]]
+- [[Joumanna Bercetche - The White House still kept open the option of raising the new global tariff to 15 percent]]
+- [[Joumanna Bercetche - Publicly listed private-equity firms sold off because investors were suddenly focusing on their software exposure in the AI scare trade]]
+- [[Minmin Low - Chinese onshore markets were catching up after Lunar New Year helped by optimism around the tariff ruling and robotics enthusiasm]]
+- [[Minmin Low - Weak movie stocks during the holiday showed that not every part of Chinese consumption shared the broader market optimism]]
+- [[Minmin Low - Emerging-market outperformance persisted because Asian tech is still seen as upstream AI infrastructure rather than the first layer of disruption risk]]
 
 ## Full Transcript
 
@@ -758,3 +744,4 @@ EAST & AFRICA. STAY WITH US FOR DAYBREAK
 EUROPE. THIS IS BLOOMBERG. â™ª
 
 </details>
+

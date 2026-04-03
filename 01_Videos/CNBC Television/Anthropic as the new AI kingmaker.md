@@ -1,35 +1,60 @@
 ---
-title: "Anthropic as the new AI kingmaker"
-people_mentioned: []
-channel: "CNBC Television"
-video_id: "D8qfdwqh1ro"
+title: Anthropic as the new AI kingmaker
+people_mentioned: [Deirdre Bosa]
+channel: CNBC Television
+video_id: D8qfdwqh1ro
 url: "https://www.youtube.com/watch?v=D8qfdwqh1ro"
 publish_date: 2026-02-27
-duration: "4:29"
+duration: 4:29
 word_count: 822
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
+content_type: analysis
+delivery_mode: tv_segment
+broad_category: ai
+subcategories: [software, market structure, platform power]
+series_name: CNBC Television
+episode_id: D8qfdwqh1ro
+primary_person: Deirdre Bosa
 host_names: []
 interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
+interviewee_profiles: [Deirdre Bosa]
+speaker_profiles: [Deirdre Bosa]
+organizations_mentioned: [Anthropic, OpenAI]
 locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+tools_mentioned: [AI agents]
+companies_mentioned: [Anthropic, Thomson Reuters, Salesforce, Figma, Intuit, Amazon, OpenAI, Block]
+topics: [software disruption, partnerships, platform power]
+tags: [video, ai, cnbc]
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Deirdre Bosa argues that Anthropic has become a market kingmaker inside software because investors increasingly reward companies that can position themselves as partners rather than victims of its models. She also warns that these partnerships may be double-edged: the same data and workflow access that makes legacy software useful to Anthropic today could eventually make those companies easier to disintermediate later.
 
+## Key Insights
 
+- Bosa frames the software market as moving from indiscriminate selling to a sharper test of AI usefulness versus replaceability.
+- She sees Anthropic's current influence as unusually concentrated for a single AI company relative to legacy software vendors.
+- Partnership headlines are functioning as survival signals for threatened incumbents.
+- Her skeptical case is that integration today may become model training and disintermediation tomorrow.
 
+## Claims
+
+- [[Deirdre Bosa - Investors are rewarding software companies that align themselves with Anthropic]]
+- [[Deirdre Bosa - Anthropic is acting like a kingmaker for legacy software companies]]
+- [[Deirdre Bosa - The key software question is now whether a company is useful to AI or replaceable by it]]
+- [[Deirdre Bosa - Anthropic partnerships may train the model to eventually cut out the middleman]]
+- [[Deirdre Bosa - Anthropic now appears more market-moving than OpenAI in software sentiment]]
 
 ## Full Transcript
 
@@ -39,3 +64,4 @@ tags: []
 >> ALL SOFTWARE STOCKS ARE BACK TO GETTING HIT TODAY, DOWN ABOUT 2%. BUT INVESTORS ARE NO LONGER SELLING INDISCRIMINATELY. THEY ARE BEGINNING TO SEPARATE THE WINNERS FROM THE LOSERS. FOR TODAY'S TECH CHECK, OUR DEIRDRE BOSA HAS MORE ON HOW THE MARKET'S DRAWING THAT LINE. >> HEIDI HEY GOOD MORNING CARL. SO THE COMPANIES THAT GOT CRUSHED THEY'RE NOW LINING UP TO PARTNER WITH ANTHROPIC. AND THE MARKET IS REWARDING WHOEVER TAKES THE DEAL THOMSON REUTERS JUMPED 14% THE DAY IT ANNOUNCED ITS PARTNERSHIP. SALESFORCE POPPED FIVE. FIGMA EVEN CREDITED ANTHROPIC IN ITS EARNINGS BEAT. THE PLAYBOOK IS STARTING TO LOOK THE SAME FOR THESE COMPANIES. ANTHROPIC SHOWS THAT IT CAN REPLACE YOU FIRST, THEN SECOND OFFERS TO WORK WITH YOU INSTEAD. IF YOU SAY YES, YOUR STOCK RECOVERS. NOW, IT IS A REMARKABLE AMOUNT OF POWER FOR ONE COMPANY TO HAVE. ANTHROPIC IS ESSENTIALLY DECIDING WHICH LEGACY COMPANIES GET TO SURVIVE THE TRANSITION AND WHICH DON'T. FOR INVESTORS, THE QUESTION ISN'T REALLY EVEN ABOUT SOFTWARE ANYMORE. IT'S MORE SIMPLE IS YOUR COMPANY USEFUL TO THE AI OR IS IT REPLACEABLE BY IT? HERE'S A SKEPTICS CASE, THOUGH. THESE COMPANIES, THEY'RE BETTING THAT IF THEY PLUG INTO THE AI, THEY STAY ESSENTIAL OR THEY EVEN LEVEL UP. BUT WHAT IF THEY'RE JUST HANDING OVER THEIR MOST VALUABLE ASSET, THEIR DATA, AND MAKING THEMSELVES EASIER TO CUT OUT LATER? RIGHT NOW, ANTHROPIC NEEDS SALESFORCE DATA TO MAKE ITS AGENTS USEFUL. IT ALSO NEEDS INTUIT'S TAX LOGIC TO DO YOUR BOOKS, BUT THOSE ARE ALSO TRAINING OPPORTUNITIES. ONCE THE AI UNDERSTANDS HOW YOUR PIPELINE WORKS, IT MAY NOT NEED THE MIDDLEMAN AT ALL. AND WE'VE SEEN THIS MOVIE BEFORE WITH AMAZON AND RETAILERS. ONE MORE THING, GUYS. OPENAI JUST CLOSED $110 BILLION IN FRESH FUNDING THIS MORNING. YET BOTH AMAZON AND NVIDIA, TWO OF THE BIGGEST BACKERS IN THIS ROUND, THEY'RE DOWN OR WE'LL CALL IT FLAT TODAY. THE MARKET KIND OF JUST SHRUGGED IT OFF. BUT REMEMBER, NOT LONG AGO, OPENAI WAS THE LAB THAT MOVED MARKETS. NOW ANTHROPIC SHIPS A BLOG POST AND STOCKS SWOON. THAT KIND OF TELLS YOU EVERYTHING ABOUT WHO IS WEARING THE CROWN RIGHT NOW. >> THAT'S INTERESTING. DEIRDRE, GOING BACK TO THE ANTHROPIC PARTNERSHIPS, IS THIS SOMETHING WHEN THEY'RE PARTNERING? IS IT SOMETHING WHERE THE SOFTWARE COMPANIES ARE PAYING A BUNCH OF MONEY TO WORK WITH ANTHROPIC? IS IT JUST A KIND OF A MUTUALLY BENEFICIAL PARTNERSHIP THAT WE'RE SEEING, GIVEN, JUST AS YOU MENTIONED, THE HORDES OF DATA THAT THEY CAN PROVIDE, WHICH WOULD BE BENEFICIAL TO ANTHROPIC, MAYBE EVEN MORE SO THAN A DOLLAR VALUE. >> RIGHT? IT FEELS LIKE A LOT OF THESE DEALS ARE KIND OF MEANT TO GET THE HEADLINE OUT THERE LIKE ANTHROPIC. HOW CAN ANTHROPIC KILL US IF WE'RE WORKING WITH THEM? RIGHT? WE'RE JUST BASICALLY POWERING UP WITH WHAT EVERYONE SEES AS THE GREATEST AI COMPANY AT THE MOMENT. SO WHAT I'VE SEEN IS KIND OF LIKE, DO THE DEAL, GET THE HEADLINE OUT THERE, THEN MAYBE FIGURE OUT THE DETAILS A LITTLE LATER. IN THE CASE OF FIGMA AND I SPOKE TO CEO DYLAN FIELD. THAT WAS A REALLY INTERESTING INTEGRATION, BECAUSE ANTHROPIC WAS ALREADY USING FIGMA AS PART OF THEIR TOOL SHOP. SO THAT MAYBE EXPLAINS WHY THE MARKET LIKED THIS AS WELL. BUT I THINK THAT GOING FORWARD IT'S UNCLEAR. YEAH, MAYBE YOU WANT TO GET SOME MONEY FROM ANTHROPIC FOR HELPING IN TRAINING, BUT THEN AGAIN, THAT KIND OF GIVES THEM THE CASE TO AND THE ABILITY TO CUT OUT THESE COMPANIES LATER. SO EACH ONE IS A LITTLE DIFFERENT. BUT I THINK THE POINT IS THAT SOFTWARE CEOS WANT TO SIGNAL TO THE MARKET THAT THEY'RE WORKING WITH THESE GREAT COMPANIES THAT ARE SO DISRUPTIVE, BECAUSE WE HAVEN'T FIGURED OUT EXACTLY HOW DISRUPTIVE THEY ARE YET. >> SPEAKING OF DISRUPTION, D, I WONDER IF YOU CAN GIVE US A SENSE OUT WEST AS TO HOW PEOPLE ARE THINKING OR TALKING ABOUT DORSEY AND BLOCK. IF THIS IS SORT OF A WARMING UP OF WHAT MUSK DID AT X IN TERMS OF HEADCOUNT, OR IF THIS IS SORT OF ECCENTRIC AND OFF TO THE SIDE. >> I WILL TELL YOU THAT PEOPLE OUT HERE HAVE SORT OF SEEN THIS FROM DORSEY BEFORE. THEY'RE BEING PRETTY HARD ON HIM, AND THEY'RE SAYING THAT HE'S SORT OF LIKE THE KING OF BLOATED WORKFORCES. SO THIS IS CONVENIENT FOR HIM TO CUT HIS WORKFORCE IN NEARLY HALF. SO, YOU KNOW, THEY SEE THIS AS A DORSEY THING AND NOT NECESSARILY A TREND THAT COULD TAKE OVER OTHERS. PERSONALLY, I THINK IT'S REALLY INTERESTING THAT BLOCK. I MEAN, SURE, IT'S NOT GROWING AS MUCH AS IT WAS IN THE HEYDAY, BUT THIS IS A COMPANY THAT IS PROFITABLE AND IT IS STILL GROWING. AND THIS ISN'T THE KIND OF AI WASHING THAT YOU'VE SEEN OVER THE LAST FEW YEARS. MAYBE YOU THINK, OKAY, THIS COMPANY NEEDS TO CUT
 
 </details>
+

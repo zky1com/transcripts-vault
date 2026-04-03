@@ -1,6 +1,6 @@
 ﻿---
 title: "What Trump's New Tariffs Mean for China, US Congress, Dollar | The Pulse 2/23"
-people_mentioned: []
+people_mentioned: ["Francine Lacqua", "Brendan Murray", "Donald Trump", "Xi Jinping"]
 channel: "Bloomberg Television"
 video_id: "EKTvgSfAeFU"
 url: "https://www.youtube.com/watch?v=EKTvgSfAeFU"
@@ -8,77 +8,55 @@ publish_date: 2026-02-23
 duration: "48:24"
 word_count: 6743
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["risk-management", "market-data"]
-series_name: ""
+delivery_mode: "panel-discussion"
+broad_category: "economics"
+subcategories: ["trade-policy", "currency-markets", "us-china"]
+series_name: "The Pulse"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+primary_person: "Brendan Murray"
+host_names: ["Francine Lacqua"]
+interviewer_names: ["Francine Lacqua"]
+interviewee_profiles: ["Brendan Murray - Bloomberg trade reporter"]
+speaker_profiles: ["Francine Lacqua - Bloomberg Television host", "Brendan Murray - Bloomberg trade reporter"]
+organizations_mentioned: ["European Union", "US Congress", "US Supreme Court"]
+locations_mentioned: ["United States", "China", "Europe", "India"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["risk-management", "market-data", "ai-safety", "ai-regulation", "lead-generation"]
-tags: ["risk-management", "market-data", "ai-safety", "ai-regulation", "lead-generation"]
+companies_mentioned: ["Bloomberg", "JPMorgan Asset Management"]
+topics: ["trade-policy", "tariffs", "us-china", "currency-markets"]
+tags: ["trade-policy", "tariffs", "us-china", "currency-markets"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 7
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on more, francine, it's. PRESIDENT DONALD TRUMP SAYS HE'S CONSIDERING LIFTING MILITARY STRIKES TO PRESSURE IRAN -- LIMITED MILITARY STRIKES TO PRESSURE IRAN INTO SIGNING A DEAL. SANAM: I THINK YOU HERE AGAIN LET ME REINFORCE THAT REGIME CHANGE IN IRAN IS GOING TO BE A MUCH MORE DIFFICULT AMBITION. IN A WAY THAT'S GOOD BECAUSE IT'S SUPPORTING THE GERMAN ECONOMY AT THE SAME TIME IT'S A BIT WORRYING BECAUSE IT IS ONLY DRIVEN.
+This segment focuses on the confusion created by the Supreme Court ruling against Trump's earlier tariff program and the White House's immediate move to replace it with a higher temporary global tariff. Brendan Murray argues that trading partners now have to revisit whether their negotiated deals still mean anything, that China enters the next round of talks with more leverage, and that refunds plus congressional reauthorization risks could turn into a political problem. The broader market discussion treats the ruling less as a clean policy reversal than as a new source of uncertainty for business planning, the dollar, and the next phase of trade enforcement.
 
 ## Key Insights
 
+- Trading partners are rechecking whether their old bilateral deals still stand and on what terms after the White House shifted to a new 15 percent tariff framework.
+- The Supreme Court ruling mattered less than Trump's rapid decision to replace IEEPA tariffs and threaten even tougher follow-on measures.
+- Brendan Murray frames the biggest geopolitical consequence as weaker US leverage over China ahead of the next Trump-Xi meeting.
+- Refund litigation and the prospect of asking Congress to extend import taxes create a later political vulnerability even if the White House preserves tariff pressure for now.
 
-- WHERE HE WILL MEET HIS MATCH IS WITH CHINA ON THIS BECAUSE CHINA WILL LOOK AT THAT SITUATION AND GO WE NOW HAVE A LOT MORE LEVERAGE THAN WE DID LAST FRIDAY AND THE TWO LEADERS WILL MEET IN LATE MARCH OR EARLY AUGUST AND WE WILL SEE HOW PRESIDENT TRUMP WANTS TO BE WITH CHINA MORE THAN ANYTHING AND HE'S GOING TO GO IN WITH LESS OF A WEAPON AND MORE OF A BUREAUCRATIC TOOL OF TARIFF THAT HE HAD BEFORE.
+## Claims
 
-- ONE AREA WHERE I THINK IT MIGHT CHANGE OVER THE PAST COUPLE OF DAYS IT'S ABOUT THE OUTLOOK FOR EUROPE RATES AS WELL WITH THIS IDEA THE ECB IS TELLING AS THEY ARE IN A GOOD PLACE NOTHING TO SEE HERE FOR SOME TIME, YOU HAVE TO KEEP IN MIND IN THAT DISCUSSION AND IF WE DO SEE THIS FEED THROUGH INTO THE EUROPE PUSHING TOWARDS 120I THINK WE'LL BE TALKING ABOUT THE POTENTIAL FOR ANOTHER INTEREST RATE CUT FROM THE EURO ZONE.
-
-- WHAT WE WANT TO BE DONE NOW IS JUST WIDEN THE POTENTIAL RANGE OF OUTCOMES FOR THE FED I THINK THEY SIT TIGHT FOR THE DATA WE ARE NOT IN A SEE VERY MUCH OF THIS OVER THE NEXT COUPLE OF MONTHS WHICH EXPLAINS WHY THE BOND MARKET HASN'T REALLY MOVED OVER THE PAST FEW DAYS FOR EXAMPLE BUT STILL IT IS A LOT MORE NOW BUSINESSES AND INVESTORS WILL HAVE TO BE GRAPPLING WITH AS THESE CREATE BUMPS IN THE DATA.
-
-- THE MOST IMPORTANT THING AT THE MOMENT IS THESE COUNTRIES ARE SAYING DO WE STILL HAVE A DEAL AND IF WE DO, WHAT ARE THE NEW TERMS OF IT AND WE HAVE TO WORK THOSE OUT, THERE'S A WHOLE HOST OF OTHER ISSUES FROM THE REFUNDS TO THE POLITICAL BLOWBACK IN CONGRESS, WILL CONGRESS TRY TO CODIFY SOME OF THESE DEALS BUT IT'S A LOT OF THINGS THAT WE'VE SEEN PLAY OUT OVER THE LAST 10 MONTHS: ALL INTO QUESTION.
-
-- I THINK THE DISCUSSION IN THE MARKETS HAS BEEN ABOUT WHAT'S HAPPENING TO THE DOLLAR BECAUSE IF YOU LOOK AT THE SUPREME COURT RULING SOME CUT OF DATA WE GOT OUT OF EUROPE LAST WEEK AT THE END OF LAST WEEK ALL OF THEM PORTRAY A PICTURE WHERE INVESTORS WOULDN'T WANT TO BE LONG THE DOLLAR.
-
-- >> GOOD TO SEE YOU, I THINK ALL EYES ARE ON GENEVA BECAUSE THE PRESIDENT HAS PUT DOWN ONE OF HIS DEADLINES AND IT'S CLEAR THAT IF THE TALKS IN GENEVA DO NOT PRODUCE A DEAL TO CONSTRAIN IRAN'S NUCLEAR PROGRAM, I THINK ATTACKS ARE IMMINENT.
-
-
-
-
-## Key Quotes
-
-
-> >> NEWSMAKERS AND MARKET MOVERS, THIS IS THE PULSE WITH FRANCINE LACQUA.
-
-
-> FRANCINE: GOOD MORNING AND WELCOME TO "THE PULSE." THE U.S.
-
-
-> TELLING PARTNERS TO HONOR BILATERAL TRADE AGREEMENTS DESPITE FRESH CONFUSION FOLLOWING THE SUPREME COURT RULING AGAINST PRESIDENT TRUMP'S SO-CALLED RECIPROCAL TARIFFS.
-
-
-> THE PRESIDENT IS BOOSTING THE 10% TARIFF RATE ON ALL GLOBAL TRADING PARTNERS ANNOUNCED ON FRIDAY TO 15%.
-
-
-
-
-
-
+- [[Brendan Murray - Trade partners are re-evaluating whether their US deals still hold under the new tariff regime]]
+- [[Brendan Murray - The real surprise was Trump's immediate decision to replace the struck-down tariffs aggressively]]
+- [[Brendan Murray - Trump lost foreign-policy leverage because tariffs had become his main coercive tool with trading partners]]
+- [[Brendan Murray - China now enters the next Trump-Xi meeting with materially more leverage than it had before the ruling]]
+- [[Brendan Murray - Refund fights could become a political backlash because Republicans may have to defend 170 billion dollars in collected tariff taxes]]
+- [[Brendan Murray - Section 122 can still function as a stopgap even if legal scholars think it is shakier than IEEPA]]
+- [[Brendan Murray - Congress is unlikely to want to reauthorize import taxes right before an election]]
 ## Full Transcript
 
 <details>
@@ -773,3 +751,4 @@ NEGOTIATING TABLE. >> THANK YOU FOR JOINING US. UP NEXT, IT IS BLOOMBERG BRIEF.
 VONNIE QUINN IS HERE IN LONDON, THIS IS BLOOMBERG. â™ª
 
 </details>
+

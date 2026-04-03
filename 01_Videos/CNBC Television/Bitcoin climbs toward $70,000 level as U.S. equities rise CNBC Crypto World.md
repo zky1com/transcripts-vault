@@ -1,35 +1,60 @@
 ---
 title: "Bitcoin climbs toward $70,000 level as U.S. equities rise: CNBC Crypto World"
-people_mentioned: []
-channel: "CNBC Television"
-video_id: "RB6VV7DkZjY"
+people_mentioned: [Ryan Baker, Tomas Perfumo, Mackenzie Sealo, Farar Shirzad, Brian Armstrong, Scott Bessent]
+channel: CNBC Television
+video_id: RB6VV7DkZjY
 url: "https://www.youtube.com/watch?v=RB6VV7DkZjY"
 publish_date: 2026-02-25
-duration: "12:55"
+duration: 12:55
 word_count: 2379
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+content_type: news_roundup
+delivery_mode: tv_show_segment
+broad_category: crypto
+subcategories: [market structure, stablecoins, institutional adoption]
+series_name: CNBC Crypto World
+episode_id: RB6VV7DkZjY
+primary_person: Ryan Baker
+host_names: [Ryan Baker]
+interviewer_names: [Ryan Baker, Mackenzie Sealo]
+interviewee_profiles: [Tomas Perfumo, Farar Shirzad]
+speaker_profiles: [Ryan Baker, Tomas Perfumo, Mackenzie Sealo, Farar Shirzad]
+organizations_mentioned: [Coinbase, Kraken, BitGo, Treasury, White House]
+locations_mentioned: [Washington]
+tools_mentioned: [Bitcoin ETFs, stablecoins, Clarity Act, Genius Act]
+companies_mentioned: [World Liberty Financial, Coinbase, Kraken, Circle, PayPal, Stripe, MicroStrategy, Tether, USDC]
+topics: [crypto flows, stablecoin legislation, institutional adoption]
+tags: [video, crypto, cnbc]
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+This Crypto World episode ties Bitcoin's rebound to stabilizing capital flows, rising institutional crypto engagement, and the market's focus on legislation that could broaden distribution for digital assets. Ryan Baker also covers the attack on World Liberty Financial's stablecoin ecosystem, weak economics for many miners, and Coinbase's argument that crypto market-structure legislation should leave room for consumer rewards on stablecoins.
 
+## Key Insights
 
+- The episode treats recent price recovery as a reset after flow deceleration rather than as evidence of a fully renewed bull market.
+- Perfumo focuses on capital-flow stabilization in ETFs and stablecoins as the key analytical lens for current crypto pricing.
+- Shirzad frames market structure as a bipartisan policy fight that still has real room for compromise on rewards.
+- The roundup links regulatory clarity directly to broader financial-services distribution of crypto products.
 
+## Claims
+
+- [[Tomas Perfumo - Crypto prices are stabilizing after a sharp slowdown in new capital inflows]]
+- [[Tomas Perfumo - Regulatory clarity could become the next major catalyst for institutional crypto adoption]]
+- [[Ryan Baker - World Liberty Financial says its stablecoin was targeted through a coordinated attack]]
+- [[Farar Shirzad - A stablecoin rewards compromise is possible if consumers still come out ahead]]
+- [[Farar Shirzad - Crypto policy has become a real electoral issue that can influence close races]]
 
 ## Full Transcript
 
@@ -39,3 +64,4 @@ tags: []
 This week, Bitcoin manages to fend off another pullback. Trump family crypto venture World Liberty Financial says it was targeted by a coordinated attack and Coinbase chief policy officer Farar Shirzad lays out the current status of the stalled crypto market structure legislation. Welcome to CNBC's Crypto World. I'm Ryan Baker. Crypto markets in the green on pace to end a week's long streak of losses. As of noon Eastern, Bitcoin rose nearly 3% from last week. Ether jumped more than 5% and Solana climbed nearly 8%. This marks a sharp turnaround for Bitcoin, which faced a multi-day pullback that started over the weekend. It fell as low as the $62,000 level yesterday before bouncing back. Tomas Perfumo, chief economist at Kraken, weighed in on the crypto market's recent volatile moves, and he says there are two big forces, both pushing prices lower, but also providing a layer of support. The situation right now is very in my opinion very simple. We've had a a deceleration in capital flows into the ecosystem into the crypto industry uh for several months now. So if you look at for example Bitcoin ETF activity for sequential months of net outflows even if you look at the Micro Strategy purchase behavior and these are two of the biggest demand vehicles in the market for spot bitcoins. Um if you look at the net impact between the two since October the net flows are actually neutral. they're flat. Effectively, the ETFs have washed out about $8 billion worth of net outflows or bitcoins over that period of time. And Micro Strategy bought almost every single one. And what's kind of interesting in my opinion is you see the same trend playing out in stable coins as well. Particularly, if you look at the market supply or capitalization of Tether and USDC, I pick them because they're fiat collateralized. They demonstrate dollars moving in and out of the system by way of mint and redemption. And they similarly after two very strong years of growth almost doubling in total supply uh you're now down about 1.5% year-to date in terms of market capitalization of the two stable coins combined. And so the trend in my opinion right now is really just a stabilization of this massive capital flow that came into the ecosystem over the last two years. And taking a look at a cryptofocused stock for a moment. Shares of stable coin issuer Circle spiked nearly 30% today after the company reported a 77% revenue increase from one year earlier. Of course, Wall Street's adoption of crypto was a big focus in 2025. And Perfumo says that continued adoption by institutions could be the next big catalyst after crypto's pullback. In terms of other aspects of of how I guess traditional finance will get intertwined with crypto, the clarity act is another big I think catalyst coming up. And more pointedly on that front, like if you think about the Genius Act last year, which to address stable coins, within the months after Genius Act passing, you had all these financial intermediaries, whether they're banks, the largest payment processors, all start to explore and announce their efforts into stable coins and tokenized uh stable coin payments and whatnot. And the re reason why I think that's relevant is because they now have line of sight into what they can and cannot do. They're highly regulated entities and they want to explore and be part of that kind of next wave of of growth in financial services. And I think the Clarity Act has a similar composition to it in the sense that um it provides clarity as to what kind of activities different financial intermediaries can undertake with digital commodities including things like Bitcoin for example and how it impacts them from a regulatory perspective. And so I I expect that between Clarity Act and even a lot of the efforts on the tokenized security space, tokenized stable coin space and whatnot, you're just seeing this kind of expansion of distribution from financial services in general, making crypto more accessible, whether it's for investment purposes or for spending purposes, etc. And so I think that to me is like a positive underlying or undercurrent, if you will, a positive long-term trend. >> Okay, let's talk about the top stories. The Trump family tied World Liberty Financial Platform says it was targeted after its stable coin briefly slipped from its $1 peg. An announcement on the company's X page says there was a coordinated attack against its stable coin USD1. The company also said attackers hacked the accounts of its co-founders and opened short positions on the company's WLFI token to quote profit from the manufactured chaos. Data from Coin Gecko shows the token's value fell as low as $.994 on Monday morning, but it has since recovered. Crypto custodian Bitco, a world liberty partner on this stable coin, says USD1 is fully backed by the short-term US government treasuries, US dollar deposits, and other cash equivalents. The company, founded by members of the Trump family, has faced some recent scrutiny by House Democrats. Last week, a group of lawmakers wrote a letter to Treasury Secretary Scott Bessant calling to investigate potential conflicts of interest and national security concerns related to the platform. Next, many Bitcoin miners are now running at a loss. That's according to analysts at Rosenblat, who earlier this week argued that all miners should be actively transitioning to high performance computing. This comes after Bitcoin lost about a fifth of its value year to date. The note adds that record low hash prices that pressured Rosenblat's earnings forecasts back in December now look enviable given Bitcoin's tumble led to an additional 20% hit in the hash price since then. Last, PayPal shares popped yesterday on reports it could be an acquisition target for fintech startup Stripe. Bloomberg reports that Stripe is considering buying some or all segments of PayPal's business, and discussions are still in early stages. Both PayPal and Stripe declined CNBC's request for a comment. PayPal shares have struggled alongside the broader market as investors question the strength of the economy and just how much AI will shake up businesses. As of noon, shares are up 12% week to date. All right, for our main story, Crypto World's Mackenzie Sealo spoke with Coinbase chief policy officer Farar Shirzad to get a sense of where things stand with market structure legislation. Efforts on Capitol Hill stalled after push back from the crypto industry, including Coinbase CEO Brian Armstrong. One key issue in the bill, whether rewards on stable coins are allowed under the law. Sherzad discusses what a compromise would look like for the crypto industry and banks, and he weighs in on how the crypto industry's lobbying efforts will play a role in the 2026 midterms. >> So, let's start with market structure. Your CEO Brian Armstrong was on CNBC this week from the World Liberty Forum in Mara Lago and he said that the goal of Coinbase's involvement in market structure legislation talks was to find a win for crypto banks and consumers. So what does a win for those groups look like in Coinbase's view, especially because banks are adamant about barring yield for stable coins, something that the industry is pushing back on? Well, crypto technology itself is a win for all aspects of the financial system and you're seeing it actually all around. You're seeing even since Genius Pass, you've seen like something on the order of about 200 different pro commercial projects announced, many of which with the banks themselves who are now integrating stable coin payments or blockchain based uh value transfer infrastructure in one way or the other. So the president's crypto agenda, the Genius Act, market structure, all of this is good for the banks in and of itself. We do find ourselves in Washington with a kind of a more specific fight on on stable coin rewards. And I think we can work that issue out as well. And so there's some good discussions that have happened at the White House uh addressing the specific issue of how rewards are structured. And I think we'll find a a win-win solution there. So I feel pretty good that we're going to get to an outcome that that works for everyone. What is that win-win solution? >> Well, the issue that the banks have sort of laid out is that they're worried about stable coin rewards somehow impacting deposits in banks. There's very little evidence to show that that's actually a real concern. Um, but nonetheless, there's some discussions happening about whether there's certain additional sort of criteria that can be um put on the ability of third parties like ourselves to offer rewards to our customers. um as long as our customers come out ahead in whatever the ultimate framework is, we're willing to look at that and and I think uh you know that's essentially where the negotiations are. Are there certain additional criteria we can put in the provision of rewards that works for the adoption of stable coins but also addresses some of the concerns that the banks have raised? And I think we'll we'll find that landing spot. >> Mentioned that Coinbase has been speaking with the White House and the Trump administration is really pushing Congress to get this legislation done in the coming weeks. It seems like they're aiming for March or April. Does that seem feasible to you? I mean, the closer we get to the midterms, is there a risk that this falls off the agenda for the year? >> I think so. I mean, think about it. For all the partisanship in Washington, this is probably the issue that the the big issue where bipartisan collaboration has been the strongest. You've got a really important group of Republicans, Leader Thun, Chairman Scott, Chairman Boseman, uh Senator Moreno, Senator, um, uh, Lumis, you know, so many who've been putting huge amounts of hours to try to get legislation done. And there's a group of Democrats, uh, Senator Gillibrand, Goss, Warner, and others who are trying to do their part, Booker on their side. So, we'll get it done. Uh, you know, they're hard negotiations. The issues are difficult. this is a complicated set of issues. Um, and but there's been no, you know, there's been nothing but an effort to try to get it done. Leader Schumer's been has said to us multiple times that he's very committed to get this get this done as well. So, I feel like we'll we'll get there, but it's going to be difficult and we're we're willing to do the work uh to, you know, solve the remaining issues and and get a bill on the floor and get a vote. So speaking of the midterms, Politico is reporting that the crypto super PAC fair shake of which Coinbase is the largest contributor has amassed around $190 million ahead of this year's election. Given that the crypto industry was such a big donor in the 2024 cycle, how is that money going to be deployed this year? Is there more bipartisanship than ever before? At least it seems that way uh when it comes to crypto legislation. So how do you expect the pack to deploy that capital too? Well, fair shake operates independently. So, you know, in terms of how they want to spend the funds that they have available to them, you should probably talk to them directly. I think from our perspective, >> I mean, with stand with crypto, you guys had a a score sheet of every single candidate and who you wanted people to vote for or against, like both sides of the aisle across the country, uh, you know, both congressmen and senators. So, certainly you guys were helping to sway the way that, uh, that money was being deployed. >> Yeah. I mean our guidance to both stand with crypto and fairshik you know both of which are you know kind of independent organization has been that the metric should always be who's pro crypto and who's not. In a way when these organizations were founded it was a bit more difficult because there weren't as many votes to tally. There weren't as many kind of tangible actions for legislators to take to measure who's on the right side of the crypto issue and who's not. you know, since then there have been multiple votes and there have been multiple opportunities for politicians to demonstrate where they stand on the crypto issue and pol and and you know, and candidates have stepped up. So, I feel pretty good about um the road map that a candidate has to decide whether they're with the 50 million Americans who own crypto or whether on the other side. And I think what you're seeing is Democrats, Republicans all stepping up through their votes, through their public statements, trying to show that they're they're on the right side of the crypto issue. And I think that'll uh uh you know play out in terms of who Stan with Crypto supports, who Fairshake supports, and ultimately who the voters vote for. It's a really interesting issue, McKenzie. You know, we pled it extensively and there's a very sign statistically significant portion of the electorate that will vote on the crypto issue and with so many races being as tight as they are, it can be a determinative factor on whether somebody wins or loses. And I think candidates are responding to that like they respond to any issue where voters uh, you know, will vote on. And so crypto's kind of come into the mainstream in that regard and candidates are responding and I think we'll have a much more pro- crypto Congress in the next Congress. Uh but hopefully you know the influence on this cycle and getting good legislation is going to be felt and you know I think we'll get a a market structure bill hopefully in the next few months. >> Okay, that's all for Crypto World this week. We'll be back again next Wednesday and we'll see you then.
 
 </details>
+

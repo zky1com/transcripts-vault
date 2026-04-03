@@ -1,6 +1,6 @@
-﻿---
+---
 title: "Dimon Sees Rivals Doing 'Dumb Things' in Credit, AI Scare Trade Returns |The Opening Trade 2/24/2026"
-people_mentioned: ["Morgan Stanley", "Lunar New Year", "Hong Kong", "Jamie Dimon", "Paul Davis"]
+people_mentioned: ["Jamie Dimon", "Danielle Antonucci", "Silas Brown", "Sandra Horsfield", "Brent Hoberman", "Lizzie Burden", "Charlie Pellett", "Ed Ludlow"]
 channel: "Bloomberg Television"
 video_id: "Cbqr4QxWI_s"
 url: "https://www.youtube.com/watch?v=Cbqr4QxWI_s"
@@ -8,65 +8,51 @@ publish_date: 2026-02-24
 duration: "1:35:39"
 word_count: 18242
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
-episode_id: ""
-primary_person: "Morgan Stanley"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Morgan Stanley - Anthropic"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+delivery_mode: "markets-roundup"
+broad_category: "economics"
+subcategories: ["credit-markets", "ai-economics", "tariffs", "macro-outlook"]
+series_name: "The Opening Trade"
+episode_id: "2026-02-24"
+primary_person: "Lizzie Burden"
+host_names: ["Lizzie Burden", "Charlie Pellett"]
+interviewer_names: ["Lizzie Burden", "Charlie Pellett"]
+interviewee_profiles: ["Danielle Antonucci - Quintet Private Bank", "Sandra Horsfield - Investec", "Jamie Dimon - JPMorgan Chase"]
+speaker_profiles: ["Lizzie Burden - Bloomberg Television", "Charlie Pellett - Bloomberg Television", "Danielle Antonucci - Quintet Private Bank", "Sandra Horsfield - Investec", "Jamie Dimon - JPMorgan Chase"]
+organizations_mentioned: ["Bloomberg Television", "JPMorgan Chase", "Quintet Private Bank", "Investec", "Founders Factory"]
+locations_mentioned: ["Europe", "United States", "Hong Kong"]
 tools_mentioned: []
-companies_mentioned: ["Anthropic", "Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "anthropic"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "anthropic"]
+companies_mentioned: ["JPMorgan Chase", "IBM", "Anthropic"]
+topics: ["credit-markets", "ai-disruption", "private-credit", "market-uncertainty"]
+tags: ["credit-markets", "ai-disruption", "private-credit", "market-uncertainty"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 3
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on more, some, it's. More notably I think is more of a US story, but it's significant in Europe as well. We're going to have even more, I think, focus later today because Anthropic hosting a live event, 230 London time, where they're going to. With a sort of transformative technology in I do think it's concerning and it's hard to underwrite over a long period of time into.
+This episode follows the market fallout from a fresh AI scare trade and renewed concern about private credit. The most usable transcript-grounded claims come from Jamie Dimon and Danielle Antonucci: Dimon warns that reckless lending behavior is starting to resemble the pre-2008 cycle, while Antonucci argues investors need a more granular view of AI winners and losers and should not treat the whole software complex as equally vulnerable.
 
 ## Key Insights
 
+- Jamie Dimon says he is starting to see behavior in lending that reminds him of the years before the global financial crisis.
+- Danielle Antonucci argues that AI disruption should not be analyzed at a coarse sector level because dominant firms with moats may still benefit while weaker players struggle.
+- The note ties the AI scare trade to broader valuation and diversification questions rather than treating it as a simple hardware-up, software-down story.
+- Tariff uncertainty and the Ukraine war remain part of the macro backdrop, but the clearest speaker-attributed content is concentrated in the AI and credit discussion.
 
-- More notably I think is more of a US story, but it's significant in Europe as well.
-- We're going to have even more, I think, focus later today because Anthropic hosting a live event, 230 London time, where they're going to showcase some.
-- With a sort of transformative technology in I do think it's concerning and it's hard to underwrite over a long period of time into a kind.
-- It's more nuanced and I think you see that when you have a risk taking responsibilities.
-- Does that give us comfort that you hide in private markets or does it make us think if it's happening in public, it's happening in private.
-- It's it's one thing and it's one thing.
+## Claims
 
-## People Mentioned
-
-
-- [[Morgan Stanley]]
-
-- [[Lunar New Year]]
-
-- [[Hong Kong]]
-
-- [[Jamie Dimon]]
-
-- [[Paul Davis]]
-
-
-
+- [[Jamie Dimon - Some lenders are starting to behave like they did before the 2008 financial crisis]]
+- [[Danielle Antonucci - Investors need a granular view of AI disruption because there will be both winners and losers]]
+- [[Danielle Antonucci - Dominant firms with strong moats may still be the winners in the AI transition]]
 
 ## Full Transcript
 

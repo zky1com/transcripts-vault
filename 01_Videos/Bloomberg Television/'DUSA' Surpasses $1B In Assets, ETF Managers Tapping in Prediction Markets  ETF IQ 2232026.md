@@ -1,6 +1,6 @@
 ﻿---
 title: "'DUSA' Surpasses $1B In Assets, ETF Managers Tapping in Prediction Markets | ETF IQ 2/23/2026"
-people_mentioned: []
+people_mentioned: ["Scarlet Fu", "Katie Greifeld", "Eric Balchunas", "Chris Davis", "Joel Weber"]
 channel: "Bloomberg Television"
 video_id: "M446pBRP1fE"
 url: "https://www.youtube.com/watch?v=M446pBRP1fE"
@@ -8,29 +8,29 @@ publish_date: 2026-02-23
 duration: "44:53"
 word_count: 6408
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["portfolio-management", "stock-analysis", "market-data"]
-series_name: ""
+delivery_mode: "studio-discussion"
+broad_category: "economics"
+subcategories: ["etfs", "fund-flows", "active-management", "value-investing"]
+series_name: "ETF IQ"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+primary_person: "Scarlet Fu"
+host_names: ["Scarlet Fu"]
+interviewer_names: ["Scarlet Fu"]
+interviewee_profiles: ["Eric Balchunas - Bloomberg ETF analyst", "Chris Davis - Davis Advisors chairman"]
+speaker_profiles: ["Scarlet Fu - Bloomberg Television host", "Eric Balchunas - Bloomberg ETF analyst", "Chris Davis - Davis Advisors chairman", "Joel Weber - Bloomberg journalist"]
+organizations_mentioned: ["Bloomberg Television", "J.P. Morgan Asset Management"]
+locations_mentioned: ["Japan", "United States", "Philadelphia", "Taiwan", "Mainland China", "Hong Kong", "South Korea"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["portfolio-management", "stock-analysis", "market-data", "lead-generation"]
-tags: ["portfolio-management", "stock-analysis", "market-data", "lead-generation"]
+companies_mentioned: ["Vanguard", "Davis Advisors", "J.P. Morgan Asset Management", "BlackRock", "Capital Group", "Fidelity", "American Century"]
+topics: ["ETFs", "fund flows", "active management", "value investing", "Japan"]
+tags: ["etfs", "fund-flows", "active-management", "value-investing", "japan"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 6
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,44 +40,32 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on scarlet, eric, year. WHAT WE HAVE SEEN IN THE ACTIVE ETF INDUSTRY, THERE IS ALMOST $40 BILLION THAT HAS GONE INTO ACTIVE FIXED INCOME ETF THIS YEAR. SCARLET: THIS IS "BLOOMBERG ETF IQ." I AM SCARLET FU. Â™ª SCARLET: WELCOME BACK TO "BLOOMBERG ETF IQ." I AM SCARLET FU.
+This episode of *ETF IQ* moves from flow data to a broader argument about active management, Japan, and value investing. Scarlet Fu's discussion with Eric Balchunas and Chris Davis uses the ETF tape to show how dominant passive flows still are, but also argues that Japan's revival, international selectivity, and the recovery of financials are creating a stronger case for active managers than broad-index investors have been willing to admit.
 
 ## Key Insights
 
+- ETF flows remained extremely strong, with passive giants still soaking up enormous demand even as niche products tried to carve out differentiated roles.
+- Japan was discussed not just as a macro story but as an example of why stock picking can matter when an index stagnates for decades.
+- Chris Davis framed international investing as an area where indexing is often too blunt because benchmark composition can be structurally poor.
+- The note-level claim set is built only from stable full-name speakers in the transcript, not from OCR-fragile guest names later in the show.
+- Old leftover metadata around generic portfolio-management terms has been replaced with transcript-grounded ETF, value, and international-investing metadata.
 
-- WHAT WE HAVE SEEN IN THE ACTIVE ETF INDUSTRY, THERE IS ALMOST $40 BILLION THAT HAS GONE INTO ACTIVE FIXED INCOME ETF THIS YEAR, 40% OF ALL THE FIXED INCOME ETF FLOWS.
+## People Mentioned
 
-- ERIC JOINING US FOR THE CONVERSATION ON INTERNATIONAL, EQUITIES, IS CHRIS DAVIS, CHAIRMAN OF DAVIS ADVISORS AND PORTFOLIO MANAGER OF THESE LIKE ETF AND FINANCIAL ETF--THE SELECT ETF AND FINANCIAL ETF.
+- [[Scarlet Fu]]
+- [[Katie Greifeld]]
+- [[Eric Balchunas]]
+- [[Chris Davis]]
+- [[Joel Weber]]
 
-- SCARLET: THE FACT THAT HE WANTS TO THIS ETF SAYH--YOU LAUNCHED THIS ETF SAYS A LOT ABOUT WHAT YOU SEE OF THE STABLECOIN MARKET.
+## Claims
 
-- IF YOU LOOK AT WHERE FLOWS ARE GOING IN THE ETF INDUSTRY, 40% OF ALL FIXED INCOME FLOWS ARE GOING INTO ACTIVE FIXED INCOME ETF'S.
-
-- IT CONTINUES TO BE THE NUMBER ONE ACTIVE ETF CATEGORY IN IN TERMS OF NET FLOWS LAST YEAR AS WELL AS THIS YEAR.
-
-- SPACE HAS BEEN AN INTERESTING PART OF THE MARKET BECAUSE NOT ONLY IS A HIGH-GROWTH OPPORTUNITY, AND QUITE FRANKLY AN EXCITING OPPORTUNITY -- WE ARE CURIOUS WHAT THIS LOOKS LIKE AS FAR AS SPACE ECONOMY -- BUT IT IS ALSO BEEN ATTACHED AT THE HIP AT THE DEFENSE THEME, WHICH IS REALLY STRONG IN THE LAST YEAR.
-
-
-
-
-## Key Quotes
-
-
-> THIS IS THE ONE-HOURS SNOW EDITION OF "BLOOMBERG ETF IQ." I AM SCARLET FU.
-
-
-> THAT'S GOOD TO THE $21 TRILLION GLOBAL ETF INDUSTRY WE WILL SPEAK TO CHRIS DAVIS OF DAVIS ADVISORS.
-
-
-> THE PIONEER IN ACTIVE FUNDS TELLS US WHAT HE SEES A COMEBACK IN VALUE INVESTING.
-
-
-> WE CHECK IN WITH TRAVIS EXPENSE OF J.P.
-
-
-
-
-
+- [[Eric Balchunas - ETF inflows had reached roughly 300 billion dollars early in the year with VOO alone around 100 billion]]
+- [[Eric Balchunas - Japan was having one of its biggest ETF flow months in years and the setup felt like a renewed Japan trade]]
+- [[Chris Davis - Japans recovery is a reminder that active management can add value when an index goes nowhere for decades]]
+- [[Chris Davis - International investing should be highly selective because broad indexes overweight unattractive quasi-national champions]]
+- [[Chris Davis - Value investing is still in the early stages of a comeback and durable active portfolios remain cheaper than broad value indexes]]
+- [[Chris Davis - High-quality financials are still misunderstood even after surviving crisis regulation and rate shocks]]
 
 ## Full Transcript
 
@@ -767,3 +755,4 @@ MUCH BETTER. [LAUGHTER] THAT DOES IT FOR "ETF IQ."
 I'M SCARLET FU ALONG WITH ERIC BALCHUNAS. HAVE A GREAT WEEK. â™ª
 
 </details>
+

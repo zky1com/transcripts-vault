@@ -1,6 +1,6 @@
 ﻿---
 title: "Dollar Falls Amid Trade Uncertainty; NYC Disrupted Due to Blizzard | Bloomberg Brief 2/23/2026"
-people_mentioned: ["Vonnie Quinn", "East Coast", "Novo Nordisk", "Eli Lilly", "Lionel Noyes", "Staten Island", "New York City", "Friday Supreme Court"]
+people_mentioned: ["Vonnie Quinn", "Brendan Murray", "Lionel Noyes", "Donald Trump", "Jamieson Greer", "Xi Jinping"]
 channel: "Bloomberg Television"
 video_id: "mJ6akZWhv7U"
 url: "https://www.youtube.com/watch?v=mJ6akZWhv7U"
@@ -8,68 +8,56 @@ publish_date: 2026-02-23
 duration: "43:17"
 word_count: 7331
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "market-data"]
-series_name: ""
+delivery_mode: "multi-segment-news"
+broad_category: "economics"
+subcategories: ["trade-policy", "market-reaction", "weather-disruption"]
+series_name: "Bloomberg Brief"
 episode_id: ""
-primary_person: "Vonnie Quinn"
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: ["Vonnie Quinn - Bloomberg"]
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: ["United States", "New York"]
+primary_person: "Brendan Murray"
+host_names: ["Vonnie Quinn"]
+interviewer_names: ["Vonnie Quinn"]
+interviewee_profiles: ["Brendan Murray - Bloomberg trade reporter", "Lionel Noyes - ABC News correspondent"]
+speaker_profiles: ["Vonnie Quinn - Bloomberg Television host", "Brendan Murray - Bloomberg trade reporter", "Lionel Noyes - ABC News correspondent"]
+organizations_mentioned: ["ABC News", "CBS News", "European Union", "US Supreme Court", "US Treasury"]
+locations_mentioned: ["United States", "New York City", "Staten Island", "New England", "China", "Geneva"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "market-data", "because"]
-tags: ["stock-analysis", "market-data", "because"]
+companies_mentioned: ["Bloomberg", "Blue Owl", "Novo Nordisk", "Eli Lilly", "Honeywell", "Johnson Matthey", "VF Corp"]
+topics: ["trade-policy", "markets", "winter-storm", "us-china"]
+tags: ["trade-policy", "markets", "winter-storm", "us-china"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on it's, trump, right. Yeah, it's it's a it's complicated, and that's an understatement, Vonnie. Now we've seen the stock do a little bit better over the last three sessions in the US, but it's moved quite a bit. It's going to take some time.
+This episode combines premarket reaction to the tariff ruling with reporting on an East Coast blizzard and renewed US-Iran tensions. Brendan Murray explains that the new 15 percent tariff regime keeps pressure on trading partners but leaves existing deals, refund obligations, and the China negotiating balance far less clear. Lionel Noyes reports that the storm has become serious enough to shut schools, restrict travel, and create multiday disruption across New York and the broader Northeast.
 
 ## Key Insights
 
+- The White House preserved tariff pressure quickly, but it replaced a simple coercive tool with a messier mix of temporary tariffs, investigations, and open questions for trade partners.
+- Brendan Murray highlights refunds and China's improved leverage as the two politically and strategically awkward consequences of the ruling.
+- The storm segment shows officials treating the blizzard as a genuine safety emergency rather than a routine snow event.
+- Travel disruption is not just a same-day problem: Lionel Noyes expects a wider ripple through flights and regional mobility even after snowfall eases in New York.
 
-- Yeah, it's it's a it's complicated, and that's an understatement, Vonnie.
-- Now we've seen the stock do a little bit better over the last three sessions in the US, but it's moved quite a bit in the.
-- It's going to take some time.
-- It's already trading in Europe as well and it's down as well.
-- Of course, we have President Trump traveling to China in a matter of several weeks now, and it will be interesting to see how the leverage.
-- It's it's difficult, but it strikes me that if you remove the tariffs, it's unambiguously disinflationary.
+## Claims
 
-## People Mentioned
-
-
-- [[Vonnie Quinn]]
-
-- [[East Coast]]
-
-- [[Novo Nordisk]]
-
-- [[Eli Lilly]]
-
-- [[Lionel Noyes]]
-
-- [[Staten Island]]
-
-
-
-
+- [[Brendan Murray - Trade partners now have to revisit whether their old US deals still apply under the new 15 percent tariff regime]]
+- [[Brendan Murray - The White House kept tariff pressure alive but replaced it with a much messier set of tools and investigations]]
+- [[Brendan Murray - The administration does not have a quick operational plan to refund the 170 billion dollars collected under the old tariffs]]
+- [[Brendan Murray - China is one of the biggest winners because Trump lost leverage ahead of his next meeting with Xi]]
+- [[Lionel Noyes - New York's travel ban reflects snow conditions severe enough that officials want cars off the roads]]
+- [[Lionel Noyes - Snowfall rates near three inches an hour and early foot-plus totals showed the city was nowhere near clear]]
+- [[Lionel Noyes - Schools were fully canceled rather than shifted online because officials treated the storm as unusually serious]]
+- [[Lionel Noyes - The blizzard will create multi-day ripple effects for flights and regional travel even after New York eases]]
 ## Full Transcript
 
 <details>
@@ -720,3 +708,4 @@ Almost barely a basis point in the ten year yield is trading at 407 30 now.
 That's it for Bloomberg Brief Surveillance Business.
 
 </details>
+

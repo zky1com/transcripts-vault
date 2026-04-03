@@ -1,11 +1,13 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-02T20:11:26Z
-Date range: 2017-10-25 -> 2026-04-02
+Generated at (UTC): 2026-04-03T20:10:52Z
+Date range: 2017-10-25 -> 2026-04-03
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-03 | 01_Videos/Bloomberg Television/NEC’s Hassett on Jobs Report, Oil Exports, US Economy.md
+- 2026-04-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 432026.md
 - 2026-04-02 | 01_Videos/Bloomberg Television/Trump’s Aggressive but Vague Iran Announcement  Insight with Haslinda Amin  04022026.md
 - 2026-04-02 | 01_Videos/Bloomberg Television/Trump Vows More Iran Strikes; Oil Soars  Horizons Middle East & Africa 422026.md
 - 2026-04-02 | 01_Videos/Bloomberg Television/Trump Threatens Iran Escalation, Rattling Markets  The China Show 422026.md

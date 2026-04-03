@@ -1,6 +1,6 @@
 ﻿---
 title: "Trade Uncertainty Rattles Global Stock Markets | Open Interest 2/23/2026"
-people_mentioned: []
+people_mentioned: ["Dani Burger", "Annmarie Hordern", "Michael McKee", "Brendan Murray", "Allison McNealy", "Donald Trump"]
 channel: "Bloomberg Television"
 video_id: "kntnGWG60e8"
 url: "https://www.youtube.com/watch?v=kntnGWG60e8"
@@ -8,29 +8,29 @@ publish_date: 2026-02-23
 duration: "1:29:06"
 word_count: 12180
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "market-data"]
-series_name: ""
+delivery_mode: "panel-roundup"
+broad_category: "economics"
+subcategories: ["tariffs", "markets", "federal-reserve", "private-equity"]
+series_name: "Open Interest"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+primary_person: "Dani Burger"
+host_names: ["Dani Burger"]
+interviewer_names: ["Dani Burger"]
+interviewee_profiles: ["Annmarie Hordern - Bloomberg chief political correspondent", "Michael McKee - Bloomberg economics reporter", "Brendan Murray - Bloomberg trade reporter", "Allison McNealy - Bloomberg reporter"]
+speaker_profiles: ["Dani Burger - Bloomberg Television host", "Annmarie Hordern - Bloomberg chief political correspondent", "Michael McKee - Bloomberg economics reporter", "Brendan Murray - Bloomberg trade reporter", "Allison McNealy - Bloomberg reporter"]
+organizations_mentioned: ["Bloomberg Television", "Supreme Court of the United States", "Federal Reserve", "European Parliament"]
+locations_mentioned: ["United States", "European Union", "China", "East Coast"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "market-data", "ai-regulation"]
-tags: ["stock-analysis", "market-data", "ai-regulation"]
+companies_mentioned: ["Novo Nordisk", "Eli Lilly", "Merck", "Bloomberg"]
+topics: ["tariffs", "markets", "Federal Reserve", "private equity", "trade deals"]
+tags: ["tariffs", "markets", "federal-reserve", "private-equity", "trade-deals"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,44 +40,35 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on dani, tariffs, down. Â™ª DANI:DANI: LET'S GET TO A LOOK AT WHAT IS MAKING HEADLINES AROUND THE WORLD. Â™ª DANI: LET'S GET A CHECK ON THE EQUITY MARKET. Â™ª DANI: A CHECK ON HER EQUITY MARKETS DOWN .6%.
+This episode of *Open Interest* tracks how markets were processing the Supreme Court tariff ruling, the White House's replacement tariff plan, and the knock-on effects for rates, trade deals, and risk assets. Dani Burger's conversations with Annmarie Hordern, Michael McKee, Brendan Murray, and Allison McNealy make the common point that tariffs did not disappear; instead, the policy regime became slower, messier, and harder for markets and companies to price.
 
 ## Key Insights
 
+- The legal blow to IEEPA did not remove tariffs from the market story because the administration had already prepared fallback authorities.
+- The main near-term problem is uncertainty: companies, economists, and trade partners do not yet know what the next tariff map will look like.
+- The Fed angle remains important because policymakers are likely to treat replacement tariffs as another temporary price shock unless second-round effects broaden.
+- Europe and other trade partners now face a harder negotiation problem because the legal tool Trump relied on most heavily is gone, but not the political pressure.
+- The show also widens the lens to private markets, where weak exits and weak fundraising suggest stress is building beyond the tariff headline.
 
-- HOWEVER, THE SUPREME COURT DECISION IS NOT GOING TO AFFECT THE REVENUE COMING IN FOR THE MOST PART BECAUSE UNDER A LOT OF THE FEDERAL TRADE STATUTES IN REGARDS TO UNFAIR TRADE, WHERE THEIR SECTION 122 132, THE PRESIDENT IS GOING TO BE ABLE TO LEVY HIS AUTHORITY TO IMPLEMENT VIRTUALLY THE SAME TARIFFS THAT WERE IN PLACE UNDER IEEPA DANI: THAT THE SUPREME COURT THROUGHOUT.
+## People Mentioned
 
-- HE HAS SAID AND POST ONLINE TODAY THAT HE IS -- FEELS EVEN STRONGER, THAT THE SUPREME COURT MAY HAVE STRUCK DOWN THE IEEPA PART OF HIS TARIFF PROGRAM BUT HE HAS OTHER AUTHORITIES HE IS GOING TO USE IN A ROBUST WAY SO FAR FROM BEING CURTAILED IN HIS USE OF TARIFFS HE AT LEAST SOUNDS LIKE HE IS GOING TO GO EVEN HARDER NOW.
+- [[Dani Burger]]
+- [[Annmarie Hordern]]
+- [[Michael McKee]]
+- [[Brendan Murray]]
+- [[Allison McNealy]]
+- [[Donald Trump]]
 
-- IT WAS CLEAR IF YOU READ THROUGH THE OPINIONS FROM THE SUPREME COURT JUSTICES, ESPECIALLY WHEN IT CAME TO JUSTICE GORSUCH, HE TALKED ABOUT THE IDEA OF PRESIDENTIAL POWER AND HOW UNLESS IT IS SPECIFICALLY DETAILED A LOT OF THIS LAYS IN THE HANDS OF CONGRESS AND SO IT IS UP TO THEM TO ADJUDICATE BUT IS CONGRESS GOING TO WANT TO DO THIS WITH A MIDTERM ELECTION YEAR WHEN THE LATEST POLLING ON TARIFFS FROM IPSOS AND ABC SHOWS THAT 64% OF AMERICANS DO NOT LIKE TARIFF POLICY?
+## Claims
 
-- IF YOU LOOK AT THE SHAPE OF THE YIELD CURVE, WE HAVE SEEN THE POLICY RATE COME DOWN BUT THE 10 YEAR TO 30 YEAR PORTION OF THE CURVE GOES IN THE OPPOSITE DIRECTION AND THAT IS A REFLECTION OF DEFICITS AND DEBT LEVELS BETWEEN LAST YEAR AND THIS YEAR, SORT OF THE FIRST TIME IN OBSERVABLE MARKET HISTORY WHERE WE ARE SEEING BOND MARKETS SAY WE HAVE A PROBLEM.
-
-- THE FEDERAL RESERVE GOVERNOR WILL GIVE A SPEECH ON IT TOMORROW BUT IT IS NOT GOING TO CHANGE MUCH IN HIS THINKING BECAUSE THE FED IS SUPPOSED TO LOOK THROUGH TARIFFS BECAUSE -- SO IT WILL MEAN THEY HAVE TO LOOK THROUGH WHATEVER THE NEW TARIFFS ARE, ASSUMING THEY WILL BE A ONE OF INCREASE IN PRICES AND THEN IT WILL START TO FADE AS INFLATION CONCERN.
-
-- IT FEELS LIKE THIS IS REAL BUT I DO NOT THINK THE MARKET HAS SUSSED OUT WHAT THE PATH FORWARD AND IMPLICATIONS ARE TO THE EXTENT THAT ENERGY POLICIES AND CROSS HAIRS ON THIS -- I DO THINK THE MARKET WILL SEE A PRETTY BIG RESET AND WE HAVE SEEN GLOBAL ENERGY PRICES START TO INCORPORATE A RISK PREMIUM BUT WE WILL HAVE TO SEE HOW THIS PLAYS OUT.
-
-
-
-
-## Key Quotes
-
-
-> DANI: IT IS 30 MINUTES UNTIL THE START OF YOUR CASH EQUITY TRADE.
-
-
-> COMING UP, TRADE UNCERTAINTY RATTLES MARKETS AGAIN AS PRESIDENT TRUMP MOVES AHEAD WITH NEW GLOBAL TARIFFS FOLLOWING THE SUPREME COURT DECISION.
-
-
-> A POWERFUL WINTER STORM COULD SHATTER RECORDS ACROSS THE EAST COAST, CRIPPLING TRANSPORT NETWORKS AND STRAINING POWER GRIDS.
-
-
-> PLUS, NOVO NORDISK PLUNGES AND A DEAL FOR ATTRACTING A FLURRY OF PHARMA NEWS OUT THIS MORNING.
-
-
-
-
-
+- [[Annmarie Hordern - The Supreme Court ruling did not end tariffs because the White House had already prepared a Section 122 fallback]]
+- [[Annmarie Hordern - Any durable replacement for the new tariff regime will require slower investigations under other statutes like 232 or 301]]
+- [[Annmarie Hordern - The most delicate post-ruling trade questions concern countries whose negotiated deals sat below the new 15 percent level]]
+- [[Michael McKee - Economists still cannot model the tariff outlook cleanly because nobody knows which new tariffs will arrive on which countries and industries]]
+- [[Michael McKee - The Fed is likely to look through replacement tariffs as another one-off price shock unless they create a broader inflation problem]]
+- [[Brendan Murray - The new 10 to 15 percent tariff regime risks sending trade partners back to the drawing board because they still do not know how it will affect them]]
+- [[Brendan Murray - The European delay reflects how hard it is to finalize a trade deal while Trump no longer has the same immediate tariff cudgel]]
+- [[Allison McNealy - Private equity still needs a faster pace of exits and stronger results because fundraising and distributions have stayed weak for years]]
 
 ## Full Transcript
 
@@ -1349,3 +1340,4 @@ BASIS POINTS. COMING UP TOMORROW, WE HAVE THE
 CEOS OF BAKER HUGHES AND SAMBANOVA. THIS HAS BEEN "BLOOMBERG OPEN INTEREST." â™ª
 
 </details>
+

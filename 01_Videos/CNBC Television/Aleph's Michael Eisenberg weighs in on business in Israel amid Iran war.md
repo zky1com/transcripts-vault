@@ -1,35 +1,60 @@
 ---
-title: "Aleph's Michael Eisenberg weighs in on business in Israel amid Iran war"
-people_mentioned: []
-channel: "CNBC Television"
-video_id: "HJl8P6Ei7_s"
+title: Aleph's Michael Eisenberg weighs in on business in Israel amid Iran war
+people_mentioned: [Michael Eisenberg, Sarah Eisen]
+channel: CNBC Television
+video_id: HJl8P6Ei7_s
 url: "https://www.youtube.com/watch?v=HJl8P6Ei7_s"
 publish_date: 2026-03-11
-duration: "4:40"
+duration: 4:40
 word_count: 975
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+content_type: interview
+delivery_mode: tv_interview
+broad_category: geopolitics
+subcategories: [israel, defense tech, venture capital]
+series_name: CNBC Television
+episode_id: HJl8P6Ei7_s
+primary_person: Michael Eisenberg
+host_names: [Sarah Eisen]
+interviewer_names: [Sarah Eisen]
+interviewee_profiles: [Michael Eisenberg]
+speaker_profiles: [Michael Eisenberg, Sarah Eisen]
+organizations_mentioned: [Aleph, Google, Wiz, Elbit]
+locations_mentioned: [Israel, Iran, Tel Aviv, United States]
+tools_mentioned: [AI, sonar technology]
+companies_mentioned: [Google, Wiz, Elbit]
+topics: [war and innovation, israeli tech, markets]
+tags: [video, geopolitics, cnbc]
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Michael Eisenberg argues that war has accelerated Israeli innovation rather than pausing it, especially in physical and digital AI tied to defense and operational urgency. He also says Israeli business and capital markets are interpreting action against Iran as a reduction of a long-term strategic discount, which helps explain resilient deal activity and stock-market performance even during active conflict.
 
+## Key Insights
 
+- Eisenberg sees wartime operating pressure as a catalyst for applied innovation rather than a freeze in startup activity.
+- He emphasizes founder resilience and customer urgency as reasons Israeli tech activity keeps moving during conflict.
+- In his framing, markets are pricing lower long-run regional risk even while short-run disruption remains real.
+- He links real battlefield iteration to faster training and improvement of defense-related AI systems.
 
+## Claims
+
+- [[Michael Eisenberg - War has accelerated Israeli AI and defense innovation rather than pausing it]]
+- [[Michael Eisenberg - Field deployment gives Israeli AI systems unusually strong real-world training data]]
+- [[Michael Eisenberg - Israeli founders continue to overdeliver for customers even during wartime disruption]]
+- [[Michael Eisenberg - Israeli markets are rallying because investors see action against Iran as reducing a long-term risk discount]]
+- [[Michael Eisenberg - A nuclear-armed Iran would be a larger long-term economic threat than the current short-term conflict shock]]
 
 ## Full Transcript
 
@@ -39,3 +64,4 @@ tags: []
 START TO SEE CAPACITY LIMITS WITH THE BUILD OUT DOMESTICALLY ALSO COSTS GOING UP OVERALL. SO WE'LL SEE AGAIN HOW LONG THIS ALL GOES ON OKAY. >> THANK YOU KATE KATE ROONEY WE'LL STICK WITH THIS THEME. EXACTLY. TECH AND THE MIDDLE EAST DURING THE IRAQ WAR. JOINING US NOW IS THE CO-FOUNDER AND GENERAL PARTNER OF ISRAELI VENTURE CAPITAL FIRM ALEPH, MICHAEL EISENBERG THAT IT IS AN INTERESTING QUESTION, WHICH IS, YOU KNOW, THE WAVE OF AI IS COMING NO MATTER WHAT. SO WHAT'S HAPPENING THERE ON THE GROUND AS YOU HAVE SORT OF A FRONT ROW SEAT TO ALL OF THESE AI INNOVATIVE COMPANIES, STARTUPS ACROSS ISRAEL, IS THERE A PAUSE OR ANYTHING LIKE THAT? >> WELL, QUITE THE CONTRARY. >> IT'S GOOD TO SEE YOU, SARAH. >> WHAT'S BEEN FASCINATING, I THINK I'VE SAID THIS ON YOUR. >> SHOW BEFORE IS SINCE OCTOBER 7TH. OF 2023. THE AMOUNT OF INNOVATION THAT LITERALLY UNFORTUNATELY, THE BLEEDING EDGE OF TECHNOLOGY HAS BEEN JUST EXTRAORDINARY. AND WE'VE SEEN JUST AN INCREDIBLE WAVE OF COMPANIES THAT HAVE COME FOR FUNDING EVER SINCE OCTOBER 7TH. THAT IS JUST GROUNDBREAKING. AND THEIR USES OF AI, BOTH IN PHYSICAL AI AND DIGITAL AI IS NOTHING, NOTHING SHORT OF AMAZING. AND I EXPECT FULLY THAT WHEN THIS WAR IS COMPLETED, YOU'LL SEE SOME OF THE SAME THINGS. YOU KNOW, WHEN YOU HAVE TO OPERATE AT DISTANCES LIKE THIS. YOU LEARN A LOT THROUGH THOSE INTERACTIONS. AND I THINK THE OTHER THING IMPORTANT TO NOTE ABOUT AI IS THAT AI REACTS BY LEARNING IN THE FIELD, AND YOU KIND OF CONSTANTLY TRAIN THESE MODELS. WELL, WE GOT A LOT OF REPS ON TRAINING THESE MODELS NOW GOING FORWARD. AND I THINK PROBABLY THAT'S BY THE WAY, WHAT LED TO THE GIANT ORDERS FROM ELBIT. AND I DON'T KNOW IF YOU KNOW THIS, SARAH, BUT JUST TODAY A NEW ISRAELI DEFENSE COMPANY FILED A PROSPECTUS WITH THE TEL AVIV STOCK EXCHANGE. AND APROPOS OF THE CONVERSATION, THE SHORT AND THE STRAITS OF HORMUZ. THIS COMPANY PROVIDES UNDERWATER SONAR TECHNOLOGY FOR MARITIME. I THINK THAT'S PRETTY INTERESTING. FILING OF A PROSPECTUS IN THE MIDDLE OF A WAR. >> YEAH, I MEAN, IT IS IT I DO WONDER WHAT IS IT LIKE THERE ON THE GROUND? ARE THE MISSILES STILL COMING OR HOW MUCH TIME ARE YOU SPENDING IN SHELTERS? OBVIOUSLY THEY'VE CALLED UP RESERVISTS AND THAT THAT CAN BE DISRUPTIVE TO DAILY LIFE AND BUSINESS. GIVE US A SENSE OF WHAT'S HAPPENING THERE. >> SURE. WE WERE IN SHELTERS A COUPLE OF TIMES LAST NIGHT AND I'VE BEEN ONCE TODAY. I SHOULD HAVE WARNED YOU BEFORE WE CAME ON THAT A SIREN COULD GO OFF ANY MINUTE. THAT'S WHAT HAPPENS HERE. AND THEN I'LL TRY TO FINISH THE INTERVIEW AND THEN RUN TO A SHELTER. BUT YEAH, IT'S. >> NO GO TO A SHELTER FIRST. >> YEAH, IT'S DISRUPTIVE IN ONE WAY. BUT ISRAELIS ARE JUST INCREDIBLY RESILIENT. AND I HAVE TWO FOUNDERS THAT GOT CALLED BY ONE OF THE BIG US TECH COMPANIES A DAY AND A HALF AGO AND SAID, HEY, WE REALLY NEED YOU TO COME HERE AND SOLVE A PROBLEM. THE TWO FOUNDERS GOT ON TWO DIFFERENT FLIGHTS BECAUSE IT'S HARD TO GET FLIGHTS TO A PLACE IN EUROPE IN ORDER TO GET TO THE WEST COAST WITHIN 24 HOURS. AND SO ISRAELI FOUNDERS ARE FOUNDING NOT ONLY WAYS TO DELIVER, BUT OVER DELIVER DURING THIS TIME. AND GOD BLESS THEIR FAMILIES FOR HOLDING DOWN THE FRONT WHILE THEY HAD TO GO TRAVEL TO THE WEST COAST OF THE UNITED STATES. AND JUST JUST EARLIER THIS WEEK, WE COMMITTED TO ANOTHER DEAL. SO I WOULDN'T SAY BUSINESS IS AS USUAL, BUT THE ISRAELI TECH ECONOMY KEEPS ON TICKING DURING THIS. UNFORTUNATELY, WE'RE USED TO THIS. >> AND APROPOS OF THIS CONVERSATION TODAY, GOOGLE ACTUALLY CLOSED THE DEAL FOR WIZ. THIS IS $32 BILLION ACQUISITION THE BIGGEST EVER WITH OF COURSE THE ISRAELI COMPANY. SO I MEAN THINGS ARE MOVING. INTERESTINGLY THE TEL AVIV STOCK MARKET IS HIGHER SINCE THE WAR BEGAN. I THINK IT'S UP ABOUT A LITTLE LESS THAN 3% AND HAS BEEN ONE OF THE WORLD'S BEST PERFORMING MARKETS OVER THE LAST YEAR. DESPITE MICHAEL CONCERNS ABOUT THE FISCAL STRAIN OF ALL OF THESE WARS, THE MUNITIONS, THE SORT OF COST ON SOCIETY AND PEOPLE, IT IS AMAZING TO SEE THIS MARKET SO MUCH HIGHER. WHAT'S BEEN THE WHAT DO YOU THINK IS THE IMPACT ON THE ECONOMY OVERALL? >> SO LET ME TALK ABOUT THE RISE IN THE TEL AVIV STOCK EXCHANGE SINCE THIS IRAN WAR BEGAN. WHAT IS VERY CLEAR FROM THE RISE IS THAT MR. MARKET, WHO'S SMARTER THAN EVERYBODY, UNDERSTOOD THAT THERE WAS AN IRAN DISCOUNT. WHAT COULD HAPPEN IF IRAN ATTACKED US? I THINK ONE OF THE THINGS THAT PRESIDENT TRUMP UNDERSTOOD VERY CLEARLY IS THAT IRAN WAS A COMPOUNDING PROBLEM THAT IS A THREAT TO THE GLOBAL ECONOMY. AND IN FACT, WHAT IRAN IS DOING IN YOUR REPORTER WAS ON BEFORE, BOTH TO DATA CENTERS AND TO OIL TANKERS IN THE SHORT TERM, IS BUT A MERE SMALL INDICATION OF WHAT THEY WOULD DO IF THEY ACQUIRED NUCLEAR WEAPONS OR BALLISTIC MISSILES. THEY WOULD WREAK HAVOC IN THE GLOBAL ECONOMY AND IN ISRAEL'S ECONOMY. AND SO WHAT THE MARKETS ARE TELLING YOU IS BY ACTUALLY DOING SOMETHING ABOUT THE IRANIAN THREAT, THE ECONOMY CAN THRIVE IN THE FUTURE. AND I THINK IT'S NOT JUST TRUE ABOUT THE ISRAELI ECONOMY. IT'S TRUE ABOUT THE GCC ECONOMIES, AND IT'S TRUE ABOUT THE UNITED STATES ECONOMIES AS WELL. AND I THINK THAT'S WHAT THE MARKET HERE IS RESPONDING TO. AND YOUR GUEST BEFORE TALKED ABOUT THE SHORT TERM EFFECTS OF THE PRICE OF OIL. I TEND TO AGREE. AND AGAIN, KEEP IN MIND A BALLISTICALLY ARMED AND NUCLEAR IRAN WOULD HAVE BEEN A FAR
 
 </details>
+

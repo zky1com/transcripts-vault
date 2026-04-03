@@ -1,6 +1,6 @@
 ﻿---
 title: "Tariff Uncertainty, AI Unease Rattle Tech Shares | Bloomberg Tech 2/23/2026"
-people_mentioned: []
+people_mentioned: ["Caroline Hyde", "Ed Ludlow", "Mike Shepard", "Jason Oxman", "Jed Ellerbroek", "Ryan Vlastelica", "Emily Nicolle", "Donald Trump", "Xi Jinping"]
 channel: "Bloomberg Technology"
 video_id: "59eeVvu7HXk"
 url: "https://www.youtube.com/watch?v=59eeVvu7HXk"
@@ -8,29 +8,29 @@ publish_date: 2026-02-23
 duration: "44:26"
 word_count: 6256
 content_type: "news"
-delivery_mode: "news-report"
+delivery_mode: "panel-roundup"
 broad_category: "ai"
-subcategories: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics"]
-series_name: ""
+subcategories: ["ai-markets", "ai-infrastructure", "software", "tariffs"]
+series_name: "Bloomberg Tech"
 episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Technology"]
-interviewer_names: ["Bloomberg Technology"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Technology"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
-tags: ["ai-safety", "ai-regulation", "ai-jobs", "ai-agents", "ai-coding", "ai-economics", "lead-generation", "product-management"]
+primary_person: "Ed Ludlow"
+host_names: ["Caroline Hyde", "Ed Ludlow"]
+interviewer_names: ["Caroline Hyde", "Ed Ludlow"]
+interviewee_profiles: ["Mike Shepard - Bloomberg reporter", "Jason Oxman - Information Technology Industry Council president", "Jed Ellerbroek - Argent Capital portfolio manager", "Ryan Vlastelica - Bloomberg equities reporter", "Emily Nicolle - Bloomberg crypto reporter"]
+speaker_profiles: ["Caroline Hyde - Bloomberg Technology host", "Ed Ludlow - Bloomberg Technology host", "Mike Shepard - Bloomberg reporter", "Jason Oxman - Information Technology Industry Council president", "Jed Ellerbroek - Argent Capital portfolio manager", "Ryan Vlastelica - Bloomberg equities reporter", "Emily Nicolle - Bloomberg crypto reporter"]
+organizations_mentioned: ["Bloomberg Technology", "Information Technology Industry Council"]
+locations_mentioned: ["United States", "China", "India"]
+tools_mentioned: ["AI"]
+companies_mentioned: ["Nvidia", "Salesforce", "Autodesk", "Workday", "Intuit", "Anthropic", "OpenAI", "Netflix", "Warner Bros. Discovery", "Bloomberg"]
+topics: ["AI", "software", "tariffs", "crypto", "market sentiment"]
+tags: ["ai", "software", "tariffs", "crypto", "market-sentiment"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 8
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
@@ -40,44 +40,38 @@ world_evidence_count: 0
 
 ## Summary
 
-The discussion centers on software, caroline, some. IT IS CASE IN POINT OF WHAT IS HAPPENING RIGHT NOW IN SOFTWARE, THE IMPACT OF AI ON SOFTWARE. THIS IS "BLOOMBERG TECH." â™ª ED: THIS IS "BLOOMBERG TECH." CHECK OUT THE BLOOMBERG TECH PODCAST. ED: THIS IS "BLOOMBERG TECH." PRESIDENT TRUMP LOOKS TO REBUILD HIS TARIFF TRADE POLICY AFTER THE SUPREME COURT STRUCK IT DOWN, REVIVING MARKET DISSES.
+This episode of *Bloomberg Tech* connects tariff uncertainty with a wider AI-driven selloff in software and risk assets. Ed Ludlow and Caroline Hyde's interviews argue that the market is trying to process two overlapping questions at once: whether the White House can rebuild its tariff regime without damaging tech investment, and whether AI disruption is starting to threaten the economics of large parts of software.
 
 ## Key Insights
 
+- The tariff story matters to tech not just politically but operationally because AI buildout depends on globally sourced equipment, power infrastructure, and foreign capital.
+- Market participants in software are looking well past the current quarter and worrying instead about longer-run demand, margins, and pricing power under AI pressure.
+- Crypto is not behaving like a safe haven in this backdrop; bitcoin is still moving as a higher-risk asset.
+- The transcript suggests the software washout is more sentiment-led than earnings-led, even though that does not mean the long-term AI risk is imaginary.
+- Old generic AI/lead-generation metadata has been replaced with note-specific AI, software, tariff, and crypto metadata.
 
-- THERE WILL BE SOFTWARE COMPANIES THAT CAN DO WELL OUT OF THIS BECAUSE AI CAN DRAMATICALLY REDUCE THEIR COST TO DELIVER PROGRAMMING, MAKE THINGS MORE EFFICIENT, REDUCE EXPENSES, DELIVER A BETTER EXPERIENCE, BUT EXECUTING ALL OF THAT IS DIFFICULT AND THAT EVERY SOFTWARE COMPANY WILL BE ABLE TO DO IT.
+## People Mentioned
 
-- THEY TRY TO OFFER SOME ASSURANCE THAT THIS SETBACK THAT WAS DEALT TO THE ADMINISTRATION ON FRIDAY WAS TEMPORARY, THIS 15% TARIFF THAT WE HEARD THE PRESIDENT TALK ABOUT ON SATURDAY ON TRUTH SOCIAL, WAS JUST GOING TO BE A BRIDGE TO MORE LASTING TARIFFS THAT WOULD BE IMPOSED EVENTUALLY THROUGH OTHER AUTHORITIES.
+- [[Caroline Hyde]]
+- [[Ed Ludlow]]
+- [[Mike Shepard]]
+- [[Jason Oxman]]
+- [[Jed Ellerbroek]]
+- [[Ryan Vlastelica]]
+- [[Emily Nicolle]]
+- [[Donald Trump]]
+- [[Xi Jinping]]
 
-- PEOPLE ARE OPERATING UNDER THE ASSUMPTION THAT FOR NOW THAT WILL BE THE AVERAGE WEIGHTED TARIFF, BUT IT WOULD CHANGE ONCE THEY START BRINGING IN TARIFFS ON SECTORS OR COUNTRIES BASED ON SOME OF THE OTHER SECTIONS OF THE TRADE LAW THEY CAN USE.
+## Claims
 
-- ED: THIS IS "BLOOMBERG TECH." PRESIDENT TRUMP LOOKS TO REBUILD HIS TARIFF TRADE POLICY AFTER THE SUPREME COURT STRUCK IT DOWN, REVIVING MARKET DISSES.
-
-- THE ONE ASK OF THE ADMINISTRATION IS, AS THEY REEVALUATE THE TARIFF STRATEGY, AND THE SUPREME COURT DECISION GIVES THEM THE OPPORTUNITY TO DO THAT, LOOK AT THE BROADER GOALS, STRATEGY TO INVEST IN AI, ADOPTION OF TECHNOLOGY AROUND THE WORLD, AND HOW TARIFFS WOULD INTERFERE WITH THE ABILITY OF THAT TO BE A SUCCESSFUL STRATEGY.
-
-- THE CERTAINTY WE ARE LOOKING FOR IS PART OF A BROADER QUESTION OF THE STRATEGY OF THE UNITED STATES, AND THE TRUMP ADMINISTRATION HAVE BEEN VERY FOCUSED ON ENCOURAGING INVESTMENT IN MANUFACTURING, DATA CENTERS, ENCOURAGING EXPORT OF AI TECHNOLOGY FROM THE UNITED STATES TO THE REST OF THE WORLD.
-
-
-
-
-## Key Quotes
-
-
-> >> "BLOOMBERG TECH" IS LIVE FROM COAST-TO-COAST WITH CAROLINE HYDE IN NEW YORK AND ED LUDLOW IN SAN FRANCISCO.
-
-
-> ED: THIS IS "BLOOMBERG TECH." PRESIDENT TRUMP LOOKS TO REBUILD HIS TARIFF TRADE POLICY AFTER THE SUPREME COURT STRUCK IT DOWN, REVIVING MARKET DISSES.
-
-
-> CAROLINE: BITCOIN SLIDING BELOW $69,000 FOR THE SECOND TIME THIS MONTH.
-
-
-> ED: TODAY IS THE DAY FOR PARAMOUNT SKYDANCE TO SUBMIT ITS BEST AND FINAL OFFER FOR WARNER BROS.
-
-
-
-
-
+- [[Mike Shepard - The administration is trying to keep last years trade deals alive by presenting the new 15 percent tariff as a temporary bridge]]
+- [[Mike Shepard - The tariff ruling may have reduced Trumps leverage ahead of his meeting with Xi because the old tariff threat is weaker now]]
+- [[Jason Oxman - Tech companies mainly want certainty because tariffs are a poor long-term strategy for encouraging AI investment]]
+- [[Jason Oxman - Tariffs can undermine the US AI buildout by raising the cost of imported inputs for fabs data centers and energy infrastructure]]
+- [[Jed Ellerbroek - Investors are worried less about the next quarter than about how much AI could erode software demand and pricing power over years]]
+- [[Jed Ellerbroek - Software selloffs could eventually attract strategic buyers and private equity looking for value in bombed-out segments]]
+- [[Ryan Vlastelica - The software selloff is being driven more by sentiment and AI fear than by immediate fundamental deterioration]]
+- [[Emily Nicolle - Bitcoin is still trading like a risk asset so tariff and geopolitical shocks are pushing it lower rather than making it a haven]]
 
 ## Full Transcript
 
@@ -753,3 +747,4 @@ FROM SAN FRANCISCO AND A SNOWY NEW YORK, THIS IS "BLOOMBERG
 TECH."
 
 </details>
+

@@ -1,35 +1,60 @@
 ---
 title: "Bitcoin crosses $73,000 as investors look past Iran tensions: CNBC Crypto World"
-people_mentioned: []
-channel: "CNBC Television"
-video_id: "9DNIjVZKgyY"
+people_mentioned: [Mackenzie Sagallos, Cosmo Jen, Brian Armstrong, Paul Atkins, Arjun Sethi, Donald Trump]
+channel: CNBC Television
+video_id: 9DNIjVZKgyY
 url: "https://www.youtube.com/watch?v=9DNIjVZKgyY"
 publish_date: 2026-03-04
-duration: "11:21"
+duration: 11:21
 word_count: 2124
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+content_type: news_roundup
+delivery_mode: tv_show_segment
+broad_category: crypto
+subcategories: [market sentiment, regulation, agentic finance]
+series_name: CNBC Crypto World
+episode_id: 9DNIjVZKgyY
+primary_person: Mackenzie Sagallos
+host_names: [Mackenzie Sagallos]
+interviewer_names: [Mackenzie Sagallos]
+interviewee_profiles: [Cosmo Jen]
+speaker_profiles: [Mackenzie Sagallos, Cosmo Jen]
+organizations_mentioned: [Panta Capital, SEC, CFTC, Federal Reserve]
+locations_mentioned: [Iran, Israel, United States]
+tools_mentioned: [Bitcoin, stablecoins, DeFi, openclaw]
+companies_mentioned: [Coinbase, Kraken Financial, Custodia Bank, OpenAI, Google, Walmart]
+topics: [crypto price action, agentic finance, market structure]
+tags: [video, crypto, cnbc]
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 5
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Mackenzie Sagallos examines why crypto prices were rising even as broader markets reacted to the Iran conflict, with Panta Capital's Cosmo Jen arguing that digital assets had simply become oversold and were now benefiting from their borderless, sovereign-light narrative. The episode also covers Trump's renewed push for market-structure legislation, Kraken Financial's Federal Reserve master account win, and the growing view that agentic AI could become a meaningful driver of blockchain usage.
 
+## Key Insights
 
+- Jen's core explanation for the rally is positioning and relative oversold conditions, not a sudden change in macro fundamentals.
+- The episode treats geopolitical conflict as a catalyst for portfolio reassessment rather than as a direct destroyer of blockchain utility.
+- Agentic AI is presented as a concrete future use case for crypto rails rather than just a thematic buzzword.
+- Regulatory progress is shown as advancing both through Congress and through agencies creating interim guard rails.
 
+## Claims
+
+- [[Cosmo Jen - Crypto rallied because digital assets had become oversold relative to their long-term fundamentals]]
+- [[Cosmo Jen - Bitcoin is acting as a borderless asset during geopolitical conflict]]
+- [[Cosmo Jen - Agentic AI is already starting to drive more activity on blockchain rails]]
+- [[Cosmo Jen - Regulatory safe harbors can support crypto growth even before full legislation passes]]
+- [[Mackenzie Sagallos - Kraken Financial became the first crypto bank to receive a Federal Reserve master account]]
 
 ## Full Transcript
 
@@ -39,3 +64,4 @@ tags: []
 This week, cryptocurrencies recover after some volatility following the US and Israel's [music] attacks on Iran. President Trump pushes to get crypto market structure legislation passed [music] into law. And Panta Capitals Cosmo Jen breaks down why crypto prices are rising despite volatility [music] on Wall Street. Welcome to [music] CNBC's Crypto World. I'm Mackenzie Sagallos. Major cryptocurrencies are in the green over the last week, even after US and Israel's attack on Iran over the weekend. By noon Eastern, Bitcoin [music] crossed a 70K threshold and was trading at 73, $317. Crypto markets largely recovered after a plunge in the immediate aftermath of the attack Saturday [music] morning. Prices jumped on Tuesday and are heading even higher Wednesday morning. Now, for the week, Bitcoin [music] was up more than 6%, ETH by about 3 and a half%, and Salana by more than 2%. all outperforming broader markets. [music] Now, in that same period of time, the S&P 500 index shed around 1%. Also looking at crypto [music] exchange Coinbase, at the moment, shares popped around 15% as of midday after President Trump last night expressed [music] support for passing market structure legislation, but more on that later. To learn more about crypto's reaction to [music] the conflict in the Middle East and what other factors could be driving prices, I spoke with Cosmo Jen, general partner of Panta Capital. So, crypto prices are making major moves to the upside in recent days. And just this morning, you had Bitcoin top $73,000 for the first time in about a month. And these moves come as Wall Street has been really from the conflict in Iran. So, talk to me about why we're seeing this split right now where crypto is rising while other investments are facing volatility. >> Well, look, we really have to think about where digital assets were over the last over the last few months, right? Clearly, we've gotten to a point after the October sell-off and over the last few months that we're at a very oversold position now versus the long-term trend and versus what are really good underlying fundamentals. And so while assets like Bitcoin were forgotten for a little bit while gold, silver, speculative retail stocks were really booming earlier this year, we're now seeing it outperform because you have this combination of everything else feeling a little bit tighter. Um this this under relative underperformance and people are starting to realize that actually Bitcoin and other digital assets have always been a safe haven asset and have always been a you know a borderless ge like sovereignless asset. And so when there's geopolitical conflict, nothing in blockchain really gets impacted. Uh and that's why we're seeing investors come back to this story and realize that there's an interesting entry point. >> So what does a move in Bitcoin and other altcoins say about the current risk appetite right now? Because on the one hand, we've seen a lot of broad riskoff moves in the market like software stocks falling in yesterday's draw down. But that runs counter to the moves that we're seeing in the crypto market right now, specifically Bitcoin, which would typically suggest a riskon sentiment. >> I think it it really depends on, you know, the the context of the in that that the assets are found in, right? Um I think Bitcoin and other digital assets just been so oversold over the last few months. If we go back to just even February, we saw one of the largest sell-offs uh in a very sharp move after uh after Kevin Walsh was nominated to be the next fair chair. uh you know we saw in very large liquidations of onchain assets by uh what people call OG Bitcoin whales or OG Ethereum whales and so there's just a lot a lot of selling that has already happened for the digital asset space that really we didn't see in other asset classes. Other asset classes have been doing great for the last few months and so we're just coming from a place where digital assets clearly oversold and other assets maybe a little overbought. Uh and now we're seeing that start to start to start to uh normalize a little bit. Um and the catalyst really is, you know, unfortunately, you know, the geopolitical event that's happen the geopolitical events happening recently is causing people to reassess their portfolios, look for look for places where they probably got a little bit too over their skis, which is probably equities, probably gold and silver, and starting to look at other areas where they've maybe forgotten about to start to balance out their portfolio a little bit. And what would you say Bitcoin is most correlated to right now? Because in the past it's been tied to the NASDAQ and then we saw it trading in lock step with the IGV and software names for most of this year. It certainly had its narrative uh stitched to gold and I will say gold and silver are rising right now too. So what's the correlation to watch at this moment? Yeah, it's interesting that you know on average and over time digital assets are actually relatively uncorrelated from the broader equity markets but it's because there are periods of high correlation and periods of even anti-correlation. So we just went through this since October really we've been going through this period of anti-correlation with equities where crypto has been trending downwards while equities have been trending up. I think that really speaks to in the very near term people are relatively allocated. In other words, people are pretty fully invested. And so when they want to uh when they want to invest incremental dollars, they need to take it from somewhere. And so we've been seeing a little bit of outflows from digital assets into other asset classes, especially the the retail speculative bid has been going to other asset classes. And now we're see and that just got a little bit too over overbought. And now we're seeing that start to revert a little bit. And so I think we're going to continue to see a little bit of rever anti-correlation if you will with uh with equities in in the near term. And then it's very possible that as risk appetite generally improves hopefully as this conflict calms down that you know both these assets can get bid at the same time again. >> And then from a macro perspective there are potential headwinds ahead for the global economy. Oil prices are rising based on those Middle East tensions. And then in the US, all eyes are still very much on the Fed and the end of Jay Powell's chairmanship. So what are you watching right now that could be an influence on crypto? >> So I definitely think the broader macro markets matter for crypto. You know, where this this whole liquidity picture is is very has historically been very important for assets like Bitcoin that have a finite supply. Um but when you look at everything else which is you know blockchain technology which is Ethereum which is Salana all these assets that are really growing I think the biggest thing actually is like how sustainable this a the AI adoption and AI buildout is because we're now seeing so many ways in our portfolio where AI agents are actually really accelerating activity on blockchain and so as long as you know the broader macro the broader macro can go back and forth but the large secular tailwinds which are stuff like AI growing growing in adoption will really drive important sectors like blockchain continue to grow in adoption as well. >> Briefly, when you talk about agentic adoption of crypto, are you seeing that in the context of some of these e-commerce moves? OpenAI partnering with Walmart, Google has certainly made inroads uh with respect to some of these agentic shopping experiences as well. So what's really cool is uh you know specifically what we've seen over the last months after the launch of claw claw by or now openclaw um we saw actually more agentic activity or more autonomous activity happening on blockchain rails um there was a crazy stat uh recently over one of these when cloudbot officially first launched uh we saw many uh you know pretty large spike in creation of new blockchain wallets and blockchain transactions on salana now it's hard to draw the exact correlation but they happen you coincident at the same time and you you see on Moltbook which is the uh which is a social media comp which is the social media website that these agents are using uh you actually saw them talking about spinning up new blockchain wallets and using blockchain to start to transact with each other and so while we're still early days in what agent finance will really look like we feel very strongly that as more and more autonomous agents participate in in commerce and really are uh you know transacting back and forth between agent to agent and not necessarily agent on behalf of user. We're going to see more and more usage of blockchain to satisfy those those constraints because blockchain is just better financial rails and digitally native financial rails. >> From a regulatory perspective, prices were boosted on expectations that we'd see multiple rounds of crypto legislation before the midterms and now seems less likely even as President Trump is backing stable coin issuers in this fight over market structure. Are investors just looking past that uncertainty around legislation or if this fight drags on even longer, will it hurt prices more and more? >> I certainly think market structure uh legislation is really important for the long-term growth of the asset class. Um I I do think it's really nice though that in the interim even if this bill you know is seeing some rockiness and there's back and forth and you know every day you're hearing something different. Uh what we've seen is the SEC chair and CFTC chairs have both stepped up and really said that hey you know while we are waiting for uh regulatory clarity and official legislation which everyone is hoping for we're going to try to make some initial steps to make this easier for the blockchain industry. They're talking about creating a DeFi safe harbor. they're caught talking about creating a token issuance safe harbor. Uh and so both of these pieces as if the regulators are moving in the same direction then at least the industry can start looking towards that and start building towards that even before we have official comprehensive legislation. So it's really nice to see the regulators kind of step up and try to provide some guard rails even in the absence of legislation which may be turning out to be further down the road. >> Okay, let's catch you up on some of the top stories from the past week. President Trump picked his side in the battle between crypto and banking sectors around this issue of stable coin rewards. Last night, the president took to True Social to throw his support behind the crypto industry. He emphasized a need to get market structure legislation done and took a swipe at banks, saying they're hitting record profits and quote, "We are not going to allow them to undermine our powerful crypto agenda." The ability to offer rewards on stable coins is a key issue that stalled crypto market structure legislation efforts back in January. Coinbase's Brian Armstrong said that he couldn't support the most recent draft. Trump's post says that Americans should earn more money on their money. The president's support could also invite fresh criticism around potential conflicts of interest as the Trump family is involved in multiple crypto ventures including its own stable coin USD1. [music] Next, Kraken's chartered bank, Kraken Financial, just became the first crypto bank to get a Federal Reserve [music] master account. Now, master accounts allow financial institutions to access key central bank services like payment settlement platforms, Fed [music] Now and Fed Wire. Kraken co-CEO Arjun Sethi said in a statement that the approval would let the company operate as a directly [music] connected financial institution rather than a peripheral participant. Now, other crypto companies have tried and failed to win approval for a master account. Most famously, Custodia Bank sued the Federal Reserve after repeatedly being denied an account. An appeals court denied Custodia's appeal back in November of 2025. Okay, that's all for Crypto World today, but we'll be back again next Wednesday, and we'll see you then. [music]
 
 </details>
+

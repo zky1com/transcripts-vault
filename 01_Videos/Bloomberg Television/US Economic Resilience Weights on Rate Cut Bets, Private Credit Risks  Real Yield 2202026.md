@@ -1,6 +1,6 @@
-﻿---
+---
 title: "US Economic Resilience Weights on Rate Cut Bets, Private Credit Risks | Real Yield 2/20/2026"
-people_mentioned: []
+people_mentioned: ["Scarlet Fu", "Michael McKee", "Elizabeth Ramberg", "Tyler Kendall"]
 channel: "Bloomberg Television"
 video_id: "s2csFhV7N74"
 url: "https://www.youtube.com/watch?v=s2csFhV7N74"
@@ -8,76 +8,52 @@ publish_date: 2026-02-20
 duration: "44:10"
 word_count: 6369
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "saas-startups"
-subcategories: ["saas-growth", "startup-strategy"]
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
+delivery_mode: "markets-roundup"
+broad_category: "economics"
+subcategories: ["tariffs", "rates", "municipal-bonds", "private-credit"]
+series_name: "Real Yield"
+episode_id: "2026-02-20"
+primary_person: "Scarlet Fu"
+host_names: ["Scarlet Fu"]
+interviewer_names: ["Scarlet Fu"]
+interviewee_profiles: ["Michael McKee - Bloomberg", "Elizabeth Ramberg - Bloomberg"]
+speaker_profiles: ["Scarlet Fu - Bloomberg Television", "Michael McKee - Bloomberg", "Elizabeth Ramberg - Bloomberg", "Tyler Kendall - Bloomberg"]
+organizations_mentioned: ["Bloomberg Television", "Morgan Stanley", "International Court of Trade"]
+locations_mentioned: ["New York", "California", "New Jersey"]
 tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["saas-growth", "startup-strategy", "ai-safety", "ai-regulation", "lead-generation"]
-tags: ["saas-growth", "startup-strategy", "ai-safety", "ai-regulation", "lead-generation"]
+companies_mentioned: []
+topics: ["tariffs", "fiscal-deficit", "municipal-bonds", "federal-funding"]
+tags: ["tariffs", "fiscal-deficit", "municipal-bonds", "federal-funding"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-03"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on tariffs, scarlet, credit. SCARLET: NOW FOR A MOMENT OF INTEREST, PRIVATE CREDIT CONCERNS TOP OF MIND FOR INVESTORS AFTER BLUE OUT WILL RESTRICTED WITHDRAWALS FROM ONE OF. 10-YEAR YIELD GETTING A POP AFTER THE SUPREME COURT DECISION TO STRIKE DOWN PRESIDENT TRUMP'S GLOBAL TARIFFS. SCARLET: I AM SCARLET FU AND THIS IS BLOOMBERG REAL YIELD.
+This episode centers on the economic fallout from the Supreme Court decision striking down the IEEPA tariff regime and on how that uncertainty filters into rates, trade negotiations, and municipal credit. The clearest transcript-grounded claims come from Michael McKee and Elizabeth Ramberg: McKee argues the ruling is not an unambiguously positive shock because replacement tariffs remain unknown, while Ramberg says targeted blue-state funding anxiety has not yet meaningfully broken municipal demand in large states such as California.
 
 ## Key Insights
 
+- Michael McKee says the tariff ruling does not simplify the outlook because the administration can still replace the lost tariff regime with new measures.
+- He also argues that trade deals negotiated around reciprocal tariffs are effectively back in question because counterparties no longer know what tariff level they are bargaining against.
+- Elizabeth Ramberg reports that investors are asking more questions about blue-state federal funding exposure, but that this anxiety has not yet become a material muni-demand break.
+- She also connects tighter state budgets to downstream stress on hospitals and universities that rely on state support.
 
-- MIKE: IT'S INTERESTING BECAUSE A LOT OF THE TRADE DEALS WERE BASED ON THE FACT THAT WE ARE GOING TO TARIFF YOU THIS MUCH AND SIGN A TRADE DEAL AND WE WILL DROP THAT AND NOW SINCE THEY CAN'T DO THAT WITH THE RECIPROCAL TARIFFS THAN THE QUESTION IS DO COUNTRIES WANT TO ENTER INTO THESE AGREEMENTS OR CARRY ON ONES THAT HAVE BEEN SIGNED, ESPECIALLY IF YOU DON'T KNOW WHAT YOUR NEXT TARIFF IS GOING TO BE.
+## Claims
 
-- AS WE GO FURTHER INTO THE YEAR IF WE DO SEE THOSE TAX REFUNDS COMING IN AS OUTLINED IN THE BIG BEAUTIFUL BILL, IF WE SEE THAT FISCAL IMPASSE COMING OUT IN THE SIZE AND SCALE THAT HAS BEEN ENVISAGED, I THINK IT IS NOT UNREASONABLE TO ASSUME NORMAL RATE CUTS THIS YEAR AND IF INFLATION RESPONDS TO THAT STRONG IMPULSE TO CONSUMPTION, YOU KNOW, YOU CAN'T RULE OUT ANYTHING, I WOULD SAY.
-
-- SCARLET: NOW FOR A MOMENT OF INTEREST, PRIVATE CREDIT CONCERNS TOP OF MIND FOR INVESTORS AFTER BLUE OUT WILL RESTRICTED WITHDRAWALS FROM ONE OF ITS PRIVATE CREDIT FUNDS.
-
-- WHY THIS MATTERS OF THIS DEAL WITH KALSHI SPECIFICALLY IS NOW THE PREDICTION MARKET PRICING IS GOING TO BE STREAMING INTO THE TRADE WEB PLATFORM, SO THOSE INSTITUTIONS AREN'T GOING TO HAVE TO LEAVE, THEY CAN STAY IN THE PLATFORM THEY ARE USING TO TRANSACT GOVERNMENT BONDS, OTHER TYPES OF DEBT, AND NOW THEY CAN TAKE IN NEW PRICING FOR THIS NEW MARKET THAT IS EMERGING.
-
-- WE ARE LOOKING AT POTENTIALLY UP TO 180 BILLION DOLLARS THAT WE SAW LAST YEAR, JUST FROM THE IEEPA TARIFFS ALONE, JUST BECAUSE WE HAVE TO REMEMBER PRESIDENT TRUMP HAS A LOT OF DIFFERENT TARIFFS IN PLACE BEYOND JUST IEEPA.
-
-- WHAT THEY ARE SAYING IS PREDICTION MARKETS IS SOMETHING THEIR CUSTOMERS ARE STARTING TO ASK FOR AND THAT IT IS RIGHT NOW EVEN THE DATA POINTS, THE PERCENTAGES THAT YOU MIGHT SEE IN THE PREDICTION MARKETS GUESSING WHETHER OR NOT THERE IS GOING TO BE SOMETHING THAT COULD BE MARKET RELATED OR WHETHER OR NOT IS GOING TO BE A POLITICAL DECISION, THOSE TYPES OF PREDICTIONS ARE BEING INPUTTED INTO TRAITS HAPPENING ELSEWHERE.
-
-
-
-
-## Key Quotes
-
-
-> SCARLETT: FROM NEW YORK CITY, I'M SCARLET FU.
-
-
-> THE ONE HOUR ADDITION OF "BLOOMBERG REAL YIELD" STARTS RIGHT NOW.
-
-
-> COMING UP, THE SUPREME COURT STRIKES DOWN PRESIDENT TRUMP'S GLOBAL TARIFFS, SENDING TREASURIES DOWN AND YIELDS UP.
-
-
-> WHILE STUBBORN INFLATION DATA COUPLED WITH WEAKER GDP SIGNALS THE FED CAN AFFORD TO TAKE ITS TIME LOWERING INTEREST RATES.
-
-
-
-
-
+- [[Michael McKee - The Supreme Court tariff ruling is not an unambiguously positive economic shock because replacement tariffs remain unknown]]
+- [[Michael McKee - Trade deals built around reciprocal tariffs are effectively back in question after the ruling]]
+- [[Elizabeth Ramberg - Federal funding anxiety has not yet broken demand for large blue-state municipal bonds]]
+- [[Elizabeth Ramberg - Tighter state budgets would pass funding pressure down to hospitals and universities]]
 
 ## Full Transcript
 

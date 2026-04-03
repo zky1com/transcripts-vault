@@ -1,42 +1,57 @@
 ---
-title: "'None and done' is what we'll see from Fed this year, says Ed Yardeni"
-people_mentioned: []
-channel: "CNBC Television"
-channel_id: "UCrp_UI8XtuYfpiqluWLD7Lw"
-video_id: "UfY_JhejslE"
+title: 'None and done' is what we'll see from Fed this year, says Ed Yardeni
+people_mentioned: [Ed Yardeni, Jerome Powell]
+channel: CNBC Television
+video_id: UfY_JhejslE
 url: "https://www.youtube.com/watch?v=UfY_JhejslE"
 publish_date: 2026-03-26
-publish_timestamp_utc: "2026-03-26T19:27:39Z"
-duration: "4:36"
-duration_seconds: 276
-views_at_import: 816
-transcript_language: ""
-has_captions: null
-transcript_status: "done"
+duration: 4:36
 word_count: 867
-content_type: ""
-delivery_mode: ""
-broad_category: ""
-subcategories: []
-series_name: ""
-episode_id: ""
-primary_person: ""
-host_names: []
-interviewer_names: []
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: []
-locations_mentioned: []
+content_type: interview
+delivery_mode: live-interview
+broad_category: investment
+subcategories: [macro, fed, equities]
+series_name: CNBC Television
+episode_id: UfY_JhejslE
+primary_person: Ed Yardeni
+host_names: [CNBC Television]
+interviewer_names: [CNBC Television]
+interviewee_profiles: [market strategist]
+speaker_profiles: [market strategist, guest]
+organizations_mentioned: [Yardeni Research, Federal Reserve, Polymarket]
+locations_mentioned: [Iran, Ukraine, Russia, United States, Middle East]
 tools_mentioned: []
-companies_mentioned: []
-topics: []
-tags: []
+companies_mentioned: [Yardeni Research]
+topics: [fed, rates, oil, equities]
+tags: [fed, rates, oil, equities]
+pipeline_stage: video_only
+claims_status: done
+speech_status: pending
+world_status: pending
+evidence_status: pending
+claims_count: 3
+speech_evidence_count: 0
+world_evidence_count: 0
+evidence_count: 0
+batch_id: ""
+last_processed_at: "2026-03-19"
 ---
 
+## Summary
 
+Ed Yardeni argues that the Federal Reserve is likely to leave rates unchanged for the rest of the year because the economy remains resilient even as geopolitical risk and oil prices rise. He says the market should avoid panic, expects the economy to withstand the latest energy shock, and believes earnings strength and lower energy intensity are helping equities absorb risks better than in past stagflation episodes.
 
+## Key Insights
 
+- Yardeni expects the Fed to stay on hold because policymakers lack enough clarity to cut or hike confidently.
+- He thinks the economy can absorb a new oil shock better than in the 1970s because consumers, capital spending, and earnings remain resilient.
+- He argues that rising earnings expectations, especially in technology, are helping explain why equities have held up relatively well.
 
+## Claims
+
+- [[Ed Yardeni - The Fed is likely to stay on hold for the rest of the year]]
+- [[Ed Yardeni - The economy can weather the latest oil shock without necessarily falling into recession]]
+- [[Ed Yardeni - Rising earnings expectations help explain why equities have held up better than feared]]
 
 ## Full Transcript
 
@@ -46,3 +61,4 @@ tags: []
 RALLYING ON OPTIMISM OF A RATE CUT AND WE DON'T GET ONE, THEN WHAT HAPPENS? WE DON'T KNOW. BUT LET'S ASK SOMEBODY WHO DOES THAT IS ED YARDENI. HE IS THE PRESIDENT OF YARDENI RESEARCH. HE IS ON SET. WE'RE GLAD TO HAVE YOU. >> THANK YOU VERY MUCH. >> SO WHAT WE DON'T GET, LET'S SAY WE DON'T GET A HIKE OR A CUT, WE GET THE SAME LEVEL OF FED FUNDS RATES ALL YEAR. WHAT HAPPENS NEXT ONE AND DONE IS WE'RE ONE AND DONE. I LIKE THAT YEAH. I THINK THAT'S WHAT WE'RE GOING TO SEE THIS YEAR. LOOK THE ECONOMY HAS BEEN REMARKABLY RESILIENT SINCE THE BEGINNING OF THE DECADE. I THINK IT'S GETTING STRESS TESTED AGAIN ONCE MORE THIS TIME. OF COURSE WITH THIS WAR IN THE MIDDLE EAST WITH OIL PRICES GOING UP, I THINK THE ECONOMY IS GOING TO WEATHER THE STORM. I DON'T THINK WE'RE GOING TO GO INTO A RECESSION, THOUGH. I THINK THE RISKS OF THAT ARE INCREASING. BUT I THINK THE ECONOMY WILL MAKE IT THROUGH. I THINK THE FED IS BETWEEN IRAN AND A HARD PLACE. YOU KNOW, I DON'T THINK THEY CAN DO ANYTHING. THEY DON'T KNOW. YOU KNOW. AND BY THE WAY, POWELL WHEN HE GAVE HIS PRESS CONFERENCE, I GUESS IT WAS A WEEK AGO, HE MENTIONED THE WORDS SOME COMBINATION OF WE DON'T KNOW ABOUT 20 TIMES. SO WE DON'T KNOW. WE DON'T KNOW. AND IF YOU SAY, YOU KNOW, IF ANYBODY OUT THERE SAYS THEY KNOW EXACTLY WHAT'S GOING TO HAPPEN, THEY GO TO POLY MARKETS. YEAH, THEY SHOULD GO TO POLY MARKET. AND MAYBE YOU SHOULD ASK THEM WHERE THEIR TIME MACHINE IS BECAUSE THEY'VE COME BACK FROM THE FUTURE. BECAUSE I DON'T KNOW ANYBODY ELSE THAT KNOWS EXACTLY WHAT'S GOING TO HAPPEN. AND GIVEN THAT ENVIRONMENT AND HOW DO WE INVEST? WELL, I THINK YOU JUST STAY YOU STAY PUT. I MEAN, I THINK IT'S I DON'T KNOW IF IT'S TOO LATE TO PANIC BECAUSE PEOPLE MAY, MAY PANIC OVER THE WEEKEND, DEPENDING ON HOW THINGS UNFOLD WITH IRAN. BUT I WOULD STAY PUT. YOU KNOW, I DON'T THINK YOU CAN GAME THIS VERY WELL. IS THERE A POINT AT WHICH WE DON'T STAY PUT BECAUSE IT DRAGS ON? AND HISTORICALLY, THE STOCK MARKET HAS NOT REACTED WELL TO ENERGY SHOCKS. IT HAS NOT ACTED WELL. AS A MATTER OF FACT, WE ALL REMEMBER THE 1970S, THE STAGFLATIONARY PERIOD. THERE WERE TWO OIL SHOCKS BACK THEN. IT WAS A DEAD PERIOD, A DEAD DECADE FOR THE FOR THE STOCK MARKET. SO THAT'S THAT'S NOT OUT OF THE REALM OF POSSIBILITIES NOW THAT WE'VE GOT AN OIL SHOCK AND WE HAD AN OIL SHOCK AT THE BEGINNING OF THE DECADE BACK IN 2022 WHEN RUSSIA INVADED UKRAINE. SO WE ARE GOING TO GET SOMETHING THAT LOOKS LIKE A TWIN PEAK INFLATION SITUATION. BUT I THINK THE DIFFERENCE IS GOING TO BE THE RESILIENCE OF THE CONSUMER, THE ECONOMY, CAPITAL SPENDING. I HAVE BEEN, I HAVE TO SAY, AND I'VE BEEN DOING THIS LONG ENOUGH TO KIND OF GIVE MY SIDEWAYS OPINION. I AM A LITTLE SHOCKED AT HOW RESILIENT MOST OF THE STOCK MARKET HAS BEEN, HAS BEEN. YEAH. I MEAN, I KNOW WE'RE DOWN A COUPLE PERCENT FROM THE HIGHS, BUT WE RALLIED HUGE INTO IT. ARE YOU SURPRISED AT HOW RESILIENT WE'VE BEEN? I'M NOT WELL I'M NOT SURPRISED WITH THE RESILIENCE OF THE ECONOMY SO FAR. IT'S STILL TO BE TESTED. AND THEREFORE I'M NOT THAT SURPRISED BY BY THE MARKET. BECAUSE THE OTHER THING THAT'S HAPPENING HERE IS APPARENTLY INDUSTRY ANALYSTS HAVEN'T GOTTEN THE MEMO THAT THERE'S A WAR GOING ON, AND IT MIGHT CAUSE A RECESSION BECAUSE EARNINGS EXPECTATIONS HAVE ACTUALLY GONE UP. THE ANALYSTS EXPECTATIONS FOR THE ARE THOSE WRONG? IS THAT WRONG TO DO THAT? ENERGY, WHILE CRITICAL, IS THE LOWEST. YEAH. PERCENTAGE OF THE GDP INPUT COST THAT IT'S BEEN EVER IN AMERICAN HISTORY. IT'S NOT GOING TO MAKE A BIG DIFFERENCE. WHAT IS MAKING A BIG DIFFERENCE IS THAT WE CONTINUE TO SEE THAT EARNINGS EXPECTATIONS ARE RISING AND TECHNOLOGY FOR. THERE'S A LOT OF CONTROVERSY ABOUT TECHNOLOGY THESE DAYS, BUT THE ANALYSTS COLLECTIVELY KEEP RAISING THEIR ESTIMATES FOR THAT SECTOR. BUT YET THERE HAS BEEN A DRAWDOWN IN THE MAG-7 A PRETTY GOOD DRAWDOWN. AND IT WOULD HAVE BEEN MORE IF IT HADN'T BEEN FOR THE ANALYSTS RAISING THEIR EARNINGS. IN OTHER WORDS, THE VALUATION MULTIPLE OF THE MARKET OVERALL MARKET WITH THE MAGNIFICENT SEVEN HAS HAS GONE DOWN FROM ABOUT 22 TO 20. IT WOULD HAVE BEEN MORE THAN THAT IF EARNINGS ESTIMATES HADN'T BEEN RIGHT. DO YOU THINK THAT DRAWDOWN IN THE MAG-7 IS RELATED TO THE WAR? I DON'T SEE WHAT THE CONNECTION IS OTHER THAN MAYBE IT'S A NAT GAS AS AN INPUT COST TO AI. IT'S A WHOLE DIFFERENT WAR. AND THAT IT WAS WE TALKED ABOUT IT BEFORE WHEN I WAS HERE. THAT'S KIND OF THE GAME OF THRONES FOR A LONG TIME. THEY WERE SEVEN INDEPENDENT KINGDOMS SURROUNDED BY MOATS, HAPPY WITH WHAT THEY WERE DOING, REALLY WEREN'T COMPETING WITH EACH OTHER. AI SUDDENLY CREATED AN AI ARMS RACE, IF YOU WIL
 
 </details>
+
