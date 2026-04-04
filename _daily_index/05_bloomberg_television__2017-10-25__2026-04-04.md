@@ -1,11 +1,21 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-03T20:10:52Z
-Date range: 2017-10-25 -> 2026-04-03
+Generated at (UTC): 2026-04-04T20:03:08Z
+Date range: 2017-10-25 -> 2026-04-04
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-04 | 01_Videos/Bloomberg Television/Tech Sectors Threatened by Global Helium Shortage.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Searching for the Missing US Airman in Iran.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Resignations, Wearable, Food  Pointed News Quiz.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/NATO's Secretary General Rutte to Meet With Trump Next Week.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Napster in the AI Era.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Fixing Johannesburg Water Crisis Is Top Priority for Mayoral Candidate Helen Zille.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Easter Candy Sales Decline.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/DNC Chair Ken Martin We Don't Need to Out-Raise the Republicans.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US Airman Missing in Iran, March Jobs Report, Easter Candy Sales Down.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Artemis II Passes Halfway Point to Moon.md
 - 2026-04-03 | 01_Videos/Bloomberg Television/NEC’s Hassett on Jobs Report, Oil Exports, US Economy.md
 - 2026-04-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 432026.md
 - 2026-04-02 | 01_Videos/Bloomberg Television/Trump’s Aggressive but Vague Iran Announcement  Insight with Haslinda Amin  04022026.md
