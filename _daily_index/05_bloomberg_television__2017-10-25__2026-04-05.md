@@ -1,11 +1,22 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-04T20:03:08Z
-Date range: 2017-10-25 -> 2026-04-04
+Generated at (UTC): 2026-04-05T20:03:52Z
+Date range: 2017-10-25 -> 2026-04-05
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-05 | 01_Videos/Bloomberg Television/US Successfully Rescues Second Airman from Iran.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Trump Gives Ultimatum to Reopen Strait in 48-Hours.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/TMZ Heads to Washington DC.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/OPEC+ Plans Symbolic Oil Quota Hike for May.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/IBM and the Masters use AI to Bring the Fairway to Every Fan.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Humanitarian Crisis Escalates in Lebanon.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Economic Impact of Ending Birthright Citizenship.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/By The Way  Headlines You Should See.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Daring Rescue Mission, OPEC Meeting on Energy Crisis, TMZ Goes to DC.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/AI FOMO and Why You Should Ignore It.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Africa's Water Supply Faces Funding Gap, World Bank Says.md
 - 2026-04-04 | 01_Videos/Bloomberg Television/Tech Sectors Threatened by Global Helium Shortage.md
 - 2026-04-04 | 01_Videos/Bloomberg Television/Searching for the Missing US Airman in Iran.md
 - 2026-04-04 | 01_Videos/Bloomberg Television/Resignations, Wearable, Food  Pointed News Quiz.md
