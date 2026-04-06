@@ -1,11 +1,17 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-05T20:03:52Z
-Date range: 2017-10-25 -> 2026-04-05
+Generated at (UTC): 2026-04-06T20:04:43Z
+Date range: 2017-10-25 -> 2026-04-06
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-06 | 01_Videos/Bloomberg Television/Trump’s Iran Deadline Looms  Balance of Power Early Edition 4062026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Trump Threatens to Jail Journalist Over Iran Rescue Mission Leak.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Oil Fluctuates on Report of Ceasefire Push; New Trump Deadline Looms  Bloomberg Brief 462026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Next Gen Bitcoin ETFs, Refiners Outperform Broader Market  ETF IQ 462026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Iran Rejects Ceasefire Ultimatum  Open Interest 462026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 462026.md
 - 2026-04-05 | 01_Videos/Bloomberg Television/US Successfully Rescues Second Airman from Iran.md
 - 2026-04-05 | 01_Videos/Bloomberg Television/Trump Gives Ultimatum to Reopen Strait in 48-Hours.md
 - 2026-04-05 | 01_Videos/Bloomberg Television/TMZ Heads to Washington DC.md
