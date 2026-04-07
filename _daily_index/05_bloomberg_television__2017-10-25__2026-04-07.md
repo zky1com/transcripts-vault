@@ -1,11 +1,32 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-06T20:04:43Z
-Date range: 2017-10-25 -> 2026-04-06
+Generated at (UTC): 2026-04-07T20:05:00Z
+Date range: 2017-10-25 -> 2026-04-07
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump’s Iran Ultimatum Heightens War Jitters  Insight with Haslinda Amin 04072026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump's Iran Deadline Looms; Tehran Rejects Proposal  Horizons Middle East & Africa 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump's Iran Deadline Looms Over Markets  Open Interest 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump Says Iran Could ‘Die Tonight’  Balance of Power Early Edition 4072026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump Escalates Iran War Threats as Deadline Looms  The Opening Trade 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump Doubles Down on Iran Deadline; Universal Music Acquisition Proposal  Bloomberg Brief 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Singapore's Top Diplomat Warns Worse Case on War Yet to Come  The China Show 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Risks Rise on Yet Another Iran Deadline 3-Minutes MLIV.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Oil Gains as Trump Amps Up Threats Before Iran Deadline  The Asia Trade 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Iran War Trump's Deadline Nears as Threats Escalate.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Iran War Trump Escalates Iran Threats Ahead of Tuesday Deadline  Daybreak Europe 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Iran War Trump 'Not At All' Concerned About Committing War Crimes  The Pulse 47.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Intel Announces It Is Joining Musk's Terafab Project.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Hungary Election Vance Endorses Orban, Accuses EU of 'Interference'.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/How Iran War Could Reshape US Alliances in Asia.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Google Paper Warns Crypto on Quantum Risk Ahead of 2029 Timeline.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Fed’s Williams on Inflation, Monetary Policy, Labor Market.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Digital Asset Treasuries Under Pressure, IMF Warns of Tokenization Risks  Bloomberg Crypto 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Australia Risks Sharp Recession in Prolonged Iran War.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Artemis Update NASA Astronauts Are Heading Back to Earth.md
 - 2026-04-06 | 01_Videos/Bloomberg Television/Trump’s Iran Deadline Looms  Balance of Power Early Edition 4062026.md
 - 2026-04-06 | 01_Videos/Bloomberg Television/Trump Threatens to Jail Journalist Over Iran Rescue Mission Leak.md
 - 2026-04-06 | 01_Videos/Bloomberg Television/Oil Fluctuates on Report of Ceasefire Push; New Trump Deadline Looms  Bloomberg Brief 462026.md
