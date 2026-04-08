@@ -1,11 +1,32 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-07T20:05:00Z
-Date range: 2017-10-25 -> 2026-04-07
+Generated at (UTC): 2026-04-08T20:06:14Z
+Date range: 2017-10-25 -> 2026-04-08
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-08 | 01_Videos/Bloomberg Television/What Iran War Ceasefire Means for Stocks, Bonds, Oil  The Pulse 48.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US-Iran Agree To Two-Week Ceasefire; Oil Slumps  Horizons Middle East & Africa 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US, Iran Ceasefire What Next for the 800 Vessels Trapped in the Persian Gulf.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US, Iran Agree to Two-Week Ceasefire  The Asia Trade 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US, Iran Agree to Two-Week Ceasefire  Balance of Power Early Edition 4082026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Stocks Rally, Oil Plunges on US, Iran Agreeing to Two-Week Ceasefire  Bloomberg Brief 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Relief Sweeps Through Markets on US-Iran Ceasefire Plan  The China Show 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Pakistan Seeks Two Week Extension For Iran  Balance of Power 04072026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Oil Falls as US, Iran Agree to Two-Week Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Oil Drops After Iran Ceasefire  Open Interest 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Middle East War US, Iran Agree to Two-Week Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Middle East  Airlines Rally After US, Iran Agree to Two-Week Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Market Relief After US-Iran Ceasefire Before Trump Deadline  The Opening Trade 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Madison Air Seeks $2.23B in IPO, Activist Investing Picks Up In 2026  Bloomberg Deals 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Iran War Trump Agrees to Two-Week Iran Ceasefire, Oil Slumps  Daybreak Europe 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Iran Ceasefire Sparks Huge Market Moves 3-Minutes MLIV.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/How Pakistan, China Played Roles in US-Iran Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/How Fragile Is The US-Iran Ceasefire  Insight with Haslinda Amin 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Goldman's Dane Likes Semis, AI Building Blocks on Capex.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Ecuador’s Noboa Open to Broader US Role on Security.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 482026.md
 - 2026-04-07 | 01_Videos/Bloomberg Television/Trump’s Iran Ultimatum Heightens War Jitters  Insight with Haslinda Amin 04072026.md
 - 2026-04-07 | 01_Videos/Bloomberg Television/Trump's Iran Deadline Looms; Tehran Rejects Proposal  Horizons Middle East & Africa 472026.md
 - 2026-04-07 | 01_Videos/Bloomberg Television/Trump's Iran Deadline Looms Over Markets  Open Interest 472026.md

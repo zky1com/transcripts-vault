@@ -1,0 +1,48 @@
+---
+title: "Goldman's Dane Likes Semis, AI Building Blocks on Capex"
+people_mentioned: []
+channel: "Bloomberg Television"
+channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
+video_id: "iFL108wiiCc"
+url: "https://www.youtube.com/watch?v=iFL108wiiCc"
+publish_date: 2026-04-08
+publish_timestamp_utc: "2026-04-08T15:45:34Z"
+duration: "7:42"
+duration_seconds: 462
+views_at_import: 1648
+transcript_language: ""
+has_captions: null
+transcript_status: "done"
+word_count: 1563
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1563 words)</summary>
+
+Brooke, I'm so happy to have you here because there is fragility. There is also potential to stop buying some beaten up stocks. Yeah. What do you make of today's news? So first, thanks for having me on. It's great to be here today. So, you know, our perspective is that investors need to be focused on the size and the magnitude of this shift that we're seeing. And our baseline forecast when we do our bottoms up work continue to point to acceleration in CapEx spending and it being durable for much longer. So we feel like investors need to have exposure to the companies that are directly benefiting from that. I don't think there's any question in anyone's mind right now as you're seeing these latest models come out about how impactful they're gonna be, how much they're gonna change, how much they're gonna be able to do. And so while there's uncertainty about how, you know, which sectors get impacted in which ways and how it all plays out, fundamentally, right now, we're in the start of what's gonna be a multiyear CapEx build out, and investors need exposure to that. And so our baseline is, you know, you wanna still be involved in the semiconductor names, the networking names, things like that that are the direct, beneficiaries of the spending. Brooke, the the corners of the technology market that are rallying the hardest in this moment are memory, logic, storage. I'm talking right now Yep. In response to the ceasefire. But that would indicate, if you look at some of the names that returned to the prices they were at prior to the start of the war in Iran, that this conflict has done nothing to divert the the the trajectory that you believe capital expenditures are on when it comes to the AI build out. Yeah. And our fundamental belief is is that there's been been nothing that's changed in that backdrop. The the plans and expectations that we had from these companies in terms of their levels of spending, where they were putting the capacity, how tight compute is right now, none of that has changed. And, yes, the world is more uncertain today than it was four months ago, and risk premia have probably moved higher structurally because of that. It doesn't change the, the direction and the magnitude of what we're seeing. You know, remember that in this cycle, right now, compute and all the associated parts around compute are the most restricted and hardest to get thing in the marketplace. And if you want these models to perform better and to keep, you know, doing more and more, the key ingredient is compute and power and memory and all of the things that get pulled on by that. So, yeah, no, there's there's nothing that would change the outlook. You know, we're very close to the big spenders around this area. So when you think of the mag seven companies, we spend a lot of time meeting with those management teams and understanding what their plans look like. None of them are wavering in their commitment and their belief in the opportunity in front of them behind this. Brooke, just just very quickly, did supply chains for chip and chip manufacturing prove to be more resilient in this moment than they were in the early days of the pandemic? Yes. But I still think that those supply chains are an area where there's a tremendous amount of focus in building more resiliency, creating more chip capacity, doing it in more geographies, and that build out is likely to persist. But as of today and what we've seen through this, you know, latest geopolitical crisis, there hasn't been any material impact on supply chains there. What's been really interesting is when we think about the semis, NVIDIA, Marvel, Broadcom, names that you're in, you like exposure to. Is there any hit longer term to the margin or any viewpoint on how you get into the picks and shovels still? Because when we think about the energy prices, for example, that does inflate a little Yeah. So our perspective is, just like you said, like, we need you investors need exposure to the picks and shovels and this build out because it's still early and still happening. You know, the margin structures right now are high relative to history, but we think durable because of the fact that, you know, the this relationship between your ability to put compute in the ground and generate revenue for the model companies and for the cloud vendors is still very tight. So, you know, there isn't a big discontinuity event happening from a either a supplier or a demand side that would upset margin structures. So, you know, you mentioned a couple of the names. One of them that we think, you know, right now the market hasn't, fully gotten its arms around is what's happening with Marvell. And last year, there's a lot of controversy around Marvell and their ability to, you know, hold share at Amazon and and some of their other big vendors. What we think the market's missing is around all of the ASIC business. Marvell has this great opportunity to, you know, attach XPU, attach products, and grow substantially. So we think that's a specific company where there's a real opportunity around the upside there. I mean, love the fundamental analysis and and cutting through the noise of the moment from a macro perspective. Go go to the anthropic news then. We started this conversation by you saying, like, look at the changes and the in step changes you're seeing in models. You like the likes of, well, Palo Alto Networks. They're one of the key 40 companies that's helping stress test and understand Yeah. What the cyber risk is from that. Yeah. So I I describe myself a little bit as as a reformed software investor. I grew up following the entire software suite, and, obviously, software has some headwinds right now that we can talk about. But within that, a whole industry set, we think that companies that are involved in cybersecurity have a massive opportunity in front of them. Some of the companies that are helping with data problems have really big opportunities in front of them. So, you know, the news from Anthropic last night is, you know, the power of those models is incredible, and it is exposing a whole bunch of vulnerabilities out there that people didn't know existed. That is really good for the cyber companies, you know, just from a a business standpoint. Right? There's gonna be more vulnerabilities exposed. Bad actors are gonna try and take advantage of that. Enterprises are gonna need to be defended in the right ways, and so owning leading edge next gen security providers is a really good place for investors to be at. Brooke, I I wanna end this in by going back to the ceasefire and the war in Iran. You are an investor in some of the biggest hyperscalers and the deployers of capital expenditure. Right? And this president's central policy was to deregulate, expedite permits, and hold those names accountable to energy spending. Then we had the war in Iran. And so just from from the technology investors' perspective, how your desk analysts and you are modeling for the wild card that is a president who on the one hand has an AI policy grounded in deregulation and letting them move quickly and then move to to an escalated conflict in Iran. Yeah. So with every investment we're making, we're running lots of scenarios on different parts of the business and what can happen and what can change. So if you're talking about, like, changes in the fundamental input costs of creating compute to run these models and to do things, As we project out where we think, you know, p and l's and cash flows can look like, that's one of the factors that we're stress testing. And we're saying, look. If power, you know, goes up by x factor, what does it do to the ultimate return on a dollar of GPU investment, and and how does that get priced in? Similarly, on other things like, you know, on memory supply. And if we can't get enough memory to fund these things, you know, what happens there and how does that impact stuff? So all of this comes into the fundamental frameworks and the the risk reward that we're managing and we're looking through with every investment we make. And what I would just tell you is a guy that's been investing in the sector for a long time, I am skeptical of my ability to be precise, but I'm really good about my ability to understand ranges of outcome. And so we're always looking for when those ranges favor us and favor us putting capital to work. And so, you know, just to sort of end where I started with, we still think this build out of CapEx that we're very early in it, that we're not late cycle. We're early cycle to mid cycle in this, and that there's plenty of opportunity to continue to compound wealth and growth in, you know, the fundamental chip picks and shovels, chip ecosystems of AI.
+
+</details>
