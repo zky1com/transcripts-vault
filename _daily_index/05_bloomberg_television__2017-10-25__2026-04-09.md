@@ -1,11 +1,27 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-08T20:06:14Z
-Date range: 2017-10-25 -> 2026-04-08
+Generated at (UTC): 2026-04-09T20:06:10Z
+Date range: 2017-10-25 -> 2026-04-09
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-09 | 01_Videos/Bloomberg Television/US-Iran Ceasefire at Risk amid Lebanon Attacks  Insight with Haslinda Amin 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/US, Iran Prepare for Talks  Balance of Power Early Edition 4092026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Trump's Conflicting Statements Sow Confusion on Ceasefire  Balance of Power 04082026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Trump Vows To Keep Troops In Place Before Iran Talks  The Opening Trade 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Stock Rally Stalls, Oil Rebounds Ahead of US-Iran Talks, Ceasefire Doubts  Bloomberg Brief 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Rutte Says NATO Moving on From 'Unhealthy' Dependence on US.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Iran War Vance to Lead Iran Talks as Tehran Says Ceasefire Violated  Daybreak Europe 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Iran War US, Iran Prepare for Talks in Pakistan  The Pulse 49.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Iran Ceasefire Vance to Lead US Delegation in Islamabad Talks.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Gulf Tensions Push Oil Higher  Open Interest 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Fragile US-Iran Truce; Israel Intensifies Lebanon Attacks  Horizons Middle East & Africa 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/China Touts Efforts to Push For US-Iran Truce  The China Show 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/China Has Done Its Best for Mideast Peace, Expert Says.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Ceasefire Uncertainty Dampens Mood in Asia  The Asia Trade 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Ceasefire Stirs Bets on Asian Currencies 3-Minutes MLIV.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 492026.md
 - 2026-04-08 | 01_Videos/Bloomberg Television/What Iran War Ceasefire Means for Stocks, Bonds, Oil  The Pulse 48.md
 - 2026-04-08 | 01_Videos/Bloomberg Television/US-Iran Agree To Two-Week Ceasefire; Oil Slumps  Horizons Middle East & Africa 482026.md
 - 2026-04-08 | 01_Videos/Bloomberg Television/US, Iran Ceasefire What Next for the 800 Vessels Trapped in the Persian Gulf.md
