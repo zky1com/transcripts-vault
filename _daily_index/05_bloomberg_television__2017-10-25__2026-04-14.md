@@ -1,11 +1,19 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-13T20:06:28Z
-Date range: 2017-10-25 -> 2026-04-11
+Generated at (UTC): 2026-04-14T20:08:34Z
+Date range: 2017-10-25 -> 2026-04-14
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-14 | 01_Videos/Bloomberg Television/Relief Rally in Asia Amid Renewed Hopes for Iran Peace Deal  Insight with Haslinda Amin 04142026.md
+- 2026-04-14 | 01_Videos/Bloomberg Television/Dimon Warns on Economy and AI  Open Interest 4142026.md
+- 2026-04-14 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4142026.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/S&P Erases Losses Since Iran War Began  Closing Bell.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Nouriel Roubini on Iran War, Oil Shock, AI Boom.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Inside the $20T ETF Industry, 'QQQ' Competition Heats Up  ETF IQ 4132026.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4132026.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Bloomberg Open Interest 4132026.md
 - 2026-04-11 | 01_Videos/Bloomberg Television/Oil Demand Is About To Spike Says Schork.md
 - 2026-04-10 | 01_Videos/Bloomberg Television/Big Bank CEOs summoned to Washington for Emergency Meeting on Anthropic.md
 - 2026-04-10 | 01_Videos/Bloomberg Television/AI Cyber Threats Alarm Wall Street  Open Interest 4102026.md
