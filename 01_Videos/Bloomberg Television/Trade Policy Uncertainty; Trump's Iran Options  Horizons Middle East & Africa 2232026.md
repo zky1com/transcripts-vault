@@ -1,6 +1,6 @@
 ﻿---
 title: "Trade Policy Uncertainty; Trump's Iran Options | Horizons Middle East & Africa 2/23/2026"
-people_mentioned: []
+people_mentioned: ["Laura Davidson", "Alan Eyre", "Amy Gower"]
 channel: "Bloomberg Television"
 video_id: "lSlJ0LPtnS4"
 url: "https://www.youtube.com/watch?v=lSlJ0LPtnS4"
@@ -8,76 +8,53 @@ publish_date: 2026-02-23
 duration: "46:06"
 word_count: 6064
 content_type: "news"
-delivery_mode: "news-report"
-broad_category: "finance-investing"
-subcategories: ["stock-analysis", "risk-management", "options-trading", "market-data"]
-series_name: ""
-episode_id: ""
+delivery_mode: "panel-interview"
+broad_category: "geopolitics"
+subcategories: ["trade-policy", "iran", "commodities", "currency-markets"]
+series_name: "Horizons Middle East & Africa"
+episode_id: "2026-02-23"
 primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Bloomberg"]
-topics: ["stock-analysis", "risk-management", "options-trading", "market-data", "ai-safety", "ai-regulation"]
-tags: ["stock-analysis", "risk-management", "options-trading", "market-data", "ai-safety", "ai-regulation"]
+host_names: []
+interviewer_names: []
+interviewee_profiles: ["Laura Davidson - Bloomberg politics editor", "Alan Eyre - Distinguished diplomatic fellow at the Middle East Institute", "Amy Gower - Metals and mining commodities strategist at Morgan Stanley"]
+speaker_profiles: ["Laura Davidson - Bloomberg politics editor", "Alan Eyre - Distinguished diplomatic fellow at the Middle East Institute", "Amy Gower - Metals and mining commodities strategist at Morgan Stanley"]
+organizations_mentioned: ["Supreme Court", "Middle East Institute", "Morgan Stanley", "ANZ", "IMF"]
+locations_mentioned: ["Geneva", "Iran", "United States", "India", "European Union", "Mozambique"]
+tools_mentioned: ["tariffs", "gold ETF", "critical minerals stockpile"]
+companies_mentioned: []
+topics: ["trade-policy", "iran", "diplomacy", "gold", "copper", "policy-uncertainty"]
+tags: ["trade-policy", "iran", "diplomacy", "gold", "copper", "policy-uncertainty"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 4
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-16"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on joumanna, iran, tariffs. ON THE BACK OF THAT THEY HAD TO BACK DOWN FROM RECIPROCAL TARIFFS AND SHORTLY AFTER A VISIBLY ANGRY PRESIDENT TRUMP SAID THEY WOULD. PRESIDENT TRUMP IS CONSIDERING LIMITED MILITARY STRIKES ON IRAN . JOUMANNA: NFT REPORT CAME OUT TWO WEEKS AGO SAYING THAT TRUMP ADMINISTRATION WAS THINKING BACK ARE THINKING OF DIALING BACK TARIFFS ON STEEL AND.
+This *Horizons Middle East & Africa* episode centers on two linked uncertainties: the legal and negotiating fallout from the Supreme Court?s rejection of Trump?s reciprocal tariffs, and the rising risk that U.S.-Iran diplomacy gives way to military escalation. Laura Davidson explains why the new 15% blanket tariff leaves existing trade deals in a confused interim state. Alan Eyre argues that U.S. military action would likely harden Iran rather than force concessions. Amy Gower says the same policy uncertainty is supporting precious metals while copper remains underpinned by scarcity and structural demand.
 
 ## Key Insights
 
+- Laura Davidson says the administration?s shift from country-by-country reciprocal tariffs to a temporary 15% blanket levy has thrown existing trade negotiations into legal and practical confusion.
+- Davidson adds that countries now have to decide whether to keep negotiating immediately or wait for further court rulings, refund decisions, and alternative White House tariff authorities.
+- Alan Eyre argues that a limited U.S. strike is unlikely to create a clean diplomatic reset because Iran sees capitulation as inviting further aggression and has signaled it would retaliate aggressively.
+- Eyre also says Washington has boxed itself in by massing forces for an issue that, in his telling, does not present an imminent Iranian threat requiring immediate action.
+- Amy Gower says tariff uncertainty and dollar weakness are still providing broad support for gold and silver, while copper remains structurally supported by supply scarcity and strategic demand.
 
-- WE SEE TIGHTER LIQUIDITY SPACES AND MORE PRESSURE TO CUT SPENDING, WHICH WOULD MAKE IT MORE UNSTABLE FOR AN ECONOMY WERE ALREADY TWO THIRDS OF THE POPULATION LIVE BELOW THE POVERTY LINE, THOUGH PERHAPS ON A SLIGHTLY POSITIVE NOTE THE IMF POINTS OUT THE FUND IS LOOKING AT MOZAMBIQUE AS AN OPPORTUNITY THAT WILL POTENTIALLY COME FROM THEM KICKSTARTING LNG PROJECTS.
+## Claims
 
-- JOUMANNA: NFT REPORT CAME OUT TWO WEEKS AGO SAYING THAT TRUMP ADMINISTRATION WAS THINKING BACK ARE THINKING OF DIALING BACK TARIFFS ON STEEL AND ALUMINUM AND OTHER SPECIFIC METALS.
-
-- ON THE BACK OF THAT THEY HAD TO BACK DOWN FROM RECIPROCAL TARIFFS AND SHORTLY AFTER A VISIBLY ANGRY PRESIDENT TRUMP SAID THEY WOULD GO DOWN THE ROUTE OF A BLANKET 10% SUBSEQUENTLY REVISED UPWARDS TO 15% ON COUNTRIES.
-
-- PRESIDENT DONALD TRUMP SAYS HE IS CONSIDERING LIMITED MILITARY STARTS TO PRESSURE IRAN INTO SIGNING A NEW NUCLEAR DEAL BUT BOMBING THE COUNTRY MAY HAVE THE OPPOSITE EFFECT.
-
-- ADMINISTRATION TO LAUNCH A LIMITED MILITARY STRIKE THAT WOULD THEN PRESUMABLY BRING IRAN BACK TO THE NEGOTIATING TABLE AND BE IN MORE OF A MODE OF OFFERING CONCESSIONS THAT IF THAT DOES NOT GO WELL IT COULD LEAD TO PROTRACTED MILITARY ACTION.
-
-- SUPREME COURT RULED AGAINST PRESIDENT DONALD TRUMP'S USE OF EMERGENCY POWERS TO SET RECIPROCAL TRADE DUTIES FRIDAY PROMPTING THE ADMINISTRATION TO RULE OUT AN ALTERNATIVE 15% OF GLOBAL LEVY.
-
-
-
-
-## Key Quotes
-
-
-> OFFICIALS SAY THE SUPREME COURT RULING WILL NOT UNRAVEL DEALS NEGOTIATED WITH OTHER COUNTRIES ADDING THE U.S.
-
-
-> WILL HONOR AGREEMENTS ALREADY STRUCK AND EXPECT PARTNERS TO DO THE SAME.
-
-
-> PRESIDENT TRUMP IS CONSIDERING LIMITED MILITARY STRIKE TO PRESSURE IRAN INTO SIGNING A NEW NUCLEAR DEAL.
-
-
-> AND IRAN ARE SET TO RESUME TALKS IN NET -- GENEVA LATER THIS WEEK.
-
-
-
-
-
+- [[Laura Davidson - The 15% blanket tariff leaves existing trade deals in legal and practical confusion]]
+- [[Alan Eyre - US strikes on Iran would more likely trigger escalation than renewed concessions]]
+- [[Alan Eyre - A limited strike followed by diplomacy is an implausible path because Iran says it will retaliate hard]]
+- [[Amy Gower - Tariff uncertainty and dollar weakness are keeping gold well supported]]
 
 ## Full Transcript
 

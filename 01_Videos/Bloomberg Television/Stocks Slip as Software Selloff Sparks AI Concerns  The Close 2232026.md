@@ -1,6 +1,6 @@
 ﻿---
 title: "Stocks Slip as Software Selloff Sparks AI Concerns | The Close 2/23/2026"
-people_mentioned: []
+people_mentioned: ["Alessio De Longis", "Aaron Ford", "Michael McKee", "Christopher Waller", "Kenneth Kelly", "Todd Kahn"]
 channel: "Bloomberg Television"
 video_id: "iA1d5qiukt0"
 url: "https://www.youtube.com/watch?v=iA1d5qiukt0"
@@ -8,76 +8,54 @@ publish_date: 2026-02-24
 duration: "1:30:22"
 word_count: 13682
 content_type: "news"
-delivery_mode: "news-report"
+delivery_mode: "panel-interview"
 broad_category: "finance-investing"
-subcategories: ["stock-analysis", "valuation", "risk-management", "market-data"]
-series_name: ""
-episode_id: ""
+subcategories: ["equities", "tariff-policy", "banking", "consumer-brands"]
+series_name: "The Close"
+episode_id: "2026-02-23"
 primary_person: ""
-host_names: ["Bloomberg Television"]
-interviewer_names: ["Bloomberg Television"]
-interviewee_profiles: []
-speaker_profiles: []
-organizations_mentioned: ["Bloomberg Television"]
-locations_mentioned: []
-tools_mentioned: []
-companies_mentioned: ["Salesforce", "Bloomberg"]
-topics: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "ai-regulation", "ai-coding", "product-management"]
-tags: ["stock-analysis", "valuation", "risk-management", "market-data", "ai-safety", "ai-regulation", "ai-coding", "product-management"]
+host_names: ["Romaine Bostick"]
+interviewer_names: ["Romaine Bostick"]
+interviewee_profiles: ["Alessio De Longis - Head of asset allocation at Invesco", "Aaron Ford - Attorney General of Nevada", "Kenneth Kelly - Chair of the American Bankers Association and CEO of First Independence Bank", "Todd Kahn - CEO of Coach"]
+speaker_profiles: ["Romaine Bostick - Bloomberg Television host", "Alessio De Longis - Head of asset allocation at Invesco", "Aaron Ford - Attorney General of Nevada", "Michael McKee - Bloomberg economics correspondent", "Kenneth Kelly - Chair of the American Bankers Association and CEO of First Independence Bank", "Todd Kahn - CEO of Coach"]
+organizations_mentioned: ["Invesco", "Supreme Court", "Federal Reserve", "American Bankers Association"]
+locations_mentioned: ["New York", "Washington, D.C.", "Las Vegas", "China", "Wuhan"]
+tools_mentioned: ["AI tools", "coding agents", "stablecoins", "tokenized deposits"]
+companies_mentioned: ["Salesforce", "Adobe", "American Express", "Capital One", "DoorDash", "Uber", "Coach", "Hims & Hers", "Alphabet", "Workday"]
+topics: ["equities", "ai-trade", "tariff-policy", "federal-reserve", "digital-assets", "consumer-pricing"]
+tags: ["equities", "ai-trade", "tariff-policy", "federal-reserve", "digital-assets", "consumer-pricing"]
 pipeline_stage: video_only
-claims_status: pending
+claims_status: done
 evidence_status: pending
-claims_count: 0
+claims_count: 5
 evidence_count: 0
 batch_id: ""
-last_processed_at: "2026-03-03"
+last_processed_at: "2026-04-16"
 speech_status: pending
 world_status: pending
 speech_evidence_count: 0
 world_evidence_count: 0
 ---
 
-
 ## Summary
 
-The discussion centers on romaine, more, down. ROMAINE AND KRISTINE FINISHING ON "THE CLOSE" AND EMILY AND MYSELF FINISHING ON "BLOOMBERG BUSINESSWEEK DAILY." ROMAINE: A LOT MORE COVERAGE ON "THE CLOSE.". NASDAQ DOWN MORE THAN 1%, S&P DOWN MORE THAN ONE PRESENT AS WELL. ROMAINE CONTINUING -- SORRY, ROMAINE AND KRISTINE.
+This episode of *The Close* ties together several late-day market themes: the renewed selloff in AI-sensitive software stocks, the legal and economic fallout from the Supreme Court ruling against Trump?s reciprocal tariffs, the Fed?s wait-and-see stance, evolving bank attitudes toward digital assets, and Coach?s effort to protect margins without abandoning accessible pricing. The strongest transcript-grounded viewpoints come from Alessio De Longis on market rotation and bond-market steepening, Aaron Ford on the tariff ruling and possible next legal fights, Kenneth Kelly on keeping digital-asset rules fair across banks, and Todd Kahn on pricing discipline in luxury accessories.
 
 ## Key Insights
 
+- Alessio De Longis argues that the best way to stay invested is to rotate toward cyclical value sectors such as financials, industrials, and materials instead of remaining concentrated in the most financing-sensitive AI trades.
+- De Longis also frames the recent global yield-curve steepening as largely healthy, driven by higher real rates and debt supply rather than a classic inflation scare that would force a policy tightening cycle.
+- Aaron Ford says the tariff case was fundamentally about statutory limits and rule-of-law constraints on presidential power, and he signals that states will keep reviewing other tariffs for legal vulnerability.
+- Kenneth Kelly says digital-asset innovation belongs inside the banking system, but only if community banks and large banks face fair, like-for-like rules.
+- Todd Kahn says Coach can sustain margin expansion more responsibly by discounting less and preserving value perception rather than repeatedly forcing through outsized price increases.
 
-- ROMAINE AND KRISTINE FINISHING ON "THE CLOSE" AND EMILY AND MYSELF FINISHING ON "BLOOMBERG BUSINESSWEEK DAILY." ROMAINE: A LOT MORE COVERAGE ON "THE CLOSE." THE PATH FORWARD AFTER THE SUPREME COURT'S RULING AGAINST RECIPROCAL TARIFFS.
+## Claims
 
-- ROMAINE: WHEN WE TALK ABOUT THE HEALTHY OF THE ECONOMY AND THE IDEA OF HOW THAT FEEDS INTO YOUR SPACE AND WHAT YOU DO, I HAVE TO ASK YOU ABOUT THE IMPACT OF THE TARIFF RULING ON FRIDAY, WHETHER THERE WOULD BE ANY MATERIAL CHANGE IN YOUR BUSINESS, PARTICULARLY NOW THAT THE PRESIDENT PLANS TO MAINTAIN THESE TARIFFS IN SOME FORM OR ANOTHER, USING DIFFERENT LEGAL AVENUES.
-
-- WHEN YOU SAW THE REACTION ON FRIDAY FROM THE COURT, WHERE YOU ARE ANTICIPATING THAT THAT RULING WAS GOING TO GO IN YOUR FAVOR, AND MORE IMPORTANTLY, DID YOU THINK IT WAS GOING TO BREAK DOWN AT THAT 6-3 LEVEL, THE WAY IT CAME OUT?
-
-- THE REPORT BASICALLY SAYING THAT A LOT OF NEW CODING TOOLS COULD UPEND A LOT OF COMPANIES INCLUDING COMPANIES LIKE AN EXPRESS AS WELL AS APPS LIKE DOORDASH AND UBER AND TRADITIONAL SOFTWARE COMPANIES LIKE IBM.
-
-- IN THIS SITUATION WHERE WE ARE RIGHT NOW, IS THERE A CASE TO EVEN REACT, OR DO YOU SIT BACK AND TAKE IT FOR WHAT IT IS AND HOPE THAT AT SOME POINT WE DO GET A LITTLE BIT MORE FORMALITY, MORE CLARITY?
-
-- I WANT TO START OUT WITH THE STRUCTURAL TRADE THAT WE'VE BEEN SEEING IN THIS MARKET, THE IDEA OF SELLING OFF A LOT OF THOSE WINNERS FROM LAST YEAR BUT THE PAST THREE YEARS OF THAT BIG TECH TRADE, THAT ROTATION, OSTENSIBLY, INTO WHAT ARE SUPPOSED TO BE THOSE NAMES THAT ARE SUPPOSED TO BE LESS AFFECTED BY THE AI UPS AND DOWNS.
-
-
-
-
-## Key Quotes
-
-
-> ROMAINE: THE SPECTER OF A I RATTLES MARKETS ONCE AGAIN.
-
-
-> LIVE FROM BLOOMBERG HEADQUARTERS IN NEW YORK, I AM ROMAINE BOSTICK.
-
-
-> >> WE ARE TAKING UP TO THE CLOSING BELL HERE IN THE U.S..
-
-
-> LET'S TAKE A QUICK LOOK AT MARKETS AT THE MOMENT.
-
-
-
-
-
+- [[Alessio De Longis - Cyclical value sectors offer a better way to stay invested than crowded AI trades]]
+- [[Alessio De Longis - Rising long-end yields reflect healthy curve steepening more than an inflation scare]]
+- [[Aaron Ford - The Supreme Court tariff ruling confirms Trump exceeded his authority under IEEPA]]
+- [[Kenneth Kelly - Digital-asset rules should let community banks compete on the same fair terms as large banks]]
+- [[Todd Kahn - Coach can protect margins better by discounting less than by relying on steep price hikes]]
 
 ## Full Transcript
 

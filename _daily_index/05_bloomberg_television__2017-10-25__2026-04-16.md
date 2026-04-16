@@ -1,11 +1,13 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-15T20:08:42Z
-Date range: 2017-10-25 -> 2026-04-15
+Generated at (UTC): 2026-04-16T20:12:33Z
+Date range: 2017-10-25 -> 2026-04-16
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-16 | 01_Videos/Bloomberg Television/Why Stocks Are Gaining Despite Iran War Risks  Insight with Haslinda Amin 04162026.md
+- 2026-04-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4162026.md
 - 2026-04-15 | 01_Videos/Bloomberg Television/IMF's Georgieva Says Markets Need to Be More Cautious.md
 - 2026-04-14 | 01_Videos/Bloomberg Television/Relief Rally in Asia Amid Renewed Hopes for Iran Peace Deal  Insight with Haslinda Amin 04142026.md
 - 2026-04-14 | 01_Videos/Bloomberg Television/Dimon Warns on Economy and AI  Open Interest 4142026.md
