@@ -1,11 +1,41 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-16T20:12:33Z
-Date range: 2017-10-25 -> 2026-04-16
+Generated at (UTC): 2026-04-17T20:04:12Z
+Date range: 2017-10-25 -> 2026-04-17
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-17 | 01_Videos/Bloomberg Television/What's Next for Reed Hastings After Leaving Netflix.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/US-Iran Ceasefire Optimism Meets Market Skepticism  Insight with Haslinda Amin 04182026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/US May Unfreeze $20 Billion in Funds for Iran’s Uranium Axios.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Speaks to Bloomberg - Expects Deal With Iran to Come Quickly.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says US-Iran Truce Deal Looking 'Very Good'.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Will Suspend Nuclear Program, Hormuz Reopens  Balance of Power 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Is Removing Mines From Hormuz Strait.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Deal Getting Closer; Netflix Drops On Outlook Miss  Bloomberg Brief 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Agrees to Unlimited Suspension of Nuclear Program.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Iran Deal 'Looking Good' & Israel-Lebanon Ceasefire  Daybreak Europe 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Hopeful of Iran Peace Deal & New Crisis for UK PM Starmer  The Pulse 04172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Hints Lasting Iran Truce; Israel-Lebanon Ceasefire  Horizons Middle East & Africa 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Stock Rally Stalls as Markets Await Iran Ceasefire  The Asia Trade 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Stock Gains Pause, Rally Remains Intact 3-Minutes MLIV.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Rep. Hill Says Time to Move on From Powell Case and Confirm Warsh.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Reed Hastings Stepping Down as Netflix Chairman and Co-Founder.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Oil and Gas Prices Plunge After Iran Says Hormuz Strait Is Open.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Musk Asks Suppliers to Move at ‘Light Speed’ on Terafab Plan.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Israel, Lebanon Agree on 10-Day Ceasefire  Balance of Power 04162026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Iran War Trump Says Deal Getting Closer as Lebanon Truce Starts  The Opening Trade 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Iran Says Strait of Hormuz Is Completely Open for Commercial Ships.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Investors Weigh Impact of Iran War, Expectations For Credit Market Economy  Real Yield 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Ed Yardeni Sees Three Reasons for Optimism on Equities.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Bulgaria Election Rumen Radev Extends Lead Ahead of Vote.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/BlackRock’s Rieder Says Equity Technicals Are Extraordinary.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Are Markets Moving Past Iran War Shock  The China Show 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Anthropic’s Mythos What It Is and What It Is Capable of.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Airlines Won't Lower Prices Soon, Says Brian Kelly, the 'Points Guy'.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/A Major Breakthrough David Hale on Israel, Lebanon 10-Day Ceasefire.md
 - 2026-04-16 | 01_Videos/Bloomberg Television/Why Stocks Are Gaining Despite Iran War Risks  Insight with Haslinda Amin 04162026.md
 - 2026-04-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4162026.md
 - 2026-04-15 | 01_Videos/Bloomberg Television/IMF's Georgieva Says Markets Need to Be More Cautious.md
