@@ -1,11 +1,29 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-17T20:04:12Z
-Date range: 2017-10-25 -> 2026-04-17
+Generated at (UTC): 2026-04-18T20:03:51Z
+Date range: 2017-10-25 -> 2026-04-18
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-18 | 01_Videos/Bloomberg Television/Trace the Origins of Bitcoin, The Search for Satoshi.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/The Hidden Damage Behind the Iran Oil Shock.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Tech Has Transformed Many Industries. Why Not Child Care.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Strait of Hormuz Uncertainty Causes Stocks to Jump.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Strait of Hormuz Shut Amid Reports of Gunfire.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Peace Deal Uncertain, Iran Says Strait of Hormuz is Shut.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Major Banks Shake Off Private Credit Fears.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Iran Claims ‘Strict Control’ of Strait of Hormuz.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/India’s Parliament Expansion and the North-South Divide.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/How Rising Energy Bills Are Impacting Elections.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/How OpenTable Plans to Make a Comeback.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/How JLL is Embracing Artificial Intelligence.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Hank Paulson on Iran War, Inflation, and Market Risk.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Gunfire Reported as Iran Shuts Strait of Hormuz and US Blockade Intensifies.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Federal Agency Probes Suspicious Oil Trades.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/BTW  Boston Globe Reporter's Wicked Accent.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Iran Restricts Strait, Oil Futures Down, Stocks Rally.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/AI and Consumers in the Beauty Industry.md
 - 2026-04-17 | 01_Videos/Bloomberg Television/What's Next for Reed Hastings After Leaving Netflix.md
 - 2026-04-17 | 01_Videos/Bloomberg Television/US-Iran Ceasefire Optimism Meets Market Skepticism  Insight with Haslinda Amin 04182026.md
 - 2026-04-17 | 01_Videos/Bloomberg Television/US May Unfreeze $20 Billion in Funds for Iran’s Uranium Axios.md
