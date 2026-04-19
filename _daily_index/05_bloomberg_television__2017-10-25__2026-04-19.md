@@ -1,11 +1,29 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-18T20:03:51Z
-Date range: 2017-10-25 -> 2026-04-18
+Generated at (UTC): 2026-04-19T20:05:40Z
+Date range: 2017-10-25 -> 2026-04-19
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-19 | 01_Videos/Bloomberg Television/Why the US Is Pushing to Rebuild Its Copper Supply.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Why Private Credit Is Not a Financial Crisis Threat.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/What to Expect From Fed Chair Nom. Kevin Warsh's Confirmation Hearing.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/US Officials Head to Pakistan Again for Peace Talks Amid Hormuz Standoff.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Rising Costs and Achieving a Comfortable Retirement.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Rep. Stutzman War Has Made Life Harder For Constituents.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Jon Finer Criticizes Lack of Expertise in Iran Negotiations.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Investigations, Business Leaders, Cons  Pointed News Quiz.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Hormuz Still at Standstill, Denting US-Iran Peace Deal Hopes.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Fmr. Secretary of Defense Mark Esper It's Gonna Be Hard To Get a Deal Done.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/EU Special Rep. Says Peace Requires Israel Restrains Itself.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Eating for Sustainability with 'Blue Foods'.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Blue Origin Rocket Launches With First Reused Booster.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Blue Origin CEO on Growing Satellite Launch Demands.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Standstill in Strait, Warsh Heads to the Hill, Blue Origin Blastoff.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Bank Debate Interview Umar Farooq and Shahmir Khaliq.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Are the Rich Paying Their Fair Share of Taxes.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/AI Boom Driving $100 Bln Chip Opportunity, Arm CEO Says.md
 - 2026-04-18 | 01_Videos/Bloomberg Television/Trace the Origins of Bitcoin, The Search for Satoshi.md
 - 2026-04-18 | 01_Videos/Bloomberg Television/The Hidden Damage Behind the Iran Oil Shock.md
 - 2026-04-18 | 01_Videos/Bloomberg Television/Tech Has Transformed Many Industries. Why Not Child Care.md
