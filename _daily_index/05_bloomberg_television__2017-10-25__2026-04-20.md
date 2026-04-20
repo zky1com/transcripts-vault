@@ -1,11 +1,35 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-19T20:05:40Z
-Date range: 2017-10-25 -> 2026-04-19
+Generated at (UTC): 2026-04-20T20:03:46Z
+Date range: 2017-10-25 -> 2026-04-20
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-20 | 01_Videos/Bloomberg Television/Who Wins From the Iran Conflict.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Wells Fargo CEO Says US Economy Is 'Extremely Strong'.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US-Iran Peace Talks Uncertain as Ceasefire Deadline Approaches.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US-Iran Peace Talks in Doubt After Weekend Chaos  The China Show 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US Seizes Iranian Ship; Iran Vows Response  Horizons Middle East & Africa 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US Seizes Iranian Ship as Ceasefire Is Set to Expire.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US has already “blown up” Iran talks, says Ian Bremmer.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/UK's Starmer Faces Showdown Over Mandelson Saga.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Trump Says 'Highly Unlikely' He Extends Iran Ceasefire.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Trump Aims to Seal Iran Deal  Balance of Power Early Edition 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Stocks Fall, Oil Rises After US Seizes Iran-Flagged Ship  Bloomberg Brief 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Oil Surges After Iran Strait Closure  Open Interest 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran Wavers on Peace Talks & UAE Explores US Financial Lifeline WSJ   The Pulse 04202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran War US Seizes Iranian Ship, Casting Doubt on Peace Talks  The Opening Trade 04202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran War US Seize Iranian Ship & Peace Talks Uncertain  Daybreak Europe 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran Takes Control of Hormuz Again Sending Oil Higher.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Inside the $21T ETF Industry, Apollo's Role in 'PRIV   ETF IQ 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Humanoid Robot Beats Human Record in Beijing.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Hormuz Standoff Keeps Markets on Edge  The Asia Trade 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Has the U.S. Seizure of an Iranian Ship Doomed Peace Talks  Insight with Haslinda Amin 04202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Fed Independence Is Critically Important, Says Wells Fargo CEO Scharf.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Equities Weaker but Not Overly Concerned on Iran 3-Minutes MLIV.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Bulgaria Election Rumen Radev Scores Landslide Win.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4202026.md
 - 2026-04-19 | 01_Videos/Bloomberg Television/Why the US Is Pushing to Rebuild Its Copper Supply.md
 - 2026-04-19 | 01_Videos/Bloomberg Television/Why Private Credit Is Not a Financial Crisis Threat.md
 - 2026-04-19 | 01_Videos/Bloomberg Television/What to Expect From Fed Chair Nom. Kevin Warsh's Confirmation Hearing.md
