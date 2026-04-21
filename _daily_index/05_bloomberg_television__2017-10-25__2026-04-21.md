@@ -1,11 +1,36 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-20T20:03:46Z
-Date range: 2017-10-25 -> 2026-04-20
+Generated at (UTC): 2026-04-21T20:04:20Z
+Date range: 2017-10-25 -> 2026-04-21
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-21 | 01_Videos/Bloomberg Television/What to Expect From Apple's Incoming CEO John Ternus  The China Show 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh's Fed Confirmation Hearing  Balance of Power Early Edition 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh Vows to Protect Fed Independence in Senate Hearing Opening Remarks.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh Says He Will Not Be Trump's 'Sock Puppet'.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh Needs to Tune Out Trump Pressure, Dudley Says.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Vance Trip to Pakistan for Talks With Iran Is On Hold, NYT Reports.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/US-Iran Peace Talk Uncertainty; Warsh Hearing; Apple Names New CEO  Bloomberg Brief 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/US Retail Sales Soar in March Led by Spending on Gas.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/UniCredit CEO Orcel on His Pursuit of Commerzbank.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Tim Cook's Exit, Warsh Faces Congress  Open Interest 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Senator Warren Clashes With Warsh Over Assets, Ties to Trump and Epstein.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/LIVE Wells Fargo CEO Charlie Scharf Speaks to David Rubenstein.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Iranian-Flagged Cargo Ship Attempts to Cross Hormuz.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Iran War Trump Signals No Truce Extension & New Apple CEO  Daybreak Europe 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Iran War Stocks Edge Up as Traders Remain Hopeful on Talks  The Opening Trade 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Investing in AI Amid Geopolitical and Supply Risks.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Hormuz Stays Shut Until a Deal Is Reached  Insight with Haslinda Amin 04212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Germany's Merz Slams Hostile Bank Tactics; Exclusive UniCredit CEO Interview  The Pulse 421.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Current Rally is 'V-Shaped Recovery for the Ages' Says Troy Gayeski.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Australia's Housing Crisis Worsens on Energy Costs.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Apple's Next CEO; Trump Aims To Seal Iran Deal  Horizons Middle East & Africa 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Apple Names New CEO; Korean Stocks Notch New High  The Asia Trade 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Apple Isn't on Right Path for AI, Piecyck Says.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/AI Optimism Pushing Stocks Higher Despite Iran Risks 3-Minutes MLIV.md
 - 2026-04-20 | 01_Videos/Bloomberg Television/Who Wins From the Iran Conflict.md
 - 2026-04-20 | 01_Videos/Bloomberg Television/Wells Fargo CEO Says US Economy Is 'Extremely Strong'.md
 - 2026-04-20 | 01_Videos/Bloomberg Television/US-Iran Peace Talks Uncertain as Ceasefire Deadline Approaches.md
