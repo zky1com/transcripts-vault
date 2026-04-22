@@ -1,11 +1,34 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-21T20:04:20Z
-Date range: 2017-10-25 -> 2026-04-21
+Generated at (UTC): 2026-04-22T20:04:08Z
+Date range: 2017-10-25 -> 2026-04-22
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-22 | 01_Videos/Bloomberg Television/What's Happening In Iran War Trump Extends Truce with Talks In Limbo  The Pulse 422.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/US Expected to Ease Restrictions on Marijuana.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/US Can Sustain Hormuz Blockade Indefinitely, Esper Says.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/United CEO Won't Comment on Possible Merger With American Airlines.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/United CEO Eyes Assets, But Won't Say From Which Airline.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Pushes for Plan to Save Spirit Airlines.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Iran Ceasefire; US Maintains Hormuz Blockade  Horizons Middle East & Africa 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Iran Ceasefire as Talks Falter  The China Show 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Ceasefire; Users Get Unauthorized Access to Mythos  Bloomberg Brief 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Ceasefire, Virginia Backs Redistricting Balance of Power Early Edition 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Ceasefire But Hormuz Stays Closed  Insight with Haslinda Amin 04222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Satellite Data Show Scale of US-Israeli Damage on Iran.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/S&P 500 Set for Record High on Earnings  Open Interest 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Markets Weigh Iran Truce as Risks Persist  The Asia Trade 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Iranian Oil Tankers Sail Past Hormuz Blockade.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Iran Reports 'Some Sign' US Ready to Break Blockade  Daybreak Europe 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Iran Latest Trump Backtracks & Extends Tehran Truce, Talks in Limbo  The Opening Trade 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Global Telecom Mega-Merger, Bailout Caused By Financial Stress  Bloomberg Deals 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Deutsche Telekom Said to Weigh T-Mobile Combination.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Bond Market Weathers Warsh Hawkish Hint 3-Minutes MLIV.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/BMW Says EV Demand Is Rising, Unveils the New Series 7.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Anthropic’s Mythos Accessed by Unauthorized Users.md
 - 2026-04-21 | 01_Videos/Bloomberg Television/What to Expect From Apple's Incoming CEO John Ternus  The China Show 4212026.md
 - 2026-04-21 | 01_Videos/Bloomberg Television/Warsh's Fed Confirmation Hearing  Balance of Power Early Edition 4212026.md
 - 2026-04-21 | 01_Videos/Bloomberg Television/Warsh Vows to Protect Fed Independence in Senate Hearing Opening Remarks.md
