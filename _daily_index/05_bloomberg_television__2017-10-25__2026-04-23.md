@@ -1,11 +1,37 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-22T20:04:08Z
-Date range: 2017-10-25 -> 2026-04-22
+Generated at (UTC): 2026-04-23T20:05:42Z
+Date range: 2017-10-25 -> 2026-04-23
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-23 | 01_Videos/Bloomberg Television/Warner Bros. Shareholders Approve $110 Billion Paramount Deal.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US-Iran Tensions Build in Hormuz Without Talks  Balance of Power Early Edition 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US Navy Secretary Fired After Infighting at Pentagon Sources  The Pulse 423.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US Awaits Iran Response on Talks as Hormuz Remains Shut.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US & Iran in Hormuz Standoff, ASML's New Gear 'Too Expensive' for TSMC  Daybreak Europe 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Trump Tells Navy to Shoot Any Boats Laying Mines in Strait of Hormuz.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Tilray CEO on Possible US Cannabis Reclassification.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Oil Extends Gain as Hormuz Traffic Grinds to a Halt.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Oil Climbs with Iran Talks in Limbo; Tesla Boosts Spending Plan to $25B  Bloomberg Brief 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Meta Tells Staff It Plans to Cut 10% of Jobs in Efficiency Push.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Israel-Lebanon Talks to Resume in Washington.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Iran War Stocks Fall as Oil Climbs With Talks in Limbo  The Opening Trade 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Iran Concerns Give Oil a Short-lived Boost  The China Show 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/How the Mideast War is Affecting the Trump-Xi Meeting.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Hormuz Standoff; US Says No Deadline for Iran Proposal  Horizons Middle East & Africa 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/GSAM's Calnon on Markets, Investment Strategy.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/China Jostles With US for FX Influence 3-Minutes MLIV.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/CBRE Group CEO Sees AI as Tailwind, Bullish on NYC Growth.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Blackstone's Jon Gray says AI is Single Biggest Driver  Open Interest 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Asia bears the cost as US and Iran locked in standoff  Insight with Haslinda Amin 04232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/American Express Sees Strong Credit Card Spending, Higher Costs.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/American Airlines Lowers Guidance Due to Fuel Prices.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/AI Optimism Drives Korean Stocks to Record  The Asia Trade 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/AI Optimism Drives Korean Stocks to Record  The Asia Trade 4232026 (3Udt4p-AEpU).md
+- 2026-04-23 | 01_Videos/Bloomberg Television/AI Is Central to ServiceNow Platform, CEO McDermott Says.md
 - 2026-04-22 | 01_Videos/Bloomberg Television/What's Happening In Iran War Trump Extends Truce with Talks In Limbo  The Pulse 422.md
 - 2026-04-22 | 01_Videos/Bloomberg Television/US Expected to Ease Restrictions on Marijuana.md
 - 2026-04-22 | 01_Videos/Bloomberg Television/US Can Sustain Hormuz Blockade Indefinitely, Esper Says.md
