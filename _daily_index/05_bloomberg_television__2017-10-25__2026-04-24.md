@@ -1,11 +1,34 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-23T20:05:42Z
-Date range: 2017-10-25 -> 2026-04-23
+Generated at (UTC): 2026-04-24T20:04:52Z
+Date range: 2017-10-25 -> 2026-04-24
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-24 | 01_Videos/Bloomberg Television/Witkoff, Kushner Heading to Pakistan for More Talks.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/What to Think of FX Carry Trade Revival 3-Minutes MLIV.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Vice Admiral Harward Iran Strategy Has 'Been Sound'.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/US-Iran Stalemate, Intel Soars & EU Opens Door to Ukraine Joining  Daybreak Europe 04242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/US Needs 'Patience' in Iran John Bolton.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Trump We Have 'Total Control' of the Strait of Hormuz  Balance of Power 04232026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/The AI Trade That’s Helping Markets Sidestep Iran Risk  Insight with Haslinda Amin 04242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Pakistan Expects to Host Another Round of US-Iran Talks.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Oil Rises on Iran Talks Stalemate; Katayama Talks Yen  The Asia Trade 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Limiting Oil Exports Would Be a Mistake, McNally Says.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Israel-Lebanon Truce Extended; Hormuz Standoff Continues  Horizons Middle East & Africa 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Is West Bengal a Bigger Test for Modi's BJP or the Opposition.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Iran War Update Trump Says There's No Need to Use Nuclear Weapons (Full Q&A from White House).md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Iran War Hormuz Stalemate Lifts Oil for a 5th Day  The Opening Trade 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Intel Shares Soar on AI-Fueled Outlook; US-Iran Peace Talks Stalemate  Bloomberg Brief 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Earnings Are Surprisingly Strong, Says Morgan Stanley's Wilson.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/DOJ Drops Powell Probe, Smoothing Warsh Path to Fed.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/DOJ Drops Powell Probe, Iran War Impact on Credit Markets  Real Yield 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/DOJ Dropping Powell Probe Is a Step in the Right Direction, French Hill Says.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/China's DeepSeek Unveils AI Model To Challenge Anthropic, OpenAI  The Pulse 424.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Asian Policymakers Confront Iran War Fallout  The China Show 4242022.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/AI Euphoria Lifts Stocks as Iran Hopes Build  Open Interest 4242026.md
 - 2026-04-23 | 01_Videos/Bloomberg Television/Warner Bros. Shareholders Approve $110 Billion Paramount Deal.md
 - 2026-04-23 | 01_Videos/Bloomberg Television/US-Iran Tensions Build in Hormuz Without Talks  Balance of Power Early Edition 4232026.md
 - 2026-04-23 | 01_Videos/Bloomberg Television/US Navy Secretary Fired After Infighting at Pentagon Sources  The Pulse 423.md
