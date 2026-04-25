@@ -1,11 +1,28 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-24T20:04:52Z
-Date range: 2017-10-25 -> 2026-04-24
+Generated at (UTC): 2026-04-25T20:03:20Z
+Date range: 2017-10-25 -> 2026-04-25
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-25 | 01_Videos/Bloomberg Television/Why Americans Can’t Buy Cheap Chinese EVs.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/What the Fed Can Do About Anthropic’s Latest System.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Trump Sends Team to Pakistan as Iran Balks at Talks.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Triumphal Arch How Trump is Leaving His Mark on Washington DC.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/The Diplomacy Behind the 2026 World Cup.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/The Billion-Barrel Hormuz Oil Shock Is About to Crash Demand.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Standoff Keeps Traffic in Strait of Hormuz Near Zero.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/S&P's Yergin This is The Biggest Energy Disruption We've Ever Seen.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Rep. McCaul (R-TX) US-Iran Talks Unlikely to Reach Breakthrough.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Iran War Fallout Drives Inflation Risks in Africa  Bloomberg Next Africa.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Insurance, Crypto, Media  The Pointed News Quiz.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Inside the shocking rise of BYD, China’s top EV maker.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/FIFA World Cup, Chili, Pokémon  BTW.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/European Union Leaders Convene in Cyprus Amid Iran War.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/DOJ Drops Powell Probe.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Decoding Muskism Beyond the Billionaire.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Mix Messages on Iran Talks, DOJ ends Powell probe, Trump's Triumphal Arch.md
 - 2026-04-24 | 01_Videos/Bloomberg Television/Witkoff, Kushner Heading to Pakistan for More Talks.md
 - 2026-04-24 | 01_Videos/Bloomberg Television/What to Think of FX Carry Trade Revival 3-Minutes MLIV.md
 - 2026-04-24 | 01_Videos/Bloomberg Television/Vice Admiral Harward Iran Strategy Has 'Been Sound'.md
