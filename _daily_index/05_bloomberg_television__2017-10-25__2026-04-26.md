@@ -1,11 +1,24 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-25T20:03:20Z
-Date range: 2017-10-25 -> 2026-04-25
+Generated at (UTC): 2026-04-26T20:04:48Z
+Date range: 2017-10-25 -> 2026-04-26
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-26 | 01_Videos/Bloomberg Television/UN Deputy Secretary-General Warns of Food Security Risks in Africa.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Trump Recounts Shooting Incident at Correspondents’ Dinner.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Trump Evacuated After Shooting at Press Dinner, Gunman Detained.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Shots Fired at White House Correspondents' Dinner, Suspect in Custody.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Sen. Tillis Expected to Clear Way for Kevin Warsh as Fed Chair.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Secret Service Likely to Lead WHCD Investigation.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Rep. McCaul on How to Combat Political Violence.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Rep. Beyer We Are More Divided Than We've Ever Been.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/King Charles' Security Under Review ahead of DC Visit.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/How Boring Businesses Create Billionaires.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Can the World’s Economic Firefighter Adapt to the 21st Century.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Shots Fired at WHCD.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/A History of Presidential Assassination Attempts.md
 - 2026-04-25 | 01_Videos/Bloomberg Television/Why Americans Can’t Buy Cheap Chinese EVs.md
 - 2026-04-25 | 01_Videos/Bloomberg Television/What the Fed Can Do About Anthropic’s Latest System.md
 - 2026-04-25 | 01_Videos/Bloomberg Television/Trump Sends Team to Pakistan as Iran Balks at Talks.md
