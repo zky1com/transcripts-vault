@@ -1,11 +1,65 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-26T20:04:48Z
-Date range: 2017-10-25 -> 2026-04-26
+Generated at (UTC): 2026-04-28T20:03:43Z
+Date range: 2017-10-25 -> 2026-04-28
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-28 | 01_Videos/Bloomberg Television/Why Merz Comments Could Further Harm EU-US Relations.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/WHCD Shooting Was a 'Near Miss' Security Expert.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/US Not Considering an Energy Export Ban, Secretary Wright Says.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/UAE Leaving OPEC at Right Time, Energy Minister Says.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump reviews Iran plan; China blocks Meta-Manus deal  Horizons Middle East & Africa 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump Meets National Security Team as Iran Proposes End to War.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump Hosts King Charles Amid Strained UK Ties Balance of Power Early Edition 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump Discusses Iran Proposal With Aides, White House Says.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Spotify Shares Fall Most Since 2022 on Operating Income Forecast.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/OpenAI-Linked Stocks Slump, Oil Tops $110 Again  The Opening Trade 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/OPEC Faces Rift After UAE Exit  Open Interest 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Oil Rises as Traders Await US Response to Iran Proposal  Bloomberg Brief 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Nicolai Tangen, Norway's Wealth Fund CEO, on Markets, Real Estate, AI and China.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/King Charles III Addresses Congress About US-UK Relations.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Kimmel Defends Joke in Latest Fight With Trump.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Iran, Rate Calls Loom Over Asia’s Tech‑Led Rally  The Asia Trade 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Goldman Hikes Oil Forecasts Again as Hormuz Shock Builds.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/GM Hikes Profit Outlook on Strong Truck, SUV Demand.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Fortescue’s Mark Barnaba on Iran, Rates and China.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Formula 1 May Reschedule One Middle East Race Canceled Due to Iran War.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/China Forces Meta to Unwind AI Deal as BOJ Turns More Hawkish  Insight with Haslinda Amin 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Central Banks Focus on Energy Shock Ahead of Rate Decisions.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/BOJ Holds in Shock Split Vote & Merz Says Trump 'Humiliated' By Iran  Daybreak Europe 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Bitcoin Up More Than 10% In April, SEC Chair Outline Crypto Plans  Bloomberg Crypto 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Beijing Blocks Meta‑Manus Deal That’s Already Done  The China Show 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/AI Stocks & Big Tech Earnings Why OpenAI Partners are Falling  The Pulse 428.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Why Did China Block a $2 Billion Deal for Meta.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Why DeepSeek V4 Impresses Despite Lack of 'Wow' Factor.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/White House to Assess Safety Measures After Dinner Shooting Says Leavitt (Opening Remarks).md
+- 2026-04-27 | 01_Videos/Bloomberg Television/White House Assesses Security After Dinner Shooting  Balance of Power Early Edition 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/What We Know About the Gunman in DC Gala Attack.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/What to Expect From King Charles' Visit to Washington.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Wendy Cutler What’s at Stake at the Trump-Xi Summit.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Washington Attack Raises Presidential Security Issues.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Wall Street Split on Quantum Computing Bet.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Strong Start For ETFs In 2026, What's Next For The Fed  ETF IQ 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/RBC’s Calvasina Sees US as Global Safety Trade Amid Iran War.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Pollster Frank Luntz on his experience at the WH Correspondents' Dinner and What's Next.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Markets on Edge With Rates, Earnings, Iran in Focus  The Asia Trade 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Markets Brace for Busy Week of Rate Decisions, Earnings  Bloomberg Brief 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Mag 7 Earnings Test $16T AI Rally  Open Interest 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/King Charles and Camilla Arrive in US for State Visit.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran's Terms To Reopen Hormuz; DC Gunman Targets Officials  Horizons Middle East & Africa 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran's Araghchi Arrives in Russia as US Talks Stall.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran War Stocks Slip From Highs as Hormuz Remains Shut  The Opening Trade 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran Said to Offer US New Proposal to Reopen Strait of Hormuz  Daybreak Europe 04272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran Reportedly Offers Plan to Open Strait  The China Show 4272022.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Hormuz Blockade, AI Race and Asia’s Great Market Divide  Insight with Haslinda Amin 04272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Fed, BOJ, Bank of Canada Expected to Hold Rates.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/China Blocks Meta’s $2 Billion AI Deal; DeepSeek Slashes Prices  The Pulse 425.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Central Bankers Have Bond Market on Edge 3-Minutes MLIV.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Ackman’s Pershing Square IPO Expected to Raise $5 Billion.md
 - 2026-04-26 | 01_Videos/Bloomberg Television/UN Deputy Secretary-General Warns of Food Security Risks in Africa.md
 - 2026-04-26 | 01_Videos/Bloomberg Television/Trump Recounts Shooting Incident at Correspondents’ Dinner.md
 - 2026-04-26 | 01_Videos/Bloomberg Television/Trump Evacuated After Shooting at Press Dinner, Gunman Detained.md
