@@ -1,11 +1,34 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-28T20:03:43Z
-Date range: 2017-10-25 -> 2026-04-28
+Generated at (UTC): 2026-04-29T20:04:59Z
+Date range: 2017-10-25 -> 2026-04-29
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-29 | 01_Videos/Bloomberg Television/US Signals No Letup of Naval Blockade in Bid to Squeeze Iran.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/UAE's OPEC Exit Blindsides Cartel Amid Iran War  The China Show 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/UAE Exits OPEC, OPEC+; Hormuz Blockade Continues  Horizons Middle East & Africa 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/UAE Blindsides OPEC, OpenAI Sparks Tech Jitters  The Asia Trade 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Trump Signals No Letup of Naval Blockade, Tech Results on Deck  The Opening Trade 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Trump Says Iran ‘Better Get Smart Soon’.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Starbucks CEO on Earnings, Sales Growth, Speedy Service.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Powell Says He Has 'No Choice' But to Stay at Fed.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Pershing Square's Ackman Talks IPO, State of Markets.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Large-cap Earnings Overshadow Iran Stalemate 3-Minutes MLIV.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Key Takeaways From King Charles III's Address to Congress.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Iran's Uranium Stockpile Must Be Addressed, Grossi Says.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Iran War Trump Warns of Extended Hormuz Blockade WSJ  Daybreak Europe 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Iran War Trump Posts 'No More Mr. Nice Guy' Caption  The Pulse 429.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/IAEA Believes It Knows Where Iran's Buried Uranium Is.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Fed Leave Rates Unchanged, Four Officials Dissent.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Fed Chair Nominee Warsh Wins Key Senate Committee Vote  Balance of Power Early Edition 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/DIGI Big Tech Capex Hits Critical Limit.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/China’s Meta Backlash Kills Manus Model  Insight with Haslinda Amin 04292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Big Tech Faces Make or Break Moment  Open Interest 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Big Tech Earnings; No Letup of US Naval Blockade; Fed Decision  Bloomberg Brief 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Ackman Says Stocks Above 'Stupidly Cheap' Market Bottom.md
 - 2026-04-28 | 01_Videos/Bloomberg Television/Why Merz Comments Could Further Harm EU-US Relations.md
 - 2026-04-28 | 01_Videos/Bloomberg Television/WHCD Shooting Was a 'Near Miss' Security Expert.md
 - 2026-04-28 | 01_Videos/Bloomberg Television/US Not Considering an Energy Export Ban, Secretary Wright Says.md
