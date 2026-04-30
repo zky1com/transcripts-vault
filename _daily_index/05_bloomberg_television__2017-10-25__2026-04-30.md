@@ -1,11 +1,27 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-29T20:04:59Z
-Date range: 2017-10-25 -> 2026-04-29
+Generated at (UTC): 2026-04-30T20:04:34Z
+Date range: 2017-10-25 -> 2026-04-30
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-04-30 | 01_Videos/Bloomberg Television/US-Iran War Is Trump Considering Fresh Military Options.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Royal Caribbean CEO Sees Robust Demand Despite Risks.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Oil Hits Wartime High; Trump Rejects Iran Offer  Horizons Middle East & Africa 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Oil Hits Wartime High; Tech Earnings; ECB, BOE Rate Decisions  Bloomberg Brief 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Oil Hits Wartime High on Report US Eyeing Iran Military Options  Daybreak Europe 04302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Japan's 'Final Warning' on Yen as US Rate Gap, Iran Tensions Bite  The Pulse 430.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Iran War Oil Hits 4-Year High on Report US Mulls Military Options   The Opening Trade 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/House Votes to End DHS Shutdown  Balance of Power Early Edition 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Hassett on Powell Staying at Fed, Inflation and Oil Spike.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Fed's Hawkish Tilt, Iran Concerns Weigh on Markets  The China Show 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Fed Shows Division, Earnings Power Asia Tech  The Asia Trade 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Fed Keeps Rates Steady As Powell's Leadership Nears End  Balance of Power 04292026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/F1 Meets Finance in Miami  Open Interest 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Dovish BOE Pushback Could Undermine Pound 3-Minutes MLIV.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/BOE Interest-Rate Decision  Special Coverage.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4302026.md
 - 2026-04-29 | 01_Videos/Bloomberg Television/US Signals No Letup of Naval Blockade in Bid to Squeeze Iran.md
 - 2026-04-29 | 01_Videos/Bloomberg Television/UAE's OPEC Exit Blindsides Cartel Amid Iran War  The China Show 4292026.md
 - 2026-04-29 | 01_Videos/Bloomberg Television/UAE Exits OPEC, OPEC+; Hormuz Blockade Continues  Horizons Middle East & Africa 4292026.md
