@@ -1,11 +1,59 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-04-30T20:04:34Z
-Date range: 2017-10-25 -> 2026-04-30
+Generated at (UTC): 2026-05-03T20:08:39Z
+Date range: 2017-10-25 -> 2026-05-03
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-03 | 01_Videos/Bloomberg Television/Why Geothermal Could Be the Energy Breakthrough Everyone Agrees On.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/US Navy Taps AI Firm to Clear Iranian Mines in Strait of Hormuz.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Sununu Spirit Bailout Made No Financial Sense Whatsoever.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/South African Wine Estates Become Focus for Global Buyers.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Sharapova's 'Pretty Tough' Smashes Podcast Manosphere.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Rep. Kiley Iran Cannot Be Allowed To Get A Nuclear Weapon.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Rep. Fields We Need Term Limits on the Supreme Court.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Pointed News Quiz  AI, Marathon, Toys.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Las Vegas Is Gambling on Its Own Reinvention.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Goop Kitchen, Ozempic Breath, Hotspan  BTW Headlines You Should See.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/FCC Commissioner Gomez Condemns Early ABC License Review as First Amendment Violation.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump Reviewing Iran's Proposal, Spirit Leaves Passengers Scrambling.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Bloomberg Dispatch It’s a Weird Time to Be Named Claude.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Why Vibe Coding Isn’t the End of the Software Engineer.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/What Kevin Warsh Means for the Future of the Fed.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/UAE Departs OPEC as Iran Feel Economic Sting of Blockade.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Trump Rues State of Iran Talks.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Spirit Airlines Shuts Down Operations After White House Bailout Collapse.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/South Africa's Karoo Region Bets on Pistachio Boom.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/J&J's $1.7 Billion Drug Ushers in Age of Psychedelic Medicine.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Iran War Hits 60-Day Legal Deadline  Balance of Power 05012026.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Spirit Airlines Shuts Down, Berkshire Hathaway Q1 Earnings.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Bloomberg House Miami Highlights the F1 Grand Prix.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Blockade Continues in Hormuz and Iran War Drags On.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Berkshire Hathaway Posts $11.35 Billion Q1 Earning.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Actor Ben McKenzie Explores Cryptocurrency Fraud in Documentary.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Yen Intervention Faces Headwind from Higher Energy Prices 3-Minutes MLIV.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Wall Street Week  Warsh’s Fed, Vibe Coding, Geothermal Energy, Vegas Bets Big.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/US Economy 'Incredibly Resilient' Mossavar-Rahmani.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/US Economic Resilience Lowers Rate Cut Odds, Private Credit Fears  Real Yield 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Vows to Maintain Pressure on Iran Through Naval Blockade  The Pulse 51.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Vows Iran Pressure With Naval Blockade, Yen Resumes Rally  The Opening Trade 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Sticks With Blockade, Says It's 'Incredible'.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Sticks To Naval Blockade; Apple's Strong Rev Forecast  Horizons Middle East & Africa 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Says 'Not Happy' on Iran, Touts Hormuz Closure  Balance of Power Early Edition 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Bemoans Iran Talks, Magna CEO Talks News Trump Tariffs  Bloomberg Businessweek Daily 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Stocks Keep Record Highs on Renewed US-Iran Hopes  The Close 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Stocks Hold Record Highs  Closing Bell.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Iran War Trump Says Blockade Having 'Incredible' Effect  Daybreak Europe 05012026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Futures Waver After Stocks Notch Best Month Since 2020; Apple Earnings  Bloomberg Brief 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Florida’s Brightline Seeks Rescue to Avoid Bankruptcy.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Chevron CFO Bonner on Earnings, Buyback and Oil Prices.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Barclays' Rajadhyaksha Shifts to Neutral on Risk Assets.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Artemis II Is Just the Opening Act for NASA, Isaacman Says.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Apple Sales Forecast Beats Estimates.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Apple Growth Engine Powers Ahead  Open Interest 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Aluminum Facing 'Very Large Supply Hole,' JPM Says.md
 - 2026-04-30 | 01_Videos/Bloomberg Television/US-Iran War Is Trump Considering Fresh Military Options.md
 - 2026-04-30 | 01_Videos/Bloomberg Television/Royal Caribbean CEO Sees Robust Demand Despite Risks.md
 - 2026-04-30 | 01_Videos/Bloomberg Television/Oil Hits Wartime High; Trump Rejects Iran Offer  Horizons Middle East & Africa 4302026.md
