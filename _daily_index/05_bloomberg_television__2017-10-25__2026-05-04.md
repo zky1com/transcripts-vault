@@ -1,11 +1,35 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-03T20:08:39Z
-Date range: 2017-10-25 -> 2026-05-03
+Generated at (UTC): 2026-05-04T20:16:39Z
+Date range: 2017-10-25 -> 2026-05-04
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-04 | 01_Videos/Bloomberg Television/Wall Street Leaders Gather at Milken as Mideast Tensions Rise  Open Interest 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/US to Guide Trapped Ships Through Hormuz; Oil Steadies  Horizons Middle East & Africa 452026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/US Says Navy Ship Was Not Hit by Iranian Missiles.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump's New Hormuz Plan; China, Europe Respond to US Trade Agenda  Bloomberg Brief 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump's Hormuz Plan; Takaichi Visits Australia  The Asia Trade 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump's 'Project Freedom' Is Nearly Impossible to Pull Off, Says Gavito.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump Says US to Guide Ships Through Hormuz & US-EU Tariffs Dispute  Daybreak Europe 05042026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump Is Imposing Economic Pain on Iran, Cruz Says.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Stocks Rally With Asia Hitting Record on AI Trade  The Opening Trade 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Shipping Security in Hormuz Is a Concern, Chevron CEO Says.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/PJT CEO Says Retail Will Stop Fueling Private Credit Growth.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Oil Rises as US Hormuz Plan Leaves Shipowners Guessing.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Oaktree's Panossian Warns of Building Credit Market Risks.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Iran War US to Help Ships Exit Hormuz & Trump Plans 25% Tariff on European Autos  The Pulse 54.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Iran Is Desperate, But Regime Won't Change, Bremmer Says.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Inside the First Berkshire Shareholder Meeting With Greg Abel as CEO.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Fmr Indian Navy Officer Says US Hormuz Escort Plan Raises Huge Risks.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Ex-Taiwan Lawmaker warns of China’s 'Dangerous' Strategy.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Business Leaders Talk Geopolitical Risk at Milken  Balance of Power Early Edition 5042026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Asian Stocks Hit Record as Iran Fears Ease  The China Show 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/AI Helps Asia Stocks Surge Defying Iran War Risks  Insight with Haslinda Amin 05042026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/AI All That Matters Even as Yields Climb 3-Minutes MLIV.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Ackman Talks Succession, Universal Music Bid and Mamdani.md
 - 2026-05-03 | 01_Videos/Bloomberg Television/Why Geothermal Could Be the Energy Breakthrough Everyone Agrees On.md
 - 2026-05-03 | 01_Videos/Bloomberg Television/US Navy Taps AI Firm to Clear Iranian Mines in Strait of Hormuz.md
 - 2026-05-03 | 01_Videos/Bloomberg Television/Sununu Spirit Bailout Made No Financial Sense Whatsoever.md
