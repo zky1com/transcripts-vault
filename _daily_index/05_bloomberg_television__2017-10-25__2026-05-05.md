@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-04T20:16:39Z
-Date range: 2017-10-25 -> 2026-05-04
+Generated at (UTC): 2026-05-05T20:09:47Z
+Date range: 2017-10-25 -> 2026-05-05
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-05 | 01_Videos/Bloomberg Television/What It Will Take to Fix the Oil Market.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US-Iran Truce Jolted After Both Trade Fire in Gulf  The China Show 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US-Iran Ceasefire Holds; Apple Weighs Using Intel, Samsung for Processors  Bloomberg Brief 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US Trade Deficit Widens in March to $60.3 Billion.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US and Iran Trade Fire in the Gulf, UAE Intercepts Missiles.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US and Iran Trade Fire in Gulf, Jolting Four-Week-Old Truce  Horizons Middle East & Africa 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/TCW's Katie Koch Sees No Reason to Panic Over Private Credit.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Stocks Near Highs As Earnings Roll On  Open Interest 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Ship Attacks Reignite US-Iran War Risks   Insight with Haslinda Amin 05052026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/SEC Unveils Proposal for Semiannual Reporting.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Robinhood Just at Beginnings of Prediction Markets, CEO Tenev Says.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/PayPal Plans to Cut 20% of Workforce as CEO Seeks to Revamp.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Mnuchin Talks Semiannual Reporting, AI and Fed Rates.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Mideast War Hormuz Fighting Raises Prospect of Fresh US Strikes on Iran.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Markets on Edge as US, Iran Trade Fire in Gulf  The Asia Trade 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/KKR CFO Sees 'Compelling' Case for Private Credit.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/JPMorgan's Aiyengar Says Clients Are Going for Bigger Deals.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Iran War US Stocks Bounce as Traders Track If Truce Hold  The Opening Trade 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Iran War Update The Ceasefire Is Not Over With, Hegseth Says.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Iran War Flareup of Violence Tests Ceasefire  Daybreak Europe 05052026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Inflation Pushes Bonds to Breaking Point 3-Minutes MLIV.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Industry Leaders Look for Energy Solutions at Milken  Balance of Power Early Edition 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Guggenheim's Schwartz Concerned Private Credit Will Crack.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Goldman's Snider Sees 'Yellow Flags' in Equities.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Duke Energy Beats on Profits and Revenue, But Is Not Raising Guidance.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Apple Considers Using Intel, Samsung to Build Device Processors.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/'Irrationally High' Risk of Iran War Restarting Bloomberg Opinion's Champion  The Pulse 55.md
 - 2026-05-04 | 01_Videos/Bloomberg Television/Wall Street Leaders Gather at Milken as Mideast Tensions Rise  Open Interest 542026.md
 - 2026-05-04 | 01_Videos/Bloomberg Television/US to Guide Trapped Ships Through Hormuz; Oil Steadies  Horizons Middle East & Africa 452026.md
 - 2026-05-04 | 01_Videos/Bloomberg Television/US Says Navy Ship Was Not Hit by Iranian Missiles.md
