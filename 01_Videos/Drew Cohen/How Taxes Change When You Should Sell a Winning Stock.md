@@ -1,0 +1,48 @@
+---
+title: "How Taxes Change When You Should Sell a Winning Stock"
+people_mentioned: []
+channel: "Drew Cohen"
+channel_id: "UCt-zZYpkIQMiIMhc4Kkihbg"
+video_id: "JwQFkRvkp3M"
+url: "https://www.youtube.com/watch?v=JwQFkRvkp3M"
+publish_date: 2026-05-06
+publish_timestamp_utc: "2026-05-06T19:00:17Z"
+duration: "8:22"
+duration_seconds: 502
+views_at_import: 179
+transcript_language: "en"
+has_captions: null
+transcript_status: "done"
+word_count: 1693
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1693 words)</summary>
+
+This is going to be a short video, but a powerful concept on how to factor taxes into your investing. So, let's say that you did it right. You bought a stock and it went up. Congratulations. And let's say you've held it for a period of time and now you're kind of trying to figure out whether or not you should sell it. And part of you thinks, well, you know, it's a pretty good company, but it's kind of expensive now. Then again, on the other hand, I don't want to have to pay all the taxes. if I do end up selling it, then I have to find something else to go ahead and invest my money in again. And so, there's all sorts of different things to think about when you are selling a stock. Now, this video is just going to focus on how taxes can factor into that decision. We could do a different video on when to sell a stock and different things to consider in the future. I just want to focus on how taxes can influence this decision. And so, let's take an example. This is actually a real example for myself. I bought some Apple stock when I first started investing. I think if you guys watch these videos, you've heard this story before, but it was one of my first real investments I've made after reading a bunch of different investing books and doing some analysis on the business. And so, this was back in 2013, 2014. I paid a split adjusted price of around $15 a share, give or take, uh, a couple bucks. And I, you know, still held those shares more than a decade later. And so at a pretty large embedded gain in those shares right now, uh, taking that split adjusted price in the current Apple stock price of $275, that is going to be a gain, an embedded gain of about $260. So, how does that factor into the decision on whether or not to sell the stock? Now, there's lots of reasons to sell a stock that we could get into in a different video. Again, let's just focus on how taxes can influence this decision. And I want to hit on this really important concept where the deferred tax is essentially like an uncallable interest free loan from the government. And so I'll explain what that means. So we have this $260 embedded gain in Apple stock, right? And if I were to sell Apple stock today, I'm going to be paying taxes. I'm going to be paying federal taxes, state taxes, uh net investment income tax. So three different taxes right there. depending on, you know, if you're in a different country, a different state, your taxes will be different. But those taxes can add up, right? So, the federal tax bracket on long-term capital gains is going to fluctuate from zero to 20% at the high end. California state tax, uh, where I'm based out of, is going to be anywhere from 1 to a little over 13%. Then you also have that net investment income tax of about 3.8%. So, you add all those up and at the high end, that could be about 37% uh, that you're going to be paying in taxes. And that's a lot. And yes, there's a difference if it's short-term capital gains versus long-term capital gains. If it's short-term capital gains um for federal tax, then you're going to be paying basically the same as ordinary income tax. So the marginal rates will be even higher. Uh whereas if you're looking at state tax like in California, they actually don't distinguish between short and long-term. No matter what, they're going to tax you the same. And so that is going to be a few other things to think about as well as whether or not you're looking at a taxable uh versus a non-t taxable account. This analysis changes a bit, right, if you're doing this in an IRA in a Roth. And so we could talk about that a little bit at the end, but right now, you know, the math of this is basically you have Apple stock today at $275. Let's say the cost basis is $15 a share. Your gain is going to be $260. Let's take, you know, that 37% tax that I was talking about, adding up those three numbers. Yes, that's at the high end. Different people are going to be in different tax bracket situations and all that. But if you take that number, what you're basically going to do is you're going to take the 260 gain, multiply by the 37% tax. That's going to get you your tax liability basically if you go ahead and sell the stock today um from this one sale. So that is going to be about $99. Let's just round to $100 for even math. And so what that means right now though, if we think about it, is if I sell one share of Apple today, the proceeds, the net proceeds I'm getting is not $275 a share, right? It's really going to be $175 because I'm getting $275, then I'm paying the government $100. So because of that, we can think of my investment right now in Apple is sort of like having this loan from the government that is interest free and they can't call it. It will last as long as I continue to hold my position in Apple and that is invested in Apple on my behalf. Right? So that $100 that I will have to eventually pay him in taxes if I were to sell the the stock, I can basically keep it invested in Apple and it's like an interest free loan from the government. So the byproduct of that though, what that basically means is I could have more money invested in Apple than I could otherwise. And because of that, that also means I can have a lower return on Apple than I would need if I were to sell the stock and buy a different stock right now. And so if I were to sell this stock in Apple right now and maybe, you know, I want to get at least a 10% return on whatever I'm invested in, well, if I think about it in the fact that I have, you know, an extra $100 per share invested in Apple, I may only need a 7ish% return for that whole position. And that would be the same as if I sold that position, paid the tax, and reinvested it in something else with a 10% return. You see how that can make sense? because basically we have leverage kind of on our position and since we have leverage on our position we could take a lower return on the total amount and that leverage the leverage is what I'm calling that deferred tax that is what allows us to still get the same return basically and so it's a really really interesting way I think to frame sort of your uh decisions to potentially sell a stock is to realize that a lot of the taxes you will have to pay if you just keep it invested in that stock you basically have more money working for you in that position. And so that was the the key idea honestly that I wanted to hit in this video. A very simple one, but when you are invested in a company and you have a very large gain in it, before you sell that stock, consider the fact that you will have to pay taxes and you'll have less money to reinvest it elsewhere. And if you are able to keep this money invested in that same stock, then it's kind of like the government is lending you out a loan at an 0% interest rate that will never be callable. so long as you stay invested in that current stock. Now, if you do sell the stock, there's of course other considerations, you know, maybe of losses from a different position that you can offset some gains. So, that's going to change your math as well. Uh you can also maybe be in a different tax bracket if you're, you know, below certain income threshold. You may not be paying uh federal taxes for small uh gains. And so, and maybe you're not in a state that charges um state capital gains tax. And so lots of other considerations for sure, but I just want you to think about anytime before you sell a stock and you have a large embedded gain in it. Just remember that a good portion of that money is going to go away once you sell the position. So you might be willing to accept a little bit of a lower return in that stock. And this is especially true when it's kind of, you know, a company that's a great company. You know, we're talking about Apple here. Okay, you know, maybe they're around 30 times earnings and it's not, you know, the low teens uh sort of multiple it was when I originally purchased the stock. So, there's a lot of multiple expansion. But then if you're also remembering this large embedded gain, then another way to say that is you're actually kind of like owning the stock at a lower multiple in a way. All of this is a similar thing mathematically. And so short concept. Hope you enjoyed this video. And if you want more of these kind of shorter lessons, uh let me know. But we're definitely not going to get rid of the long form content as well. Thank you for watching and if you enjoyed this, go ahead and hit like and subscribe and check out this video here with Chris Meyer where we talk a lot more about when to sell a stock. A lot more details around that. Or check out one of these other videos here on different business breakdowns. Thank you for watching.
+
+</details>

@@ -1,11 +1,34 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-05T20:09:47Z
-Date range: 2017-10-25 -> 2026-05-05
+Generated at (UTC): 2026-05-06T20:03:51Z
+Date range: 2017-10-25 -> 2026-05-06
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Says Iran Ceasefire Still In Place After Hormuz Clash  Balance of Power 05052026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Oil Storage Tanks to Run Empty Around July 4, Currie Says.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Gasoline at $5 'Not Likely', Oil Analyst Schork Says.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Could Impose Auto Tariffs on EU 'Soon' Ambassador.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Trump Will Address China Buying Iranian Oil, Greer Says.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Trump Pauses Plan to Guide Ships While Seeking Iran Deal.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Trump Pauses Plan to Guide Ships While Seeking Iran Deal  Horizons Middle East & Africa 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Stocks Rally, Oil Falls on Iran Deal Hopes; US Gasoline Tops $4.50Gallon  Bloomberg Brief 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Samsung Joins $1T Club, Stocks Extend Rally on Iran  The Asia Trade 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Samsung Hits $1 Trillion Valuation.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Oil Slides On Iran Deal Hopes  Open Interest 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Novo Raises Forecast as Wegovy Pill Fuels Sales.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Iran War US Boosts Efforts to End Mideast Conflict  The Pulse 56.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Iran War Trump Pauses Plan to Guide Ships in Hormuz, Seeks Iran Deal  Daybreak Europe 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Iran Evaluating New US Proposal to End War as Trump Warns of More 'Bombing'.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/How AI Is Changing Risk and Returns in Global Bond Markets  Insight with Haslinda Amin 05062026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Greer on EU Complying With Trade Deal, Trump to China.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Disney Parks, Films Boost Profit in CEO’s Debut Quarter.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Commodities Saudi Arabia Cuts Oil Prices for June.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/China Tech Stocks Join Broad Rally After Holiday  The China Show 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Anthropic Unveils AI Agents for Financial Services Tasks.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/'Project Freedom' Pause, Stocks Rally as AI Spend Drives Tech  The Opening Trade 562026.md
 - 2026-05-05 | 01_Videos/Bloomberg Television/What It Will Take to Fix the Oil Market.md
 - 2026-05-05 | 01_Videos/Bloomberg Television/US-Iran Truce Jolted After Both Trade Fire in Gulf  The China Show 552026.md
 - 2026-05-05 | 01_Videos/Bloomberg Television/US-Iran Ceasefire Holds; Apple Weighs Using Intel, Samsung for Processors  Bloomberg Brief 552026.md
