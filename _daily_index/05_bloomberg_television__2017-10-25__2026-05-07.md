@@ -1,11 +1,44 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-06T20:03:51Z
-Date range: 2017-10-25 -> 2026-05-06
+Generated at (UTC): 2026-05-07T20:08:12Z
+Date range: 2017-10-25 -> 2026-05-07
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-07 | 01_Videos/Bloomberg Television/Will.i.am on Ethical AI Use & Growing AI Opportunities.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/We're Going Towards a Cliff on Oil Says Hochstein.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Wall Street Poised for Bonus Increases in ‘Year of the Bank’.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US, Iran Weigh Potential Deal; Global Stock Rally Builds  Horizons Middle East & Africa 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US Awaits Iran's Response; China Asks Banks to Pause New Refiner Loans  Bloomberg Brief 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US Awaits Iran's Peace Deal Response  Balance of Power Early Edition 5072026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US & Iran Weigh Potential Deal to End War as Trump Seeks Offramp  Daybreak Europe 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Trump Says Iran Deal Possible Before Xi Summit  The China Show 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Stocks Crazy Rally Won't Tire Naturally 3-Minutes MLIV.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Starwood CEO on Business Strategy, AI, Data Centers.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Seroka Shipping Firms in Wait and See Mode.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Ruchir Sharma on Why India Seems to Be on the Wrong Side of the AI Trade.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Pentagon's Botched Blacklist Looms Over Trump-Xi Summit in China.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Oil, Gas Plunge As Iran Weighs US Proposal to End War  Balance of Power 05062026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Oil Prices Whipsaw as US-Iran try to work out deal to end war.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Oil Prices Are Moving Like Crazy, Citi's Layton Says.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/New Risks to the Port That Became the UAE’s Lifeline As Hormuz Closed.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Missile Unveiled by Turkey Has a Range of 6,000 Kilometers.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Japan Catchup Rally, Iran Optimism Fuels Asia To Record  The Asia Trade 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran's Leaders Meet as US Waits on Peace Deal Response.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran Weighs One-Page US Memorandum to End War.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran War Stocks Build on Gains as Traders Await Truce Update  The Opening Trade 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran Nuclear Threat Germany Moves to Fix Trump-Merz Rift  The Pulse 57.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Inflows & Outflows For ETFs, Mary Daly Speaks With Bloomberg Live  ETF IQ 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Honduras’ New President Reviews China Ties.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Fed’s Daly Says Policy Division Is Less Important Than FOMC Action.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Fed Can't Lose Credibility, Says Doubleline's Campbell.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Evelyn Farkas Iran's Nuclear Program is the Number One Problem.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Could GOP Infighting Hurt Republicans in November.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Asia Stocks Rally Hard as AI Boom Outpaces War Risks  Insight with Haslinda Amin 05072026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Ark Invest's Wood on AI, Crypto and Impending SpaceX IPO.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/AI Rally Powers Wall Street Earnings  Open Interest 572026.md
 - 2026-05-06 | 01_Videos/Bloomberg Television/US Says Iran Ceasefire Still In Place After Hormuz Clash  Balance of Power 05052026.md
 - 2026-05-06 | 01_Videos/Bloomberg Television/US Oil Storage Tanks to Run Empty Around July 4, Currie Says.md
 - 2026-05-06 | 01_Videos/Bloomberg Television/US Gasoline at $5 'Not Likely', Oil Analyst Schork Says.md
