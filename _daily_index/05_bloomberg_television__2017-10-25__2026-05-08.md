@@ -1,11 +1,32 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-07T20:08:12Z
-Date range: 2017-10-25 -> 2026-05-07
+Generated at (UTC): 2026-05-08T20:04:05Z
+Date range: 2017-10-25 -> 2026-05-08
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-08 | 01_Videos/Bloomberg Television/Why the Iran War is Hitting Indian Stocks Harder Than Other Markets.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/War Risks Rattle Markets as US and Iran Exchange Fire  Insight with Haslinda Amin 05082026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Virginia’s Top Court Blocks Democrats’ New Congressional Map.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US, Iran Trade Fire as Trump Demands Deal  The Asia Trade 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US, Iran Forces Clash; Trump's 10% Tariffs Deemed Unlawful; Jobs Day  Bloomberg Brief 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US Fires on Iran Targets as Trump Demands Deal From Tehran  Horizons Middle East & Africa 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US Adds 115,000 Jobs in April, Unemployment Rate Holds.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/UK Elections Starmer Vows to Stay On as Farage Gains  The Pulse 58.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Trump Demands Deal From Tehran  Balance of Power Early Edition 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/NYC Tax Plan That Angered Rich Proving Hard To Design.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Jobs Surge As AI Stocks Wobble  Open Interest 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Jobs Report Should Not Cause Fed to Hike Rates, Hassett Says.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Iran War Clashes Near Strait of Hormuz Threaten Fragile Ceasefire  Daybreak Europe 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Inflation Is 'Topic of the Moment,' Says Fed's Goolsbee.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Hassett Says US Has a 'Rip-Roaring Jobs Market'.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Flare-up in US-Iran Tensions Jolts Markets  The China Show 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Fed's Goolsbee on Inflation Risk, Rates and Warsh.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Earnings Boost Before Stagflation Fears 3-Minutes MLIV.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/CoreWeave's Q1 Earnings Were 'Transformational,' CEO Says.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Clashes Near Hormuz Send Oil Higher, UK Local Elections  The Opening Trade 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 582026.md
 - 2026-05-07 | 01_Videos/Bloomberg Television/Will.i.am on Ethical AI Use & Growing AI Opportunities.md
 - 2026-05-07 | 01_Videos/Bloomberg Television/We're Going Towards a Cliff on Oil Says Hochstein.md
 - 2026-05-07 | 01_Videos/Bloomberg Television/Wall Street Poised for Bonus Increases in ‘Year of the Bank’.md
