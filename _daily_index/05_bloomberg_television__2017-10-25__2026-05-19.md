@@ -1,11 +1,12 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-18T20:15:17Z
-Date range: 2017-10-25 -> 2026-05-18
+Generated at (UTC): 2026-05-19T20:07:56Z
+Date range: 2017-10-25 -> 2026-05-19
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-19 | 01_Videos/Bloomberg Television/Clarity Act Wins Senate Committee Vote, Crypto Wrench Attacks Surge  Bloomberg Crypto 5192026.md
 - 2026-05-18 | 01_Videos/Bloomberg Television/When is the SpaceX IPO Elon Musk Wants it 'Pretty Soon'  The Pulse 5182026.md
 - 2026-05-18 | 01_Videos/Bloomberg Television/US Tells Iran ‘Clock Is Ticking’, Stocks Fall as Brent Hits $110  The Opening Trade 5182026.md
 - 2026-05-18 | 01_Videos/Bloomberg Television/US Says China to Buy $17 Billion in Farm Goods Annually.md
