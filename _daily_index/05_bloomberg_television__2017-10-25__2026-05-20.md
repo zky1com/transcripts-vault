@@ -1,11 +1,43 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-19T20:07:56Z
-Date range: 2017-10-25 -> 2026-05-19
+Generated at (UTC): 2026-05-20T20:07:41Z
+Date range: 2017-10-25 -> 2026-05-20
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-20 | 01_Videos/Bloomberg Television/Xi Welcomes Putin for China Talks.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Xi Steps Up Call to End Iran War, SpaceX’s Mega-IPO Bank Lineup  The Opening Trade 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Why is China's Xi Hosting Russia's Putin After Trump Visit  The Pulse 520.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/WHO Escalates Response to Ebola Outbreak.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/What to Watch for In Nvidia Earnings After the Bell.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/US Charges Former Cuban Leader Raúl Castro With Murder.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Tightens GOP Grip With Massie’s Defeat in Kentucky.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Tightens GOP Grip With Massie’s Defeat in Kentucky (I_Lhd2AYcdk).md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Threatens Iran With ‘Big Hit’; Stocks, Bonds Slump  Horizons Middle East & Africa 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Threatens Iran Strikes If There’s No Deal Soon.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Says He's in 'No Hurry' to Reach Iran Deal.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Stocks Rebound Ahead of Nvidia Earnings; GOP Scores Win in Kentucky  Bloomberg Brief 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/StanChart CEO Says AI Could Replace 'Lower-Value Human Capital'.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/SpaceX Expected to Make IPO Filing Public Today.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Samsung Workers to Go Ahead With Strike.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Samsung Braces For Disruption After Labor Talks Collapse  The China Show 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Rising Global Bond Yields Drag Asian Stocks  The Asia Trade 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Retail Ignoring Risk From Samsung Strike 3-Minutes MLIV.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Primary Elections in Seven States  Special Coverage from Balance of Power LIVE in Georgia 051926.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Polls Open on 'Mini' Super Tuesday  Balance of Power 05192026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/OpenAI Preparing to File for IPO in Coming Weeks.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Oil Extends Decline as Traders Weigh Trump’s Latest Iran Threats.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Nvidia Earnings in Focus as SpaceX IPO Buzz Builds  Open Interest 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/NFL Ownership Moves, AI Infrastructure & Scaling Demand  Bloomberg Deals 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Minutes Show Fed Officials Warned of Possible Rate Hike.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Liontrust Focused on Nvidia Suppliers Ahead of Earnings.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Hasbro CEO on Oil Costs, Video Games and New Projects.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Global Bond Selloff Threatens India, Philippines, Indonesia  Insight with Haslinda Amin 05202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/EU Expedites Start of US Trade Deal.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/China's Xi Hosts Putin, Steps Up Call for Iran Ceasefire  Daybreak Europe 05202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Block's Jennings Says Spending Seems Resilient Right Now.md
 - 2026-05-19 | 01_Videos/Bloomberg Television/Clarity Act Wins Senate Committee Vote, Crypto Wrench Attacks Surge  Bloomberg Crypto 5192026.md
 - 2026-05-18 | 01_Videos/Bloomberg Television/When is the SpaceX IPO Elon Musk Wants it 'Pretty Soon'  The Pulse 5182026.md
 - 2026-05-18 | 01_Videos/Bloomberg Television/US Tells Iran ‘Clock Is Ticking’, Stocks Fall as Brent Hits $110  The Opening Trade 5182026.md
