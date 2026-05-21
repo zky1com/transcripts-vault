@@ -1,11 +1,34 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-20T20:07:41Z
-Date range: 2017-10-25 -> 2026-05-20
+Generated at (UTC): 2026-05-21T20:12:56Z
+Date range: 2017-10-25 -> 2026-05-21
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-21 | 01_Videos/Bloomberg Television/Walmart Warns Fuel Costs Are Squeezing the Bottom Line.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Trump Wants Hormuz Open, Free, With No Tolls.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Trump Says US Is in 'Final Stages' With Iran.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Trump Holds Grip on Primary Elections  Balance of Power Live Coverage from Georgia 052026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Slashing the Gas Tax Will Save Drivers 18 Cents Per Gallon, Agen Says.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Open Interest 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Oil Markets Are In Deficit, But Not Shortage, Sen Says.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia’s Lackluster Forecast; Musk's SpaceX files for IPO  Horizons Middle East & Africa 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia's Huang Is 'Dunking' on Competition, Luria Says.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia slips after earnings, SpaceX & OpenAI IPOs in focus  The Asia Trade 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia Shares Muted After Fluctuation; Iran Assesses Trump's Proposal  Bloomberg Brief 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia Disappoints & SpaceX Files for Record IPO  Daybreak Europe 05212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Markets Are Positioned Optimistically 3-Minutes MLIV.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/JPMorgan's Dimon on Bond Yields, AI Adoption, Mamdani, Geopolitics.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/JPMorgan Warns on India Equities as Risks Build  Insight with Haslinda Amin 05212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/JPMorgan CEO Jamie Dimon's Warning on Rates  The Pulse 521.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Jamie Dimon on Bond Market, Inflation and Equities.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Iran War Update and More Trump Says US Will Get Iran's Uranium.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Iran Looks at Setting Up Permanent Hormuz Toll System.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Iran Is Reviewing Latest US Peace Proposal.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Goldman CEO Slides Into Musk’s DMs, Iran Reviews Trump’s Latest Offer  The Opening Trade 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Asia Tech Stocks Rally As Investors Return To AI Trade   The China Show 5212026.md
 - 2026-05-20 | 01_Videos/Bloomberg Television/Xi Welcomes Putin for China Talks.md
 - 2026-05-20 | 01_Videos/Bloomberg Television/Xi Steps Up Call to End Iran War, SpaceX’s Mega-IPO Bank Lineup  The Opening Trade 5202026.md
 - 2026-05-20 | 01_Videos/Bloomberg Television/Why is China's Xi Hosting Russia's Putin After Trump Visit  The Pulse 520.md
