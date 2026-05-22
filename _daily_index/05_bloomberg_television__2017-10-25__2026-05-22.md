@@ -1,11 +1,43 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-21T20:12:56Z
-Date range: 2017-10-25 -> 2026-05-21
+Generated at (UTC): 2026-05-22T20:06:26Z
+Date range: 2017-10-25 -> 2026-05-22
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-22 | 01_Videos/Bloomberg Television/Warsh Sworn In As Fed Chair  Balance of Power Early Edition 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/US Stocks Eye Longest Stretch of Weekly Gains Since 2023  Bloomberg Brief 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/US Blockade Is Painful for Iran, Sanders Says.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/UAE, Saudi Arabia, Qatar All Urge Trump to Not Restart Iran War.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Turkish Court Unseats Leader of Main Opposition Party.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Trump Tells Warsh to Do ‘Own Thing’ as Fed Chair Sworn In.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Traders Bet Warsh's Fed Will Hike Rates by December.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/The Next Phase of Artificial Intelligence.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Tech Sector Momentum Teeters Market Snapshot.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Strait Resolution is Almost Fully Priced 3-Minutes MLIV.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Stocks Eye Longest Weekly Run Since 2023  Open Interest 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/SpaceX Scrubs Starship Test Flight  The Asia Trade 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/SpaceX IPO Filing The Key Numbers.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/NYSE's Martin Questions Some Rules Used to Attract SpaceX to Nasdaq.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Musk’s SpaceX Files Publicly for Nasdaq IPO.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Muni Bond Sales Surge in 2026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Micron CEO on Expanding Chip Production, Memory Demand.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Messi Joins Ronaldo in Football Billionaire Ranks  The Opening Trade 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Lenovo Surges to 26-Year High After Strong AI Growth  The China Show 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Kevin Warsh to Be Sworn In as Fed Chair Today.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Kevin Warsh Sworn in as New Federal Reserve Chair.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Kevin Warsh Sworn In As Fed Chair  Real Yield 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Iran War Trump Rejects Hormuz Tolls  Daybreak Europe 05222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Iran Talks Progress Undercut by Hormuz, Uranium Divide.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Iran Says Latest US Proposal Has ‘Narrowed the Gaps'  Balance of Power Live 052126.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Inside Zara Inditex CEO Exclusive on Fashion & AI  The Pulse 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Indonesia’s Shock Export Controls Catch Traders Off Guard  Insight with Haslinda Amin 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/How ICE Is Hurting Local Economies.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Director of National Intelligence Chief Gabbard Is Stepping Down.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Bolton Calls Iran Talks a 'Waste of Oxygen'.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/APEC Is Important Part of Trade Agenda, US Diplomat Says.md
 - 2026-05-21 | 01_Videos/Bloomberg Television/Walmart Warns Fuel Costs Are Squeezing the Bottom Line.md
 - 2026-05-21 | 01_Videos/Bloomberg Television/Trump Wants Hormuz Open, Free, With No Tolls.md
 - 2026-05-21 | 01_Videos/Bloomberg Television/Trump Says US Is in 'Final Stages' With Iran.md
