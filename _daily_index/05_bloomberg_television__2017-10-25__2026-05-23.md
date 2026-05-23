@@ -1,11 +1,27 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-22T20:06:26Z
-Date range: 2017-10-25 -> 2026-05-22
+Generated at (UTC): 2026-05-23T20:06:53Z
+Date range: 2017-10-25 -> 2026-05-23
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-23 | 01_Videos/Bloomberg Television/Warsh Sworn In at Fed, Iran Deal in Limbo  Balance of Power Live 052226.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/US and Iran Remain in Holding Pattern.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Uganda Confirms Three More Ebola Cases, Outbreak Spreads.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Tulsi Gabbard to Resign as US Intelligence Director  Balance of Power Late Edition 5222026.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Trump’s 3,711 Trades Point to Several Stock-Market Strategies.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/The Surprising Joy of a Crowded Hiking Trail.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/SpaceX Starship Successfully Deploys Mock Satellites.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Since Last Outbreak US Ebola Aid Plummeted 99%.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Retail, Cryptocurrency, Obituaries  Pointed News Quiz.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Navigating Higher Food Costs as Burger Season Begins.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Meta’s $200 Billion Bet on a Remote Data Center.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/In a Cashless Society, Will the Dollar Remain King.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/General Petraeus We May Have to Go Back to War with Iran.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Gas Prices Rising as Summer Holiday Travel Begins.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Chanel’s Mega Dividend Brings Owners’ Windfall to $21 Billion.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump Weighs Iran Options, Tracking The Ebola Outbreak.md
 - 2026-05-22 | 01_Videos/Bloomberg Television/Warsh Sworn In As Fed Chair  Balance of Power Early Edition 5222026.md
 - 2026-05-22 | 01_Videos/Bloomberg Television/US Stocks Eye Longest Stretch of Weekly Gains Since 2023  Bloomberg Brief 5222026.md
 - 2026-05-22 | 01_Videos/Bloomberg Television/US Blockade Is Painful for Iran, Sanders Says.md
