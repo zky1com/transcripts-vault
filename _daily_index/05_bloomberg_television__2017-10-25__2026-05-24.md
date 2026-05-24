@@ -1,11 +1,26 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-23T20:06:53Z
-Date range: 2017-10-25 -> 2026-05-23
+Generated at (UTC): 2026-05-24T20:03:07Z
+Date range: 2017-10-25 -> 2026-05-24
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-24 | 01_Videos/Bloomberg Television/White House Signaling Imminent Deal Announcement with Iran.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Trump Touts Influence in Texas Midterm Primaries.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Trump Mulls Arms Sale to Taiwan, Will Speak to President.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/The Surprising Science Behind Google Searches.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Rubio Invites India’s Modi to Visit White House as Relationships Improve.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Rising Energy Prices Pose Challenge for Travelers.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Rep. Ivey Disgusted at Settlement Slush Fund, Critiques $1B Ballroom Budget Ask.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Pope Leo Focusing on AI in First Social Encyclical.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Marco Rubio Sees Good News Coming on Hormuz as Iran Talks Continue.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Marco Rubio Says Significant Progress Made on Iran Talks.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/How New Mega-Cap IPO's Will Reshape the Markets.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Has the NYC Ferry Righted Its Ship.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Ebola Spreads Across Congo as Flights Are Halted, Supplies Run Low.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/College Kids Don’t Want Your AI.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  White House Iran deal to be announced, Texas-sized primaries.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/Warsh Sworn In at Fed, Iran Deal in Limbo  Balance of Power Live 052226.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/US and Iran Remain in Holding Pattern.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/Uganda Confirms Three More Ebola Cases, Outbreak Spreads.md
