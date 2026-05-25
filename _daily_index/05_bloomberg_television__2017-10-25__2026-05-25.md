@@ -1,11 +1,19 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-24T20:03:07Z
-Date range: 2017-10-25 -> 2026-05-24
+Generated at (UTC): 2026-05-25T20:03:18Z
+Date range: 2017-10-25 -> 2026-05-25
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-25 | 01_Videos/Bloomberg Television/Respite for JGBs Won't Last Long 3-Minutes MLIV.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Oil Falls, Stocks Rise as US, Iran Inch Toward Deal  The Asia Trade 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Markets Up Oil Down Over Iran Deal; Ebola Affects Flights  Horizons Middle East & Africa 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Iran War Trump Says 'No Rush' as US, Iran Inch Towards Deal  Daybreak Europe 05252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Iran Says US Deal Not Imminent  The Pulse 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Iran Says US Deal Not Imminent  The Opening Trade 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Deal Or No Deal Oil Falls On Hope  Insight with Haslinda Amin 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/China Investigates Deadly Coal Mine Blast  The China Show 5252026.md
 - 2026-05-24 | 01_Videos/Bloomberg Television/White House Signaling Imminent Deal Announcement with Iran.md
 - 2026-05-24 | 01_Videos/Bloomberg Television/Trump Touts Influence in Texas Midterm Primaries.md
 - 2026-05-24 | 01_Videos/Bloomberg Television/Trump Mulls Arms Sale to Taiwan, Will Speak to President.md
