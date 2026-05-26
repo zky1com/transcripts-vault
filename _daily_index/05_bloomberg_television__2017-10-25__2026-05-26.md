@@ -1,11 +1,42 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-05-25T20:03:18Z
-Date range: 2017-10-25 -> 2026-05-25
+Generated at (UTC): 2026-05-26T20:06:10Z
+Date range: 2017-10-25 -> 2026-05-26
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-05-26 | 01_Videos/Bloomberg Television/World Cup Expected to Generate $80 Billion in Global Spending.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/US Touts Iran Deal Prospects  Balance of Power Early Edition 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/US Strikes Iran Targets as Trump Hails Progress on Talks.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/US Strikes Iran as Trump Says Talks 'Proceeding Nicely'  Daybreak Europe 05262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/SpaceX Roadshow Begins After Starship Launch.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/SpaceX IPO Sends Space Stocks Soaring  Open Interest 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Russia Tells US to Evacuate Citizens, Diplomats From Kyiv.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Pressure Builds for Australia's Albanese Over Housing Tax Overhaul.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Powell Will Vote With His Mind and Heart, Daco Says.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Oil Rebounds as US Launches New Strikes on Iran.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Oil Rebounds After US and Iran Clash Near Hormuz  Bloomberg Brief 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Oil Climbs as US Strikes Iran Targets  The Asia Trade 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Nasty Texas Republican Runoff Comes to a Head Today.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Meta’s $200 Billion Bet on a Remote Data Center.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Lockheed Moving Rapidly to Resupply US Missile Stockpile.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Lilly Gets Back Into the Vaccine Business With New Deals.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Israel Seeks Deal That Eliminates Nuclear Danger From Iran.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Iran War Supreme Leader's Warning After US & Israeli Strikes  The Pulse 05262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Huawei Touts Chip Breakthrough to Shorten Gap With TSMC.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/How a ‘Cockroach’ Jibe United India’s Disgruntled Jobless Youth.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Hormuz Strikes Whipsaw Oil as Asia Braces for Summer Demand  Insight with Haslinda Amin 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Ferrari Unveils 5-Seat Fully Electric Car, Shares Fall.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Ferrari Luce- Company's First EV, Gets Brutal Reviews.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Ferrari Drops as New €550K EV Design Disappoints  The Opening Trade 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Farmers Feel Squeeze From Higher Fuel Costs, Fertilizer Shortages.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Congo Ebola Epidemic Is ‘Outpacing’ Response, WHO Says.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/China Chip Stocks Jump on Hopes for Huawei Tech  The China Show 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Bolivia's Paz Says Protests Test Democracy Ahead of Talks.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Bloomberg Crypto 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/AI Vs Economy Disconnect Getting Larger 3-Minutes MLIV.md
 - 2026-05-25 | 01_Videos/Bloomberg Television/Respite for JGBs Won't Last Long 3-Minutes MLIV.md
 - 2026-05-25 | 01_Videos/Bloomberg Television/Oil Falls, Stocks Rise as US, Iran Inch Toward Deal  The Asia Trade 5252026.md
 - 2026-05-25 | 01_Videos/Bloomberg Television/Markets Up Oil Down Over Iran Deal; Ebola Affects Flights  Horizons Middle East & Africa 5252026.md
@@ -39,7 +70,6 @@ Date range: 2017-10-25 -> 2026-05-25
 - 2026-05-23 | 01_Videos/Bloomberg Television/Since Last Outbreak US Ebola Aid Plummeted 99%.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/Retail, Cryptocurrency, Obituaries  Pointed News Quiz.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/Navigating Higher Food Costs as Burger Season Begins.md
-- 2026-05-23 | 01_Videos/Bloomberg Television/Meta’s $200 Billion Bet on a Remote Data Center.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/In a Cashless Society, Will the Dollar Remain King.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/General Petraeus We May Have to Go Back to War with Iran.md
 - 2026-05-23 | 01_Videos/Bloomberg Television/Gas Prices Rising as Summer Holiday Travel Begins.md
