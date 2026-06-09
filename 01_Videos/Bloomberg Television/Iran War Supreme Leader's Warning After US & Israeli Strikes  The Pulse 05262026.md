@@ -3,13 +3,13 @@ title: "Iran War: Supreme Leader's Warning After US & Israeli Strikes | The Puls
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "j21LbT7q-68"
-url: "https://www.youtube.com/watch?v=j21LbT7q-68"
-publish_date: 2026-05-26
-publish_timestamp_utc: "2026-05-26T11:08:46Z"
+video_id: "ke7kBxQxUjg"
+url: "https://www.youtube.com/watch?v=ke7kBxQxUjg"
+publish_date: 2026-05-27
+publish_timestamp_utc: "2026-05-27T13:12:56Z"
 duration: "48:53"
 duration_seconds: 2933
-views_at_import: 2912
+views_at_import: 1380
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
