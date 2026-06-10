@@ -1,11 +1,37 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-09T20:07:12Z
-Date range: 2017-10-25 -> 2026-06-09
+Generated at (UTC): 2026-06-10T20:27:07Z
+Date range: 2017-10-25 -> 2026-06-10
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-10 | 01_Videos/Bloomberg Television/What to Expect From Maine's Primary Election.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/War, Volatility and a Tech Reckoning in Asia  Insight with Haslinda Amin 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/US, Iran Trade Fire After Apache Helicopter Shot Down Near Hormuz.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/US Strikes Iran After Helicopter Downed; Stocks Decline  Horizons Middle East & Africa 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/US & Iran Trade Strikes, Testing Ceasefire Agreement  Daybreak Europe 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Trump Vows Iran Attacks  Balance of Power 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Trump Says US Will Resume Attacking Iran 'Very Hard'.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Trump Says Citi Is the Top M&A Adviser, But It's Not.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/This Market Is Very Scared About US CPI 3-Minutes MLIV.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Tech Selloff Deepens Ahead of CPI; US, Iran Exchange Strikes  Bloomberg Brief 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Stocks Under Pressure as SpaceX Mania Grows  Open Interest 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/SpaceX IPO Is a 'White Knuckle' Moment, Ives Says.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/SpaceX Float Price Risks Being Driven Up by Index Funds Demand  The Pulse 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Seanergy Sees Strength in Commodity Demand.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Ret. Rear Adm. Urges Trump to Keep Iran Response ‘Proportionate’.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Police, Protesters Clash in Kenya over US Ebola Facility.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson Sees Big Shift From 6040 Strategy.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson Expects Stocks to Rise Into Year-End.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Markets Weigh AI Rotation, US 'Self-Defense' Strikes  The Asia Trade 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Iran War Update Trump Says US Will Resume Attacking Iran 'Very Hard' (Q&A at Oval Office).md
+- 2026-06-10 | 01_Videos/Bloomberg Television/China to Spend $295B on Nationwide AI Buildout  The China Show 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Blackstone's Brand on IPO Returns, Anthropic Partnership.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/BlackRock's Chan on Asia Market Strategy.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Apollo's Kleinman Says PE Needs to Start Capitulating on Valuations.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Anthropic Releases New Mythos-Like Model Ahead of IPO  The Opening Trade 6102026.md
 - 2026-06-09 | 01_Videos/Bloomberg Television/Why Jensen Huang Talking up Suppliers Is Worrying.md
 - 2026-06-09 | 01_Videos/Bloomberg Television/Vale CEO Says Metals Demand Is Robust Despite Conflict With Iran.md
 - 2026-06-09 | 01_Videos/Bloomberg Television/US Existing-Home Sales Rise to Fastest Pace of the Year.md
