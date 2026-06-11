@@ -1,11 +1,41 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-10T20:27:07Z
-Date range: 2017-10-25 -> 2026-06-10
+Generated at (UTC): 2026-06-11T20:09:21Z
+Date range: 2017-10-25 -> 2026-06-11
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-11 | 01_Videos/Bloomberg Television/Will There Be Another Brexit Referendum.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Who Is Your Dream Odd Lots Guest.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Warsh May Tackle Inflation in New Way, Says Betsy Duke.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Strikes Iran; Stock Rout; SpaceX IPO Oversubscribed  Horizons Middle East & Africa 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Strikes Iran Again in Trump Escalation  The Asia Trade 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Strikes 'Multiple' Targets in Iran.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Stocks Rebound; Oracle Falls on Spending Concerns; SpaceX IPO Pricing  Bloomberg Brief 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Trump Threatens More Iran Strikes, SpaceX IPO Demand Takes Off  The Pulse 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Trump Says Deal With Iran Could Be Signed Within Days.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Trump Cancels Planned Iran Strikes  Balance of Power 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/True 'FOMO' Is Still Ahead of Us, Emanuel Says.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/The SpaceX Debt Debate Before Debut  Open Interest 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Tech Rout Pushes China Stocks to Brink of Bear Market  6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX Raises $75 Billion in Biggest IPO of All Time.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX IPO Is Said to Be Over Four Times Oversubscribed.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX IPO Draws Billions in Orders From Middle Eastern Funds.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX Euphoria Tests Markets as War Risks Rise  Insight with Haslinda Amin 06112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Sen. Scott Says Democrats Won't Support Anything Trump Wants to Do.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Richards Says SpaceX Is Biggest Rising Star of All Time.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Retired Gen. Kimmitt Hormuz, Lebanon Are ‘Diversions'.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Probably a Bit More Markets Pain Ahead 3-Minutes MLIV.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Iran Was Never Going To Do a Deal Says Nikki Haley.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Iran War US Launches New Missile Strikes, Trump Threatens More Action  Daybreak Europe 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Highlights from Bloomberg Invest Hong Kong.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Fresh US Strikes On Iran Risk Fragile Ceasefire  The Opening Trade 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/El Niño Emerges in the Pacific, Raising Heat Risks.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/ECB's Lagarde Warns of Impact of Prolonged Energy Shock.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/ECB Raises Rates for First Time Since 2023.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Could Current Ebola Outbreak Be of Worry For World Cup Games.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6112026.md
 - 2026-06-10 | 01_Videos/Bloomberg Television/What to Expect From Maine's Primary Election.md
 - 2026-06-10 | 01_Videos/Bloomberg Television/War, Volatility and a Tech Reckoning in Asia  Insight with Haslinda Amin 6102026.md
 - 2026-06-10 | 01_Videos/Bloomberg Television/US, Iran Trade Fire After Apache Helicopter Shot Down Near Hormuz.md
