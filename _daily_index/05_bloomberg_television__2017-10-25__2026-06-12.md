@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-11T20:09:21Z
-Date range: 2017-10-25 -> 2026-06-11
+Generated at (UTC): 2026-06-12T20:07:53Z
+Date range: 2017-10-25 -> 2026-06-12
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump Taps Jay Clayton to Lead Top Intel Office  Balance of Power 06112026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump Says Iran Deal in 'Coming Days' & SpaceX IPO Breaks Records  Daybreak Europe 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump No Strikes As Iran Deal Close; Historic SpaceX IPO  Horizons Middle East & Africa 06122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump Insists Iran Deal Is Close After Scrapping Strikes.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/The Bull and Bear Case for SpaceX.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Stocks Rally on US-Iran Deal Hopes; SpaceX Prepares Debut  Bloomberg Brief 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX, Peace Talks Clear Way for Rally 3-Minutes MLIV.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Surges 11% In Public Debut  Open Interest 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Should Triple Revenue in Two Years, Kennedy Says.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Makes History With Biggest-Ever IPO.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Jumps in First Trades  Balance of Power 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Raises $75 Billion, US-Iran Edge Towards Interim Deal  The Pulse 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Is Troubling Sign for Markets, Chanos Says.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO in Focus as Iran Fears Ease  The Asia Trade 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Elon Musk Becomes the World's First Trillionaire.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Debut Fuels Musk Mania and Valuation Debate  Insight with Haslinda Amin 06122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX and Tesla Will Likely Merge, Ives Says.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX (SPCX) Begins Trading on Nasdaq After Record IPO.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Musk, Trump Relationship More Professional  The Debrief.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Musk On Verge of Trillionaire Status With SpaceX IPO  The Opening Trade 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Knicks Spark Euphoria From Bronx to Brooklyn.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Is China's Regulatory Truce With E-Commerce Platforms Over  The China Show 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Fixing the Social Security Problem Can't Wait, Says Jack Lew.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Concerns Raised Over Corporate Governance in SpaceX's Historic IPO.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Chevron CEO Is Open to Expanding in Middle East.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Central Banks Face Growing Pressures Markets Snapshot.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Air India Crash Investigation Report What Went Wrong.md
 - 2026-06-11 | 01_Videos/Bloomberg Television/Will There Be Another Brexit Referendum.md
 - 2026-06-11 | 01_Videos/Bloomberg Television/Who Is Your Dream Odd Lots Guest.md
 - 2026-06-11 | 01_Videos/Bloomberg Television/Warsh May Tackle Inflation in New Way, Says Betsy Duke.md
