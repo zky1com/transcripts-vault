@@ -1,7 +1,7 @@
 # Transcript Vault - File Index
 
 Auto-generated. Re-run the daily transcript sync job to refresh this file.
-Generated at (UTC): 2026-06-12T20:07:53Z
+Generated at (UTC): 2026-06-13T20:07:05Z
 Base raw URL: https://raw.githubusercontent.com/zky1com/transcripts-vault/main/
 Shard directory: _daily_index/
 
@@ -9,16 +9,16 @@ Shard directory: _daily_index/
 
 Primary entry points for daily and rolling synthesis:
 
-- rolling_7d__2026-06-05__2026-06-11 | 08_Summaries/rolling_7d__2026-06-05__2026-06-11.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_7d__2026-06-05__2026-06-11.md
-- rolling_30d__2026-05-13__2026-06-11 | 08_Summaries/rolling_30d__2026-05-13__2026-06-11.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_30d__2026-05-13__2026-06-11.md
+- rolling_7d__2026-06-06__2026-06-12 | 08_Summaries/rolling_7d__2026-06-06__2026-06-12.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_7d__2026-06-06__2026-06-12.md
+- rolling_30d__2026-05-14__2026-06-12 | 08_Summaries/rolling_30d__2026-05-14__2026-06-12.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_30d__2026-05-14__2026-06-12.md
 - 08_Summaries README | 08_Summaries/README.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/README.md
 
 ## Daily Shards
 
 Routing shards for daily-use channels only:
 
-- Spotify + 3X | _daily_index/01_spotify_3x__2025-04-04__2026-03-02.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/01_spotify_3x__2025-04-04__2026-03-02.md | updated 2026-06-12 | 121 notes | 2025-04-04 -> 2026-03-02 | The Twenty Minute VC (20VC), _daily
-- Naval + Drew Cohen + Dan Koe | _daily_index/02_core_voices__2019-03-16__2026-06-11.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/02_core_voices__2019-03-16__2026-06-11.md | updated 2026-06-12 | 218 notes | 2019-03-16 -> 2026-06-11 | Naval, Drew Cohen, Dan Koe
-- 20VC Videos + All-In + My First Million | _daily_index/03_podcasts__2023-05-27__2026-06-12.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/03_podcasts__2023-05-27__2026-06-12.md | updated 2026-06-12 | 358 notes | 2023-05-27 -> 2026-06-12 | All-In Podcast, 20VC with Harry Stebbings, My First Million
-- CNBC Television | _daily_index/04_cnbc_television__2023-06-06__2026-06-12.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/04_cnbc_television__2023-06-06__2026-06-12.md | updated 2026-06-12 | 1250 notes | 2023-06-06 -> 2026-06-12 | CNBC Television
-- Bloomberg Television | _daily_index/05_bloomberg_television__2017-10-25__2026-06-12.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/05_bloomberg_television__2017-10-25__2026-06-12.md | updated 2026-06-12 | 2309 notes | 2017-10-25 -> 2026-06-12 | Bloomberg Television
+- Spotify + 3X | _daily_index/01_spotify_3x__2025-04-04__2026-03-02.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/01_spotify_3x__2025-04-04__2026-03-02.md | updated 2026-06-13 | 122 notes | 2025-04-04 -> 2026-03-02 | The Twenty Minute VC (20VC), _daily
+- Naval + Drew Cohen + Dan Koe | _daily_index/02_core_voices__2019-03-16__2026-06-13.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/02_core_voices__2019-03-16__2026-06-13.md | updated 2026-06-13 | 219 notes | 2019-03-16 -> 2026-06-13 | Naval, Drew Cohen, Dan Koe
+- 20VC Videos + All-In + My First Million | _daily_index/03_podcasts__2023-05-27__2026-06-13.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/03_podcasts__2023-05-27__2026-06-13.md | updated 2026-06-13 | 360 notes | 2023-05-27 -> 2026-06-13 | All-In Podcast, 20VC with Harry Stebbings, My First Million
+- CNBC Television | _daily_index/04_cnbc_television__2023-06-06__2026-06-13.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/04_cnbc_television__2023-06-06__2026-06-13.md | updated 2026-06-13 | 1251 notes | 2023-06-06 -> 2026-06-13 | CNBC Television
+- Bloomberg Television | _daily_index/05_bloomberg_television__2017-10-25__2026-06-13.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/_daily_index/05_bloomberg_television__2017-10-25__2026-06-13.md | updated 2026-06-13 | 2324 notes | 2017-10-25 -> 2026-06-13 | Bloomberg Television

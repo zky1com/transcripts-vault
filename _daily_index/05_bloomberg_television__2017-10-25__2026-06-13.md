@@ -1,11 +1,26 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-12T20:07:53Z
-Date range: 2017-10-25 -> 2026-06-12
+Generated at (UTC): 2026-06-13T20:07:05Z
+Date range: 2017-10-25 -> 2026-06-13
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why the US Is Investing in Quantum Computing.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why Nike Keeps Stumbling.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO (70QeaWhbTzE).md
+- 2026-06-13 | 01_Videos/Bloomberg Television/US and Iran Move Closer to Deal Despite Hormuz Skirmishes.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/The Knicks’ Name Traces Back to a 200-Year-Old Publicity Stunt.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Swarovski CEO's focus on modern luxury to return the 131-year-old company to profitability.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/SpaceX Shares Close Higher Post Historic $75 Billion IPO.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Pointed News Quiz  Weather, Currency, Shoes.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Nuns, Witches, Knicks  BTW Headlines You Should See.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Investing in African Startups Opportunities and Challenges.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Can Tech Justify a Trillion-Dollar Valuation.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Caffeine Minimalists Rewrite Routines to Battle Coffee Jitters.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  SpaceX Launches Biggest IPO, Team USA Wins.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/Trump Taps Jay Clayton to Lead Top Intel Office  Balance of Power 06112026.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/Trump Says Iran Deal in 'Coming Days' & SpaceX IPO Breaks Records  Daybreak Europe 6122026.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/Trump No Strikes As Iran Deal Close; Historic SpaceX IPO  Horizons Middle East & Africa 06122026.md
