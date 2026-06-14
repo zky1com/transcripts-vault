@@ -1,11 +1,18 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-13T20:07:05Z
-Date range: 2017-10-25 -> 2026-06-13
+Generated at (UTC): 2026-06-14T20:04:19Z
+Date range: 2017-10-25 -> 2026-06-14
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-14 | 01_Videos/Bloomberg Television/The Save Our Bacon Act Targets Pig Welfare in Pork Industry.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Tehran Hesitates and US Remains Silent on Terms of Deal.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Rep. Olszewski Expresses Skepticism Over Iran MOU Details.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Questions Raised Over Costs of UFC Event at White House.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/G7 Summit Delayed Amid Absence of US President.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Knicks In 5, Iran Deal Uncertain at G7, Fight Night at White House.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Approachable Luxury Father's Day Gifts.md
 - 2026-06-13 | 01_Videos/Bloomberg Television/Why the US Is Investing in Quantum Computing.md
 - 2026-06-13 | 01_Videos/Bloomberg Television/Why Nike Keeps Stumbling.md
 - 2026-06-13 | 01_Videos/Bloomberg Television/Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO.md
