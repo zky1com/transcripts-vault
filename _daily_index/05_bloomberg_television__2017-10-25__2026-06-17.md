@@ -1,11 +1,115 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-14T20:04:19Z
-Date range: 2017-10-25 -> 2026-06-14
+Generated at (UTC): 2026-06-17T20:09:34Z
+Date range: 2017-10-25 -> 2026-06-17
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-17 | 01_Videos/Bloomberg Television/We're Entering a 'Summer of the Bond Market,' Goncalves Says.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Warsh Faces Big Test, US & Iran Prepare for Deal Signing  The Opening Trade 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/US-Iran Deal Details Emerge; Bonds Rally Ahead of Fed  Horizons Middle East & Africa 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/US-Iran Deal Details Emerge in 14-Point Memorandum  The Pulse 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Trump to Offer Iran Financial Boost in Peace Deal  Daybreak Europe 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Trump Sees Iran Deal by Friday  Balance of Power 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Trump Says India's Modi Is a 'Tough Negotiator'.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/The Books That Influenced SpaceX Founder Elon Musk.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Stocks Rise Ahead of Fed Decision; US-Iran MOU Details; G7 Summit  Bloomberg Brief 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/SpaceX Adds $1 Trillion in Value Since IPO.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Signing of Iran MOU Isn't Fully Priced 3-Minutes MLIV.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Seeking to Raise $300M, Create Unique Structure LIV CEO.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/RBC President and CEO Dave McKay  Bloomberg Newsmakers.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Oil Slides Below $80 as Iran Breakthrough Takes Shape  Insight with Haslinda Amin 06172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Oil Prices Fall as US-Iran Deal Set to Add Wave of Supply.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Oil Holds Below $80 as Iran Peace Deal Details Emerge  The Asia Trade 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson Says Investors Looking Past War.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Is Europe Bringing Trump and Zelenskyy Closer Together.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Iran War Update Trump Speaks at G7 and Defends Deal Made.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Goldman's Kaplan on Fed's Warsh and AI Capex Boom.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Goldman Tops $1 Trillion in M&A Deals, Fastest to Reach the Mark.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Fed's Warsh Says He Doesn't Think Submitting Dots Is Helpful.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Fed Leaves Rates Unchanged, Projections Over Hikes Are Split.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/China's Central Bank Hints at New Policy Framework  The China Show 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Chair Warsh Says Fed Will Deliver Price Stability.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/ASML CEO on AI Demand, Data Centers in Space and Musk's Terafab.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/$1 Billion+ Tax Giveaways The Backlash Against Data Center Incentives.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Yum! Will Sell Struggling Pizza Hut for $2.7 Billion.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Who Makes Out Better in Deal Iran or the US.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/What Will Be The Legacy of the 2026 World Cup.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US, Iran Prepare to Sign Deal  Balance of Power 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US, Iran Prepare for Deal Signing With Both Claiming Victory.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US, Europe Disagree on How Easy It Is to Reopen Hormuz.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US Set to Offer Iran Broad Financial Gains in Deal to End War.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US Draft Deal Includes Financial Incentives for Iran  Balance of Power 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Trump Speaks at G7 Summit in France; Oil Drops to Three-Month Low  Bloomberg Brief 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Trump Says That Russia Should Make a Deal With Ukraine.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Trump Says Hormuz to Reopen Friday But G7 Allies Less Convinced  Daybreak Europe 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/The Future of Forward Guidance Under Fed Chair Warsh.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/The Close 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Tech Stocks Halt S&P 500 Rally  Closing Bell.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Strategy Purchases More Bitcoin, Possibility of Rescinding Rule 611  Bloomberg Crypto 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Stock Rally Cools Ahead of BOJ, RBA Decisions  The Asia Trade 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Soars in 3rd Day of Trading, Set to Overtake Amazon Bloomberg Businessweek Daily 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Shares Surge, US & Iran Prepare for Deal Signing  The Opening Trade 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Set for More Than 50% Jump in Just Three Sessions  The Pulse 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Nears $3 Trillion in Value  Open Interest 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX IPO in Focus as Iran Fears Ease  The Asia Trade 6122026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Agrees to Buy AI Startup Cursor for $60 Billion Days After Going Public.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Senator Warren on Iran Deal, Fed's Warsh and SpaceX IPO.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Sen. Johnson US Must Keep Iran ‘In a Box’.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Ret. Gen. Clark US Must Not Give Up Iran Leverage Too Soon.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/RBC CEO on AI, Jobs, SpaceX IPO, US Trade, Energy Demand.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Oil Falls Below $80 For First Time in More Than Three Months.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Netanyahu Pays Political Price for Trump's Iran Deal.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Jeff Currie Says Hormuz Flows May Not Normalize Until End of the Year.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran Won't 'Get a Dime' of US Taxpayer Money, Vance Says.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran War Update Trump Says Netanyahu Should Be More Responsible With Lebanon.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran War Can Trump Really Reopen the Strait of Hormuz by Friday.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran Deal Points to Steeper Yield Curves 3-Minutes MLIV.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/G7 Allies Question Trump's Hormuz Optimism; Stocks Waver  Horizons Middle East & Africa 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/France Is Against Iran Imposing Any Tolls to Pass Through Hormuz.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Dan Ives on US-Anthropic Talks, AI M&A, Open AI Losses.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/China Sees First Consumer Spending Drop Since Covid  The China Show 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Australia Grapples with Demographic Shifts Falling Fertility, Immigration.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/AI Relief Rally Fades While Chinese Economy Stalls  Insight with Haslinda Amin 6162026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/World Cup’s Smooth Start Eases Concerns for Host Nations, FIFA.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US‑Iran Deal Promises De‑Escalation, Fuels Risk‑On Turn  Insight with Haslinda Amin 06152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US-Iran Deal Triggers Rally in Asian Stocks  The China Show 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US-Iran Deal Set to Dominate G7 Summit in France.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US, Iran Reach Hormuz Deal  Balance of Power 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US, Iran Agree to Halt War But Key Questions Unanswered  Daybreak Europe 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US Orders Anthropic to Block Foreign Access to Mythos.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US Oil Reserve Hits 43-Year Low as Trump Tries to Limit Iran Fallout.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US and Iran Agree to Halt War; Stocks Rally, Oil Slumps  Horizons Middle East & Africa 06152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US and Iran Agree to Halt War, SpaceX Jumps  The Pulse 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Trump, Macron Meet In France  ETF IQ 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Tom Mueller on SpaceX’s Rise and Space Economy.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Swiss Referendum Voters Reject 10 Million Population Cap Proposal.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Stocks Rally, Oil Falls on Long-Awaited Iran Peace Deal  The Asia Trade 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Stocks and Bonds Rally on US-Iran Deal  The Opening Trade 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Stocks & Bonds Rally, Oil Falls after US and Iran Agree to Interim Deal  Bloomberg Brief 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/SpaceX, Tesla Merger A 'Forgone Conclusion,' Says Ross Gerber.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/SpaceX Shares Jump in Second Day of Trading After Record IPO.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/SpaceX Second Day of Trading, US at Odds With Allies  Bloomberg Businessweek Daily 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Short-Term Iran Deal to Pave Way for More Talks  Balance of Power 06152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Salesforce to Buy AI Firm That Handles Customer Service.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/S&P 500 Set for Best Day Since April as Oil Sinks  The Close 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Oil Down on US-Iran Interim Hormuz Deal.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/New York is in the Money With Knicks’ Historic Run.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Muni Market Operating Efficiently BofA's McQueen.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/MSG Should Split Into Two Companies, Ariel's John Rogers Says.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Markets Shift Focus From SpaceX to Iran, Fed  Open Interest 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Markets Rally on Hope for US-Iran Peace Deal  Closing Bell.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Knicks Win, G7 Meeting in France,  & Us-Iran Talks   Bloomberg This Weekend June 14, 2026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Iran War Update Trump Says ‘A Lot of Lanes’ Already Opened in Toll-Free Hormuz.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Ice Cube Ready To Take BIG3 to the Next Level.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Fox Will Buy Roku In Deal Worth About $22 Billion.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Fed Decision Likely to Have No Dissenters, JPM’s Berro Says.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Deal is Bullish But Risk-Reward Poor 3-Minute MLIV.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Can SpaceX’s IPO Provide Liftoff for the Space Industry.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6152026.md
 - 2026-06-14 | 01_Videos/Bloomberg Television/The Save Our Bacon Act Targets Pig Welfare in Pork Industry.md
 - 2026-06-14 | 01_Videos/Bloomberg Television/Tehran Hesitates and US Remains Silent on Terms of Deal.md
 - 2026-06-14 | 01_Videos/Bloomberg Television/Rep. Olszewski Expresses Skepticism Over Iran MOU Details.md
@@ -41,7 +145,6 @@ Date range: 2017-10-25 -> 2026-06-14
 - 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Jumps in First Trades  Balance of Power 6122026.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Raises $75 Billion, US-Iran Edge Towards Interim Deal  The Pulse 6122026.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Is Troubling Sign for Markets, Chanos Says.md
-- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO in Focus as Iran Fears Ease  The Asia Trade 6122026.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Elon Musk Becomes the World's First Trillionaire.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Debut Fuels Musk Mania and Valuation Debate  Insight with Haslinda Amin 06122026.md
 - 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX and Tesla Will Likely Merge, Ives Says.md
