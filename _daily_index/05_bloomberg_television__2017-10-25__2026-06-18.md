@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-17T20:09:34Z
-Date range: 2017-10-25 -> 2026-06-17
+Generated at (UTC): 2026-06-18T20:14:09Z
+Date range: 2017-10-25 -> 2026-06-18
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-18 | 01_Videos/Bloomberg Television/Warsh Rocks Bond Market in Debut, Sparks Surge in Hike Bets.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Warsh Is a Hawk in Dove's Clothing, Yardeni Says.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Sign Interim Deal  - What Happens Next in Hormuz.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Interim Deal Takes Effect  The Pulse 06182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Deal Takes Effect; Futures Rally, Oil Slides  Horizons Middle East & Africa 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Deal Takes Effect  Balance of Power 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US Signs Deal With Iran, But Some Trump Allies Not Happy.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US Jobless Claims Fall as Philadelphia Fed Index Rises.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US Ends Hormuz Blockade, Downplays Tolls as 60-Day Clock Starts.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump’s Iran Deal Faces a Fragile 60-Day Test  Insight with Haslinda Amin 06182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump Signs US-Iran Deal, Warsh Fuels Fed Rate Hike Bets  Daybreak Europe 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump Signs Iran MoU, Warsh Rocks Bond Market in Debut  The Opening Trade 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump Says Intel Will Work With Apple to Make Chips in the US.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/This Hawkish Fed Was Good for Stocks 3-Minutes MLIV.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Stocks rally as US-Iran sign interim deal, oil prices drop.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Stock Futures Rise, Oil Falls on US-Iran Deal; Warsh Rocks Bond Market  Bloomberg Brief 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/SpaceX Demand Is 'Off the Charts,' Says Schwab CEO.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Obama Seeks to Defend, Define Presidential Legacy With $850 Million Center.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Lithuania's Nauseda Says Putin Can't Win the War With Ukraine.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Knicks Championship Parade Takes Over NYC.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Intel Surges on Apple Deal  Open Interest 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/How FIFA Picks World Cup Host Cities  Sports City.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Goldman Sees More Two-Year Volatility Under Warsh Fed.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/First Saudi Supertankers Begin Hormuz Crossing.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Fed Turns Hawkish, Spurs Surge in Rate Hike Bets  The China Show 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Chair Warsh Makes Fed Debut, Opportunity In the Credit Market  Real Yield 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Asian Stocks Shrug Off Pressure from Hawkish Fed  The Asia Trade 6182026.md
 - 2026-06-17 | 01_Videos/Bloomberg Television/We're Entering a 'Summer of the Bond Market,' Goncalves Says.md
 - 2026-06-17 | 01_Videos/Bloomberg Television/Warsh Faces Big Test, US & Iran Prepare for Deal Signing  The Opening Trade 6172026.md
 - 2026-06-17 | 01_Videos/Bloomberg Television/US-Iran Deal Details Emerge; Bonds Rally Ahead of Fed  Horizons Middle East & Africa 6172026.md
