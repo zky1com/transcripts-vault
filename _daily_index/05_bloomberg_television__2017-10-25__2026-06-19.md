@@ -1,11 +1,25 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-18T20:14:09Z
-Date range: 2017-10-25 -> 2026-06-18
+Generated at (UTC): 2026-06-19T20:05:13Z
+Date range: 2017-10-25 -> 2026-06-19
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Warns Israel Against Attacking its 'Only Powerful Ally'  Balance of Power 06182026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Swiss Trip for Iran Talks.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Iran Talks, Andy Burnham's Victory  The Opening Trade 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Deal Signing Trip; US Ends Hormuz Blockade  Horizons Middle East & Africa 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/US-Iran MOU Soothes Market Stress Markets Snapshot.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/US Tells ASML It’s Concerned China May Have Top Chip Tool.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/The China Show 619202US Concerned with ASML Over China Chip Tool  The China Show 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/It's a Regime-Shift for US Real Yields 3-Minutes MLIV.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/India Not Out of the Woods, Reforms Key BofA.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Burnham's By-Election Win Paves Way to Oust Starmer.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Asian Stocks Hit Record, Oil Heads for Weekly Loss  The Asia Trade 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Andy Burnham Wins Election In Threat to UK Prime Minister Keir Starmer  Daybreak Europe 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Andy Burnham Win Puts UK PM Under Pressure & US-Iran Talks Called Off  The Pulse 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/60-Day Clock Starts on Iran-US Talks  Insight with Haslinda Amin 06192026.md
 - 2026-06-18 | 01_Videos/Bloomberg Television/Warsh Rocks Bond Market in Debut, Sparks Surge in Hike Bets.md
 - 2026-06-18 | 01_Videos/Bloomberg Television/Warsh Is a Hawk in Dove's Clothing, Yardeni Says.md
 - 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Sign Interim Deal  - What Happens Next in Hormuz.md
