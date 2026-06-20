@@ -1,11 +1,25 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-19T20:05:13Z
-Date range: 2017-10-25 -> 2026-06-19
+Generated at (UTC): 2026-06-20T20:09:51Z
+Date range: 2017-10-25 -> 2026-06-20
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-20 | 01_Videos/Bloomberg Television/Why Guinness Is Growing While Beer Sales Fall.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/US-Iran Delegations Expected in Switzerland.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Trump Seeks Iran Offramp.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/The Reindustrialize Summit 'Build, Baby, Build'.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/SpaceX IPO Sparks Anticipation for OpenAI and Anthropic.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Rep. Warnock Wall Street vs Main Street.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Pointed News Quiz  Bonds, Streaming, Yogurt.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Netanyahu Faces MOU Blow.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/MOU Gives US and Iran Breathing Room.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Local Election Victory Sparks Leadership Challenge in UK.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Lawrence, Kansas Embraces Algerian World Cup Team.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Iran Sanctions Losing Efficacy.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/History Repeating Itself in America.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US, Iran Reps to Switzerland, Team USA to the Knockout Round.md
 - 2026-06-19 | 01_Videos/Bloomberg Television/Vance Warns Israel Against Attacking its 'Only Powerful Ally'  Balance of Power 06182026.md
 - 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Swiss Trip for Iran Talks.md
 - 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Iran Talks, Andy Burnham's Victory  The Opening Trade 6192026.md
