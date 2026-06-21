@@ -1,11 +1,20 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-20T20:09:51Z
-Date range: 2017-10-25 -> 2026-06-20
+Generated at (UTC): 2026-06-21T20:07:52Z
+Date range: 2017-10-25 -> 2026-06-21
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-21 | 01_Videos/Bloomberg Television/UK to Ban Social Media for Under-16s Starting Next Year.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Senator Warnock Calls Republican Party a Cult.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Oil Stockpiles Near Danger Zone.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/New York Primary Election Approaches.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Iran Avoids Shared US Photo at Summit.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Former US Defense Secretary Esper Hezbollah is 'Spoiler' for US-Iran Deal.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/FDA to Review Easing Restrictions on Peptides.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Fatherhood Books Are Failing to Reflect Modern Dads.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US-Iran Talks To Get Underway, Trump Threatens Tolls, Happy Father’s Day.md
 - 2026-06-20 | 01_Videos/Bloomberg Television/Why Guinness Is Growing While Beer Sales Fall.md
 - 2026-06-20 | 01_Videos/Bloomberg Television/US-Iran Delegations Expected in Switzerland.md
 - 2026-06-20 | 01_Videos/Bloomberg Television/Trump Seeks Iran Offramp.md
