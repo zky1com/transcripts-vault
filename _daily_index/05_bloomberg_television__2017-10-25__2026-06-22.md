@@ -1,11 +1,35 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-21T20:07:52Z
-Date range: 2017-10-25 -> 2026-06-21
+Generated at (UTC): 2026-06-22T20:05:59Z
+Date range: 2017-10-25 -> 2026-06-22
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-22 | 01_Videos/Bloomberg Television/Vance Heads to Switzerland for US-Iran Talks, Hormuz Closes  Bloomberg This Weekend June 21, 2026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/US-Iran Talks Progress, Europe Shifts Strategy  Insight with Haslinda Amin 06222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/US Had 'Very Good Day' Speaking With Iran, Vance Says.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/US and Iran Make Progress in Talks; Oil Slumps  Horizons Middle East & Africa 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/UK's Starmer Could Set Out Resignation Timetable Imminently.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/UK Prime Minister Keir Starmer Quits  The Pulse 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/UK Prime Minister Keir Starmer Expected to Set Resignation Timetable  Daybreak Europe 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/The Economy Does Not Depend on Fed Policy, Roubini Says.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Starmer Resigns as UK Prime Minister.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Starmer Quits, Sets Out Plan for New UK PM by September.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Starmer on Brink With Resignation Seen Imminent  The Opening Trade 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/SpaceX’s Big AI Bond Bet  Open Interest 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/SpaceX Kicks Off Debut High-Grade Bond Sale.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Sen. McCormick on Iran War, Fed, Alan Greenspan.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Pound Weakens Amid Starmer Resignation; Iran Cites Peace Talk Progress  Bloomberg Brief 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Oil In Focus As US-Iran Peace Talks Show Signs of Progress  The Asia Trade 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/How Will Wall Street Remember Alan Greenspan.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Greenspan Got Many Calls Right, Kroszner Says.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Former Fed Chairman Alan Greenspan Dies at 100.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Chinese Stocks in Hong Kong Near Bear Market  The China Show 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Bonds Under Pressure Despite Oil Relief 3-Minutes MLIV.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Bloomberg News Now UK PM Starmer Is Stepping Down.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/AbbVie to Buy Apogee Therapeutics for $10.9 Billion.md
 - 2026-06-21 | 01_Videos/Bloomberg Television/UK to Ban Social Media for Under-16s Starting Next Year.md
 - 2026-06-21 | 01_Videos/Bloomberg Television/Senator Warnock Calls Republican Party a Cult.md
 - 2026-06-21 | 01_Videos/Bloomberg Television/Oil Stockpiles Near Danger Zone.md
