@@ -1,11 +1,38 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-22T20:05:59Z
-Date range: 2017-10-25 -> 2026-06-22
+Generated at (UTC): 2026-06-23T20:10:15Z
+Date range: 2017-10-25 -> 2026-06-23
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-23 | 01_Videos/Bloomberg Television/Trump Is Giving Away Too Much to Iran With MOU, Hochstein Says.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/The Price of Everything is Skyrocketing — Including Ice Cream.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/The Dips Are Not Getting Bought Today 3-Minutes MLIV.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Terrell Owens, Syntilay Launch Pickleball Recovery Shoe.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Tumble Overshadows Markets' Iran Hopes  The Asia Trade 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Stock Selloff Spreads to Europe  The Opening Trade 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Selloff Hits Markets  Open Interest 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Selloff Hits Asia as Korea Stocks Slide  Insight with Haslinda Amin 06232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Strive Is Buying Bitcoin Hand-Over-Fist, CEO Says.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Stocks Hit by Global Tech Selloff  Bloomberg Brief 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/SpaceX Rout Continues as Tech Selloff Hits Stocks  The Pulse 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/SpaceX Loses $600 Billion in Value Over Three Days.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/SpaceX Leads Global Tech Stocks Selloff  Daybreak Europe 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Oil Starts Flowing Through Strait of Hormuz Again.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Julian Emanuel Remains Bullish as Tech Selloff Deepens.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Iran War Update Vance Warns Israel Against Attacking Trump’s Iran Deal (Remarks).md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Iran Oil Waiver; SpaceX Falls for Third Day  Horizons Middle East & Africa 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/If Iran Doesn't Behave, I Will Do What I Need To Do Says Trump (Q&A).md
+- 2026-06-23 | 01_Videos/Bloomberg Television/How Eli Lilly Became a $1 Trillion Company.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Former Fed Chairman Alan Greenspan Dies at 100.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Danon Touts 'Strong Alliance' Between US, Israel.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Assessing Digital Credit Market, Cuomo's Next Act Crypto  Bloomberg Crypto 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Asia Stocks Fall From Record as Tech Rally Cools  The China Show 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Andy Burnham Needs Bold Ideas Says Ex-BOE Governor King.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/A Decade After Brexit, Britain Can’t Keep A Prime Minister.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/Vance Heads to Switzerland for US-Iran Talks, Hormuz Closes  Bloomberg This Weekend June 21, 2026.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/US-Iran Talks Progress, Europe Shifts Strategy  Insight with Haslinda Amin 06222026.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/US Had 'Very Good Day' Speaking With Iran, Vance Says.md
@@ -24,7 +51,6 @@ Date range: 2017-10-25 -> 2026-06-22
 - 2026-06-22 | 01_Videos/Bloomberg Television/Oil In Focus As US-Iran Peace Talks Show Signs of Progress  The Asia Trade 6222026.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/How Will Wall Street Remember Alan Greenspan.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/Greenspan Got Many Calls Right, Kroszner Says.md
-- 2026-06-22 | 01_Videos/Bloomberg Television/Former Fed Chairman Alan Greenspan Dies at 100.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/Chinese Stocks in Hong Kong Near Bear Market  The China Show 6222026.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/Bonds Under Pressure Despite Oil Relief 3-Minutes MLIV.md
 - 2026-06-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6222026.md
