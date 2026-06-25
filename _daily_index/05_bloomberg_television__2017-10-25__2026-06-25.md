@@ -1,11 +1,71 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-06-23T20:10:15Z
-Date range: 2017-10-25 -> 2026-06-23
+Generated at (UTC): 2026-06-25T20:06:05Z
+Date range: 2017-10-25 -> 2026-06-25
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-06-25 | 01_Videos/Bloomberg Television/What to Know About the Screwworm Threat to US Livestock.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/US Inflation Climbs as Consumers Spent More in May.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Stocks Rally as Micron Lifts AI Optimism Ahead of PCE  Bloomberg Brief 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Stocks Get a Boost From Micron's Outlook; Oil Slumps  Horizons Middle East & Africa 06252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Qualcomm Says Data Center Chips to Produce ‘Billions’ in ’27.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/PBOC Looks to Next Stage of Policy Shift  The China Show 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Surges on AI Boom as Brent Oil Erases Iran War Gains  The Pulse 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Soars After AI-Fueled Forecast Shatters Estimates  The Opening Trade 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Revives AI Trade; SK Hynix Seeks US Listing  The Asia Trade 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Revives AI Bets as Oil Slumps  Insight with Haslinda Amin 06252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Earnings Spark Global Tech Rebound  Daybreak Europe 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Earnings Inflate the AI Bubble 3-Minutes MLIV.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Kerry Says Iran War 'Never Should Have Happened'.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/IBM Unveils New Sub-1 NM Chip, the size of a fingernail.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Gold Steadies Near $4,000 as Traders Weigh Interest-Rate Outlook.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Ford CEO Says Human Workers Are Making a Difference.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Fans Sit at Center of World Cup  Sports City.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Canadian Defence Minister on Indo-Pacific Strategy.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Apple Raises Prices on Some Products by $500 (Correct).md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Apple Raises Prices on Macs, iPads, Home Devices.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Apple Prices Climb and the AI Trade Roars Back  Open Interest 6252026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Zero Fed Rate Hikes Baked Into S&P Forecast, Says Wells Fargo's Cronk.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/World Cup Mints Big Prediction Winners and Million-Dollar Losers.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/What to Watch for in Micron Earnings.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Volatility Is Now a Feature, Not a Bug 3-Minutes MLIV.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/US Chip Stocks Plunge as AI Selloff Ripples Across From Asia.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Trump Scraps Housing Bill Signing  Balance of Power 6242024.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Trump Cancels Event to Sign Housing Bill.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Traders Deal With 'Chip-Wreck' on AI Fears  The Asia Trade 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stocks Rise Ahead of Micron Earnings; US, Iran Offer Conflicting Claims  Bloomberg Brief 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stocks Churn Before Micron’s Earnings as Oil Sinks  The Close 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stock Rout Pauses, Europe Heat Wave Intensifies  The Pulse 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stock Rebound Falters; Trump Defends Unfreezing Iran Funds  Horizons Middle East & Africa 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/SpaceX Sells $25 Billion of Bonds, Cuts Interest Costs.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/SK Hynix Seeks $29B With US Listing to Fund AI Boom.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Rutte Says Trump Is Getting NATO Into 'Better Shape'.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Oil Falls As More Ships Pass Through Hormuz  Bloomberg Businessweek Daily 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/NATO Secretary General Mark Rutte on Oval Office Meeting  Balance of Power 06242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron's Growth Rate Is Remarkable, Munster Says.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Sales Forecast Shatters Estimates on AI Demand.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings to Test Tech Sector After Global Selloff  Daybreak Europe 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings to Be ‘Gut Check Moment’ for Markets, Dan Ives Says.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings Take on New Gravity With Market on Edge Over AI.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings Report Exceeds Expectations  Closing Bell.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Markets Weigh Next Phase of AI Trade  Open Interest 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Is the AI Bubble Bursting Not Yet, Says Dan Farley.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Heat Wave Hits Europe, Causing Disruption.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Goldman Sachs Cuts Fourth-Quarter Crude Forecast to $80.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/FedEx Keeps Finding Ways to Unlock Value, McNally Says.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/European Stocks Steady Ahead of Micron Earnings   The Opening Trade 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/ESPN's Linda Cohn Reflects her Legendary SportsCenter Run.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Chinese Premier Says Tech Industry Not a Global Threat  The China Show 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/China’s ‘Opportunity 2.0’ Pitch Meets Weak Demand Reality  Insight with Haslinda Amin 06242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Bloomberg Deals 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Bessent Says US Offering Iran Carrots, There Are Sticks.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Andrew Cuomo to Lead Crypto Venture With New York Stock Exchange Owner.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/'New Yorkers Are Hungry for a New Kind of Politics,' Says NYC Mayor Mamdani.md
 - 2026-06-23 | 01_Videos/Bloomberg Television/Trump Is Giving Away Too Much to Iran With MOU, Hochstein Says.md
 - 2026-06-23 | 01_Videos/Bloomberg Television/The Price of Everything is Skyrocketing — Including Ice Cream.md
 - 2026-06-23 | 01_Videos/Bloomberg Television/The Dips Are Not Getting Bought Today 3-Minutes MLIV.md
