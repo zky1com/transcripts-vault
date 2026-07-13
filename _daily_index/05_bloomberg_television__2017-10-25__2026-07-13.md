@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-07-12T20:12:35Z
-Date range: 2017-10-25 -> 2026-07-12
+Generated at (UTC): 2026-07-13T20:08:44Z
+Date range: 2017-10-25 -> 2026-07-13
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-07-13 | 01_Videos/Bloomberg Television/Zelenskyy Removes Prime Minister as Ukraine's Allies Meet in Paris.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Wall Street Banks Set to Pull in Almost $39 Billion From Trading.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/US and Iran Trade Fresh Strikes.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/US & Iran Trade Fresh Strikes, SK Hynix Shares Fall Most on Record  The Opening Trade 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/UBS Analyst Says Big Bank Earnings Day Could Be a 'Little Bit of a Mess'.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Trust Breakdown Between Fed, Consumer Inflation Kroszner.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Trump Says US Would 'Keep the Strait' And Run It.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/The Grueling Economics of Tennis.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/SK Hynix Selloff Is Not a Huge Problem, Kunst Says.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/SK Hynix Jolts Stocks More Than Iran 3-Minutes MLIV.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Ships Transit the Strait of Hormuz in Secret as US-Iran Attacks Continue.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Sabato Democrats Still Have A Chance In Maine.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Rep. Cleaver Trump's Housing Snub Was 'Bad Advice'.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Oil Rises as US, Iran Dispute Whether Hormuz is Open; Big Week in Markets  Bloomberg Brief 071326.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Markets Weigh Fresh US Strikes on Iran  The Asia Trade 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Lindsey Graham Dies at 71;  US, Iran Trade Wave of Attacks  Bloomberg This Weekend July 12.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Korea Selloff Deepens as SK Hynix Plunges Most on Record  The Pulse 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Iran Drone Hits Kuwait Offshore Oil Rig  Horizons Middle East & Africa 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Investors Weigh War Risks as US and Iran Trade Fire  Insight with Haslinda Amin 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/How the Sudden Death of Sen. Graham Will Shift the GOP.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Heat Wave Deaths in England, Wales May Have Topped 2,700.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Fresh US-Iran Strikes Threaten Ceasefire; TMSC Sales Surge  Daybreak Europe 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Fmr. Secret Service Agent on Air Force One Security.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Delta Will Do Just Fine With High Fuel Prices, CEO Says.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Delta CEO Says Oil Prices Will Stay 'Sticky for Longer'.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Chip Selloff Rocks Tech Stocks  Open Interest 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/China Rejects South China Sea Ruling on 10th Anniversary  The China Show 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7132026.md
 - 2026-07-12 | 01_Videos/Bloomberg Television/Wall Street Banks Brace for Earnings Rush.md
 - 2026-07-12 | 01_Videos/Bloomberg Television/Volker Says NATO Sends Strong Message to Putin.md
 - 2026-07-12 | 01_Videos/Bloomberg Television/The $360 Billion Market that Medicine Got Wrong for 20 Years.md
