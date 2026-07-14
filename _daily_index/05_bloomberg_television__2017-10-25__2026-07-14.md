@@ -1,11 +1,40 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-07-13T20:08:44Z
-Date range: 2017-10-25 -> 2026-07-13
+Generated at (UTC): 2026-07-14T20:10:47Z
+Date range: 2017-10-25 -> 2026-07-14
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-07-14 | 01_Videos/Bloomberg Television/What to Know About Shein's Plans for Mega HK IPO.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/What to Expect From Wall Street Banks Earnings.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Wells Fargo’s Mike Mayo Citi My Top Pick of Big Banks.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Wells Fargo CFO Sees Healthy Investment Banking Pipeline.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Warsh to Move Markets More Than He Wants 3-Minutes MLIV.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Warsh Has to Communicate More, Says Opinion's Dudley.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/US-Iran Clashes Lift Oil, Rate Hike Bets  Insight with Haslinda Amin 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Trump's Hormuz Blockade Sends Oil Soaring; Samsung Explores US ADR Listing  The Pulse 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Trump Reinstates Iran Blockade, Plans Hormuz Ship Fee.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Trump Plans Hormuz Charge, Stocks Steady Before Warsh & CPI  The Opening Trade 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Tanziania's Richest Man Plans to Process and Refine Graphite.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Paramount-Warner Bros. Deal Challenged by California, States.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Oil Rises as Trump Resumes Hormuz Blockade  The Asia Trade 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Markets Brace for CPI, Warsh Hearing & Bank Earnings  Bloomberg Brief 07142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Lucid Shares Drop 57% After EV Maker Hires Restructuring Adviser.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Latest CPI Report Is a Huge Relief for Investors, Says Santos of JPM Asset Management.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/JPMorgan Sees Record Profit as Stock-Trading Climbs 86%.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Iran War US Reinstates Hormuz Blockade, Demands 20% Fee  Daybreak Europe 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/IBM Falls Most Since At Least 1968 on Sales Miss.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Hungary Approves Legislation to Remove President, Orban Allies.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Hormuz Tensions Rise After UAE Tankers Hit  Horizons Middle East & Africa 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Goldman Breaks Own Stock-Trading Revenue Record Again.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Conley Iran Conflict Risks Stretching US Defenses.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Chipotle’s Bold Bet on Mexico.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Chipotle CEO on Restaurant’s Expansion Into Mexico.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/China's Oil Imports Drop to Lowest in Nearly a Decade  The China Show  7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Book Sees Oil Risk If Iran Conflict Broadens.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/AI-Fueled Rally to Continue Into 2027, Analyst Luria Says.md
 - 2026-07-13 | 01_Videos/Bloomberg Television/Zelenskyy Removes Prime Minister as Ukraine's Allies Meet in Paris.md
 - 2026-07-13 | 01_Videos/Bloomberg Television/Wall Street Banks Set to Pull in Almost $39 Billion From Trading.md
 - 2026-07-13 | 01_Videos/Bloomberg Television/US and Iran Trade Fresh Strikes.md
