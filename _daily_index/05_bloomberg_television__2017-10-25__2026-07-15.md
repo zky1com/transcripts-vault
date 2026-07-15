@@ -1,11 +1,30 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-07-14T20:10:47Z
-Date range: 2017-10-25 -> 2026-07-14
+Generated at (UTC): 2026-07-15T20:11:07Z
+Date range: 2017-10-25 -> 2026-07-15
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-07-15 | 01_Videos/Bloomberg Television/Warsh Says Trump Has Not Tried to Influence Fed Policy.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Warsh Defends a Fed Under Fire  Open Interest 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Trump's Iran Warning; AI-Driven Demand Lifts ASML  The Pulse 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Trump Pledges to Escalate Iran Attacks, ASML Fuels Tech Stock Rally  The Opening Trade 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Trump Drops Hormuz Fee as US Strikes on Iran Continue.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Tech Matters More Than Financials 3-Minutes MLIV.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Strategy CEO We’re Buyers of Bitcoin Long-Term.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Starmer's Final PMQs Outgoing Leader on  Burnham, the World Cup and Farage Vs. Binface.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Senators Push Trump Picks on Independence  Balance of Power 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Senator Warren Challenges Fed's Warsh About Ethics, Bowman.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Iran Strikes Kuwait in Worst Attack Since June  Horizons Middle East & Africa 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Fed's Warsh Says Inflation Mission Not Accomplished  The Asia Trade 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/China's GDP Growth Weakens to Below Target Range  The China Show  7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Bloomberg Deals 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/ASML Raises Full-Year Sales Forecast Again  Daybreak Europe 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/ASML Raises Full-Year Outlook as AI Spending Grows.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/ASML Boosts Outlook on AI Momentum; Oil Rises on Trump Warning  Bloomberg Brief 07152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/AI Rally Sees Revival Despite Rising Oil Prices  Insight with Haslinda Amin 7152026.md
 - 2026-07-14 | 01_Videos/Bloomberg Television/What to Know About Shein's Plans for Mega HK IPO.md
 - 2026-07-14 | 01_Videos/Bloomberg Television/What to Expect From Wall Street Banks Earnings.md
 - 2026-07-14 | 01_Videos/Bloomberg Television/Wells Fargo’s Mike Mayo Citi My Top Pick of Big Banks.md
