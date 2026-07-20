@@ -1,7 +1,7 @@
 # Transcript Vault - File Index
 
 Auto-generated. Re-run the daily transcript sync job to refresh this file.
-Generated at (UTC): 2026-07-20T15:36:36Z
+Generated at (UTC): 2026-07-20T20:19:03Z
 Base raw URL: https://raw.githubusercontent.com/zky1com/transcripts-vault/main/
 Shard directory: _daily_index/
 
@@ -9,8 +9,8 @@ Shard directory: _daily_index/
 
 Primary entry points for daily and rolling synthesis:
 
-- rolling_7d__2026-07-09__2026-07-15 | 08_Summaries/rolling_7d__2026-07-09__2026-07-15.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_7d__2026-07-09__2026-07-15.md
-- rolling_30d__2026-06-16__2026-07-15 | 08_Summaries/rolling_30d__2026-06-16__2026-07-15.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_30d__2026-06-16__2026-07-15.md
+- rolling_7d__2026-07-14__2026-07-20 | 08_Summaries/rolling_7d__2026-07-14__2026-07-20.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_7d__2026-07-14__2026-07-20.md
+- rolling_30d__2026-06-21__2026-07-20 | 08_Summaries/rolling_30d__2026-06-21__2026-07-20.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/rolling_30d__2026-06-21__2026-07-20.md
 - 08_Summaries README | 08_Summaries/README.md | https://raw.githubusercontent.com/zky1com/transcripts-vault/main/08_Summaries/README.md
 
 ## Daily Shards
