@@ -1,11 +1,72 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-07-23T20:10:24Z
-Date range: 2017-10-25 -> 2026-07-23
+Generated at (UTC): 2026-07-25T20:17:13Z
+Date range: 2017-10-25 -> 2026-07-25
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-07-25 | 01_Videos/Bloomberg Television/Why Miami No Longer Pays Off.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/WHCD Returns After Spring Delay.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/US Weighs Saudi Nuclear Partnership.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Ukraine Gains Leverage Ahead of Talks.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/The Housing Crisis Solution Hiding in Austin.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/The Deal World Cup Recap and Why Hydration Breaks Are Here to Stay.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Rattner Says AI Boom Faces Questions Over Debt, China and Higher Rates.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Oil Market Faces Mounting Supply Threats.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Odyssey Returns to the Cultural Spotlight.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Nvidia CEO Jensen Huang on the AI Boom in South Korea.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/New Tariffs Test Global Trade Rules.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Measles Resurgence Tests US Health System.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Inside Africa's Data Centers Revolution  Bloomberg Next Africa.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Huang Sees AI Driving Chip Boom.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Energy Volatility Persists in Middle East.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Edward Yardeni on Investing, Inflation, Retirement.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Jensen Huang Exclusive Interview, White House Correspondents’ Dinner Redo.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/‘The Odyssey’ Fans Splurge to Watch the Movie.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Worried About College Costs Listen to JPMorgan Asset Mgmt's Advice.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Wall Street Week  AI Debt, Austin Housing Test, Student Loan Reckoning, Canada Weighs US Tariffs.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/US Tech Leaders Tout Open Weight AI Models in Letter.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Upcoming Events Affecting Your Money Fed, Earnings & Comic-Con.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/UN Town Hall The Next Secretary-General.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/UN Secretary-General Candidates on Iran War, Keeping the Peace.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump’s New Tariffs to Face Pushback in Asia  Insight with Haslinda Amin 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Vows Fresh Tariffs  Balance of Power 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump US ‘Locked & Loaded’ for ‘Massive Attack’  Balance of Power 07242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Rebuilds Tariffs With New Levies.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Rebuilds Tariff Wall With Global Levies  The Opening Trade 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Plans New Tariffs on 60 Economies.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Traders Brace For CXMT's Blockbuster Debut  The China Show  7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Student Protests Spread Across India Rattling Modi's Government.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Stocks Waver after Tech Selloff; Trump Rebuilds Tariffs  Bloomberg Brief 07242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/SpaceX Makes Big Bet on Starship.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Signal's Whittaker on 'Hype' Around OpenAI-Hugging Face Hack  The Pulse 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Retirement Worries, College Costs Soar  Bloomberg Money 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Retirement Gets More Costly, Health Expenses Spike Higher.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Red Sea Becomes New Choke Point in US-Iran Conflict.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/President Trump Hits 60 Economies With New Tariffs  Daybreak Europe 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Oil Tops $100 on War Worries; Trump Resurrects Tariff Wall  The Asia Trade 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Navarro On Rebuilding Trump's Tariff Regime.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Krishnamoorthi 'No Way' To End Iran War Militarily.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Ireland's Ambassador to US Wants to 'Stabilize' Trade.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Investors on Edge Tech Woes, Trump's Tariffs & The Fed  Open Interest 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Intel Weighing Down the Market  Closing Bell.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Inflation Angst Returns, Micron Millionaires Money Roundtable.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Graduate Schools Face Crisis During Trump Admin.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Geopolitics and Tech Weakness a Headwind for Risk 3-Minutes MLIV.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Gavito 'No End' To Iran War Without Negotiated Deal.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Fresh EU Tariffs, Aftermath of Intel Earnings  Bloomberg Businessweek Daily 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Fed's Warsh Should Hike Rates When He Can, Not When He Must, Dutta Says.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Energy Prices Rebound As Iran War Widens Markets Snapshot.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Cisco AI Tool 'Antares' Will Protect Sensitive Data, CPO Says.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Brent Tops $100 as Trump Threatens More Iran Strikes  Horizons Middle East & Africa 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Big Tech Faces Pressure  The Close 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Big Take Asia The Hunt For Cambodia’s Stolen Statues.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Banking on Books Tom and Scarlet's Must-Read Books.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/AI Can Be Force For Good, Birkett Says.md
 - 2026-07-23 | 01_Videos/Bloomberg Television/Yields Surge, Rate Hike Bets Rise  Real Yield 7232026.md
 - 2026-07-23 | 01_Videos/Bloomberg Television/Utz Will Go Private in $2.9B Deal With Intersnack.md
 - 2026-07-23 | 01_Videos/Bloomberg Television/US-Iran War Expands To Red Sea What It Means For Markets  The Pulse 7232026.md
