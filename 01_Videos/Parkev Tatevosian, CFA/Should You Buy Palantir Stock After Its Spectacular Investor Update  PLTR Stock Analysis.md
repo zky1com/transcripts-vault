@@ -1,0 +1,48 @@
+---
+title: "Should You Buy Palantir Stock After Its Spectacular Investor Update? | PLTR Stock Analysis"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "x4DiuFjtL9U"
+url: "https://www.youtube.com/watch?v=x4DiuFjtL9U"
+publish_date: 2026-08-04
+publish_timestamp_utc: "2026-08-04T19:08:37Z"
+duration: "9:56"
+duration_seconds: 596
+views_at_import: 844
+transcript_language: ""
+has_captions: null
+transcript_status: "done"
+word_count: 1458
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1458 words)</summary>
+
+Palanteer reported an incredible 93% year-over-year growth in revenue, reaching $1.9 billion. Additionally, the company generated $1.2 billion in cash flow from operations. Unsurprisingly, the stock prices soaring in the aftermarket hours following these fantastic quarterly results. And of course, I'm happy about that. I bought Palunteer stock for my portfolio at less than $110 per share. And I ranked Palunteer as a buying opportunity and I told investors that the recent crash was a big buying opportunity for long-term investors. >> I want to thank the Mly Fool for sponsoring this video. Visit full.com/parkkev for the 10 best stocks to buy now. Palanteer's management team said that demand for AI sovereignty has now been unleashed and Palanteer is the only company that has demonstrated it can transform tokens into actual economic value. Of course, Palanteer's management team has been vocal about a lot of what companies can get with artificial intelligence right now without using Palunteer is a lot of wasted money. It's a lot of wasted exercise, a lot of mental gymnastics, if you will. And Palanteer is arguing that it's the only company that can help enterprises and institutions harness their proprietary data and incorporate artificial intelligence in a way that adds economic value. And I can understand that argument. A lot of what corporations are doing outside of partnering with a company like Palanteer is experimentation, a lot of research and development, trying to figure things out without any notable tangible success in these investments. And the factor driving Palunteer success has been US commercial revenue. A category that I evaluated as being one of the biggest for Palanteer. US commercial revenue was up 149% year-over-year. It now makes up 764 million of the 1.9 billion in overall revenue they generated. And the reason why I've been bullish on the US commercial segment and commercial revenue overall is because there are more businesses in the world than there are government institutions. Palanteer has long had great success with government institutions, but there are so only so many and only so much budget that the government can allocate to Palunteer. The bigger opportunity is expanding into enterprise and Palanteer is doing that successfully. The total contract value they were able to secure in the most recently completed quarter was $3.37 billion. That was up 49% year-over-year. Remember, this eventually turns into revenue. Overall, their US commercial remaining deal value totaled $6.24 billion. That was up 124% year-over-year and 27% quarter over quarter. They're signing new deals of large sums, and the rates of increase in this category remain excellent. To make it even more impressive, Palanteer isn't offering incentives, promotions, or discounts to get people to purchase their services. They're generating very lucrative profitability. In fact, their operating income totaled 912 million in the most recently completed quarter. That represented a 47% operating profit margin. With so much room to expand, it's reasonable to assume Palanteer's operating profit margins could exceed 60% if the company continues expanding and demonstrating economies in scale. Similarly, their cash flow from operations soared to over 1.2 billion in the quarter. That represented a 63% margin. And all that cash the company is generating is just piling up. They now have 9.2 $2 billion in the balance sheet in the bank account in cash and equivalents. Remember, this is earning the company about four to 5% depending on the vehicle they put this money inside, whether it's a money market account or short-term government bonds, they're generating roughly four to 5%. And on a level of nearly $10 billion, that's about $400 million in interest income the company is generating annually. That's a nice that's a nice source of income. The quarter was so good again that the company raised their revenue guidance for the full year to 8.15 billion and raised their adjusted free cash flow guidance to 4.6 billion at the midpoint. If you divide the adjusted cash flow from operations to revenue, you'll notice that's a margin well above 50% approaching 60%. Strong quarter to be sure. And to gain further perspective, let's look at the income statement for the 3 months that ended June 30th and the 6-month period ended the same. income from operations soared to 912 million, up from 269 million in the same quarter last year. So that's roughly 4x year-over-year in operating income. Similarly, for the 6-month period, operating income jumped to 1.67 67 billion, up from 445 million, again nearly 4x, not quite 4x, but the growth in operating income accelerated in the most recently completed quarter as the company's able to burst revenue without experiencing as much in terms of increasing cost. Similarly, we look at the cash flow from operations, which soar to over 2.1 billion in the 6-month period and the June 30th. That's up more than double the 849 million the company reported in the same time last year. And interestingly, its accounts receivable increased by a similar amount that its cash flow from operations increased by from 163 million to 433 million. Remember, I've been talking about how, you know, they have so much money in the bank, so much cash that they don't even know what to do with. They can't buy back their stock because they're a defense contractor. they're barred from buying back their stock. And so I was suggesting one of the ways the company can use its strong balance sheet is to finance customers that may not be able to afford their services just yet. And one of the ways you do financing in corporate finance is you take back accounts receivable instead of getting cash. So you go to a company and you say, "Look, you can buy our services. We'll charge you a h 100red million for the year and you don't have to pay us back until 9 months from now, 12 months from now. Instead of the usual 30 days or 90 days payback period, you extend the payment terms to these customers that perhaps may not otherwise be able to afford your services and in that way utilize your balance sheet to expand your customer opportunity. Now, I don't suggest them going crazy with this, but incrementally, opportunistically, utilizing that balance sheet to offer better credit terms to customers that could benefit from their services that may not be able to afford it. I don't see very much of that activity happening just yet. I don't see like a change in policy where you would see a noticeable step up in their accounts receivable as a percentage of revenue or as a percentage of cash flow from operations. The increase in accounts receivable seems proportional to the increase in cash flow from operations and the increase in net income. So investors might be wondering, is it too late to buy Palunteer stock? After these fantastic results, the stock is jumping by over 10% approaching $140 per share. That being said, the company boosted revenue, profitability, cash flow, and the balance sheet significantly in the most recently completed quarter. while it's still trading at a forward price to earnings of 60, which I think is an attractive valuation for a company with this level of revenue growth, this level of profit margin, this pristine of a balance sheet in a market opportunity that has so much more upside with its competitive advantages being at least one step ahead of the competition. I think a forward PE of 60 is an attractive price to pay for this kind of business. Similarly, I updated my discounted cash flow valuation model today and the fair value estimate for Palunteer increased to $159. And even after the share price increased to about $140, it still looks undervalued. Whether I look at the forward PE multiple or whether I look at the discounted cash flow model. So, as I mentioned, I've had Palunteer stock rated as a buy, and I even informed investors that my conviction level on this buy rating was high, as high as it can be. I ranked between low, medium, and high. And Palanteer had the high conviction rating and the buy rating. And I updated that on July 10th, 2026. And today, after evaluating the company's earnings results, I will reiterate that high conviction buy rating for Palunteer. By the way, if you want access to these highlighted earnings reports that I personally curate and highlight myself, you can get access to them with the channel membership at the investor tier or above where you'll also get the fair value estimates of all of the companies that I'm following. I think it's a attractive value and you'll appreciate the value you'll get for the price that you
+
+</details>

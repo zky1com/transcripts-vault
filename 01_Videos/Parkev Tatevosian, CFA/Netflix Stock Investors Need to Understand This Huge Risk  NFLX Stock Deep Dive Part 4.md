@@ -1,0 +1,48 @@
+---
+title: "Netflix Stock Investors Need to Understand This Huge Risk | NFLX Stock Deep Dive Part 4"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "oRQsc7yYbpo"
+url: "https://www.youtube.com/watch?v=oRQsc7yYbpo"
+publish_date: 2026-07-26
+publish_timestamp_utc: "2026-07-26T11:45:14Z"
+duration: "9:35"
+duration_seconds: 575
+views_at_import: 2354
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1537
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1537 words)</summary>
+
+Understandably, one of the bigger concerns is stemming out of Netflix's recent content budget and returns on that investment has been that equation, if they still have that leverage in terms of how many dollars they spend on creating content and the resulting engagement and revenue and new member sign-ups that content spending drives. And so, in part four of this deep dive into Netflix's latest results, I want to dive deep into that trend and now want to reveal the things that investors in Netflix stock need to know about concerning this equation. I want to thank The Motley Fool for sponsoring this video. Visit fool.com/parquav for the 10 best stocks to buy now. So, Netflix's management team said the vast majority of their content programming spending goes into the core TV series and films, where they have a really strong track record of more than a decade of translating those investments into value for their members and returns for the business. And that's been true regardless of the metric you look at. I can share with you the company's revenue growth over the previous decade, which has soared from 10 billion up to 49 billion over the 10-year period. You can look at their operating profit margin on a trailing 12-month basis, which has soared from 4% to 30%. You can look at their returns on invested capital, which has also soared from 4% to over 30% as evidence that the company is really good at spending money on content that delivers value for customers and investors. That's a difficult thing to do, and that's something that Netflix has proven to investors over a decade. And so, that statement from the management team, I can verify myself by looking at their results and test whether they're just being boastful and making claims that are untrue or if I can look and verify it with evidence, which I can't. So, another area of concern was that Netflix is spending a lot more on content. Uh widely reported on feature out of Netflix's latest results have been the increasing content amortization expense as a percentage of revenue. And the management team reiterated, "Look, we're going to spend money on content the growth slower than the growth in revenue. And we're going to manage that so that we can continue expanding our profit margin." And they've reiterated that to investors several times. And they're saying again that we're forecasting content expense to be up about 10% this year. That's higher than the 8% that they averaged over the last five years. So, investors are not manage imagining things. Netflix is increasing their content budget. They're forecasting a 10% growth rate this year compared to the 8% growth rate they averaged over the previous five years. But this is below the 14% growth rate that they averaged over the past decade. And in my opinion, I prefer Netflix spending a lot more on content. This is the primary skill Netflix holds. This is their primary competitive advantage is in investing in creating content that people love to watch, that people are willing to pay to watch. And so, if Netflix is finding more opportunities to create more content, I want them to do it. I will encourage them to do it. To the maximum. Right? Without limits. I would want them to do this, especially because of the level it's at right now is in such small percentage compared to its overall revenue. Right? Now, I'm saying this and as I was saying this it reminded me of what's going on with the hyperscalers right now and how much money they're spending on artificial intelligence. And that's not something I would like to see Netflix do. I wouldn't want to see Netflix increase their spending budget to a large extent similar to how the capital expenditure budgets of those hyperscalers have increased as a percentage of revenue, especially because that CapEx is going towards artificial intelligence, which is an unproven category of returns for those companies. It's not in their core uh competencies. It's a new thing that we still don't know enough about to determine if we should be confident that they will get an effective return on invested capital. Whereas with Netflix, they're spending money on content. This is something they've gotten better and better and better at over the previous decade and more. And so this is a category that they're arguably the best in the world. And so you want them spending money in this category. So as a shareholder, I like this and if the share price falls because the company is spending more money on content, that would be a reason for me to be more bullish and a reason for me to want to add to my existing Netflix position. One of the newer areas of content spending for Netflix has been in live programming. This is a category they don't have as much experience in. And so this is a category I would like for them to exercise more caution and view the data before they lean in more significantly. And so far Netflix saying that they're really pleased with their investments in live programming, so much so that they're ramping up their live event schedule. So this is interesting. It's not something I'm as confident with according to what I've seen from Netflix because I haven't seen very much success from Netflix and live programming. I have seen a lot of success from Netflix in spending money to make movies, spending money to create shows, spending money in those categories, not so much in live programming. This is a newer thing for Netflix that they only started in earnest maybe a year ago and really only piloting two or three years ago. So, initially the results are positive and they're leaning more into it. So, I'm happy to see this. And I'm also happy to see management taking a prudent approach, not jumping everything in, putting everything all in because of some early results. I like that they're taking a more measured approach to this category. Here's something important I was waiting to see because in the previous earnings report 3 months ago, Netflix mentioned that these live events, they drive a lot of new sign-ups because understandably people want to watch these live events and they'll sign up so that they can watch the live event. But what I was concerned about is someone that signs up to watch the live event and then after the live event is over, they cancel their membership because all they wanted is to watch that live event or that was the primary reason they joined and then afterwards they cancel their membership. And the reason I was concerned about that is because I see a lot of that in my own YouTube channel, right? I have a channel membership program where people pay monthly to get access to exclusive members only content and some of my exclusive members only content is live programming. I have a live monthly Professor's office hours that I hold on the first Monday of a new month and I also have live earnings coverage which is coming up, right? I covered Netflix live, but I did that for everyone. That was available for everyone. My next earnings coverage live will be for members only. And what I see happening on my channel surrounding those live events coverage is I get a lot more sign-ups because people understandably, they want to watch those live earnings results as I cover them as they come out. And then maybe after earning season, I see a lot more cancellation than usual because people wanted to join for those earnings releases, those earnings analysis. And then they want to wait until the next earning season to join again. So, they'll cancel and they'll they'll join again. So, I wanted to get the information from Netflix. Are they seeing similar type of activity where they'll get a lot of sign-ups during a live event and then maybe a lot of cancellations afterwards. And they did allude to that. They said, "The live events drive disproportionate sign-ups and because of that acceleration, they can exhibit slightly higher churn. The results are exactly consistent with that trend and in line with our expectations and all of our modeling." So, that's good to hear. It wasn't like an alarming rate of cancellation. They're still keeping a large percent of those people that sign up even though maybe there will be a lot more cancellation because you had above average sign-ups and then of course some of those sign-ups will not renew because they just wanted to try out your service. They just wanted to watch that live event. And they got to see it, they got to try it out and then maybe they'll think about rejoining later. But for now, they wanted to watch it and then they canceled. And so Netflix saying that is what they're seeing, but it's not alarming. They're saying slightly higher churn. Which is really, really good if they're only seeing a slightly higher churn from those live member sign-ups.
+
+</details>
