@@ -1,11 +1,18 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-08-05T20:23:44Z
-Date range: 2017-10-25 -> 2026-08-04
+Generated at (UTC): 2026-08-08T20:24:48Z
+Date range: 2017-10-25 -> 2026-08-07
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-08-07 | 01_Videos/Bloomberg Television/Iran Strikes 'Hostile Targets'; Yen Weakens Past 158  The Asia Trade 872026.md
+- 2026-08-07 | 01_Videos/Bloomberg Television/Credit Card Balances at Pace with Inflation Whitney.md
+- 2026-08-06 | 01_Videos/Bloomberg Television/Situational Awareness Comes Roaring Back With Big Bet.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Tech Melt-Up Drives $3.5T Nasdaq 100 Gain in Four Days.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Markets Pause After Record Highs as AI Rally Broadens  The Close 852026.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Expedia, Block, Western Digital, & Sandisk All Report Results  Closing Bell.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 852026.md
 - 2026-08-04 | 01_Videos/Bloomberg Television/Yen Rally Loses Steam; Trump Threatens Iran's 'Last Chance'  The Asia Trade 842026.md
 - 2026-08-04 | 01_Videos/Bloomberg Television/US-China AI Rivalry Grows With Alibaba's Anthropic Rival.md
 - 2026-08-04 | 01_Videos/Bloomberg Television/US Job Openings Ease as Layoffs Stay Limited.md
