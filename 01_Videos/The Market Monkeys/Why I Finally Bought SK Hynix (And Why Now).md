@@ -1,0 +1,48 @@
+---
+title: "Why I Finally Bought SK Hynix (And Why Now)"
+people_mentioned: []
+channel: "The Market Monkeys"
+channel_id: "UC8R0iSKZS8USTJiOJNneMMw"
+video_id: "KY7vtuqqEa4"
+url: "https://www.youtube.com/watch?v=KY7vtuqqEa4"
+publish_date: 2026-08-10
+publish_timestamp_utc: "2026-08-10T13:26:44Z"
+duration: "10:14"
+duration_seconds: 614
+views_at_import: 8469
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1651
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1651 words)</summary>
+
+So, for the first time since pretty much ever, I have went and bought the stock that had just IPO'd. And I am talking about SK Hynix, of course. So, in this video, I'm going to explain to you a little bit about why I have decided to buy this company, why I think this is a an amazing purchase, and I think this would be a great investment. After that, we of course of course will talk about some of the risks because risks are very unique for this company, and you definitely definitely need to know about them before >> [clears throat] >> you are buying the company. After that, we're going to take a look at how Wall Street sees SK Hynix and what are they expecting their target prices for the company. And this is pretty much our plan for today's video. Before we begin, one quick note, my co-host Julia this week is going to release a couple of articles about the memory stocks on her Seeking Alpha account. If memory stocks stocks like SK Hynix, Micron, Samsung, SanDisk, they are interesting for you, go and check out her page on Seeking Alpha. If you don't have a Seeking Alpha account, the link in the description. So, hello and welcome to the Market Market channel. My name is Vadim. Today, we are talking about SK Hynix, and let's begin to talk about SK Hynix business. I'm not going to tell you the whole story about the memory shortage, what's going on with all of that. I wanted to talk a little bit about HBM, about the high bandwidth memory, and the whole reason why we are talking about SK Hynix, why the stock of the company is rising so much lately. So, you probably heard that a lot of data centers are being built. And these data centers need a lot of memory besides other things like GPUs, cooling, racks, everything. The memory which they need is very specific type of memory. It is called high bandwidth memory. In terms of production and in terms of business, this is the memory with the highest margin. So, companies which are producing memory are earning the most of their money when they are producing high bandwidth memory. HBM, in fact, is in such a short supply that a lot of the companies, the SK Hynix, Micron, Samsung, companies like that, they basically switched to only produce high bandwidth memory on the facilities, on the fabs, which they can produce HBM on. Now, SK Hynix is the leader of the whole market in terms of producing HBM memory. Their volume is so high that they, in fact, are producing more than Micron, for example, but they are covering something around 57% of all HBM memory in the world. So, this is kind of the case in terms of the business, why SK Hynix is right now one of the world leaders in one of the most breakthrough technologies that there are in demand right now. Before we go too far into explaining how amazing of a company SK Hynix is, let's talk a little bit about risk because we are responsible people and we are responsible investors and we need to have to know about risks of the company. So, risks, I see two of them. First of all, is that SK Hynix is not an American company. And the second is that memory business is very cyclical. And I will explain both of them. First of all, let's talk about SK Hynix being South Korean company. Is it a bad thing? No, it's not. Especially in today's market, I, for myself, for the last half a year, actively looking for stocks which are not American stocks because I want to diversify away a little bit from the US holdings because, well, the US is not perceived as being very reliable or being a very calm environment right now. SK Hynix is a great way to diversify away, but they have a lot of their sales in US. So, SK Hynix is a South Korean company and the float which they have on US market is pretty small. Most of their float, most of the trading of SK Hynix stock is still happening in South Korea. Which means that if you're buying the stock of the company, you're susceptible to what is going on in South Korean market. And let me tell you if you don't know, South Korean market is nothing like US market. So, the drops of 9% circuit breakers and then the whole market goes up by 6-7% This is what is happening in South Korean market much more than it's happening in US market. In fact, we had a couple of these days only in the last couple of months. So, volatility in South Korea is much greater than in US. The second of all, the currency. The currency is different in South Korea. So, by investing in SK Hynix, you're effectively diversifying away from US dollar. Is it bad? I'm not so sure. The dollar is falling right now and maybe it's a good thing that you will have some of your holdings which are more susceptible to other currencies. So, this is first thing which you have to know. But, the second thing is the cyclicality of the memory business. If you haven't seen the graph of Micron, go and take a look at the Micron since the beginning since their IPO. There are very brutal cycles of memory being in favor and out of favor. When the cycle ends and suddenly memory stocks are out of favor, these stocks they just drop like rocks. So, now SK Hynix, Samsung, and Micron, they have decided to actually do something about it, and they have decided to utilize that their products in such a short supply. How short of the supply? For example, last week we got a piece of news that SK Hynix and Samsung, apparently, they sold out the whole inventory for 2026 and the whole capacity for producing memory, and they have sold out all of the capacity for producing memory for 2027. So, right now, if you're going to these companies, the earlier you can get the product will be for 2028. And of course, this demand they have started to utilize it by signing LTAs, long-term agreements with the companies. These are agreements which are being signed for very long term, and they are defining the bottom price for the products of this company. Hopefully, hopefully, these will soften out the cycles for the memory. I'm not really sure it's going to be enough because none of these companies are telling us the percentage of the revenue which these long-term agreements are covering. If you find this information interesting, valuable, don't forget to subscribe to our channel and to press a like button. If we're going to take a look at the financials, to be honest, I don't want to talk a lot about financials right now because they are a little bit ridiculous. If you go and check out SK Hynix financials, the revenue growth is about 145% a year. The earnings per share growth is more than 450%. I think it's 460 something percent a year. Again, there's nothing real to talk about because me as an investor, I'm less worried about whether SK Hynix is going to grow 140 a year or 160% a year. I'm more worried about how they are going to protect the cycles. So, what will happen when suddenly the demand for the memory will be over? And now let's talk a little bit about how Wall Street sees SK Hynix, and this is impressive because all of the companies, they pretty much all of them, I think, except for one. One company has a hold rating on SK Hynix, and everyone is either buy or strong buy for the company, and the price target is Well, they are I will tell you a little bit about them. So, currently SK Hynix are trading at around $137, $140 per share. The lowest price target there is on Wall Street right now is $152 per share. So, already 10% more than the current price. The average is $245. So, you have an upside of around 80% to the average price target for SK Hynix. The highest, by the way, if you it interests you, the highest is $355 per share. My plan for SK Hynix is as follows. So, we know that the financials and the numbers will be there for '26, and they will be there for '27. Currently, if nothing changes, if we are at the same level of demand and we are at the same level of volatility that we are right now, and everything about AI stays the same, I'm probably going to start thinking about selling SK Hynix a little bit above $200 per share. So, we're talking between $200 and $220 per share. This, of course, if, again, everything stays the same. If suddenly we will discover that these long-term agreements which the company is signing are covering something like 80% of all of their revenues, and these agreements are for 5 or 6 years. I will rethink my strategy for now, probably hold SK Hynix later. But, if the company suddenly in 2 weeks are going to jump to $220 per share, I'm going to sell the stock of the company and will be very happy with the amazingly profitable trade I'm having. I'll provide the updates, of course, if I'm buying more, selling, or whatever is going on with my SK Hynix position. If it interests you, please leave a comment, subscribe to our channel, and like this video. Thank you so much for your time. We'll see you in the next video. Take care.
+
+</details>

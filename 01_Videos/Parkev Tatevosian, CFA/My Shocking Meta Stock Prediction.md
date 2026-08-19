@@ -1,0 +1,48 @@
+---
+title: "My Shocking Meta Stock Prediction"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "rYKJaDS3DjM"
+url: "https://www.youtube.com/watch?v=rYKJaDS3DjM"
+publish_date: 2026-08-15
+publish_timestamp_utc: "2026-08-15T11:45:00Z"
+duration: "10:07"
+duration_seconds: 607
+views_at_import: 20253
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1559
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1559 words)</summary>
+
+Meta Platforms is having a relatively disappointing year so far in 2026. It's down 12.3% while the S&P 500 index is up more than 10%. I'm disappointed in that for several reasons. I own Meta Platform stock in my portfolio, but more importantly, I ranked Meta as the best stock you can buy for most of the year. I recently downgraded it to second place actually and I upgraded Nvidia stock to the top stock to buy ranking. But still the stock underperformed while I had it ranked as the top stock to buy which is disappointing to be sure. But already investors are looking ahead to 2027 and asking where do I think the stock price will be by the end of next year. Do I think the stock will remain disappointing next year or do I think I was early rather than wrong on Meta Platforms as an excellent stock to buy? And so to make this estimate, I need a few numbers. The first of which is the earnings per share that Wall Street analysts that are following the company expect the company will deliver. And that figure is $4167 is what Wall Street analysts estimate Meta will deliver in 2028. That would be up from $34.88 88 estimated for 2027 and up from $315 estimated in 2026. The company's earnings per share growth is solid and has been solid and is expected to be solid, which raises the question, why is the stock price underperforming despite these solid numbers? The second number I need is the company's forward price to earnings ratio, which as of this recording, it's selling at 16.6, 6, which is near the lowest it's been going back to early 2024. So, now that we have the estimates and figures I need, I can bring you to my scenario analysis here. So, if the company is on track and remains on track to hit that $41 earnings per share estimate for 2028 and the forward price to earnings ratio remains where it is, then the stock price could rise to $692 per share. That would be a nice increase from the current market price of $578 per share, but I actually think there's more upside than that. If the forward PE multiple were to increase to 20, then the stock price could rise above $833 per share, which is better than what I'm estimating as the base case scenario for Meta Platforms in 2027. Still, the forward PE multiple could increase even higher to 23, and that could cause the stock price to soar to $958 per share. And if the forward PE multiple reverts to 26, which is about what this stock has traded for on average going back several years, then the stock price could soar above $1,000 to $1,083 per share. So, all that being said, what do I see as the base case? Well, I think it falls between 750 and 800, which compared to the current market price of 578, that leaves an upside of 34% from the current price. As a Meta shareholder myself, I would be happy with this rate of return between now and the end of next year. I also wanted to highlight one upside catalyst and one downside catalyst that could lead Meta Platform stock to fall outside of my base case scenario. The first of which is noncore revenue streams. So Meta Platforms has been flirting with the idea of a few different revenue options, including renting out excess data center capacity or excess computing capacity for a price they say is well above what they paid to attract or build that data center capacity. So if Meta Platform starts generating revenue of any meaningful amount from these non-core revenue streams and another of which instead of renting out the data center computing capacity, the company's also trying to sell tokens and which is the uh units of measurement when we're looking at large language models. It wants to be like OpenAI and Anthropic in selling tokens to enterprises utilizing its large language models combined with their own proprietary data to gain insights into their business. And so if any of these non-core revenue streams gains momentum and becomes a meaningful contributor to the business, that could result in Meta's stock price falling well above where I'm estimating here. Now, to this point, Meta has had a difficult time gaining contribution from non-core revenue streams. They've tried some hardware devices that have had some limited success, but they haven't become a meaningful contributor to the business just yet. Now, that's another thing that, you know, non-core revenue stream, if one of their hardware devices gains momentum and becomes a contributor, again, that would result in an upside from where I'm predicting here. So those I'm not expecting in my base case scenario for Meta between now and next year. Those would be outside of my base case and it would just be icing on the cake. It would result in the share price falling well above where I'm estimating here. But I also wanted to talk about one downside catalyst which I'm not expecting and that's user declines. Now, Meta has been investing in its artificial intelligence, and that's helped improve its core business. It's making the app more engaging because it's able to identify what you're interested in more effectively, more precisely, and it's also able to identify the content that's being uploaded, more effectively, more precisely. And that allows Meta to match the two more effectively. And if it's showing you content that you're more likely to engage with, that you're more interested in, you're going to stay on the platform longer, and you're going to come back again sooner rather than later because you'll remember that the last time you opened the app, you found something interesting, you found something engaging, and so you'll open the app again in the hopes that you're probably going to find something interesting and engaging again. And there has been significant evidence that Meta has been doing this. And therefore, it has increased engagement. It has increased return on advertiser demand. And so, I'm not expecting user declines. In fact, I'm expecting the opposite. I'm expecting Meta to gain market share because none of its competitors are able to invest in their core business in anywhere near the scale that Meta is able to invest. This allows Meta to separate itself even further from its competition in the social media segment. However, if there should be some outlier, some factor that causes users to not use Meta as frequently, maybe Tik Tok gains an edge and users are flocking to Tik Tok more frequently, or maybe YouTube gains an edge and people are using YouTube more frequently. Whatever the case might be, whatever the factor might be if users stop going onto Meta's platforms, that would be a huge downside from where I'm predicting here. Maybe the market price falls even below $500 per share in that event. If there's any consistent and persistent user decline, if it's not just like a one-off thing where one quarter it just experiences a decline and then it rebounds again. No, if this is a consistent drop off in users where it's evident that people are no longer interested in using Meta as often or as frequently and that's going to create a big downside scenario. It's not something that I see as being very probable, but it is probable enough. It's a nonzero percentage probability that it could happen. And so I want to consider this and inform everyone that this is a downside risk to be aware of. So my previous price target for Meta for 2027 was a range between 8.85 and 9.85 and I made that on January 20th, 2026. And obviously Meta has disappointed so far in 2026. The share price has fallen. Investor sentiment has decreased. Meta has been a little bit not focused in its efforts with artificial intelligence. It's not very clear to investors precisely the strategy they're undertaking with artificial intelligence. And so investor investors are losing a little bit of confidence here. The share price is falling. And my estimate for where the share price will be next year has decreased from 8.85 9.85 85 down to, as I mentioned earlier, between a range of 750 and 800. And I'll update that rating on August 12th, 2026. By the way, if you want access to this spreadsheet uh where you can see live as this is happening, if you're on the spreadsheet, I see a few people are on my spreadsheet right now checking out my updates as they happen. You can get access to it with the channel membership at the investor tier or above where you'll also get access to my discounted cash flow calculations. And you'll also get access to live earnings coverage. This month on August 26, I'll be going live to cover Nvidia's earnings results. That's exclusive to channel members and not just any subscriber can get access to that. Only paying channel members can get access to that event. So, if you're interested in that, click that join button. See all the exciting membership benefits you'll get access to when you join. We're looking forward to having you on
+
+</details>
