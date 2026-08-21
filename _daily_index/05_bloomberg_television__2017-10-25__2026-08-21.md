@@ -1,11 +1,68 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-08-19T11:31:36Z
-Date range: 2017-10-25 -> 2026-08-19
+Generated at (UTC): 2026-08-21T20:08:23Z
+Date range: 2017-10-25 -> 2026-08-21
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-08-21 | 01_Videos/Bloomberg Television/Why Foreign Investors May Return to India.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Week of Whiplash in Treasuries Closing With Traders on Pause.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/US to Target Iran's Economic Partners.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/US Steps Up Economic Pressure on Iran  Horizons Middle East & Africa 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Trump Eases Tariffs on Ground Beef  Radio Balance of Power Early Edition 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Treasury Whiplash, US Debt Hits $40T  Bloomberg Money 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Treasuries Steady; Samsung's Shareholder Return Plans  Bloomberg Brief 08212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Tidal Wave of AI Debt Grows as Treasury Markets Reel  Insight with Haslinda Amin 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Tech Firms, Govts. Clash For Capital Market Snapshot.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Supreme Court Issues Order to Let President Trump Keep Building Ballroom for Now.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Stroul Trump's Iran Economic Push Needs Partners.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Permanent Tariffs on Canada Hurt the US, Freeland Says.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Open Machine CEO on Anthropic, OpenAI IPO Potential.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Mazumdar-Shaw on Biocon’s Mission to Make Life-Saving Drugs Accessible.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Lipsky China Could Limit Trump's Iran Pressure.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Key Greenland Mining Project Is On Track, Says Critical Metals CEO.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Iran’s President Says Better to End War Today.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/German Manufacturing Boost, French Businesses Hit By Heatwave  The Pulse 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Euro Could Go Lower From Here, Yu Says.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Dollar Depreciation Is Sustainable 3-Minutes MLIV.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Clock Ticks Down on New Canada Tariff Deadline.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Bond Moves Not a Surprise, Says CFR's Patterson.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Big Take How Trump’s Tariffs Sent Soup Prices Soaring.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Bessent Flags Bigger Debt Buyback; Japan's Inflation Picks Up  The Asia Trade 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Prepares For Potential Record IPO  Daybreak Europe 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Investor Slams VC’s AI Miss  Open Interest 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Investor Blasts Traditional Venture Capital.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Expects to Match or Top SpaceX’s Record IPO Size  The Opening Trade 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Alibaba Profit Takes A Beating Amid AI Spending  The China Show  8212026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/What Bessent's US Treasury Intervention Means for Stocks & Mortgages  Daybreak Europe 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/We're Seeing a 'K-Shaped Bond Market' Says Guneet Dhingra.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Walmart Warning Hits Retail and Markets  Open Interest 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Walmart Posts Slowest US Sales Growth in Six Years.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US Wages Economic War on Iran  Radio Balance of Power Early Edition 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US Set to Cut Tariffs on Canada Metals, Autos in Trade Deal.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US 30-Year Bonds Erase Gains From Treasury’s Buyback Surprise.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US 30-Year Bonds Erase Gains From Bessent’s Buyback Plan.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Ukraine's Grain Shipments Are at a Virtual Halt.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Treasury Doubles Debt Buybacks, Trump Declares Economic Warfare on Iran  The Asia Trade 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Robinhood CEO Tenev Talks Crypto Rules and Prediction Markets.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/PGA of America's New CEO Is Bullish on Golf in Texas.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Kuaishou Slides After Weak 3Q Guidance  The China Show  8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Israel-Turkey Tensions Rise Over Syria  Horizons Middle East & Africa 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Iran War Trump Says US Waging Economic Warfare  The Pulse 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/ICE's Sprecher on Clarity Act, Polymarket Funding, Expanded Trading Hours.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Higher Interest Rates Are 'Likely Here to Stay' Furman.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Fed's Daly on Treasury Buybacks, Inflation, AI Demand.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/CIG's Rubenstein Expects Housing Rents to Keep Rising.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/China Says Trump Economic Warfare Won't Solve Iran Crisis.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/CFTC's Selig Says Clarity Act Gives Crypto Clear Rules.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Can the US Successfully Battle Rising Borrowing Costs.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Buyback-fueled Treasury Rally Cools; US Public Debt Hits $40T  Bloomberg Brief 08202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Bessent's Treasury Market Intervention, Samsung, SK Hynix Buybacks  The Opening Trade 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Bessent Gets Short-Term Bond Market Win 3-Minutes MLIV.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Asia Investors Sour on India Despite Inflows  Insight with Haslinda Amin 8202026.md
 - 2026-08-19 | 01_Videos/Bloomberg Television/Unitree Shares Jump After $904M Shanghai IPO  The China Show  8192026.md
 - 2026-08-19 | 01_Videos/Bloomberg Television/UAE Reports Iranian Missile Attack as Tensions Rise  Horizons Middle East & Africa 8192026.md
 - 2026-08-19 | 01_Videos/Bloomberg Television/UAE Cuts Economic Ties With Iran After Missiles Target Territory.md

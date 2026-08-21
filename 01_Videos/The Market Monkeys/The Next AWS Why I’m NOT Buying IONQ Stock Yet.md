@@ -1,0 +1,48 @@
+---
+title: "The Next AWS? Why I’m NOT Buying IONQ Stock Yet"
+people_mentioned: []
+channel: "The Market Monkeys"
+channel_id: "UC8R0iSKZS8USTJiOJNneMMw"
+video_id: "kiqT2x8lkf4"
+url: "https://www.youtube.com/watch?v=kiqT2x8lkf4"
+publish_date: 2026-08-21
+publish_timestamp_utc: "2026-08-21T15:33:29Z"
+duration: "10:16"
+duration_seconds: 616
+views_at_import: 240
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1609
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1609 words)</summary>
+
+For me, this quarter of Ionq is a pivotal one. I became convinced that Ionq is not a startup anymore. It became a big technological growing company and this is the closest thing that we have to AWS to this platform for all of your compute needs only for quantum computing. And to be honest, I'm kind of excited to start investing in this company. So, we started tracking this company and we started covering it on our channel. The only question is whether the price to start investing in INQ is right. And today we are going address this one topic whether the price that we have today is about $42 per share for IMQ is right to start investing. Fortunately, we have Q2 results from the last week. So today we're going to cover all of the results and make our conclusion. Hello and welcome to the Market Monkey channel. My name is Vadim and today we are talking about IMQ and let's start with second quarter of 2026 for the company and second quarter was it was amazing. It was record-breaking. The company did some amazing things. So let's talk about a couple of them. First of all, the revenue for the company was a little bit more than $80 million for the quarter. It was a growth of 287% year-over-year which is amazing of course and the revenue bits Wall Street expectations. The company finalized acquisition of Skywater. And speaking of Skywater, the company had introduced first fully featured and integrated 256 cubit chips from the Skywater. And there are anticipation that the company is going to present something interesting related to these chips. maybe their new architecture, maybe even the plans for the new quantum computer on investors day which will be at the beginning of September. Now there are two metrics which I'm genuinely was happy to see in their quarterly report. The first one was RPO. So RPO is remaining performance obligation. Basically it's a backlog for the company. So how much business does the company has for the future today? And a year ago, RPO for the company was $122 million. Last quarter it was about $470 million and this quarter is $485 million. So if we are taking revenue of the company at $80 million. A year ago they had something like a quarter and a half worth of backlog looking forward. Today they already have six quarters of business signed contractually signed business. Six quarters is what something like a year and a half looking forward. And you can see that this backlog is slowly but growing. So the revenue of the company is growing but their backlog is growing as well. So of course growing revenue and growing backlog shows us that the company is well ready to grow ready to grow organically and ready to actually deploy the resources that they have to well become a good profitable company. The second thing which I was genuinely happy about is diversification of the company because let's talk a little bit about quantum computing companies. They are usually small and they are usually attached to one big contract either research contract or the grant from big tech company or the government and the company is founded and based on this one big project. IMQ is not like that anymore at all. 50% of their revenue is coming internationally from a lots of customers internationally and 60% of their revenue is coming from commercial customers. You might remember a couple of years ago the switch that Palunteer had from government contracts to commercial contracts and we have talked about how important it is for the company to lean more and more on commercial side of the business because this is the side that will be growing looking forward. In addition, the company has $2 billion in cash and virtually no debt. So, the company is ready to grow. It has the business, it has the contract, it has an exciting technology and basically everything looking fine. If this information is interesting, valuable for you, don't forget to subscribe to our channel and to like this video. Now let's take a look at the other side of these financial results and let's take a look at a couple of things which are actually bothering me with everything that is going on with ionq. So the first thing is that expenses for ion they scale faster than revenues. So you can see that the revenues are last five quarters of revenues they are beating uh each other. So beating the record of the previous quarter but actually the expenses so the operating expenses for the company they are recordbreaking as well. So in this quarter, the company for example had $326 million in operating losses. And you can see that the majority of this is of course the R&D expenses. And R&D expenses is a tricky thing because this is obviously something that the company needs to keep investing in. But at some point we want to see the revenues of the company kind of covering all of the R&B expenses that the company at least operationally becomes profitable. for now we don't see for INQ when they are going to at least start thinking in that direction. The second thing is the net loss of the company. So the net loss of the company this quarter was $1.9 billion and out of this $1.9 billion 1.6 was a mark to market of the outstanding warrants that the company had. So this loss was non-cash. So uh many people just disregarded it. I knew Wall Street disregarded it completely. So they're not even talking about this. But I think this is very very important to talk a little bit about what this mean for the company going forward. So the company issued two times in the company's history they have issued warrants. First time was in 2021 when the company became public via spack. They issued a bunch of warrants there. And last year in 2025, they have issued warrants for their institutional investors. And why am I saying that this is uh kind of not the best thing the company could have done? Because right now, if you think about their financial results, so their gap net profit is tied to the company's stock performance. So if the stock of the company will actually go up the warrants which are liability of the company will be priced more. So the net profit of the company will become less. And if you think about it breaks the whole paradigm of we are always talking about look at the business. Forget about the stock price. Look at the business of the company how the business is performing because if the business performs good the the stock will take care of itself. But here you can see the entanglement between the business of the company actually their net profits and the stock price of the company. And this is I think not the healthiest position to be in. By the way, for those of you who are not sure what warrants are, think of warrants like basically a call options. But the call options which the company issues and not the investors. And when warrants get redeemed, it's not the stock of the investors which you are transferring. The company is issuing new stock to actually redeem it to the customer. And last thing I want to talk about is the price of the company because IQ is expensive like really expensive. So, ion Q currently trades at 57 times price to sales which I mean the company is growing 280% year-over-year and they are projecting that they will continue their triple digit growth in the next year but still 57 times is a lot. So my plans for INQ is as follows. I still want to invest in this company and I'm gladly we'll keep tracking this company, the news of this company and and see what is going on with there. I see kind of two paths of investment. One is a very short-term trade. I think something can happen, something exciting can happen on September. I think it's September 8th if I'm not mistaken on the investors day. So, we can go and buy out of the money call options for IronQ with the expiration. Well, after the next expiration after September 8th, I need to go and check out how much these are worth. The second idea is to invest kind of in a long medium term in the company. And this is something which I genuinely want to do because I think this will be the company which will take the quantum computing space and basically become something like AWS for the SAS businesses. In order to do that, I need a normal price for the company. 42 bucks per share and 57 price to sales is a little bit too much for me. If the stock of the company drops to around 30 $32 per share, I will revisit all of kind of my assumptions here and probably buy there. But 42 is a little bit too steep for me. Let me know in the comment what's are your target price for INQ. If you are holding shares, what's your average buying price? If you're not holding share and think about buying, what's kind of the price you are looking for? Thank you so much for your time. Don't forget to subscribe to our channel, to like this video, and we'll see you in next videos. Take care.
+
+</details>
