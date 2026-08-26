@@ -1,11 +1,75 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-08-21T20:08:23Z
-Date range: 2017-10-25 -> 2026-08-21
+Generated at (UTC): 2026-08-26T20:11:52Z
+Date range: 2017-10-25 -> 2026-08-26
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-08-26 | 01_Videos/Bloomberg Television/Why Vanguard Is Buying Wealth Platform Altruist.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/US Moves to Revoke 200,000 Visas  Horizons Middle East & Africa 8242026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Trump Vs. Canada White House Prepares Next Move as Trade War Spirals.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Trump Pick Darline Graham Wins South Carolina Senate Runoff.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/The Pulse with Francine Lacqua 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Strait of Hormuz Deal Iran, Oman Discuss 'Interim' Reopening of Shipping Corridor.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Stocks Waver, Treasuries Dip Ahead of Nvidia Earnings, PCE Data  Bloomberg Brief 08262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Stocks Stall as Wall Street Awaits Nvidia   Open Interest 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Oil Drops on Strait of Hormuz Breakthrough Hopes Insight with Haslinda Amin 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Nvidia Results on Deck, Bessent Bounce Begins to Emerge  Opening Trade 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Northrop Grumman Chair, CEO and President Kathy Warden  Bloomberg Newsmakers.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Meta and State Attorneys Discuss Possible Mid-Trial Settlement.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Meta Agrees to $16.7 Billion Settlement in Social Media Case.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Iran and Oman Discuss Strait of Hormuz Deal  Daybreak Europe 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Crypto Market Is the Bitcoin Rally Sustainable.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/China Defiant Over Iran Ties; Tech Stocks in Focus Before Nvidia Results  The Asia Trade 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Bessent Gets Boost from Oil, Bond Signal 3-Minutes MLIV.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Alibaba Rallies as Jack Ma Backs Record Share Sale  The China Show  8262026.md
+- 2026-08-25 | 01_Videos/Bloomberg Television/Northrop Grumman Is on a Wartime Footing, CEO Says.md
+- 2026-08-25 | 01_Videos/Bloomberg Television/Elite Private Schools Offer Aid to Families Making $500,000.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/What’s Next as US-Canada Relations Hit New Low.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/What Dan Ives Is Looking For Out of Nvidia Earnings.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/We're Big Buyers of the 10-Year at 5%, BMO's Davis Says.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/US-Canada Tensions, Bessent's Bond Troubles, Iceland Vote  Bloomberg This Weekend Aug 23, 2026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/US Set to Unveil Fresh Iran Sanctions  The Pulse 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Trump's Family Joins the Sprint to Get a National Bank Charter.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Stocks Fall Ahead of High-Stakes Week; Canada Sees Long US Trade War  Bloomberg Brief 08242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Singapore Rolls Out $55,000 Child Benefit to Boost Birth Rates.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Robots Set New Records at World Humanoid Robot Games.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/NYU's Suzy Welch Digs Deep to See if You Should Hire Gen Z.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Markets Eye Bessent, Warsh, Nvidia  Open Interest 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Iran Economic Isolation Plan Bessent Set to Unveil Details.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/How the War in Ukraine Changed Modern Warfare.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Houthis Force Saudi Tankers to Reroute Around Africa  Horizons Middle East & Africa 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Here's What's Behind Alibaba's $10 Billion Share Sale.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Guggenheim's Walsh Would Buy a Lot of 30-Year US Treasuries at 6%.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Goldman M&A, NHL Futures  ETF IQ 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Expect Volatility with a Negative Skew 3-Minutes MLIV.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Dan Ives Sees Nvidia Price Hike as Bullish Overall for Tech.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Sees Long Trade War With US.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Sees Long Trade War With US, Bessent Set to Unveil Iran Plan  Opening Trade 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Hits US With Counter-Tariffs As Trade War Looms  Daybreak Europe 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Braces for Lengthy Trade Standoff With the US  Insight with Haslinda Amin 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Bessent Launches Operation Outcast Against Iran.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Alibaba's $10B Share Sale Draws Investor Scrutiny  The China Show  8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/AI in Focus Amid Alibaba’s Record Share Sale and Nvidia’s Price Hike  The Asia Trade 8242026.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Trump Allows Tariff Relief for Some Ground Beef Imports.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Rep. McCormick Warns Against Slowing AI Buildout.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Liquid Death CEO on Viral AI Data Center Ad, IPO Odds.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Fed Faces High Stakes Test at Jackson Hole.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Data Center Expansion Tests Voter Patience.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Canada Digs In as US Trade Fight Escalates.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/BTW Headlines You May Have Missed.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Canada Hits Back, Bessent’s Big Moves, Data Center Backlash.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/AI Takes Center Court at the US Open.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/US Colleges Face a Shrinking Student Pipeline.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Study Shows AI Hitting Paychecks, Not Payrolls.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Small Dogs, Big Demand as Dachshund Popularity Takes Off.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Sanctions Target Iran’s Weakened Regional Network.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trade War Escalates, Pushback on Beef Plan, Bond Market Intervention.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Bloomberg Previews Jackson Hole Symposium.md
 - 2026-08-21 | 01_Videos/Bloomberg Television/Why Foreign Investors May Return to India.md
 - 2026-08-21 | 01_Videos/Bloomberg Television/Week of Whiplash in Treasuries Closing With Traders on Pause.md
 - 2026-08-21 | 01_Videos/Bloomberg Television/US to Target Iran's Economic Partners.md
@@ -161,7 +225,6 @@ Date range: 2017-10-25 -> 2026-08-21
 - 2026-08-15 | 01_Videos/Bloomberg Television/Strong Earnings Keep PNC’s Agati Bullish on Stocks.md
 - 2026-08-15 | 01_Videos/Bloomberg Television/Robinson Says Activists Need Leverage to Win.md
 - 2026-08-15 | 01_Videos/Bloomberg Television/Riggleman Warns Private Cyberattacks Could Backfire.md
-- 2026-08-15 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
 - 2026-08-15 | 01_Videos/Bloomberg Television/Modi Puts Chips, Nuclear Power at Heart of India Push.md
 - 2026-08-15 | 01_Videos/Bloomberg Television/Mexico’s Unconventional Solution to Shipping Chokepoints.md
 - 2026-08-15 | 01_Videos/Bloomberg Television/Lakers Deal Caps Billionaire Rush Into Sports.md

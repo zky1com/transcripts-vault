@@ -1,0 +1,48 @@
+---
+title: "The Stock Market Could Crash in 3 Days (Here’s Why)"
+people_mentioned: []
+channel: "The Patient Investor"
+channel_id: "UCowj3bHIz47dMIe8n37qTlw"
+video_id: "LggjAPilubg"
+url: "https://www.youtube.com/watch?v=LggjAPilubg"
+publish_date: 2026-08-25
+publish_timestamp_utc: "2026-08-25T17:51:21Z"
+duration: "8:59"
+duration_seconds: 539
+views_at_import: 1224
+transcript_language: "en"
+has_captions: null
+transcript_status: "done"
+word_count: 1661
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1661 words)</summary>
+
+We've had a decent reversal over the last few days. Many stocks, especially the semiconductor stocks, were down 11, 12, even 15% with the likes of Intel. A lot of important things are happening in the economy and the markets. I believe Friday could potentially be one of the most important days of 2026 and it could really dictate what could potentially happen forward. So, I'm going to explain all of this in today's video. And if you look at the third year, it has been absolutely skyrocketing. We reached 5.3% and now we're trading at about a 5.2% yield. So the treasury came in and they bought back 2 billion worth of the third year. The third year initially went down because people saw the treasury is buying and it went down on the buying power and then the traders bid it back up and it has recovered all its losses. Zan Bessing came out and doubled it to four billion dollars. As you could see on this chart, the 30-year yield went down again and then it recovered the losses. And I always try to say is that no one is really bigger than the free market. You can't really manipulate those things. You can't really suppress market forces. Uh Japan has been trying to do it for many years. And very recently, not only Japan, but even the treasuries, the United States Treasury tried to intervene in the end. and it didn't even last a few days, not even a week before it has recovered those losses. So, no one is really bigger than the free market. And I think, you know, the treasur secretary of treasury is kind of flirting that right now. But what's really important is understanding why they're actually trying to do this. And this is very important for a few reasons. The first one is the fact that US banks are sitting on $325 billion worth of losses. $325 billion. So a lot of the US banks have a lot of their reserves in treasuries. Some of them are longerterm treasuries. And once the treasury yield goes up, the price of the yield goes down. Just like a dividend yield. If the dividend yield goes up, then the stock is likely declining. This is the same thing that happened. So a lot of those banks are sitting on massive losses of about $325 billion. Now that's not really a big deal because they can let it mature and it's an unrealized loss. It's only realized if they have to sell it on the market. Now the only case where they really have to sell it on the market is if they need the money to satisfy a lot of withdrawals and a lot of people are demanding their money kind of like a bank run. They have to realize the loss and then the bank is in trouble. This is pretty much what happened to SVB or Silicon Valley Bank back in 2023. They had a lot of unrealized losses from tech investments and other holdings. Then a lot of people were redeeming their money. They had to sell them for a loss and it was really bad and they pretty much went to zero. It could potentially happen to some banks this time around. I don't think the big banks mainly the smaller regional bank but this is not good at all and Treasury Secretary was trying to you could say help the prices of the long-term bonds for you know a lot of those regional banks to uh not be in trouble. Now another reason for that is mainly the mortgages the 15 and 30 year mortgages a lot of them are tied to the 10 year or even the 30-year old but mostly the 10 year in this case and a lot of the mortgage rates have been going up about 7% right now and you have many more sellers than buyers and you know the housing market has been in a downturn in the United States since 2021 2022 and people can't afford to buy a home and home prices are still coming down so they also wanted to benefit those people and try to, you know, help them out going into the midterms. Now, why is Friday really important? On Friday, we have the Jackson Hole meeting. It's on Friday about 10:00 a.m. Uh Jackson Hall tends to be a very important speech. Like back in 2022, I still remember the market was going down into August and we were starting to recover and we even made a higher high. But then we had the Jackson Hole meeting speech and it was hawkish from Jerome Pal and then the market went down and we made a new low in October and then the market bottomed and it took like two years to recover. Now why would Kevin Walsh make a hawkish speech? Well, the reason for that is to restore confidence. to restore confidence in the markets and confidence that inflation will be brought back to 2%. The reason why the 10-year and the third year are rallying is because a lot of investors don't have confidence in the Fed and in the government to bring inflation down to 2%. It's been sitting at above 2% for the last almost six years right now and they don't have confidence in that. So, one way to suppress yields is to bring confidence to the market that the Fed is willing to fight inflation. They're willing to raise rates. They're willing to do whatever it takes to fight inflation, bring it down to 2%. That could restore confidence and that could bring down the 30-year and the 10-year without the Treasury and without, you know, the Fed having to do anything. Now, that would cause a major sell-off in the market. And this is not what this administration wants to do in the midterm elections. So they are stuck in a situation where if they let it run, it's gonna run really hot. I think the market could keep going up, gold could keep going up, the treasury yields could keep going up, and everything could go up together. And maybe after the midterms, this is when they tighten their language. or the other alternative is he acts tough right now to maintain credibility and that could cause a major reversal in the stock market in general. Now, if I personally had to bet on what would he likely do, I would bet that he will most likely be a little bit soft. He's not going to be too hawkish. is not going to say too much in his speech because I think there's a lot of coordination between the Fed and the Treasury which isn't really supposed to happen because the Fed is supposed to be independent but in this time around they even have certain bridges between the Treasury and and the Fed which shouldn't really be happening. Now, if you look at what the Treasury tends to do, they want to pretty much buy back a trillion dollars from the TGA, which is the Treasury General Account that acts as quantitative easing whenever the Treasury has about a trillion dollars in reserves, mainly from collecting taxes, collecting other things, and those are obligations that have to be paid in the future. So what they could do right now is they could use a trillion dollars and buy back a lot of bonds which Janet Yellen has done before. I think it was in 2023 or 2024. I think it was 2024 before the midterms and the markets went up like crazy and a lot of uh things have recovered and everything just was going so well into the elections because they were draining the treasury. Now after they drained the treasury they have to fill it back up. So initially it acts as quantitative easing as money printing you could say or a liquidity injection but after it's done they have to refill it. So it acts as quantitative tightening. Now, if Scott Bessant wants to do pretty much to drain the TGA going into the midterms, I highly doubt that Kevin Walsh will counter him by talking tough and talking down the markets because that would not be a good combination for the market, which about 60% of people are invested in stocks going into the midterms. It wouldn't look really good. So, if I had to guess, I would guess, you know, it's not going to be as bad as people are expecting. is going to come out on Friday, you know, not say too much and they're going to drain the treasury which acts as a trillion dollar QE package for the market that could be deployed within one, two or even 3 months in this case or even a shorter period. So this is extremely extremely bullish for the markets if it does happen. If Kevin Walsh acts tough and he talk down the markets, I think we could have a huge reversal in the yields in gold, in Bitcoin, in the markets in general. But based on the setup, I personally would be betting on uh you could say a softer language that leads to a meltup into the midterms and maybe after the midterms something bad could happen. So I wanted to explain the situation in the market, what's happening, why Friday is so important. It's very important to know what the Fed tends to do if they want to let it run or they want to act tough to restore credibility. So it will be interesting to see what happens. And that was my opinion on what's happening right now. Hope you enjoyed it. It was not financial advice. If you did enjoy it, please press the like button and maybe consider subscribing. So, I'll talk to you in another
+
+</details>

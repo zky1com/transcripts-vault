@@ -3,17 +3,17 @@ title: "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "un4qFA_b7Io"
-url: "https://www.youtube.com/watch?v=un4qFA_b7Io"
-publish_date: 2026-08-15
-publish_timestamp_utc: "2026-08-15T15:39:28Z"
-duration: "6:30"
-duration_seconds: 390
-views_at_import: 1152
+video_id: "y8gUv5LH8iM"
+url: "https://www.youtube.com/watch?v=y8gUv5LH8iM"
+publish_date: 2026-08-22
+publish_timestamp_utc: "2026-08-22T15:08:31Z"
+duration: "6:26"
+duration_seconds: 386
+views_at_import: 493
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1323
+word_count: 1351
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,160 +41,162 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1323 words)</summary>
+<summary>Click to expand full transcript (1351 words)</summary>
 
-This is up to me now for this weekend's
-point. I thought you ran into because I'm going
-to lose it, I don't. Lisa Mateo is here with the pointed news
-quiz, which is not multiple choice. I thought they changed the rules.
-No, you played this in the newsroom. Now what we do, the game requires you to
-run and wins. Yes.
-Super competitive. Pointed to I like, but.
-All right. Go.
-Okay, okay. Well, let me explain to you guys how it
-works, okay. Because you know okay.
-So here we go. You have three groups of chips in front
-of you, right. Each group has ten.
-There's three categories. So when I explain to each category
-you're going to place your bets. So if you think I'm all in on category
-one you might want to put like 20 on category one okay I didn't win going all
-in on the category. Yes David Guru is on it and it failed
-miserably. Uh, it depends if you feel really
-comfortable. Okay.
-Um, and then you write your answers. I'm gonna ask you a question.
-You write your answers on the whiteboard, you flip them, and then we
-see who gets it right. Who?
-You tell us the three categories I do at the top.
-Are you ready? We can decide.
-Okay. Okay.
-So here are the first okay. The first category is delivery.
-Second category is online dating. and third category is Arts and crafts.
-So what do you think? How are you going to go even across the
-board? What is I don't the um, delivery like,
-you know, like things getting delivered to your place.
-All right. Well, I don't have anything on the
-middle category. I'm going to.
-I can't say too much, so I'm going to give it away.
-I'm splitting my bed between first and third and nothing on online dating.
-Yeah, for 30 years. We're.
-Okay. What do you do?
-I'm just doing 1010 and ten. Ten.
-Ten, ten. All right.
-Yeah. See, that strategy actually works.
-Yes. All right, we'll see.
-We'll see. Okay.
-So the first category is delivery. Let's get to your question okay.
-Ready? Okay.
-Wait. Mayor.
-Madame, he is backing legislation to force which company to directly employ
-its third party delivery drivers. What is the name of that company that
-Mayor Madame is backing legislation. Doesn't it have to be forced them?
-Isn't it? Is that easier than thought?
-I don't know if I'm going to go there. We're going to go there.
-Okay. Go.
-You got it. Okay.
-Flip it. What are you got?
-Go! Oh, we're not ready.
-Oh. Amazon.
-Amazon. Tim Curry.
-Oh, you're. Oh, wait a minute.
-Are you going to be honest? I don't want you to do the lame version
-for us. No no no, they apparently had a meeting.
-And like, they're not that great. So make it easy for me to say yes.
-They're not like David. They're fragile egos.
-Okay, so I got my eraser. You can do me a raise.
-You put 20 on there? Yes.
-Okay. I love this thing.
-We can't really do that. We girls like down here.
-No. Christina yells at me all the time.
-All right. To be erased now.
-All right, so race eraser race. Okay.
-So. All right, we're going to category two.
-Nice job. Thank you.
-Okay. Good.
-Me. So you Joe has nothing on online dating.
-Carol has ten on online dating. Here is your question.
-I've been married for a million years, and I don't know why you're going to get
-this. You're going to get this.
-Okay. Which dating app is changing its central
-rule no longer requiring women to send the message first?
-I heard Charlie do that story, and I had never heard of it, so I don't know what
-it is. Wait, what's it called?
-What's the name? I know that swiping right.
-Let's think of it sounds like right the name of a dating app down and see if you
-get it right. I know, But this one, I think it
-requires women to send a message first. Okay, so it no longer is doing that.
-It's pretty smart. Okay, I'm not going to cheat, but I
-don't know. But I can see, so I don't have it away.
-But do you have something? I don't, I do, I'm just do it like you
-made me write something. Okay.
-What is your right arm is on your right. I think it's from the last question.
-Is that it? No.
-It was on the bubble. Yeah I was yes yes yes yes.
-You know, the stock price declined 57% over the past year.
-Thank God I didn't bet on the dating in a long.
-I know, but having you women used to have to make the first move, but now
-they're not. I don't really, I would think I would be
-up for rejection. Wait, so what is the change?
-The change is because on Bumble, women would make the first move and approach
-the man first, but now they don't. They don't have to do that.
-The men can approach the women first. I mean, like if women were feeling like
-I don't want to put it out there because we can't be counted on to take the
-initiative. And I'm very glad you got that wrong.
-I know. Good job.
-Carol. You're not too good and good.
-So what happens when you get it wrong? You give your chips, you lost them,
-So you give me the. I'm good.
-And you got the first one wrong. No.
-You're right. She's like, don't think I'm going to do
-it. Is the show over yet?
-The house? No.
-Another category. Okay.
-Two graphs. Okay.
-All right. Here's your question.
-I think I know because I remember talking about the story, but this is
-different now. Yeah.
-Okay. Consumers are spending more on crafting
-nowadays. What types of scrapbooking uses
-materials? Usually, what type of scrapbooking uses
-material destined for the trash? So what type of scrapbooking?
-It's a type of scrapbooking that people are using stuff that they used to throw
-out. What is this scrapbooking called?
-I know it's it's difficult. Do you scrapbook?
-No. No.
-Uh, no. What is it?
-I could say something. What is the type of scrapbooking called
-when you use materials that are destined for the trash?
-I'm. You're giving.
-You're giving up. What are you.
-Don't put Amazon again. Recycling trash book.
-Is that it? That no make up and got it right.
-Good one. But it is junk journaling.
-All right. So so Joe, you got that one wrong.
-So these are mine. All right.
-Okay. I see you still.
-You got I got my money. You got Joey's ahead of the game.
-Do we do this like we have a bonus. Quick bonus.
-Okay. So you can get all of it if you get this
-right. Okay, here we go.
-Easy. Chinese manufacturers account for 97% of
-shipments. Of which product made by companies like
-Ashgabat and Unitary Robotics Ashgabat. Oh, wait, we know this.
-We know this category is I think, what if we both get it right?
-Who gets the chips? Darn it, that's never happened yet.
-Okay, are you ready? Are you ready?
-Yeah, right. Take your time.
-Drones. No.
-Humanoid robots? No, actually, bots are drones.
-That is wrong. So give us the chips.
-Do we? Do you good Sunday or.
-You did very well, though. It was fun.
-Yes, yes. You know, I guess there's only one a
-week, right? No, it's.
-We do it only on Saturdays. Yes.
-My record is in town. Bloomberg.com point data.
-It's also in the Bloomberg business. It's true.
-It's not wrong. It's humanoid robots.
-Listen to your notes. It's drones I give them.
+Time now for this weekend's Appointed
+News quiz. I've been waiting all week for this.
+You know, it's used to be your weekly dose of humiliation, and it has turned
+into my will. See if that changes today.
+Lex Christopher's here filling in for Lisa Mateo.
+Alexis, if you let me win. Oh, she's bribing me.
+Oh, I like it. I don't look well just in the regular
+first time doing pointed bazookas. Maybe I'll be a lucky charm for you.
+So, listen, if you're also watching this for the first time, just a quick primer.
+So there are three categories. Uh, everybody gets, uh, 30 chips, which,
+frankly, I really think the purple chips should have gone to Christina today
+because of that tree. But that's just what David insisted on
+having. The wisdom and the power.
+Yeah. And depending on these, uh, categories,
+you could bet the house and put all 30 chips.
+Or you can only bet in increments of ten.
+Okay. So, like, you can't put, like, eight
+each. Christina always does that.
+She never beats the house. Yeah.
+That's true I do, I like it. It's sort of like her portfolio.
+No, I'm only kidding. We don't need to go.
+All right, here are the categories. Here are the categories.
+You ready for yesterday? Streaming.
+Transportation appliances. Uh.
+Uh, I confess I wasn't in the office several days this week.
+I was out of office, and I feel like I'm equally going to be equally bad at all
+of this. I might know the first one.
+I have no idea what the second two hour. I'm.
+I'm going to do the usual. I'm going to just put ten.
+Ten. Are you as willing to do as well?
+Okay. I like doing that.
+I like to usually roll the dice, as it were, but no.
+All right. Okay.
+I like I like your approach. All right.
+First one streaming. Streaming.
+YouTube is offering exclusive deals worth millions to prevent creators from
+posting content on which streaming platform.
+All right. Oh.
+All right. Feeling pretty good about this.
+I feel like. Guys.
+Yeah, I did read this. And you read this one.
+Oh, you read it. Oh my God.
+Okay, then go. Christina.
+Netflix. Yay!
+I wrote TikTok. Uh, you were out this week.
+You were right. It was hard.
+But don't fear not. Oh, so, Alexis, here's a really fun for
+you to take away from. Do I get you to.
+Yes. You know, you play the role of the
+dealer. Do I get to cash them in later?
+Like. Like what?
+I wonder what I get. Unclear.
+They're kind of just to offer you worth a little fractions of our egos, but you
+know, you can hold them over us. Okay.
+Should we move on to transportation? Okay, so Fiat Topolino is coming to the
+US with a maximum speed of. Hold onto your hats 25mph.
+Yeah. What kind of a vehicle is it?
+Okay. Topolino.
+Lina. It's really cute.
+Pictures of this on the internet along the way.
+Lina. Which means little mouse.
+Little tails. Oh, I love that.
+I love that fact. So that gives you any clue as to what
+kind of car this is? Yeah.
+Oh, okay. Oh, shoot.
+Oh. She's racing.
+We're not even. Are you confident about this?
+No, but confident in my lack of confidence.
+Okay. Are you ready for a road scooter?
+Uh, I just try, as you said. Car.
+Yeah, so I said good art. Yes.
+Uh oh. Maybe I did give her an edge.
+Maybe. Oh, boy.
+There it is, too. Isn't it cute?
+Yeah, I like it. People are actually using it now in
+communities like, you know, gated communities.
+They're using it to sort of bop around. Not even this young woman, of course,
+but she shouldn't be in the car. Come on.
+It looks very much. She must have a large property for our
+radio listeners. Yeah.
+And how about that color? I mean, I would drive that, so I drove
+it on is a street legal kind of drive that on here.
+It looks like it doesn't have any doors, no doors or some rope, I would say no,
+not in New York City. All right, let's move on to, um, science
+or chips. Oh, I think we're getting to collect his
+chips. Alexis.
+You're welcome. Christine, I think I'm your lucky taco.
+Okay, appliances. It has been a hot summer in Europe, and
+that's no joke. Chinese exports to the European Union,
+of which product made Hisense um, uh, made by Hisense, are up 43% from a year
+ago. So let me repeat.
+Chinese exports to the EU, of which product made by Hisense are up 43% from
+a year ago. All right.
+I think you guys got it. I wrote air conditioner, uh, where I am.
+You know what? Close, but no, sir.
+Sorry. I'm so sorry.
+So I get ten of these. I'm sorry, I'm sorry, I'm sorry.
+There's control room laughing in my ears.
+Yeah, I didn't realize this till I read it on the terminal.
+Chinese companies control two thirds of the global market for air conditioning.
+And I'm surprised it's not fans because I was just in London.
+It was ridiculously hot and no one would allow themselves to have an air
+conditioner. The guy at the corner shop, I was
+talking to him about it. He said every time he installed one,
+because he was in historic districts, the council would come and tell him to
+remove it. So I assumed think those are two thirds.
+He says two thirds should run on a platform with air conditioner
+sovereignty. I like that, I think you think you mean
+gain trust. You know who I'm not a fan of?
+Well, yeah. Yeah.
+Okay. I'm going to say he was a bonus when he
+split. Look into many.
+They got to get a mini split. All right.
+I have a bonus. Are you ready?
+This is exciting. Japanese food.
+Yeah. Okay.
+The bonus. The restaurant chain married my program.
+Okay. And that Mario game, I see it there on
+this is expanding in the U.S., which noodle thicker and chewier than ramen
+does. The chain specializing.
+Okay, so we're looking for a noodle here.
+And your noodle leader, Christine, I do like noodles.
+Oh, I you know, I made ramen the other night.
+Did you? I'm really enjoying it.
+I love the recipe. I do the broth and I do the egg.
+Oh, I do the egg. I got to be.
+The egg is key. So was.
+It was wonderful. I took a picture of it actually, because
+it was so good. All right, let's see.
+What did you put down? Soba.
+Udon. Udon is right.
+Oh, man. You.
+I did it almost right. So better be fair.
+All right, well. All right, David.
+Well, I got them all. I'm actually back.
+I'm on my way back. I'll read the news.
+Am I allowed to come back? Yeah.
+Of course. Relented?
+Absolutely. Lisa has got some competitions that I
+seem to have better luck this time. I will note you can test your knowledge
+on all ten questions. We did three.
+There were seven more. Take the point of news quiz at Bloomberg
+Commodities Edge. You can also find it on the much
+ballyhooed Bloomberg. But this at yes.
+Main difference? Yes.
+If you take it at home, you get choices here.
+You guys. Choice.
+I've been advocating for this for many, many days now.
+We just got a note from our executive producer, so I think that's not
+happening for me. I guess it's more entertaining or more
+work. I don't know, maybe it's more
+entertaining when you're embarrassed and we get to watch a little bit.
+So we did have one of our bosses do it once, and he said that was like the most
+stressful five minutes I can imagine. So I'll stay on this side of the desk.
+Thank you for the dealer.
 
 </details>
