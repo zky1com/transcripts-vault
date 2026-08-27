@@ -1,11 +1,36 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-08-26T20:11:52Z
-Date range: 2017-10-25 -> 2026-08-26
+Generated at (UTC): 2026-08-27T20:09:47Z
+Date range: 2017-10-25 -> 2026-08-27
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-08-27 | 01_Videos/Bloomberg Television/Zandi AI Drives at Least 25% of Growth.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Z.AI Claims New Model Taking on Anthropic, OpenAI  The China Show  8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Warsh Will Impact Without Delivering 3-Minutes MLIV.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Trump Renames Lake Ontario as Lake America, Says Canada Is Ripping Off the US.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Treasuries Look Vulnerable to Another Vague Warsh Speech.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Tech Stocks Rise on Nvidia's Outlook; BOK Hikes Rates  The Asia Trade 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Tech Stocks Gain on AI Optimism as Nvidia Jumps  The Pulse 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Russia Prepares New Attacks on Kyiv as Peace Frameworks Fail.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Rescue Efforts Ongoing After Deadly Nepal Flood.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Putin Moves to Escalate War in Ukraine, Nvidia Fuels Faith in AI Boom  Opening Trade 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Power, Infrastructure At Center of Data-Center Deals.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia's Upbeat Sales Outlook Eases Concerns About AI Economy.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Sees AI-Fueled Demand Boosting Sales 70% Next Year.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Ignites AI Rally Ahead of Jackson Hole  Open Interest 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Fuels AI Optimism; Jackson Hole Kicks Off  Bloomberg Brief 08272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Earnings Fuel AI Optimism  Daybreak Europe 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Meta Settles Social Media Lawsuit for $18B.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Mark Walter’s TWG Says ‘There Has Been No Fraud’.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Iran, Oman Agree to Share Hormuz Fee  Horizons Middle East & Africa 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Fed’s Schmid Talks Policy, Inflation, Credibility, Communication.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Fed Chair Warsh Has Challenges Ahead in Jackson Hole.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Data Center Opposition Could Hurt Nvidia, Ferragu Says.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/British Columbia Prepared For a Long Trade War With US, Premier Says.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/BOK Signals Caution After Second Straight Rate Hike  Insight with Haslinda Amin 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8272026.md
 - 2026-08-26 | 01_Videos/Bloomberg Television/Why Vanguard Is Buying Wealth Platform Altruist.md
 - 2026-08-26 | 01_Videos/Bloomberg Television/US Moves to Revoke 200,000 Visas  Horizons Middle East & Africa 8242026.md
 - 2026-08-26 | 01_Videos/Bloomberg Television/Trump Vs. Canada White House Prepares Next Move as Trade War Spirals.md
