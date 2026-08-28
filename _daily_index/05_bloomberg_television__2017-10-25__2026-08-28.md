@@ -1,11 +1,42 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-08-27T20:09:47Z
-Date range: 2017-10-25 -> 2026-08-27
+Generated at (UTC): 2026-08-28T20:11:14Z
+Date range: 2017-10-25 -> 2026-08-28
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-08-28 | 01_Videos/Bloomberg Television/Warsh Speech from Jackson Hole on Deck  Opening Trade 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Warsh Says Inflation Isn’t Slowing  Radio Balance of Power Early Edition 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Venezuela Weighs OPEC Exit; France Just Dodges Recession  The Pulse 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Venezuela Considers Leaving OPEC in Blow to Oil Cartel.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Trump Announces Plan to Let Ranchers Process Their Own Food.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Traders Focus on Jackson Hole, Fed Outlook  The Asia Trade 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Stocks, Bonds Waver Ahead of Warsh Speech  Bloomberg Brief 08282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Rogoff Says Economic Shock Needed to Force US Deficit Reform.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Persian Gulf Oil Exports Recover, Centcom Says Hormuz Is Mine Free.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Nvidia's Cracking Outlook Fuels AI Optimism Market Snapshot.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Nepal Looks To Rebuild As Flood Death Toll Rises  Insight with Haslinda Amin 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Nepal Floods Finance Minister Says Rescue Efforts Are Challenging.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Munster Expects Nvidia Revenue to Grow by 90% in 2027.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Morgan & Morgan Founder Firm Is Worth ‘At Least $10 Billion'.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Lack of Russia Pressure Strategy a 'Problem' Daalder.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Iran War Has Achieved Nothing But a Cost of Living Crisis Says Gray.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Hormuz Oil Flows Recover as Supply Fears Ease  Horizons Middle East & Africa 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Grading the Value of High Ed Real Estate Nuveen's Kleinman.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed’s Warsh Full Speech at Jackson Hole Symposium.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed's Hammack Calls for Raising Rates Amid Inflation Pressures.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed Rate Hike Would Be Important Signal to Market, Says Patrick Harker.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed Chairman Kevin Warsh to Speak at Jackson Hole  Daybreak Europe 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Every Fed Meeting Is Now 'Live,' Pimco's Clarida Says.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Dollar and Yields Await Cues From Warsh 3-Minutes MLIV.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/China's Most Valuable Company Faces First Earnings Test  The China Show  8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Breaking Down Warsh's First Speech at Jackson Hole.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/BOE's Bailey on Warsh Jackson Hole Speech, UK Inflation.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance Live From Jackson Hole 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Bloomberg Money 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/'We Got What We Needed From This Speech,' Says Citi's Kate Moore.md
 - 2026-08-27 | 01_Videos/Bloomberg Television/Zandi AI Drives at Least 25% of Growth.md
 - 2026-08-27 | 01_Videos/Bloomberg Television/Z.AI Claims New Model Taking on Anthropic, OpenAI  The China Show  8272026.md
 - 2026-08-27 | 01_Videos/Bloomberg Television/Warsh Will Impact Without Delivering 3-Minutes MLIV.md
