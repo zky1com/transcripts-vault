@@ -1,0 +1,3918 @@
+# Bloomberg Television
+
+Auto-generated daily routing shard.
+Generated at (UTC): 2026-09-02T20:11:26Z
+Date range: 2017-10-25 -> 2026-09-02
+
+## 01_Videos / Bloomberg Television
+
+- 2026-09-02 | 01_Videos/Bloomberg Television/Zelenskyy Threatens to Shut Russian Airspace.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Wright & Wirth on Venezuela Oil Push  Open Interest 922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Where Bond Yields Are Heading as Energy Prices Rise.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Venezuelan Oil Replenishing US SPR a ‘Pure Fantasy,’ Says Stephen Schork.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/US’s Wright on Venezuela Oil Production, SPR, Strait of Hormuz.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/US-Iran War Intensifies as Trump Downplays Desire For Deal  Daybreak Europe 922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/US-Iran Clashes Hit Stocks as Oil Rises  Bloomberg Brief 09022026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/US-China Tensions Simmer at G20 Meeting  The China Show  922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/US, Iran Escalate Attacks; Global Bond Selloff Deepens  The Asia Trade 922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/US Strikes Iran as Tehran Hits US Bases Across Gulf  Horizons Middle East & Africa 922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/US and Iran Renew Fighting, Global Bond Rout Deepens.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Trump Downplays Desire for Iran Deal, Global Bonds Slump  The Opening Trade 922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/The Mormon Church Is Putting Its Real Estate Empire to Work.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/The Art of the Deal Eludes Trump on Iran as Oil Gains  Insight with Haslinda Amin 922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Range Rover's First Fully Electric Model Costs Over $200,000.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Nvidia Nears $14 Billion Deal to Buy Hugging Face  The Pulse 922026.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Major Treasury Market Is Functioning Normally.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Fed Beige Book Shows Modest Growth, Mixed Sentiment.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/European Gas Rises Again on Mideast Supply Risks.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Energy Angst to Keep Pushing Yields Higher 3-Minutes MLIV.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Commerce Secretary Lutnick on AI, Anthropic and Canada Talks.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Chevron CEO Wirth on Investing $7 Billion in Venezuela.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Canada Blew Up Trade Deal at Last Minute, Lutnick Says.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Bessent Says Hormuz Route Will Be Bypassed In the Future.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/Bessent Says China Stopped Unanimous G20 Communique.md
+- 2026-09-02 | 01_Videos/Bloomberg Television/AI Investments, Record M&A, Angels Sold  Bloomberg Deals 922026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Why Southeast Asia Is Bulldozing Its Historic Buildings.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Why India's Modi Urged Putin at SCO to End Ukraine War.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/What’s Driving Global Bond Yields towards 20-Year Highs  Insight with Haslinda Amin 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/What Could Stop the Bond Market Selloff 3-Minutes MLIV.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/US Strikes Targets in Iran Around Strait of Hormuz.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/US Launches New Iran Strikes  Radio Balance of Power Early Edition 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/UAE Fends Off Iran Attack as Conflict Escalates  Horizons Middle East & Africa 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Trump Dismisses ‘Little War’ With Iran, Global Bond Selloff Returns  The Opening Trade 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Trump Dismisses 'Little War' With Iran as Borrowing Costs Rise  Daybreak Europe 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/The Deal Ryan Howard on Sports Investing and MLB’s Labor Fight.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Sold 'Minuscule' Amount of Bitcoin Strategy CEO.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Shein Slumps in Long-Awaited Hong Kong Debut  The China Show  912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Shein Shares Plunge in HK Debut After Rocky Road to IPO.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Shein Set for Long-Awaited Hong Kong IPO Debut.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Open Interest 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Oil Tankers Struck in Strait of Hormuz as Iran War Escalates  The Pulse 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Oil Supertankers Reportedly Struck by Projectiles in Hormuz.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Oil Extends Advance as US-Iran Escalation Revives Hormuz Risks.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Jain's Fund to Manage Money Just for Millennium.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Higher Oil Hits Risk Sentiment, Nvidia CEO Exclusive  The Asia Trade 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Bond Selloff Sends Yields to 2008 High; Hormuz Attacks Escalate  Bloomberg Brief 09012026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 912026.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Bessent's 'Bluff' 'Backfired' Pantera's Morehead.md
+- 2026-09-01 | 01_Videos/Bloomberg Television/Bessent Meets Russian Finance Chief, Modi Urges Putin to End War.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Why a Hawkish Warsh Is a Tough Sell to the Bond Markets  Insight with Haslinda Amin 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Wells Fargo Says Canada's Steel Retaliation `Irrelevant'.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Warsh Restores Some Fed Credibility 3-Minutes MLIV.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Wall Street Bets, Personal Finance Is Broken Must-Read Books.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/US, Iran Exchange Attacks, Apple's Changing of the Guard  The Pulse 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/US Strikes Iran, Iran Hits US Bases in Jordan  Horizons Middle East & Africa 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/US Resumes Strikes On Iran, Warsh Fans Rate Hike Bets  The Asia Trade 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/US and Iran Trade First Strikes in Weeks  Daybreak Europe 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Uruci of T. Rowe Price Confident Inflation Will Hit 2%.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Trump’s Venezuela Deal Leaves $100 Billion Question Unanswered.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Trump Says US Could Still 'Smack' Iran.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Trump Says Pharma Companies Commit To Lowering Prices  Balance of Power 08312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/T. Rowe Price CEO Sharps on Private Assets and AI Adoption.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/People Trying Hard To 'Outfox' S&P 500 Cutright.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Oil Rises As US and Iran Exchange Attacks  The Opening Trade 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Nvidia Partnership With MediaTek Expands, Huang Says.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Nvidia Makes $3.5 Billion Bet on MediaTek.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Nvidia Investing $3.5 Billion in Chipmaker MediaTek.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Nepal Warns of More Floods, Nancy Grace Telescope Launch  Bloomberg This Weekend Aug 30, 2026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Investors Wary After Warsh Speech Fuels Rate-Hike Bets.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Investors Assess Warsh's Remarks; US, Iran Exchange Attacks  Bloomberg Brief 83126.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Inside T. Rowe Price Markets, AI & the Future of Investing  The Close 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/How Apple's New CEO Will Shape the iPhone Maker.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/House Faces Tricky Midterm Agenda  Radio Balance of Power Early Edition 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/CXMT Passes Its First Earnings Test With Flying Colors  The China Show  8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Christina Ruffini's Boot Budget.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Bessent Faces G20 Credibility Test  Bloomberg Businessweek Daily 8312026.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/Anthropic’s Mega-IPO Plan Looms Over Packed US Listing Calendar.md
+- 2026-08-31 | 01_Videos/Bloomberg Television/An Exclusive Interview with Jensen Huang on Nvidia’s AI Future  Open Interest 8312026.md
+- 2026-08-30 | 01_Videos/Bloomberg Television/Trump Ally Says Fed Should Hold Rates Steady.md
+- 2026-08-30 | 01_Videos/Bloomberg Television/Shein’s $100 Billion Valuation Falls to $26 Billion.md
+- 2026-08-30 | 01_Videos/Bloomberg Television/Rep. Krishnamoorthi Warns Iran War Weakens US in Asia.md
+- 2026-08-30 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
+- 2026-08-30 | 01_Videos/Bloomberg Television/Investors Bet on a Hair Loss Treatment Boom.md
+- 2026-08-30 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Nepal’s Devastation, Deep Space Exploration, Wall Street Bets on Baldness.md
+- 2026-08-30 | 01_Videos/Bloomberg Television/Author Explores Cybersecurity Risks of Driverless Cars.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/Warsh Sets the Tone for Fed’s Road Ahead.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/US Canada Trade Fight Shows Few Signs of Easing.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/Supercars Fuel a New Hybrid Boom.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/Russia Tests Ukraine and NATO With Escalation.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/Can the US Defy Fiscal Gravity.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Deadly Strikes in Ukraine, ‘Historic’ Oil Deal, High-end Hybrids.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/A $2,000 Sweater Reveals Fashion’s True Cost.md
+- 2026-08-29 | 01_Videos/Bloomberg Television/$700 Cash Grants Transform Lives in Malawi.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Warsh Speech from Jackson Hole on Deck  Opening Trade 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Warsh Says Inflation Isn’t Slowing  Radio Balance of Power Early Edition 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Venezuela Weighs OPEC Exit; France Just Dodges Recession  The Pulse 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Venezuela Considers Leaving OPEC in Blow to Oil Cartel.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Trump Announces Plan to Let Ranchers Process Their Own Food.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Traders Focus on Jackson Hole, Fed Outlook  The Asia Trade 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Stocks, Bonds Waver Ahead of Warsh Speech  Bloomberg Brief 08282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Rogoff Says Economic Shock Needed to Force US Deficit Reform.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Persian Gulf Oil Exports Recover, Centcom Says Hormuz Is Mine Free.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Nvidia's Cracking Outlook Fuels AI Optimism Market Snapshot.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Nepal Looks To Rebuild As Flood Death Toll Rises  Insight with Haslinda Amin 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Nepal Floods Finance Minister Says Rescue Efforts Are Challenging.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Munster Expects Nvidia Revenue to Grow by 90% in 2027.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Morgan & Morgan Founder Firm Is Worth ‘At Least $10 Billion'.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Lack of Russia Pressure Strategy a 'Problem' Daalder.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Iran War Has Achieved Nothing But a Cost of Living Crisis Says Gray.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Hormuz Oil Flows Recover as Supply Fears Ease  Horizons Middle East & Africa 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Grading the Value of High Ed Real Estate Nuveen's Kleinman.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed’s Warsh Full Speech at Jackson Hole Symposium.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed's Hammack Calls for Raising Rates Amid Inflation Pressures.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed Rate Hike Would Be Important Signal to Market, Says Patrick Harker.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Fed Chairman Kevin Warsh to Speak at Jackson Hole  Daybreak Europe 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Every Fed Meeting Is Now 'Live,' Pimco's Clarida Says.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Dollar and Yields Await Cues From Warsh 3-Minutes MLIV.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/China's Most Valuable Company Faces First Earnings Test  The China Show  8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Breaking Down Warsh's First Speech at Jackson Hole.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/BOE's Bailey on Warsh Jackson Hole Speech, UK Inflation.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance Live From Jackson Hole 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/Bloomberg Money 8282026.md
+- 2026-08-28 | 01_Videos/Bloomberg Television/'We Got What We Needed From This Speech,' Says Citi's Kate Moore.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Zandi AI Drives at Least 25% of Growth.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Z.AI Claims New Model Taking on Anthropic, OpenAI  The China Show  8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Warsh Will Impact Without Delivering 3-Minutes MLIV.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Trump Renames Lake Ontario as Lake America, Says Canada Is Ripping Off the US.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Treasuries Look Vulnerable to Another Vague Warsh Speech.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Tech Stocks Rise on Nvidia's Outlook; BOK Hikes Rates  The Asia Trade 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Tech Stocks Gain on AI Optimism as Nvidia Jumps  The Pulse 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Russia Prepares New Attacks on Kyiv as Peace Frameworks Fail.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Rescue Efforts Ongoing After Deadly Nepal Flood.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Putin Moves to Escalate War in Ukraine, Nvidia Fuels Faith in AI Boom  Opening Trade 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Power, Infrastructure At Center of Data-Center Deals.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia's Upbeat Sales Outlook Eases Concerns About AI Economy.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Sees AI-Fueled Demand Boosting Sales 70% Next Year.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Ignites AI Rally Ahead of Jackson Hole  Open Interest 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Fuels AI Optimism; Jackson Hole Kicks Off  Bloomberg Brief 08272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Nvidia Earnings Fuel AI Optimism  Daybreak Europe 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Meta Settles Social Media Lawsuit for $18B.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Mark Walter’s TWG Says ‘There Has Been No Fraud’.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Iran, Oman Agree to Share Hormuz Fee  Horizons Middle East & Africa 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Fed’s Schmid Talks Policy, Inflation, Credibility, Communication.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Fed Chair Warsh Has Challenges Ahead in Jackson Hole.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Data Center Opposition Could Hurt Nvidia, Ferragu Says.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/British Columbia Prepared For a Long Trade War With US, Premier Says.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/BOK Signals Caution After Second Straight Rate Hike  Insight with Haslinda Amin 8272026.md
+- 2026-08-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8272026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Why Vanguard Is Buying Wealth Platform Altruist.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/US Moves to Revoke 200,000 Visas  Horizons Middle East & Africa 8242026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Trump Vs. Canada White House Prepares Next Move as Trade War Spirals.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Trump Pick Darline Graham Wins South Carolina Senate Runoff.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/The Pulse with Francine Lacqua 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Strait of Hormuz Deal Iran, Oman Discuss 'Interim' Reopening of Shipping Corridor.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Stocks Waver, Treasuries Dip Ahead of Nvidia Earnings, PCE Data  Bloomberg Brief 08262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Stocks Stall as Wall Street Awaits Nvidia   Open Interest 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Oil Drops on Strait of Hormuz Breakthrough Hopes Insight with Haslinda Amin 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Nvidia Results on Deck, Bessent Bounce Begins to Emerge  Opening Trade 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Northrop Grumman Chair, CEO and President Kathy Warden  Bloomberg Newsmakers.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Meta and State Attorneys Discuss Possible Mid-Trial Settlement.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Meta Agrees to $16.7 Billion Settlement in Social Media Case.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Iran and Oman Discuss Strait of Hormuz Deal  Daybreak Europe 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Crypto Market Is the Bitcoin Rally Sustainable.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/China Defiant Over Iran Ties; Tech Stocks in Focus Before Nvidia Results  The Asia Trade 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8262026.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Bessent Gets Boost from Oil, Bond Signal 3-Minutes MLIV.md
+- 2026-08-26 | 01_Videos/Bloomberg Television/Alibaba Rallies as Jack Ma Backs Record Share Sale  The China Show  8262026.md
+- 2026-08-25 | 01_Videos/Bloomberg Television/Northrop Grumman Is on a Wartime Footing, CEO Says.md
+- 2026-08-25 | 01_Videos/Bloomberg Television/Elite Private Schools Offer Aid to Families Making $500,000.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/What’s Next as US-Canada Relations Hit New Low.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/What Dan Ives Is Looking For Out of Nvidia Earnings.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/We're Big Buyers of the 10-Year at 5%, BMO's Davis Says.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/US-Canada Tensions, Bessent's Bond Troubles, Iceland Vote  Bloomberg This Weekend Aug 23, 2026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/US Set to Unveil Fresh Iran Sanctions  The Pulse 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Trump's Family Joins the Sprint to Get a National Bank Charter.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Stocks Fall Ahead of High-Stakes Week; Canada Sees Long US Trade War  Bloomberg Brief 08242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Singapore Rolls Out $55,000 Child Benefit to Boost Birth Rates.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Robots Set New Records at World Humanoid Robot Games.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/NYU's Suzy Welch Digs Deep to See if You Should Hire Gen Z.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Markets Eye Bessent, Warsh, Nvidia  Open Interest 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Iran Economic Isolation Plan Bessent Set to Unveil Details.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/How the War in Ukraine Changed Modern Warfare.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Houthis Force Saudi Tankers to Reroute Around Africa  Horizons Middle East & Africa 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Here's What's Behind Alibaba's $10 Billion Share Sale.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Guggenheim's Walsh Would Buy a Lot of 30-Year US Treasuries at 6%.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Goldman M&A, NHL Futures  ETF IQ 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Expect Volatility with a Negative Skew 3-Minutes MLIV.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Dan Ives Sees Nvidia Price Hike as Bullish Overall for Tech.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Sees Long Trade War With US.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Sees Long Trade War With US, Bessent Set to Unveil Iran Plan  Opening Trade 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Hits US With Counter-Tariffs As Trade War Looms  Daybreak Europe 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Canada Braces for Lengthy Trade Standoff With the US  Insight with Haslinda Amin 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Bessent Launches Operation Outcast Against Iran.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/Alibaba's $10B Share Sale Draws Investor Scrutiny  The China Show  8242026.md
+- 2026-08-24 | 01_Videos/Bloomberg Television/AI in Focus Amid Alibaba’s Record Share Sale and Nvidia’s Price Hike  The Asia Trade 8242026.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Trump Allows Tariff Relief for Some Ground Beef Imports.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Rep. McCormick Warns Against Slowing AI Buildout.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Liquid Death CEO on Viral AI Data Center Ad, IPO Odds.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Fed Faces High Stakes Test at Jackson Hole.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Data Center Expansion Tests Voter Patience.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Canada Digs In as US Trade Fight Escalates.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/BTW Headlines You May Have Missed.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Canada Hits Back, Bessent’s Big Moves, Data Center Backlash.md
+- 2026-08-23 | 01_Videos/Bloomberg Television/AI Takes Center Court at the US Open.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/US Colleges Face a Shrinking Student Pipeline.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Study Shows AI Hitting Paychecks, Not Payrolls.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Small Dogs, Big Demand as Dachshund Popularity Takes Off.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Sanctions Target Iran’s Weakened Regional Network.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trade War Escalates, Pushback on Beef Plan, Bond Market Intervention.md
+- 2026-08-22 | 01_Videos/Bloomberg Television/Bloomberg Previews Jackson Hole Symposium.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Why Foreign Investors May Return to India.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Week of Whiplash in Treasuries Closing With Traders on Pause.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/US to Target Iran's Economic Partners.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/US Steps Up Economic Pressure on Iran  Horizons Middle East & Africa 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Trump Eases Tariffs on Ground Beef  Radio Balance of Power Early Edition 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Treasury Whiplash, US Debt Hits $40T  Bloomberg Money 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Treasuries Steady; Samsung's Shareholder Return Plans  Bloomberg Brief 08212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Tidal Wave of AI Debt Grows as Treasury Markets Reel  Insight with Haslinda Amin 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Tech Firms, Govts. Clash For Capital Market Snapshot.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Supreme Court Issues Order to Let President Trump Keep Building Ballroom for Now.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Stroul Trump's Iran Economic Push Needs Partners.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Permanent Tariffs on Canada Hurt the US, Freeland Says.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Open Machine CEO on Anthropic, OpenAI IPO Potential.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Mazumdar-Shaw on Biocon’s Mission to Make Life-Saving Drugs Accessible.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Lipsky China Could Limit Trump's Iran Pressure.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Key Greenland Mining Project Is On Track, Says Critical Metals CEO.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Iran’s President Says Better to End War Today.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/German Manufacturing Boost, French Businesses Hit By Heatwave  The Pulse 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Euro Could Go Lower From Here, Yu Says.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Dollar Depreciation Is Sustainable 3-Minutes MLIV.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Clock Ticks Down on New Canada Tariff Deadline.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Bond Moves Not a Surprise, Says CFR's Patterson.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Big Take How Trump’s Tariffs Sent Soup Prices Soaring.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Bessent Flags Bigger Debt Buyback; Japan's Inflation Picks Up  The Asia Trade 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Prepares For Potential Record IPO  Daybreak Europe 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Investor Slams VC’s AI Miss  Open Interest 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Investor Blasts Traditional Venture Capital.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Anthropic Expects to Match or Top SpaceX’s Record IPO Size  The Opening Trade 8212026.md
+- 2026-08-21 | 01_Videos/Bloomberg Television/Alibaba Profit Takes A Beating Amid AI Spending  The China Show  8212026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/What Bessent's US Treasury Intervention Means for Stocks & Mortgages  Daybreak Europe 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/We're Seeing a 'K-Shaped Bond Market' Says Guneet Dhingra.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Walmart Warning Hits Retail and Markets  Open Interest 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Walmart Posts Slowest US Sales Growth in Six Years.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US Wages Economic War on Iran  Radio Balance of Power Early Edition 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US Set to Cut Tariffs on Canada Metals, Autos in Trade Deal.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US 30-Year Bonds Erase Gains From Treasury’s Buyback Surprise.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/US 30-Year Bonds Erase Gains From Bessent’s Buyback Plan.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Ukraine's Grain Shipments Are at a Virtual Halt.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Treasury Doubles Debt Buybacks, Trump Declares Economic Warfare on Iran  The Asia Trade 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Robinhood CEO Tenev Talks Crypto Rules and Prediction Markets.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/PGA of America's New CEO Is Bullish on Golf in Texas.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Kuaishou Slides After Weak 3Q Guidance  The China Show  8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Israel-Turkey Tensions Rise Over Syria  Horizons Middle East & Africa 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Iran War Trump Says US Waging Economic Warfare  The Pulse 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/ICE's Sprecher on Clarity Act, Polymarket Funding, Expanded Trading Hours.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Higher Interest Rates Are 'Likely Here to Stay' Furman.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Fed's Daly on Treasury Buybacks, Inflation, AI Demand.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/CIG's Rubenstein Expects Housing Rents to Keep Rising.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/China Says Trump Economic Warfare Won't Solve Iran Crisis.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/CFTC's Selig Says Clarity Act Gives Crypto Clear Rules.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Can the US Successfully Battle Rising Borrowing Costs.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Buyback-fueled Treasury Rally Cools; US Public Debt Hits $40T  Bloomberg Brief 08202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Bessent's Treasury Market Intervention, Samsung, SK Hynix Buybacks  The Opening Trade 8202026.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Bessent Gets Short-Term Bond Market Win 3-Minutes MLIV.md
+- 2026-08-20 | 01_Videos/Bloomberg Television/Asia Investors Sour on India Despite Inflows  Insight with Haslinda Amin 8202026.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/Unitree Shares Jump After $904M Shanghai IPO  The China Show  8192026.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/UAE Reports Iranian Missile Attack as Tensions Rise  Horizons Middle East & Africa 8192026.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/UAE Cuts Economic Ties With Iran After Missiles Target Territory.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/Trump Delays Canada Tariffs, Takes Hard Line on Iran  Daybreak Europe 8192026.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/Oil Markets Brace for Iran's Next Move Amid Hormuz Stalemate  Insight with Haslinda Amin 8192026.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/Chip Selloff Extends to Asia as Samsung, SK Hynix Slump.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/Chip Selloff Extends to Asia Amid Bond-Market Angst  The Asia Trade 8192026.md
+- 2026-08-19 | 01_Videos/Bloomberg Television/Big Picture Is Very Bullish Still 3-Minutes MLIV.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Yield Excitement Reaching Local Extreme 3-Minutes MLIV.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Where to Hide During Market Shocks.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Where Investors Can Hide From Shocks  Open Interest 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/What’s at Stake for Meta in Landmark Social Media Trial.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/US National Debt on Brink of Passing $40 Trillion  Balance of Power 08182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Trump Will Have to Make 'Bad Deal' With Iran, Says Former National Security Advisor Jake Sullivan.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Trump Threatens Oman, Rejects Iran Truce Extension  Daybreak Europe 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Trump Takes Hard Line on Iran With Control of Hormuz in Limbo.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Trump Takes Hard Line on Iran  Radio Balance of Power Early Edition 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Trump Shouldn't Rush Iran Strategy Rep. Issa.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Trump Rejects Iran Truce as War Escalates  Horizons Middle East & Africa 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Trump Only Has Bad Options Left in Iran, Sullivan Says.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/This China Firm Runs a School Teaching Robots Human Tasks.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/The AI Boom Hits the Bond Market.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Texas Has 'No Real Protections' Against Data Center Impact, Says Gina Hinojosa.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Strong Data, Uneasy Consumers Is AI Widening the Gap  Presented by CME Group.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Stocks Take Hit as Bond Selloff Saps Risk Appetite.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Stocks Fall As Global Bond Yields Stay Elevated  Closing Bell.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Stimulus Calls Grow After China Economic Data Disappoints  The China Show  8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Roz Brewer Talks College Aid, Walgreens and Retail.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Long-Term Debt Costs Soar to Highest in Decades as Bonds Slump.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Iran War Trump Not Interested in Truce Extension  The Pulse 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/How Vitol Won Exclusive Fuel Deals to Dominate Africa.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Global Bond Slump Raises Fed Questions  Bloomberg Businessweek Daily 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Crypto CEOs, Surviving Crypto Winter  Bloomberg Crypto 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Chip Stocks Slide as Global Bond Anxiety Builds  The Close 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/China Trying to 'Run Out the Clock' on Trump Presidency, Says Shehzad Qazi.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Breaking Down the Global Bond Selloff.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Bond Vigilantes Are Back. What's Driving Selloff and What's the Impact on Stocks.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Bond Selloff Weakens Risk Appetite; Trump Takes Hard Line on Iran  Bloomberg Brief 08182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Bond Selloff Is Mostly a Fed Story, Says BofA’s Cabana.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Bond Selloff Drives Risk Aversion, US-Iran Peace Prospects Dim  The Opening Trade 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Bitcoin Whales Add 43,000 Bitcoin in 60 Days.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Big Take How Amazon Landed On Mamdani's Labor Agenda.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Bank of Israel's Yaron Says Next Policy Meeting Will Be a Live One.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/Asian Bonds Follow Treasuries Lower on Concerns Over Government Finances  The Asia Trade 8182026.md
+- 2026-08-18 | 01_Videos/Bloomberg Television/AI Boom, Debt Surge Fuel Long Bond Pain  Insight with Haslinda Amin 8182026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Why Singapore Stocks Keep Hitting Record High.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Walter Rushes Makeover as DOJ Probes His Empire.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Trump Says Oman Hasn’t Behaved Very Well (Q&A).md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Trump on Kim Jong Un I Get Along With Him  Balance of Power 08172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Trump in No Hurry on US-Iran Deal  Radio Balance of Power Early Edition 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Treasury 30-Year Yields Are Back at 2007 Highs.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Technology Stocks Lift Equities, Mideast Peace Prospects Wane  The Opening Trade 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Stocks Slip as Oil and Treasury Yields Rise  Closing Bell.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Stocks Rise on AI Confidence; Tensions Mount in the Middle East  Bloomberg Brief 08172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Stocks & Bonds Fall as Oil Rises on Geopolitical Tensions  The Close 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Steven Major Sees List of Factors in ‘Drip, Drip Higher’ of Long-End Bonds.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Some Bonds Are Getting 'Twitchy,' Major Says.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/RBC's Lori Calvasina Sees S&P 500 Upside Despite Fed Risk.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Massive Oil Spill Threatens Oman Coast  Horizons Middle East & Africa 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/It's Not Looking Great for The Dollar 3-Minutes MLIV.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Israel Strikes Lebanon; Trump Reduces US-South Korea Drills  Daybreak Europe 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Israel Strikes Lebanon as US Prepares New Iran Sanctions.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Israel Strikes Lebanon as US Prepares Fresh Iran Sanctions  The Asia Trade 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Iran Feels It Has 'New Leverage' In MidEast Amid War with US.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Global Tightening Wave Puts Pressure on Bonds  Insight with Haslinda Amin 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Fmr Pepsico Executive Consumers Are Being Intentional.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/ETF IQ 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/DOJ's Dhillon on Election Security, Working With Trump.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/China's Economic Woes Mount as Growth Weakens Across the Board  The Pulse 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Anthropic's Revenue Surges as IPO Speculation Builds.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Anthropic Revenue Boom Boosts AI Stocks  Bloomberg Businessweek Daily 8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/Alibaba Reports World-Beating 3 Billion Downloads for Qwen  The China Show  8172026.md
+- 2026-08-17 | 01_Videos/Bloomberg Television/AI Stocks Surge on Anthropic Growth  Open Interest 8172026.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Wisconsin Turnout Fuels Democrats’ Midterm Hopes.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Why Private Equity’s Playbook is Losing to Public Markets.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Meta Faces Landmark Trial Over Youth Harm Claims.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Longevity Boom Reaches America’s Pets.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Is Cuba Finally Ready for Capitalism.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Iran Pressure Campaign Lacks Clear Off Ramp.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Iran MOU Expires With Diplomacy Still in Play.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Inside the Business of Ultra Luxury Travel.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Fed’s Internal Rate Debate Faces New Scrutiny.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Donalds Looks to Build on DeSantis Legacy.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Crowded Florida Race Puts Trump’s Clout to Test.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/By The Way Headline Roundup.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Bonta Says Meta Put Profit Over Children’s Safety.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Meta on Trial, the Race To Replace Gov. DeSantis, and Pet Longevity.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/Beef Prices Stay High as US Cattle Supply Shrinks.md
+- 2026-08-16 | 01_Videos/Bloomberg Television/AI Perfection Fuels a Return to Looking Human.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Why Romantasy May Soon Be a Billion-Dollar Business.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/USS Abraham Lincoln Conditions Raise Readiness Concerns.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/US-Iran War Risks Repeated Cycles of Fighting.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Trump's ‘Golden Age’ Pitch Meets Affordability Frustration.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Strong Earnings Keep PNC’s Agati Bullish on Stocks.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Robinson Says Activists Need Leverage to Win.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Riggleman Warns Private Cyberattacks Could Backfire.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Modi Puts Chips, Nuclear Power at Heart of India Push.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Mexico’s Unconventional Solution to Shipping Chokepoints.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Lakers Deal Caps Billionaire Rush Into Sports.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Iran Sanctions Could Put China Oil Trade in Focus.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Inflation Is Cooling. But is 2% Out of Reach.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Everybody’s Business The Rise of AI Music.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Drone Swarms Push AI Deeper Into Modern Warfare.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Colombia Quake Tests New President Days Into Term.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/By The Way Headline You May Have Missed.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Conditions Aboard the USS Abraham Lincoln, Up Close with a Drone Swarm.md
+- 2026-08-15 | 01_Videos/Bloomberg Television/Aston Martin CEO on new luxury model, the Valen.md
+- 2026-08-14 | 01_Videos/Bloomberg Television/OpenAI’s Revenue Run Rate Tops $40B  The Asia Trade 8142026.md
+- 2026-08-14 | 01_Videos/Bloomberg Television/JD Slumps After First Decline in Over A Decade  The China Show  8142026.md
+- 2026-08-13 | 01_Videos/Bloomberg Television/Tencent Slides Amid AI Capex Concerns  The China Show  8132026.md
+- 2026-08-12 | 01_Videos/Bloomberg Television/US Yields Will Go Much Higher Next Year 3-Minutes MLIV.md
+- 2026-08-12 | 01_Videos/Bloomberg Television/Tencent Earnings a Litmus Test for China's AI Sector  The China Show  8122026.md
+- 2026-08-11 | 01_Videos/Bloomberg Television/CoreWeave Took a Step in the Right Direction, Gil Luria Says.md
+- 2026-08-10 | 01_Videos/Bloomberg Television/US CPI and Iran Conflict to Dictate the Market 3-Minutes MLIV.md
+- 2026-08-10 | 01_Videos/Bloomberg Television/Hormuz Deal Elusive; Wall Street Sees Bond-Market Angst  The Asia Trade 8102026.md
+- 2026-08-09 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Iran’s New Hormuz Demands, How OpenAI Agents Broke Out, PR’s Water Crisis.md
+- 2026-08-07 | 01_Videos/Bloomberg Television/Iran Strikes 'Hostile Targets'; Yen Weakens Past 158  The Asia Trade 872026.md
+- 2026-08-07 | 01_Videos/Bloomberg Television/Credit Card Balances at Pace with Inflation Whitney.md
+- 2026-08-06 | 01_Videos/Bloomberg Television/Situational Awareness Comes Roaring Back With Big Bet.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Tech Melt-Up Drives $3.5T Nasdaq 100 Gain in Four Days.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Markets Pause After Record Highs as AI Rally Broadens  The Close 852026.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Expedia, Block, Western Digital, & Sandisk All Report Results  Closing Bell.md
+- 2026-08-05 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 852026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Yen Rally Loses Steam; Trump Threatens Iran's 'Last Chance'  The Asia Trade 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/US-China AI Rivalry Grows With Alibaba's Anthropic Rival.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/US Job Openings Ease as Layoffs Stay Limited.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Ukraine Gains Ground as Putin Faces Pressure.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Trump Wants Hormuz Deal Immediately  Balance of Power Early Edition 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Trump Says Talks Are Iran’s ‘Last Chance’, Stocks Near Record Highs  The Opening Trade 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Trump Pushing for Iran to Reach Hormuz Deal With Oman.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Trump Gives Iran 'Last Chance'; SpaceX, AMD Earnings Ahead  Bloomberg Brief 08042026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Trump Calls Iran Talks Offer a 'Last Chance'  The Pulse 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Situational Awareness' 439% Return Was the Warning.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Savary Dollar Dominance to Remain for Decades.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/S&P 500 Rally Faces Earnings Test  Open Interest 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Refiners Can’t Deliver Gas Price Relief Trump Wants, Says Stephen Schork.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Qatar, Bessent Signal Iran Deal Could Be Coming.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Morocco Blames Misinformation for Ceuta Chaos.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/McWhirter Blanche Pledge Has Less Force Than ‘Pinky Swear’.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Japan's Equities Risk Tactical Correction Goldman's Moe.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Israel-Gaza Peace Plan Faces New Pressure  Horizons Middle East & Africa 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Is the US Economy Heading for Stagflation in 2026  Presented by CME Group.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Intervention Efforts Failing to Turn Tide for Yen - 3-Minutes MLIV.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/HSBC CEO Says Bank Is Seeing AI Benefits As Earnings Beat  Daybreak Europe 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Hackers Steal Bitcoin, Visa Outlines Stablecoin Plans  Bloomberg Crypto 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Cantor on Digital Infrastructure, Fed, Inflation, Energy.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/BP CEO Says Interest in North Sea Business In Strong.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/BofA Japan Determined to Break Yen at 155.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Beijing Said To Be Worried About Anthropic’s Mythos Model  The China Show  842026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Australia’s Housing Market Worsens.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/Asia Stocks Drift Lower as Korea Volatility Tests Tech Rally  Insight with Haslinda Amin 8042026.md
+- 2026-08-04 | 01_Videos/Bloomberg Television/155 Is the Yen's Next Big Test, Englander Says.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Yen Rises Sharply With Traders on Intervention Watch  The Asia Trade 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Yen Rises Amid Speculation of More Intervention After US Support.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Yen Needs More Intervention to Hold Gain 3-Minutes MLIV.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/What's Behind the Rare US-Japan Yen Intervention.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/US, Japan Warn of More Yen Action If Needed; Oil Falls on US-Iran Optimism Bloomberg Brief 080326.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Trump Says Talks Are Iran's 'Last Chance' Before Attack.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Trump Says Iran Talks to Begin Monday.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Trump Says Iran Talks Last Chance  Balance of Power Early Edition 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Trump Revives Iran Talks as Markets Watch Middle East Risks  The Pulse 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Trump Revives Hopes for Iran Deal, Oil Sinks  Insight with Haslinda Amin 8032026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/The Future of the Democratic Party Runs Through Michigan.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/SpaceX Reports First Earnings, Mideast Turmoil, FIFA Fallout  Bloomberg This Weekend Aug 2, 2026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Pimco's Stracke Says AI-Related Financing in Early Innings.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Oil Slumps as Trump Calls Off Attack on Iran.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/New DeepSeek, Alibaba Models Take On Anthropic, OpenAI  The China Show  832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Japanese Yen Surges After Washington Steps In.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Iran-Oman Talks Enter Final Stage as Oil Falls  Horizons Middle East & Africa 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Iran War Update and More Trump Takes Questions in Oval Office (Full Q&A).md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Iran War Trump Says New Talks to Begin  Daybreak Europe 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Iran Talks to Begin Monday, Trump Says.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Iran Says Strait of Hormuz Talks Are Underway.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/IBM’s Gary Cohn on Warsh’s Fed, Yen Intervention, Markets.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/How India’s Cockroach Party Became a Political Force.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Gold Could Start Climbing Toward 5,000, Says Standard Chartered's Cooper.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Fund Launches and Leveraged ETFs Flood The Industry  ETF IQ 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Europe’s Key Rivers Are Drying Up; Mixed Messages on US, Iran Talks  The Opening Trade 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Bull Market Will Last Rest of Decade, Bartels Says.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Bull Market Could Last Through 2030 Bartels  Open Interest 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 832026.md
+- 2026-08-03 | 01_Videos/Bloomberg Television/Astra Buying Bristol Makes No Sense, Fazeli Says.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Why Think Tanks are a Billion Dollar Business.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Shorts Debate Challenges Office Dress Codes.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Running Becomes Fashion Statement.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Major Dulles Makeover Pushed By Trump.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Jackson Urges New Approach to Caribbean.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Governors Promote State Led Solutions on Costs.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Furman AI Transition Needs a New Tax System.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Democrats Divided By Michigan Senate Primary.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Cultural Divide Sparked By AI Adoption.md
+- 2026-08-02 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Iran Strikes On Hold, the Digital Divide Over AI.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Yen Intervention on Watch; Korean Stocks Jump by Record  The Asia Trade 7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Why Bill Dudley Thinks Warsh's Approach to Fed Policy Is Flawed.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/What We Know So Far About Hacking by Anthropic AI Models.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Trump Says Hamas Will Disarm as Gaza Deal Advances  Horizons Middle East & Africa 7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Trump Casts Doubt on New Iran Talks  Balance of Power 7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Tech Stocks Rally in AI Trade Euphoria  The China Show  7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Spain's Ceuta Migrant Crisis Sparks Debate; Tech Stocks Rise as Kospi Sees 18% Jump  The Pulse 731.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Kospi Has Bottomed On Insane Week 3-Minutes MLIV.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Korea Set for Record Surge as Global AI Momentum Returns  Daybreak Europe 7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/How Climate Change Is Making Megafires More Common in Europe.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/FIFA Fallout UEFA's Stance Shows Lack of Consultation, says Former England Player Eni Aluko.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Fed Needs Clear Inflation Target and Messaging, Clarida Says.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/European Execs Show AI Optimism Markets Snapshot.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Chip Rebound, Amazon Results Bolster Stock Rally  Bloomberg Brief 073126.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/BOJ Holds Rates, Keeps Door Open to Further Hikes Insight with Haslinda Amin 7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Big Tech’s AI Divide Widens  Open Interest 7312026.md
+- 2026-07-31 | 01_Videos/Bloomberg Television/Amazon Lifts Tech Rebound, Border Crisis as Migrants Cross Into Spain  The Opening Trade 7312026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Zhongji Innolight Stumbles in Hong Kong Debut  The China Show  7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/What Is the Bond Market Telling the Fed  Insight with Haslinda Amin 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Washington Commanders President Mark Clouse  Bloomberg Newsmakers.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/US Launches New Wave of Attacks Against Iran.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Trump Faces Iran War Conundrum  Balance of Power 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/The BOE Decides  Special Coverage.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Starbucks Seeing Strong Sales Across the Board, CEO Says.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Microsoft Surges, Meta Slides  Open Interest 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Microsoft Rallies on Earnings as Meta Slides with AI in Focus  The Pulse 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Kevin Warsh Sparks Bond Rout After Fed Decision; US Strikes Iran Again  Daybreak Europe 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Jordan Intercepts 5 Iranian Missiles as Iran War Escalates  Horizons Middle East & Africa 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Jersey Mike's CEO on Trading Debut, Supply Chain and Demand Growth.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Hassett Confident in Fed's Warsh, Doesn't See Market Bubble.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Fed's Credibility Questioned, ‘Bond Vigilantes’ Return  Real Yield 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Dollar Loses From Hit to Fed Credibility 3-Minutes MLIV.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Divided Fed Holds Rates, Samsung 1Q Chip Profit Soars  The Asia Trade 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Data Centers Boom in Africa.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Conflict Widens in Middle East, Bonds Send Warsh Credibility Warning  The Opening Trade 7302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Bond Yields at 19-Year High After Fed Holds; Tech Earnings Lift Stocks  Bloomberg Brief 07302026.md
+- 2026-07-30 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7302026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Warsh Says There Was Much Agreement on Hard Questions.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/US Military Escorting Oil and Gas Through Strait, Wright Says.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/US and Saudi Arabia Strike Iran-Backed Sites as Oil Jumps  Horizons Middle East & Africa 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Ukraine's Zelenskyy Says Trump Meeting Was 'Good'.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/UBS CEO Ermotti on Credit Suisse, Buyback, Volatility.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Trump’s Crypto Bonanza Is Biggest Clarity Act Hurdle.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Trump, Netanyahu Meet in Washington Key Takeaways.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Trump Says Iran Will 'Get a Beating' for Targeting Base in Jordan.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Traders Weigh Renewed US-Iran Strikes, SK Hynix Earnings  The Asia Trade 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Tech Stocks Extend Drop After SK Hynix Earnings Miss  The China Show  7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Surprise Iran Strike Rattles Global Markets, Sends Oil Higher  Insight with Haslinda Amin 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Stonepeak's Dorrell on AI, Data Centers, Infrastructure.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/SK Hynix Slumps as Profit Misses; US Intercepts Iran Attack on Bases  Daybreak Europe 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/SK Hynix Plunges as US Tech Earnings Loom  The Pulse 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/SK Hynix Drops as Profit Disappoints.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Oil Rises after Iranian Attacks; Big Tech Earnings; Fed Decision  Bloomberg Brief 07292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/NextEra, Brookfield Plan $100B Hub  Balance of Power 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/New Age of Missiles, Drones Reshapes Battlefields Around The World.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Microsoft, Meta Earnings Take Center Stage  Open Interest 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Logitech CEO Faber Says Chip Supply Is Unusually Tight.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Iran Attacks US Bases; Fed Call & AI Earnings Loom  The Opening Trade 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Iran Attacks US Bases, Saudi Arabia Joins Strikes in Iran.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Graham Was a Key Voice for Ukraine Farkas.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Fed's Warsh Says There Is No Soft Inflation Target.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Fed Holds Rates Steady, Three Dissenters Wanted a Hike.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Fed Expected to Hold Rates, But Warsh Could Shock the Street.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Fauci Pleads Fifth Amendment at Senate Covid-19 Hearing.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Data Center Deals & Changing Consumer Habits  Bloomberg Deals 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Correlation to Return Into Month-End 3-Minutes MLIV.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Coinbase Vice Chair Discusses Clarity Act, C-Suite Shakeup.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7292026.md
+- 2026-07-29 | 01_Videos/Bloomberg Television/AI Spending In Focus for Meta, Microsoft Earnings.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Visa to Cut Workforce by 7% as CEO Targets Efficiency.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/UPS CEO Says the Amazon Glide Down Is 'Behind Us'.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Trump’s Crypto Bonanza Is Biggest Clarity Act Hurdle  Bloomberg Crypto 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Trump, Netanyahu Meet at White House  Balance of Power Early Edition 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Trump Says There's a 'Chance' US, Iran Could Make a Deal.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Trump Hosts Netanyahu, Zelenskyy at White House.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Senators Reach Bipartisan Deal on Russia, Iran Sanctions  Balance of Power 07282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Odd Lots Branko Milanović Explains a New Class of “Folksy Elites”.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Nvidia, AI Stocks Tumble as China Chip Progress Sparks Selloff  The Pulse 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Massive Day for Earnings as Fed Decision Looms  The Close 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Markets Weigh AI Risks as Earnings Roll On  Open Interest 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Liverpool FC Looks to Expand Fan Base in US.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Korean Markets in Turmoil Due to Chip Rout  Insight with Haslinda Amin 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Inside Look at Dr. Oz's Success in the Trump Admin.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Incoming Tech Earnings, Fed Decision Day  Bloomberg Businessweek Daily 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/How Asia Tech Selloff Unfolded Over DUVs, Circular Deals.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Graham Was a 'Fixture of American Politics' Says Trump.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Global Semiconductor Selloff Deepens on China Competition.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Global Chip Stock Slump Overshadows Oil Drop  The Opening Trade 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/France, Spain Plan Economic Support as Fires Continue.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Former VP Mike Pence on Lindsey Graham's Legacy, Ukraine and Iran.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Ford Cashes In on Sales of High-Margin SUVs.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Fed Expected to Keep Rates on Hold Wednesday.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Expect Dissents at Latest Fed Rate Meeting, Duke Says.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Everybody’s Business AI Industry’s Answer to Its Image Problem.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Chip Selloff Deepens as AI Fears Hit Asian Stocks  Horizons Middle East & Africa 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Chip Rout Deepens; Trump Talks Up Iran Diplomacy  Bloomberg Brief 07282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Chip Rout Deepens; Trump Sees 'Good Chance' of Iran Deal  Daybreak Europe 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Chip Rout Deepens on Circular Funding, China Fears  The Asia Trade 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/China's Reported DUV Breakthrough Rattles AI Trade  The China Show  7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7282026.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/Barnes & Noble CEO on Strategy, Book Sales and Possible IPO.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/A Slew of Earnings  Closing Bell.md
+- 2026-07-28 | 01_Videos/Bloomberg Television/A September Rate Hike Would Be Very Difficult, Hoenig Says.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Wildfires Rage in Spain & France, Mideast Tensions Ease  The Opening Trade 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Why One Minister's Exit Won't Calm Youth Anger.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/US-Iran Pause Triggers Relief Rally  The Pulse 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/US Pauses Iran Strikes for Second Night, Big Tech Week Ahead Bloomberg This Weekend July 26, 2026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/US and Iran Halt Military Strikes.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Trump Hits Campaign Trail in Michigan  Balance of Power Early Edition 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Thousands Evacuated as Spain, France Wildfires Continue.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Tax ETFs Under Question, Triple Crown Record 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Sen. Warner 'Clock Is Ticking' on AI Regulation.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Paramount-Warner Bros. Judge Pauses Deal With ‘Serious’ Concerns.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Oil Drops as Middle East Tensions Ease; Fed Decision, Tech Earnings Ahead  Bloomberg Brief 072726.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Oil Drops as Hormuz Talks Begin  Horizons Middle East & Africa 7242026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Nvidia May Help OpenAI Open Data Center in Ohio.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Markets on Edge Ahead of Tech Test, Fed Decision  Open Interest 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Kalshi Could Push Deeper Into Precious Metals Trading.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Iran-US Lull Puts Fed, Tech Earnings in Focus  Insight with Haslinda Amin 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Iran War US & Iran Pause Strikes, Energy Prices Fall  Daybreak Europe 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/How Chipmaker CXMT Grew to Pull Off One of China's Biggest IPOs.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Fanatics, BGC Ink Prediction Markets Deal.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/CXMT Surges in China's Biggest Debut in Years  The China Show  7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Citi's Moore Is Not Worried About a US Recession.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Central Banks, Big Tech Deals in Focus  The Asia Trade 7272026.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Busy Week, Bigger Risks 3-Minutes MLIV.md
+- 2026-07-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7272026.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/We're In 'The Third Inning of The AI Revolution' Says Ives.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Tricia Scarlata on Saving For College Tuition.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Russian Politics and Vodka Stay Intertwined.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Miami's Boom Drives Up Cost of Living.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Maine Democrats Rally Behind Troy Jackson.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Conflict Stretches US Military Resources.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Coates Sees Ukraine Shifting Trump's View.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Canada, US Open Long Awaited Bridge.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Concerns Over US Defense Stockpiles, Key US Senate Matchup.md
+- 2026-07-26 | 01_Videos/Bloomberg Television/'The Chinese Won' Steven Rattner on Lessons From Trump's Trade War.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Why Miami No Longer Pays Off.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/WHCD Returns After Spring Delay.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/US Weighs Saudi Nuclear Partnership.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Ukraine Gains Leverage Ahead of Talks.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/The Housing Crisis Solution Hiding in Austin.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/The Deal World Cup Recap and Why Hydration Breaks Are Here to Stay.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Rattner Says AI Boom Faces Questions Over Debt, China and Higher Rates.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Oil Market Faces Mounting Supply Threats.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Odyssey Returns to the Cultural Spotlight.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Nvidia CEO Jensen Huang on the AI Boom in South Korea.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/New Tariffs Test Global Trade Rules.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Measles Resurgence Tests US Health System.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Inside Africa's Data Centers Revolution  Bloomberg Next Africa.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Huang Sees AI Driving Chip Boom.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Energy Volatility Persists in Middle East.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Edward Yardeni on Investing, Inflation, Retirement.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-07-25 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Jensen Huang Exclusive Interview, White House Correspondents’ Dinner Redo.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/‘The Odyssey’ Fans Splurge to Watch the Movie.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Worried About College Costs Listen to JPMorgan Asset Mgmt's Advice.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Wall Street Week  AI Debt, Austin Housing Test, Student Loan Reckoning, Canada Weighs US Tariffs.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/US Tech Leaders Tout Open Weight AI Models in Letter.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Upcoming Events Affecting Your Money Fed, Earnings & Comic-Con.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/UN Town Hall The Next Secretary-General.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/UN Secretary-General Candidates on Iran War, Keeping the Peace.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump’s New Tariffs to Face Pushback in Asia  Insight with Haslinda Amin 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Vows Fresh Tariffs  Balance of Power 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump US ‘Locked & Loaded’ for ‘Massive Attack’  Balance of Power 07242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Rebuilds Tariffs With New Levies.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Rebuilds Tariff Wall With Global Levies  The Opening Trade 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Trump Plans New Tariffs on 60 Economies.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Traders Brace For CXMT's Blockbuster Debut  The China Show  7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Student Protests Spread Across India Rattling Modi's Government.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Stocks Waver after Tech Selloff; Trump Rebuilds Tariffs  Bloomberg Brief 07242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/SpaceX Makes Big Bet on Starship.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Signal's Whittaker on 'Hype' Around OpenAI-Hugging Face Hack  The Pulse 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Retirement Worries, College Costs Soar  Bloomberg Money 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Retirement Gets More Costly, Health Expenses Spike Higher.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Red Sea Becomes New Choke Point in US-Iran Conflict.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/President Trump Hits 60 Economies With New Tariffs  Daybreak Europe 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Oil Tops $100 on War Worries; Trump Resurrects Tariff Wall  The Asia Trade 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Navarro On Rebuilding Trump's Tariff Regime.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Krishnamoorthi 'No Way' To End Iran War Militarily.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Ireland's Ambassador to US Wants to 'Stabilize' Trade.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Investors on Edge Tech Woes, Trump's Tariffs & The Fed  Open Interest 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Intel Weighing Down the Market  Closing Bell.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Inflation Angst Returns, Micron Millionaires Money Roundtable.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Graduate Schools Face Crisis During Trump Admin.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Geopolitics and Tech Weakness a Headwind for Risk 3-Minutes MLIV.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Gavito 'No End' To Iran War Without Negotiated Deal.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Fresh EU Tariffs, Aftermath of Intel Earnings  Bloomberg Businessweek Daily 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Fed's Warsh Should Hike Rates When He Can, Not When He Must, Dutta Says.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Energy Prices Rebound As Iran War Widens Markets Snapshot.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Cisco AI Tool 'Antares' Will Protect Sensitive Data, CPO Says.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Brent Tops $100 as Trump Threatens More Iran Strikes  Horizons Middle East & Africa 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Big Tech Faces Pressure  The Close 7242026.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Big Take Asia The Hunt For Cambodia’s Stolen Statues.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/Banking on Books Tom and Scarlet's Must-Read Books.md
+- 2026-07-24 | 01_Videos/Bloomberg Television/AI Can Be Force For Good, Birkett Says.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Yields Surge, Rate Hike Bets Rise  Real Yield 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Utz Will Go Private in $2.9B Deal With Intersnack.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/US-Iran War Expands To Red Sea What It Means For Markets  The Pulse 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/US to Increase Scrutiny of Chinese AI Models  The China Show  7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/US Official Alleges Chinese AI Apps Used Banned Chips.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/US Initial Jobless Are at Lowest Level in Decades.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/UK Chancellor Pledges Fiscal Buffer In City Pitch  The Opening Trade 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Samsung VP on Launch of New Foldable Phone Lineup.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Oil Surge, AI Jitters Weigh on Markets  Open Interest 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Oil Prices Spike After Houthis Target Ships in Red Sea.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Oil Market Is 'Out of Buffers' McNally.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Oil Jumps After Houthis Attack Two Saudi Tankers  Horizons Middle East & Africa 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Markets Weigh Widening War, Big Tech Earnings  The Asia Trade 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/MAIA High Bar For ECB Surprise, Alphabet CAPEX In Focus 3 Minutes MLIV.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Leaning Into AI Is Paying Off, Blackstone's Gray Says.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Israel's Danon Mamdani, Not Netanyahu, Should Be Arrested.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/IBM Cuts Full-Year Sales Outlook.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/How Should Prediction Markets Like Kalshi and Polymarket Be Regulated.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/House Passes Budget Stopgap  Balance of Power 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/FIFA Tries to Top Super Bowl's Halftime Show at World Cup.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/ECB Keeps Interest Rates Unchanged.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Chancellor Healey Pledges UK Fiscal Buffer.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Can AI Mania Outrun Rising Oil Risks  Insight With Haslinda Amin 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Blackstone Debuts Two Private Market Funds.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/BlackRock's Rosenberg Says Investors Can Come Back to the Bond Market.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/Alphabet Beats on Cloud Revenue, Posts Strong Gemini Usage.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/AI Spending Fears Weigh on Stocks; Oil Jumps on Red Sea Attack  Bloomberg Brief 07232026.md
+- 2026-07-23 | 01_Videos/Bloomberg Television/AI Spending Fears Hit Tech; Banks Report Blowout Earnings  Daybreak Europe 7232026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Zelenskyy Dismisses Ukraine's Army Chief.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Yen Falls To 40-Year Low, Trump Imposes Pharma Tariffs  The Asia Trade 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Wells Fargo's Scharf on Economy, US Consumer, Earnings.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Warner Deal Paused, Activism Surges 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/US Widens Strikes on Iran as Both Sides Downplay Diplomacy.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/US Widens Strikes on Iran  Balance of Power 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/US to Increase Scrutiny of Chinese AI Models  The China Show  7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/US Plays Down Prospects for Iran Talks.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Trump Threatens to Target Iranian Infrastructure.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Trump Plays Down Iran Talks & Tech Rallies Ahead of Earnings  Daybreak Europe 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Trump Plans 100% Tariff on Generic Drugs From 2028.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Trump Plans 100% Tariff on Generic Drugs From 2028  Insight with Haslinda Amin 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Trump Lifts Ban on Direct US Flights to Lebanon.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/These times are really good for banks, says Wells Fargo CEO shorts wellsfargo banks investing.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/These Times Are Really Good for Banks, Says Wells Fargo CEO Scharf.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Stocks Waver as Tech Earnings Take Center Stage  Open Interest 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Stocks Fall Ahead of Alphabet Results; Trump's Generic Drugs Tariff Plan  Bloomberg Brief 072226.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Schwab Beats 2Q Estimates as Retail Traders Pile Into Market.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Samsung Overhauls Foldable Phones Ahead of Apple's Launch.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/OpenAI Says Its Models Hacked Hugging Face by Mistake.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Oil Prices Rise as Trump Downplays Iran Peace Talks  Horizons Middle East & Africa 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Odd Lots Claude Code Creator On The Era of Vibe Coding.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Could Trump's Drug Tariff Threaten US Low-Cost Medicine Supply  The Pulse 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Caution Builds Ahead of Big Tech Earnings  The Opening Trade 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7222026.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Big Take Polymarket and Kalshi Grapple With A New Class of Insider Trader.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/AT&T CEO on Earnings, Mobile Subscriber Gains, AI.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/Alphabet Earnings a Key Hurdle For the Tech Trade 3-Minutes MLIV.md
+- 2026-07-22 | 01_Videos/Bloomberg Television/AI Will Lead to Productivity Gains, Stifel CEO Says.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/US, Iran Trade Strikes as Mediators Propose Truce.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/US Strikes Iran for 10th Day; Burnham Surprises with Chancellor Healey  Daybreak Europe 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/US Plans New 50% Tariff on Canada. Here's What to Know.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Trump Vows 50% Tariff on Canadian Goods Using Depression-Era Law.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Trump Says Iran 'Will Pay' for US Troop Deaths  The Pulse 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Trump Plays Down Iran Talks  Balance of Power 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Stocks Climb as Rebound in Chipmakers Gathers Pace.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Stocks Bounce as Chipmakers Drive Tech Rebound  Open Interest 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Red Sea Threat Puts Oil Traders on Alert  Insight with Haslinda Amin 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Oil Risks Soar as Houthis Threaten Red Sea Blockade  Horizons Middle East & Africa 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Novo Sues Rival Lilly Over Weight-Loss Ads.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Lockheed's Martin Says Space Is Now Key to Warfighting Plans.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Iran War Rages On; New Trade War Looms With Canada Tariffs  The Asia Trade 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Hasbro Cancels Some Digital Projects, But Doubles Down on 'Magic The Gathering'.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/GM CFO on Profit Outlook, Pricing Power, Tariff Costs.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Gilts to Lag Peers on Renewed Fiscal Uncertainty 3-Minutes MLIV.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Gilts Steady as Investors Await More Policy Details From Burnham  The Opening Trade 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/GE CEO Says Improved Supplier Deliveries Helping to Boost Output.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Chipmaker Rebound Gathers Pace; US-Iran Strikes Extend to Tenth Day  Bloomberg Brief 07212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/China, Philippines Clash Again in South China Sea.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/China, Philippine Vessels Clash in Disputed Waters  The China Show  7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/China Must Offer Reassurance on Its Military Buildup, Australian Minister Says.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Bloomberg Crypto 7212026.md
+- 2026-07-21 | 01_Videos/Bloomberg Television/Bermuda Hopes to Become First National On-Chain Economy.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Yemeni Houthis Plan Maritime Blockade of Saudi Arabia.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/What Will Andy Burnham Do Next As UK Prime Minister  The Pulse 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/US-Iran Strikes Ramp Up After American Troops Killed.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/US Bombs Iran for Ninth Day, Burnham Takes Power in UK  The Opening Trade 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/US & Iran Trade Attacks, New UK Prime Minister, World Cup Final  Bloomberg This Weekend July 19.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/The Great American Fun Shortage.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Oil Pares Gains as Iran Says Proposals Received; Burnham to Become UK PM  Bloomberg Brief 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Oil Jumps as Iran Threatens Hormuz Again  Horizons Middle East & Africa 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Moonshot's Kimi K3 Model Surprises Wall Street and Silicon Valley.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Moonshot AI Makes Waves Despite China's Chip Constraints.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Jersey Mike's Seeks Up to $1.09 Billion in US IPO.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Iran Tensions, Tech Earnings Keep Equities on Shaky Ground 3-Minutes MLIV.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Iran Conflict Escalates; Chinese AI in Focus  The Asia Trade 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/How Moonshot AI's Kimi K3 Puts Pressure on US Tech.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Goldman Sachs Sees More Oil Gains as US-Iran Attacks Escalate.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Fed Will Be On Hold This Year, EY's Daco Says.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Doctor Explains Health Risks of Cyclospora Outbreak.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Chips Selloff Deepens Amid AI Angst  The Asia Trade 7172026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/China’s AI Breakthroughs Shake Global Tech Assumptions  Insight with Haslinda Amin 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Burnham to Take Over as UK Prime Minister.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Britain's New Prime Minister Can Andy Burnham Deliver.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Boeing CEO on Deliveries, Demand, Next-Gen Aircraft.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Andy Burnham to Vow 'Hope and Unity' as UK Prime Minister  Daybreak Europe 7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/AMC Jumps on Earnings Beat; Domino's Moves on Diner Pullback  Stock Movers.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Alibaba's Qwen Model Raises Stakes in AI Race  The China Show  7202026.md
+- 2026-07-20 | 01_Videos/Bloomberg Television/Airbus CEO Sees Strong Demand, Has Long Backlog of Orders.md
+- 2026-07-19 | 01_Videos/Bloomberg Television/Shaheen Pushes Back on Claim Tying Iran to Russia Sanctions.md
+- 2026-07-19 | 01_Videos/Bloomberg Television/Rep. Stutzman Urges Tougher Iran Strategy.md
+- 2026-07-19 | 01_Videos/Bloomberg Television/Real Madrid's Rüdiger Says Spain's Team Play Is the Difference.md
+- 2026-07-19 | 01_Videos/Bloomberg Television/How AI Is Changing Corporate America’s Deal Strategy.md
+- 2026-07-19 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Two American Troops Killed, Upcoming Big Tech Earnings, World Cup Final.md
+- 2026-07-18 | 01_Videos/Bloomberg Television/Law School Limits Laptops as AI Transforms Work.md
+- 2026-07-18 | 01_Videos/Bloomberg Television/FIFA Integrity Debate Shadows World Cup.md
+- 2026-07-18 | 01_Videos/Bloomberg Television/Earthquake Deepens Venezuela's Political Crisis.md
+- 2026-07-18 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  America’s AI Lead Shrink, New Tariff Threat To Canada.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/WH Says Trump Will Release Election Integrity 'Findings' in Speech  Balance of Power 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/US Trade Rep. Greer on China Relations and Section 301 Tariffs.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/US Strikes Iranian-Linked Oil Tanker, Anthropic Mega-Listing Nears  The Opening Trade 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/US Launches New Airstrikes on Iran.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/US Launches Fresh Strikes on Iran  Horizons Middle East & Africa 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/United Airlines CEO on Travel Demand, Fare Increases.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/TSMC Outlook Fails to Lift Tech  Open Interest 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/TSMC Hikes Sales, Spending Outlook; AI Rally Faces Scrutiny  Bloomberg Brief 07162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/TSMC Earnings Beat Lofty Estimates  Daybreak Europe 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/TSMC Beats Estimates Amid Sustained AI Demand.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/Rotation Trade Has More to Play Out 3-Minutes MLIV.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/Oil Shock Puts Global Growth at Risk Amid Iran Tensions  Insight with Haslinda Amin 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/Innolight Said to Near Approval for $7B HK Listing  The China Show  7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/Chip Selloff Hits Kospi, BOK Begins Rate Hikes  The Asia Trade 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/BofA CEO Brian Moynihan on Consumers, Earnings, Deals Pipeline, AI.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7162026.md
+- 2026-07-16 | 01_Videos/Bloomberg Television/AI Rally Stalls Despite TSMC Earnings Beat  The Pulse 7162026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Warsh Says Trump Has Not Tried to Influence Fed Policy.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Warsh Defends a Fed Under Fire  Open Interest 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Trump's Iran Warning; AI-Driven Demand Lifts ASML  The Pulse 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Trump Pledges to Escalate Iran Attacks, ASML Fuels Tech Stock Rally  The Opening Trade 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Trump Drops Hormuz Fee as US Strikes on Iran Continue.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Tech Matters More Than Financials 3-Minutes MLIV.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Strategy CEO We’re Buyers of Bitcoin Long-Term.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Starmer's Final PMQs Outgoing Leader on  Burnham, the World Cup and Farage Vs. Binface.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Senators Push Trump Picks on Independence  Balance of Power 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Senator Warren Challenges Fed's Warsh About Ethics, Bowman.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Iran Strikes Kuwait in Worst Attack Since June  Horizons Middle East & Africa 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Fed's Warsh Says Inflation Mission Not Accomplished  The Asia Trade 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/China's GDP Growth Weakens to Below Target Range  The China Show  7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/Bloomberg Deals 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/ASML Raises Full-Year Sales Forecast Again  Daybreak Europe 7152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/ASML Raises Full-Year Outlook as AI Spending Grows.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/ASML Boosts Outlook on AI Momentum; Oil Rises on Trump Warning  Bloomberg Brief 07152026.md
+- 2026-07-15 | 01_Videos/Bloomberg Television/AI Rally Sees Revival Despite Rising Oil Prices  Insight with Haslinda Amin 7152026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/What to Know About Shein's Plans for Mega HK IPO.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/What to Expect From Wall Street Banks Earnings.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Wells Fargo’s Mike Mayo Citi My Top Pick of Big Banks.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Wells Fargo CFO Sees Healthy Investment Banking Pipeline.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Warsh to Move Markets More Than He Wants 3-Minutes MLIV.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Warsh Has to Communicate More, Says Opinion's Dudley.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/US-Iran Clashes Lift Oil, Rate Hike Bets  Insight with Haslinda Amin 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Trump's Hormuz Blockade Sends Oil Soaring; Samsung Explores US ADR Listing  The Pulse 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Trump Reinstates Iran Blockade, Plans Hormuz Ship Fee.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Trump Plans Hormuz Charge, Stocks Steady Before Warsh & CPI  The Opening Trade 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Tanziania's Richest Man Plans to Process and Refine Graphite.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Paramount-Warner Bros. Deal Challenged by California, States.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Oil Rises as Trump Resumes Hormuz Blockade  The Asia Trade 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Markets Brace for CPI, Warsh Hearing & Bank Earnings  Bloomberg Brief 07142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Lucid Shares Drop 57% After EV Maker Hires Restructuring Adviser.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Latest CPI Report Is a Huge Relief for Investors, Says Santos of JPM Asset Management.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/JPMorgan Sees Record Profit as Stock-Trading Climbs 86%.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Iran War US Reinstates Hormuz Blockade, Demands 20% Fee  Daybreak Europe 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/IBM Falls Most Since At Least 1968 on Sales Miss.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Hungary Approves Legislation to Remove President, Orban Allies.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Hormuz Tensions Rise After UAE Tankers Hit  Horizons Middle East & Africa 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Goldman Breaks Own Stock-Trading Revenue Record Again.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Conley Iran Conflict Risks Stretching US Defenses.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Chipotle’s Bold Bet on Mexico.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Chipotle CEO on Restaurant’s Expansion Into Mexico.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/China's Oil Imports Drop to Lowest in Nearly a Decade  The China Show  7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Book Sees Oil Risk If Iran Conflict Broadens.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7142026.md
+- 2026-07-14 | 01_Videos/Bloomberg Television/AI-Fueled Rally to Continue Into 2027, Analyst Luria Says.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Zelenskyy Removes Prime Minister as Ukraine's Allies Meet in Paris.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Wall Street Banks Set to Pull in Almost $39 Billion From Trading.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/US and Iran Trade Fresh Strikes.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/US & Iran Trade Fresh Strikes, SK Hynix Shares Fall Most on Record  The Opening Trade 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/UBS Analyst Says Big Bank Earnings Day Could Be a 'Little Bit of a Mess'.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Trust Breakdown Between Fed, Consumer Inflation Kroszner.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Trump Says US Would 'Keep the Strait' And Run It.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/The Grueling Economics of Tennis.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/SK Hynix Selloff Is Not a Huge Problem, Kunst Says.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/SK Hynix Jolts Stocks More Than Iran 3-Minutes MLIV.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Ships Transit the Strait of Hormuz in Secret as US-Iran Attacks Continue.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Sabato Democrats Still Have A Chance In Maine.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Rep. Cleaver Trump's Housing Snub Was 'Bad Advice'.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Oil Rises as US, Iran Dispute Whether Hormuz is Open; Big Week in Markets  Bloomberg Brief 071326.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Markets Weigh Fresh US Strikes on Iran  The Asia Trade 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Lindsey Graham Dies at 71;  US, Iran Trade Wave of Attacks  Bloomberg This Weekend July 12.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Korea Selloff Deepens as SK Hynix Plunges Most on Record  The Pulse 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Iran Drone Hits Kuwait Offshore Oil Rig  Horizons Middle East & Africa 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Investors Weigh War Risks as US and Iran Trade Fire  Insight with Haslinda Amin 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/How the Sudden Death of Sen. Graham Will Shift the GOP.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Heat Wave Deaths in England, Wales May Have Topped 2,700.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Fresh US-Iran Strikes Threaten Ceasefire; TMSC Sales Surge  Daybreak Europe 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Fmr. Secret Service Agent on Air Force One Security.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Delta Will Do Just Fine With High Fuel Prices, CEO Says.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Delta CEO Says Oil Prices Will Stay 'Sticky for Longer'.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Chip Selloff Rocks Tech Stocks  Open Interest 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/China Rejects South China Sea Ruling on 10th Anniversary  The China Show 7132026.md
+- 2026-07-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7132026.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Wall Street Banks Brace for Earnings Rush.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Volker Says NATO Sends Strong Message to Putin.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/The $360 Billion Market that Medicine Got Wrong for 20 Years.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Talks Falter as Hormuz Violence Grows.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Stanton Urges Hormuz Diplomacy.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Phoebe Gates' Retail App Draws Scrutiny Over Web Cookies.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Oil Supply Adapts to Hormuz Disruptions.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Navy Expands Autonomous Warfare Capabilities.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Iran Tensions Keep Gulf Flows at Risk.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/How One of the World’s Largest Publicly-Traded Hedge Funds Is Using AI.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/How Founder Control Is Reshaping Public Markets.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Graham's Death Reshapes Senate Politics.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Food Under Fire Highlights Shared Humanity.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Fed Task Forces Draw Capitol Hill Scrutiny.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump Threats to “Decimate” Iran, Trade Secret Lawsuit.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Sen. Lindsey Graham Dead, CENTCOM Launches Strikes on Iran.md
+- 2026-07-12 | 01_Videos/Bloomberg Television/AI May Not Solve Demographic Decline.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Youth Sports Cost Debate Rekindled After US Soccer Exit.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Williams Says Hormuz Is Focus of Iran Talks.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Why Fox is ‘the most Disciplined’ Media Entertainment Company in the Streaming Era.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Ukraine Seeks Faster Patriot Production.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Trump Vows to Decimate Iran If It Carries Out Assassination Plot  Bloomberg This Weekend July 11.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Tinnitus Takes Toll on Millions.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Pointed News Quiz  ITALY, REPTILES, BEAUTY.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Navy Pushes to Rebuild Industrial Base.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/McCaul Pushes Patriot Production in Ukraine.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Maine Democrats Face Tight Senate Deadline.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Lumen Completes Acquisition of Cloud Networking Firm Alkira.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Hormuz Remains Sticking Point in Talks.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Can the Tax System Keep Up with Trillionaires.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/BTW Interesting Headlines You May Have Missed.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Bloomberg Money 7102026.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/Apple OpenAI Rift Deepens Over AI Talent.md
+- 2026-07-11 | 01_Videos/Bloomberg Television/'Moana,' Rolling Stones, Retail Spending Look Ahead.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Zuckerberg Sets ‘Aggressive’ Price With Meta’s Pay-to-Use AI.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/We Are Building Too Many Data Centers in the US, Says MNTN CEO.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Wall Street Week  The World’s First Trillionaire, Governance Meets Growth, Menopause Market Boom.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/US Says Iran Technical Talks to Continue.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Trump Says Iran Ceasefire Is Over  Balance of Power 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Trump Says Ceasefire With Iran Is Over.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Trump Does Not Want All Out War in Iran, Cook Says.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/There are Two Types of Economies, AI and Everything Else, says Tchir.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/TCS CEO AI Could Reach 20% of Revenue, Reshape Jobs.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Strategist Democrats Can 'Start Fresh' In Maine.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Stocks Waver as SK Hynix Makes US Debut  Open Interest 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Starbucks Develops More AI Tools to Replace Software it Buys from Microsoft, IBM.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix’s US Trading Debut, EasyJet Gets £5.7 Billion Apollo Bid  The Opening Trade 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix's Blockbuster Debut; US Says Iran Talks Continue  Bloomberg Brief 07102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix to Make Nasdaq Debut; US Says Iran Talks to Continue  Daybreak Europe 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix Set to Make Record-Setting US Debut.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix Rises After Record US Offering  The Close 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix Rides AI Boom to Blockbuster US Listing  Insight with Haslinda Amin 07102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix Raises $26.5B in Top Foreign Debut in US  The Asia Trade 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix Makes Biggest Foreign Debut in US.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix Climbs in US Debut, CEO Says Memory Crunch to Last Bloomberg Businessweek Daily 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Hynix ADRs Surge After Record $26.5 Billion US Offering.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/SK Chairman Chey Tae-won on SK Hynix Debut, AI Demand and US Plans.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Nasdaq President Sees SK Hynix Listing Growing Foreign IPO Pipeline.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/More Americans Are Getting Prenups, Even If They Aren't Rich.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/More Americans Are Getting Prenups, Even If They Aren't Rich (ZojuzH3eiPw).md
+- 2026-07-10 | 01_Videos/Bloomberg Television/MiniMax Joins China AI Fundraising Rush  The China Show 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Meta Shares Gain Most Since April 2025  Closing Bell.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Korea's SK Hynix to Make US Debut; Japan Urges Pensions to Invest More at Home  The Pulse 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Japan Long Bonds Rally 3-Minutes MLIV.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Japan Calls on Pensions to Increase Domestic Investments.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Investors Face Rotation Dilemma Markets Snapshot.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Housing Bill Set to Become Law Without Trump Signature  Balance of Power 07102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Households All-In On Equities Cameron Dawson.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Hormuz Traffic Nears Standstill as Iran Truce Wavers  Horizons Middle East & Africa 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Hormuz Shipping Grinds to Near Halt After US, Iran Strikes.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Exclusive Zuckerberg on Meta's AI Push.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Delta Reaffirms Profit Guidance as Premium Demand Rises.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Can US Housing Relief Bill Survive Trump’s Power Play.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Can Dogs Save Hong Kong's Dining Scene.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 7102026.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Apple Sues OpenAI for Trade Secret Theft.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/Andy Burnham Is the UK PM in Waiting, Says Opinion's Price.md
+- 2026-07-10 | 01_Videos/Bloomberg Television/30-Year Real Yield Near Financial Crisis Level.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Zhipu Surges After $4B Share Sale The China Show 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Wayfair's Big Bet on Bricks and Mortar.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/US, Iran Trade Strikes; SK Hynix US Offering Sees Strong Investor Demand  Bloomberg Brief 0792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/US, Iran Trade Airstrikes  Balance of Power 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/US Strikes Iran for Second Straight Day.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/US Strikes Iran A Second Day; AI Rotation Trade on Watch  The Asia Trade 782026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/US & Iran Trade Attacks for 2nd Day, SK Hynix ADRs Oversubscribed  The Opening Trade 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Turkey Could get F-35 Jets Despite Israel Opposition  Horizons Middle East & Africa 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Stocks Lose Momentum as US–Iran Escalation Pushes Oil Higher  Insight with Haslinda Amin 07092026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Stocks Get Boost From Chipmakers  The Close 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Real Yield 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Jersey City Shadowed by 15% Tax Hike as Boomtown Faces Reckoning.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Iran, US Trade Attacks For Second Day, SK Hynix To Set US Listing Price  The Pulse 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Iran War US Strikes Iran for Second Day  Daybreak Europe 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/How Wayfair Has Built AI Into Its Future.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Fate of Iran Ceasefire Uncertain After Escalation  Balance of Power 07092026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Chipmakers Boost Stocks, Meta Explores Cloud Business  Bloomberg Businessweek Daily 792026.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Chipmakers Boost Stocks as Oil Declines  Closing Bell.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/China's Tech Stack Outshines its Economy 3-Minutes MLIV.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Chief Future Officer Kate Gulliver, Wayfair.md
+- 2026-07-09 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 792026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Yardeni Says Inflation, Fed Back in Play on Iran Crisis.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/What's Next After Trump Says Iran Ceasefire 'Over'.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/US Strikes Iran, Blocks Oil Sales  The Asia Trade 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/US Strikes Iran & Blocks Oil Sales  Daybreak Europe 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump to Meet NATO Leaders Following US Strikes on Iran.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Threatens More Iran Strikes  Open Interest 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Says US-Iran Ceasefire Is ‘Over’ After Strikes  The Pulse 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Says US Ceasefire With Iran Is 'Over' (Q&A with NATO's Mark Rutte in Ankara).md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Says Ceasefire Over Following Attacks on Iran.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Returns on Old AF1 Instead of Qatari Jet  Balance of Power 07082026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Meets With Syrian President at NATO Summit (full remarks).md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Floats Iran Strike, Blockade  Balance of Power 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump Calls Iran War a Success, Not Sure He Wants to Make a Deal.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Trump & Iran Back in Focus, Korean Stocks Tumble  The Opening Trade 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Stocks Drop, Oil Jumps After Trump Says Ceasefire with Iran Is Over  Bloomberg Brief 07082026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Oil Prices Jump After US Strikes Iran  The China Show  782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Oil Jumps to Two Week High on US-Iran Jitters  Closing Bell.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Oil Climbs as Trump Threatens Iran Strikes, Blockade  Bloomberg Businessweek Daily 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Nasdaq 100 Fluctuates Amid Geopolitical Tensions  The Close 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Minutes From Warsh's First Meeting Show Divided Fed.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Iranian Military Launches Drone Attack on Bahrain  Horizons Middle East & Africa 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Iran Escalation Jolts Oil as Strait of Hormuz Risks Return  Insight 07082026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Graham Platner Still Has Some Leverage Over Democrats, Strategist Says.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Financials Have Been 'Less Loved,' Hermann Says.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Estonia Willing to Contribute to Free Passage in Hormuz, PM Says.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Bonds Show Vulnerability to Iran Setback 3-Minutes MLIV.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Bloomberg Deals 782026.md
+- 2026-07-08 | 01_Videos/Bloomberg Television/Bain Capital's Pagliuca on AI, Quantum Computing, Sports Valuations.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Will Democrat Graham Platner Withdraw From Maine Senate Race.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Why Samsung’s Record Profit Failed to Impress Investors.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Why Is Michael Saylor Dumping $216 Million in Bitcoin.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Volatility in Chip Sector Continues  Closing Bell.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/US Stocks Fall as Samsung Results Fail to Impress  Bloomberg Brief 7072026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Trump's Been Successful in Talking Down The 'Oil Markets' Says Kloza.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Trump Signals Shift in Ties With Turkey at NATO Summit.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Trump Says US May Sell Turkey F-35s, Pushes to Lift Sanctions.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Trump Arrives in Turkey With Iran War at Top of Agenda.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/TeraWulf CEO Excited About Anthropic Data Center Agreement.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/SpaceX Joins NASDAQ 100, Chip Stocks Slide  Bloomberg Businessweek Daily 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Slok Says Profit Margins Outside Mag 7 Need to Rise.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Samsung's Record Profit Fails to Impress  The Asia Trade 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Samsung Soars as Chip Stocks Slide  Open Interest 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Samsung Slumps After Earnings; Tanker Hit in Hormuz Before NATO Summit  Daybreak Europe 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Samsung Results Spur Stock Rotation to Less-Loved Sectors  Insight with Haslinda Amin 07072026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Samsung Earnings Send Chip Stocks Tumbling as Kospi Triggers Circuit Breaker  The Pulse 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Russia Strike Exposes Ukraine Air Defense Gap as NATO Summit Begins.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Qatari LNG Tanker Reportedly Struck in Hormuz  Horizons Middle East & Africa 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Professional Soccer in the US Has Been Waiting for This Moment Says Shawn Quill.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/PBOC Unveils New Measures to Cement HK's Yuan Hub Status  The China Show  762026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Panetta Says NATO Must Arm Ukraine To Pressure Putin.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Oil Climbs as Fresh Tanker Strike Highlights Risks Around Hormuz.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/NATO Tries to Keep Trump Onside  Balance of Power 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/NATO Summit 2026 What Is on the Agenda.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/NATO Nations Can't Spend More on Defense, Lieber Says.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/NATO Agrees to $50 Billion in Defense Deals to Placate Trump.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Le Pen Judgement Day, Samsung Drops after Profit Beat  The Opening Trade 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Iran To Take 'Decisive Actions' to Protect Interests  Balance of Power 07072026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/How Phone Culture Is Reshaping Chinese Society.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Finland's Stubb Says Ukraine Needs More Patriot Missiles.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Evercore's Emanuel Doesn't See Fed Moving This Year.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Elon Musk's SpaceX to Join the Nasdaq 100 Index.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Chip Stocks Tumble on AI Anxiety  The Close 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/China Touts Yuan as US Ups Strong Dollar 3-Minutes MLIV.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Can Australia Become Asia-Pacific's AI Hub.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Bloomberg Crypto 772026.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Anthropic Says Claude Can Mimic How The Human Brain Processes Information.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Andrew Cuomo Discusses OKX, Clarity Act, 247 Trading.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/Amazon Seeks to Raise at Least $25 Billion to Fund AI Spending.md
+- 2026-07-07 | 01_Videos/Bloomberg Television/AI Anxiety, AI Cash Are Powering This Election Cycle.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Uproar as FIFA Allows Balogun to Play After Trump Call.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Trump Weighs in on Red Card for US Soccer Star and More.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Trump Says He Asked FIFA To Review Red Card Given to Balogun.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Trump Puts Himself Centerstage; Fewer Ships Passing Hormuz  Bloomberg This Weekend July 5.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Trump Headed to NATO Summit  Balance of Power 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Tech Leads Stock Futures Higher; Trump Heads to NATO Summit  Bloomberg Brief 07062026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Stocks Push Higher Led by Chipmakers  Closing Bell.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/South Korea's SK Hynix, Samsung to Put AI Trade to the Test  The Pulse 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/SK Hynix Set to List in US Friday, Broadcom's Apple Chip Deal  What's Moving Markets.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/SK Hynix Readies for Blockbuster US Listing  The Asia Trade 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/SK Hynix Moves to Capitalize on Memory Chip Demand  Bloomberg Businessweek Daily 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/SK Hynix Awaits US Debut, Trump Set to Travel to NATO Meeting  The Opening Trade 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Screwworm's Return to the US Sets up Yearslong Fight.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Saudis Slash Main Oil Price to Rare Discount.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Samsung Earnings Pivotal for Korea Bulls 3-Minutes MLIV.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Russian Strike on Kyiv Kills 11 Ahead of NATO Summit.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/President Trump Prepares for NATO Summit  Daybreak Europe 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Oil Glut Fears Rise as Supply Recovery Outpaces Demand  Insight with Haslinda Amin 07062026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Oil Fluctuates Despite Steady Hormuz Flows  Horizons Middle East & Africa 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Mike Wilson Sees Semiconductor Stocks Correcting.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Microsoft’s Xbox to Cut 3,200 Jobs, Divest Studios in Overhaul.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Microsoft’s Xbox to Cut 3,200 Jobs as Part of Massive Reorganization.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Jobs Report Won't Sway Fed That Much, Berro Says.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Iran Will Stay in Control of Hormuz, Treyz Says.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Iran Gives China Concessions for Hormuz Transits  The China Show  762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/HSBC's Kettner Says `Melt-Up' Set to Boost Hyperscalers.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/House Dems Investigate Trump's Running of Freedom 250  Balance of Power 07062026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/ETF IQ 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Chip Stocks Rally in AI Trade Revival After Plunge.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Chip Stocks Rally in AI Trade Revival  The Close 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/AI Trade Faces Big Test as Trump Rings Opening Bell  Open Interest 762026.md
+- 2026-07-06 | 01_Videos/Bloomberg Television/$2 Trillion Race to Control Future Battlefields.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/World Cup Attendance Sets Record.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Socialist Gains Test Democratic Party Unity.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Semiconductor Stocks Slide Amid AI Spending Concerns.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Robinhood CEO on AI, Expansion & Trump Accounts.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Pointed News Quiz  Food & Beverage, Disclosures, Movies.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Parents Weigh New Trump Accounts for Newborns.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/OpenAI Proposes Giving the US Government a 5% Stake, FT Says.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Krugman Calls Labor Market Soft, Disturbed by Warsh's View.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Iran’s Floating Oil Hoard Swells.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Iran War Looms Over NATO Summit.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Hamburger Costs Rise 14% From Last July 4 Says Wells Fargo.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Fourth of July Cookout Costs Rise 4% Says Stew Leonard's CEO.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Ebola Crisis Exposes Congo's Fragile Health System.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Court Term Reflects Reagan, Not Trump, Priorities.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/By The Way Interesting Headlines You May Have Missed July 4th Week.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Upcoming NATO Summit, Chip Stocks Look to Rise Back, SCOTUS Reflect Reagan.md
+- 2026-07-05 | 01_Videos/Bloomberg Television/America250 Looks Beyond July 4 Celebrations.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Wirecutter Taste Tested 31 Hot Dogs. Sabrett Won.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/USS Intrepid's History Spans War, Space and 911.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/US Flyover Showcases Next-Generation Airpower.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Polls Say American Pride Depends on How You Ask.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/NY Harbor Celebration Echoes Revolutionary Past.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Moore American Dream Still Worth Fighting For.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Miss Americana and the Football Prince.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Ken Burns America's Origin Story Matters in Divided Times.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Jim Beam Maintains 230 Years of Tradition and Evolution.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Ebola Vaccine Trials Could Start This Year.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/David Rubenstein's Belief in 'Patriotic Philanthropy'.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/David Rubenstein Talks Legacy with Thomas Jefferson.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Coney Island Boardwalk Set for $1 Billion Upgrade.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Celebrating '250' from the USS Intrepid.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/Bloomberg This Weekend Celebrates America 250.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/America250 Live from the Intrepid in New York  Bloomberg This Weekend July 4.md
+- 2026-07-04 | 01_Videos/Bloomberg Television/AI Teddy Roosevelt Greets Library Visitors.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Trump Doubles Down on Fed Changes, Burnham Risks Starmer Mistakes  The Opening Trade 722026.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Trump Allies Push to Reshape Fed  The Pulse 732026.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Traders Weigh Second Half Outlook Markets Snapshot.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/The Visa Crisis That’s Changing America’s Tech Sector.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/The Cult of the C-Suite Is Officially Over.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Saudi Oil Flows hit 90% Pre-War Rate  Horizons Middle East & Africa 732026.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Oil Falls Amid Expectations of Oversupply  Horizons Middle East & Africa 722026.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/It's All Going Beautifully for Warsh 3-Minutes MLIV.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Iran War European Nations See Inevitable Hormuz Fees  Daybreak Europe 732026.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/India's Modi, Japan's Takaichi Agree to Deepen Economic Ties.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Choppy AI Trade, Fed Outlook Drive Asia Markets  Insight with Haslinda Amin 07032026.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/Bracing for Yen Swings; US Jobs Ease Fed-Hike Concerns  The Asia Trade 732026.md
+- 2026-07-03 | 01_Videos/Bloomberg Television/AI Boom Cements HK's Role as Gateway to China  The China Show  732026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/World Cup Muni Spending An Accelerator Kleinman.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/US Jobs Data Comes in Under Forecast  Bloomberg Businessweek Daily 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/US Hiring Slows Sharply  Balance of Power 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Treasuries Gain on Fed Rate-Hike Bets  The Close 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/This NFP Print Will Decide the July Fed 3-Minutes MLIV.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Tech Stocks Fall Ahead of US Payrolls; Apple, OpenAI Bid with Government  Bloomberg Brief 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Tech Selloff Extends, Apple Seeks Chinese Chips  The Asia Trade 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Tech Giants Lift China Stocks as Rest of Asia Slumps  The China Show  722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Takaichi and Modi Deepen Strategic Ties.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Stocks Give up Jobs Report Gains  Closing Bell.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Real Yield 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Open Interest 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Open AI Proposes Handing Trump Admin 5% Stake  Balance of Power 07022026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Meta Plans a Cloud Business, US Jobs Day  The Opening Trade 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Meta Fuels AI Capacity Glut Fears, Chip Stocks Slump  The Pulse 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Krugman Says Jobs Market Soft, Disturbed by Warsh's View.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/KKR-Backed Musinsa Eyes 'Fast Growth' in China.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Jobs Report Great for Warsh and Bonds, BlackRock's Rosenberg Says.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Hassett Says Jobs Data Strong, Criticizes Fed's Powell.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/BlackRock’s Rick Rieder on Jobs Report, Fed Rate Cuts, Yields.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/Apple Seeks Chinese-Made Chips, Tech Selloff Extends Into Asia  Daybreak Europe 722026.md
+- 2026-07-02 | 01_Videos/Bloomberg Television/AI Pullback Hits Asian Chip Stocks on Overcapacity Concerns  Insight with Haslinda Amin 07022026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Xi Positions China’s Ruling Party as Global Force for Progress  The China Show 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/What’s Behindthe US Dollar’s 'Explosive' Rally.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/What’s at Stake in USMCA Negotiations.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Warsh Signals Optimism on US Growth Potential Bloomberg Businessweek Daily 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Warsh Signals Inflation Progress  Open Interest 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/US Says Witkoff, Kushner Had Positive Iran Deal Talks.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/US Dollar Climbs Ahead of Warsh; Anthropic Restrictions Lifted  Bloomberg Brief 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Trump Reports at Least $1.4B in 2025 Crypto Earnings  Balance of Power 07012026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Traders on Lookout for Next Yen 'Red Line'  The Asia Trade 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Temperatures to Top 100F Across Most of East Coast Putting Power Grid to the Test.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Nissan CEO on Autonomous Driving, Making Cars in US.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Nike, Adidas Compete for World Cup Dominance.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Nike Succession in Focus With New CFO Ready To Take Helm.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Meta Platforms Getting Into Cloud Infrastructure Business  Closing Bell.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Kevin Warsh to Speak at Sintra, Trump's $1.4B in Crypto Earnings  The Opening Trade 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Kevin Warsh to Speak at Sintra, ECB Warns Inflation Shock Not Over  Daybreak Europe 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Kevin Warsh to Make Global Debut, US Lifts Anthropic Restrictions  The Pulse 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Iran Wraps Up Doha Meetings  Balance of Power 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Goldman Sees Hyperscaler Spending as Continued Boost for Europe Stocks.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Goldman Sachs Says Capital Spending Is Powering the Bull Market.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Gold Falls for the Third Session, Oil Edges Higher  Horizons Middle East & Africa 7012026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Fed Chairman Warsh Says Inflation Risks Have Come Down, Vows to Remain Independent.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Dan Ives on the Tech Rally, Growth of AI, Data Centers.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Bullish July Is Just a Matter of Timing 3-Minutes MLIV.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Bloomberg Deals 712026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Assessing Nike vs. Adidas as World Cup Heats Up.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/Anthropic Says US Lifted Restrictions on Fable 5.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/AI Rally Under Pressure as Asia Stocks Reverse Early Gains  Insight with Haslinda Amin 07012026.md
+- 2026-07-01 | 01_Videos/Bloomberg Television/AI Debt Binge Fueling Private Bond Market  The Close 712026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/“Soft Power Suicide” Samantha Power On One Year Without USAID.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Yen Under Pressure 3-Minutes MLIV.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Yen at Lowest Since 1986 Can Japan Afford to Wait  Insight with Haslinda Amin 06302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Yao Ming on NBA Legacy, Steph Curry, Global Expansion.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Witkoff, Kushner to Hold Indirect Talks With Iran.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Warsh Will Get More Leeway From Trump When It Comes to Rates, Rubenstein Says.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/US Tech Rebounds, Traders On Yen Intervention Watch   The Asia Trade 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/US Stocks Head for Best Quarter in Six Years  The Pulse 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Unremarkable Economy, Remarkable Rally Skelly.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Trump & Vance Release Financial Disclosure Reports  Balance of Power 06302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Tennis Pro Caroline Wozniacki on Wimbledon.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Supreme Court Voids Political-Party Spending Caps.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Supreme Court Strikes Down Trump’s Birthright Citizenship Curbs.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Stocks Set for Best Quarter Since Pandemic; SCOTUS Expands Trump's Power  Bloomberg Brief 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Stocks See Best Quarter Since 2020 As Chips Soar  Bloomberg Businessweek Daily 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/South Africa's Police on High Alert for Anti-Migrant Protests.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Sony Pictures’ Tom Rothman Summer Box Office Is Roaring.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Slaughter Calls Supreme Court Presidential Power Ruling 'Disturbing'.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Saylor's Strategy May Sell Up to $1.25 Billion of Bitcoin.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/S&P 500 Climbs at End of Best Quarter Since 2020  Closing Bell.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Rubenstein Doesn't See the AI Stock Bubble Bursting.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Rising Inflation Is Squeezing the South.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Oil Supply Won't Come Back as Quickly as Expected, Babin Says.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Oil Falls as Traders Weigh Middle East Return, Supply Glut Risks.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Nike Earnings Surpass Expectations as Q2 Comes to a Close  The Close 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/John Bolton Pleads Guilty to Mishandling Classified Material.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Iran Says it Will Control Hormuz & Has No Plans to Meet US in Qatar  Daybreak Europe 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Iran Ratchets Up Talk of Controlling Hormuz; Stocks Rally  Horizons Middle East & Africa 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Iran Ratchets Up Talk of Controlling Hormuz Before New Talks  The Opening Trade 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/High Court Backs Birthright Citizenship  Balance of Power 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Gen-Z Traders Go for Broke In American Dream Pursuit.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Education 'Getting Act Together' on Personal Finance Cohen.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Dan Ives Expects Mag 7 to ‘Significantly’ Outperform in Second Half.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Cook Stays At Fed But Trump Wins Power Over Other Agencies.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Cook Iran Talks May Go in Circles.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Chips Lead a Stock Rally  Open Interest 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/China’s Factory Activity Returns to Growth  The China Show 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Breaking Down Nike's Better-Than-Expected Results.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6302026.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Bitcoin ETFs on Track for Worst Month of Withdrawls.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Baidu’s CFO on the Company’s Approach to Recruiting Young Talent.md
+- 2026-06-30 | 01_Videos/Bloomberg Television/Australians' Trust in US Hits Record Low.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/World Cup to Drive Billions in Betting Volume.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/World Cup Frenzy, SpaceX Race In ETFs, Tracking Founder-Led Companies  ETF IQ 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/US, Iran To Halt Attacks; Korea Looks to Cement AI Lead  The Asia Trade 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/US, Iran Halt Attacks After Flare Up; Oil Pares Gains  Horizons Middle East & Africa 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/US, Iran Agree to Halt Attacks Ahead of Talks.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/US & Iran Halt Attacks, Samsung, SK Prep Record Spending  The Opening Trade 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Trump Calls Bipartisan Housing Bill 'A Big Yawn'  Balance of Power 06292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/The Fed Will Stay Patient, Says Michael Darda.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Tech Stocks Rebound; US, Iran Halt Attacks; South Korea's Big AI Push  Bloomberg Brief 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Supreme Court Says Mail Ballots Can Arrive After Election Day.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Supreme Court Says Fed's Cook Can Stay in Role For Now  Bloomberg Businessweek Daily 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Supreme Court Re-Shapes Power of Presidency  The Close 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Supreme Court Expands Trump's Power to Fire Top Officials.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/South Korea Doubles Down on AI, Chips With Mega Investment  Insight with Haslinda Amin 06292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/South Korea Confirms Over $1 Trillion in AI Spending  Daybreak Europe 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/South Korea Bets $880B on AI Chips & Data Centers  The Pulse 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Sintra Has Catalyst Potential This Week 3-Minutes MLIV.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Pimco Sees Fed on Hold for Rest of Year.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Money Roundtable Hidden Inflation, Fixing Social Security, Apple Raises Prices.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Hormuz Transit, Trump vs. GOP, Market Volatility & Ukraine Strikes  Bloomberg This Weekend June 28.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Hormuz Traffic Declines as Ship Attacks Spark New Concerns.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Cook Stays, Trump Gains Power  Balance of Power 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Comcast’s Big NBCUniversal Shakeup  Open Interest 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Comcast to Spinoff NBCUniversal & Sky  Closing Bell.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/China Blacklists More Japan Entities Amid Feud  The China Show 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6292026.md
+- 2026-06-29 | 01_Videos/Bloomberg Television/Abby Joseph Cohen Remembers Her Interactions With Alan Greenspan.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/World Cup Fever Energizes Boston Ahead of Knockout Stage.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Why the US Needs its Neighbors for Energy.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Trump Shifts Messaging from Iran to Economy.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/The Uphill Battle Facing Revitalizing Dulles Airport.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Supreme Court Faces High-Stakes Week.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Strategist Sees WTI Falling to $40 a Barrel.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Panama Canal Sees Revenue Boost Amid Iran Conflict.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/NY Democratic Nominee Cait Conley Voters Reject Dysfunction.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/High Schools Emphasizing Personal Finance Education.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Fmr. Deputy National Security Advisor Warns Trump Rhetoric Risks Iran Talks.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Can USMCA Survive Trump’s Second Term.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/By The Way Interesting Headlines You May Have Missed.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US, Iran Trade Fire, Looking Ahead at Midterm Elections, World Cup Takeover.md
+- 2026-06-28 | 01_Videos/Bloomberg Television/AI Market Volatility, Europe Heat Wave, Venezuela Quakes Damage  Bloomberg This Weekend June 27.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Why Krugman Thinks We Need Chinese Auto Tariffs.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Venezuela Struggles with Earthquake Rescue Efforts as Death Toll Nears 1,000.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/US Pet Market Set to Surpass $250 Billion.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Tech Slump Deepens.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Sen. Armstrong Permitting Is Key to Lower Energy Costs.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Schrödinger's Strait of Hormuz Open or Closed.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Pointed News Quiz  Reddit, Music, YA Novels.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/MSG Mystery Event, Ranch Dressing Love  BTW Headlines You Should See.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Ebola Outbreak Africa CDC Calls for More Funding.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Brutal Heat Wave Scorches Europe, Raising Climate Inflation Concerns.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  New Strikes on Iran, Devastation in Venezuela, AI Election Influence.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/America’s Farmers Need USMCA More Than Ever.md
+- 2026-06-27 | 01_Videos/Bloomberg Television/AI Deepfake Political Ads Raise Concerns Ahead of Midterms.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/XXXXX  Closing Bell.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Will Gamers Ignore GTA VI’s Hefty $80 Price Tag.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Wall Street Week  USMCA Can North America’s Trade Deal Survive.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/VW Eyes as Many as 100,000 Job Cuts.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/US Conducts Strikes Against Iran in Response to Thursday Attacks  Balance of Power Late Edition.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Trump Says Iran Violated Ceasefire  Balance of Power 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Tech Volatility Spills Into Asia  The Asia Trade 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Tech Stocks Selloff After Apple Price Hikes, OpenAI IPO Report  Daybreak Europe 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Stocks Slide As Tech Jitters Return  Open Interest 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Social Security & The Marginal Tax, Alan Greenspan's Legacy  Bloomberg Money 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Ship Struck in Hormuz, Apple's Price Hikes Hit iPads & Macs  The Opening Trade 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Ship Attack Clouds Hormuz Outlook; Tech Stocks Selloff  Horizons Middle East & Africa 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/S&P 500 Halts Four-Day Drop To End Jittery Week  The Close 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Korean Stocks Plunge 9% on Chip Selloff.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/It's All About Intense Rotational Plays Now 3-Minutes MLIV.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Global Stocks Fall as Tech Volatility Weighs  Bloomberg Brief 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Ebola Outbreak Puts Spotlight on Trump's America First Health Strategy  Bloomberg Next Africa.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/DiNapoli Wins First Primary Challenge Since 2007.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Caroline Wozniacki on revenue sharing for tennis players.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Bloomberg Businessweek Daily Live From Uncharted Summit  Bloomberg Businessweek Daily 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/BlackBerry CEO Giamatteo Sees QNX Powering Growth.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Asian Stocks Slump to a Two-Week Low on Tech Rout  The China Show 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Apple's Price Hikes Shake Tech Sentiment  Insight with Haslinda Amin 06262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/Apple Price Hikes Rattle Tech, Europe's Record Heat Wave  The Pulse 6262026.md
+- 2026-06-26 | 01_Videos/Bloomberg Television/A Chip Wreck in Markets Markets Snapshot.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/What to Know About the Screwworm Threat to US Livestock.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/US Inflation Climbs as Consumers Spent More in May.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Stocks Rally as Micron Lifts AI Optimism Ahead of PCE  Bloomberg Brief 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Stocks Get a Boost From Micron's Outlook; Oil Slumps  Horizons Middle East & Africa 06252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Qualcomm Says Data Center Chips to Produce ‘Billions’ in ’27.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/PBOC Looks to Next Stage of Policy Shift  The China Show 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Surges on AI Boom as Brent Oil Erases Iran War Gains  The Pulse 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Soars After AI-Fueled Forecast Shatters Estimates  The Opening Trade 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Revives AI Trade; SK Hynix Seeks US Listing  The Asia Trade 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Revives AI Bets as Oil Slumps  Insight with Haslinda Amin 06252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Earnings Spark Global Tech Rebound  Daybreak Europe 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Micron Earnings Inflate the AI Bubble 3-Minutes MLIV.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Kerry Says Iran War 'Never Should Have Happened'.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/IBM Unveils New Sub-1 NM Chip, the size of a fingernail.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Gold Steadies Near $4,000 as Traders Weigh Interest-Rate Outlook.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Ford CEO Says Human Workers Are Making a Difference.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Fans Sit at Center of World Cup  Sports City.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Canadian Defence Minister on Indo-Pacific Strategy.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Brent Oil Erases Wartime Gains as Hormuz Reopening Boosts Supply.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6252026.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Apple Raises Prices on Some Products by $500 (Correct).md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Apple Raises Prices on Macs, iPads, Home Devices.md
+- 2026-06-25 | 01_Videos/Bloomberg Television/Apple Prices Climb and the AI Trade Roars Back  Open Interest 6252026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Zero Fed Rate Hikes Baked Into S&P Forecast, Says Wells Fargo's Cronk.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/World Cup Mints Big Prediction Winners and Million-Dollar Losers.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/What to Watch for in Micron Earnings.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Volatility Is Now a Feature, Not a Bug 3-Minutes MLIV.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/US Chip Stocks Plunge as AI Selloff Ripples Across From Asia.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Trump Scraps Housing Bill Signing  Balance of Power 6242024.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Trump Cancels Event to Sign Housing Bill.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Traders Deal With 'Chip-Wreck' on AI Fears  The Asia Trade 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stocks Rise Ahead of Micron Earnings; US, Iran Offer Conflicting Claims  Bloomberg Brief 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stocks Churn Before Micron’s Earnings as Oil Sinks  The Close 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stock Rout Pauses, Europe Heat Wave Intensifies  The Pulse 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Stock Rebound Falters; Trump Defends Unfreezing Iran Funds  Horizons Middle East & Africa 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/SpaceX Sells $25 Billion of Bonds, Cuts Interest Costs.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/SK Hynix Seeks $29B With US Listing to Fund AI Boom.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Rutte Says Trump Is Getting NATO Into 'Better Shape'.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Oil Falls As More Ships Pass Through Hormuz  Bloomberg Businessweek Daily 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/NATO Secretary General Mark Rutte on Oval Office Meeting  Balance of Power 06242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron's Growth Rate Is Remarkable, Munster Says.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Sales Forecast Shatters Estimates on AI Demand.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings to Test Tech Sector After Global Selloff  Daybreak Europe 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings to Be ‘Gut Check Moment’ for Markets, Dan Ives Says.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings Take on New Gravity With Market on Edge Over AI.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Micron Earnings Report Exceeds Expectations  Closing Bell.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Markets Weigh Next Phase of AI Trade  Open Interest 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Is the AI Bubble Bursting Not Yet, Says Dan Farley.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Heat Wave Hits Europe, Causing Disruption.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Goldman Sachs Cuts Fourth-Quarter Crude Forecast to $80.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/FedEx Keeps Finding Ways to Unlock Value, McNally Says.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/European Stocks Steady Ahead of Micron Earnings   The Opening Trade 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/ESPN's Linda Cohn Reflects her Legendary SportsCenter Run.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Chinese Premier Says Tech Industry Not a Global Threat  The China Show 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/China’s ‘Opportunity 2.0’ Pitch Meets Weak Demand Reality  Insight with Haslinda Amin 06242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Bloomberg Deals 6242026.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Bessent Says US Offering Iran Carrots, There Are Sticks.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/Andrew Cuomo to Lead Crypto Venture With New York Stock Exchange Owner.md
+- 2026-06-24 | 01_Videos/Bloomberg Television/'New Yorkers Are Hungry for a New Kind of Politics,' Says NYC Mayor Mamdani.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Trump Is Giving Away Too Much to Iran With MOU, Hochstein Says.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/The Price of Everything is Skyrocketing — Including Ice Cream.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/The Dips Are Not Getting Bought Today 3-Minutes MLIV.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Terrell Owens, Syntilay Launch Pickleball Recovery Shoe.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Tumble Overshadows Markets' Iran Hopes  The Asia Trade 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Stock Selloff Spreads to Europe  The Opening Trade 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Selloff Hits Markets  Open Interest 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Tech Selloff Hits Asia as Korea Stocks Slide  Insight with Haslinda Amin 06232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Strive Is Buying Bitcoin Hand-Over-Fist, CEO Says.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Stocks Hit by Global Tech Selloff  Bloomberg Brief 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/SpaceX Rout Continues as Tech Selloff Hits Stocks  The Pulse 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/SpaceX Loses $600 Billion in Value Over Three Days.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/SpaceX Leads Global Tech Stocks Selloff  Daybreak Europe 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Oil Starts Flowing Through Strait of Hormuz Again.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Julian Emanuel Remains Bullish as Tech Selloff Deepens.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Iran War Update Vance Warns Israel Against Attacking Trump’s Iran Deal (Remarks).md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Iran Oil Waiver; SpaceX Falls for Third Day  Horizons Middle East & Africa 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/If Iran Doesn't Behave, I Will Do What I Need To Do Says Trump (Q&A).md
+- 2026-06-23 | 01_Videos/Bloomberg Television/How Eli Lilly Became a $1 Trillion Company.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Former Fed Chairman Alan Greenspan Dies at 100.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Deadly H5 Bird Flu Spreads Worldwide With Australia Outbreak.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Danon Touts 'Strong Alliance' Between US, Israel.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Assessing Digital Credit Market, Cuomo's Next Act Crypto  Bloomberg Crypto 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Asia Stocks Fall From Record as Tech Rally Cools  The China Show 6232026.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/Andy Burnham Needs Bold Ideas Says Ex-BOE Governor King.md
+- 2026-06-23 | 01_Videos/Bloomberg Television/A Decade After Brexit, Britain Can’t Keep A Prime Minister.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Vance Heads to Switzerland for US-Iran Talks, Hormuz Closes  Bloomberg This Weekend June 21, 2026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/US-Iran Talks Progress, Europe Shifts Strategy  Insight with Haslinda Amin 06222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/US Had 'Very Good Day' Speaking With Iran, Vance Says.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/US and Iran Make Progress in Talks; Oil Slumps  Horizons Middle East & Africa 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/UK's Starmer Could Set Out Resignation Timetable Imminently.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/UK Prime Minister Keir Starmer Quits  The Pulse 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/UK Prime Minister Keir Starmer Expected to Set Resignation Timetable  Daybreak Europe 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/The Economy Does Not Depend on Fed Policy, Roubini Says.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Starmer Resigns as UK Prime Minister.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Starmer Quits, Sets Out Plan for New UK PM by September.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Starmer on Brink With Resignation Seen Imminent  The Opening Trade 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/SpaceX’s Big AI Bond Bet  Open Interest 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/SpaceX Kicks Off Debut High-Grade Bond Sale.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Sen. McCormick on Iran War, Fed, Alan Greenspan.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Pound Weakens Amid Starmer Resignation; Iran Cites Peace Talk Progress  Bloomberg Brief 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Oil In Focus As US-Iran Peace Talks Show Signs of Progress  The Asia Trade 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/How Will Wall Street Remember Alan Greenspan.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Greenspan Got Many Calls Right, Kroszner Says.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Chinese Stocks in Hong Kong Near Bear Market  The China Show 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Bonds Under Pressure Despite Oil Relief 3-Minutes MLIV.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6222026.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/Bloomberg News Now UK PM Starmer Is Stepping Down.md
+- 2026-06-22 | 01_Videos/Bloomberg Television/AbbVie to Buy Apogee Therapeutics for $10.9 Billion.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/UK to Ban Social Media for Under-16s Starting Next Year.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Senator Warnock Calls Republican Party a Cult.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Oil Stockpiles Near Danger Zone.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/New York Primary Election Approaches.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Iran Avoids Shared US Photo at Summit.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Former US Defense Secretary Esper Hezbollah is 'Spoiler' for US-Iran Deal.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/FDA to Review Easing Restrictions on Peptides.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Fatherhood Books Are Failing to Reflect Modern Dads.md
+- 2026-06-21 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US-Iran Talks To Get Underway, Trump Threatens Tolls, Happy Father’s Day.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Why Guinness Is Growing While Beer Sales Fall.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/US-Iran Delegations Expected in Switzerland.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Trump Seeks Iran Offramp.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/The Reindustrialize Summit 'Build, Baby, Build'.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/SpaceX IPO Sparks Anticipation for OpenAI and Anthropic.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Rep. Warnock Wall Street vs Main Street.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Pointed News Quiz  Bonds, Streaming, Yogurt.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Netanyahu Faces MOU Blow.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/MOU Gives US and Iran Breathing Room.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Local Election Victory Sparks Leadership Challenge in UK.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Lawrence, Kansas Embraces Algerian World Cup Team.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Iran Sanctions Losing Efficacy.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/History Repeating Itself in America.md
+- 2026-06-20 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US, Iran Reps to Switzerland, Team USA to the Knockout Round.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Warns Israel Against Attacking its 'Only Powerful Ally'  Balance of Power 06182026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Swiss Trip for Iran Talks.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Iran Talks, Andy Burnham's Victory  The Opening Trade 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Vance Delays Deal Signing Trip; US Ends Hormuz Blockade  Horizons Middle East & Africa 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/US-Iran MOU Soothes Market Stress Markets Snapshot.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/US Tells ASML It’s Concerned China May Have Top Chip Tool.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/The China Show 619202US Concerned with ASML Over China Chip Tool  The China Show 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/It's a Regime-Shift for US Real Yields 3-Minutes MLIV.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/India Not Out of the Woods, Reforms Key BofA.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Burnham's By-Election Win Paves Way to Oust Starmer.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Asian Stocks Hit Record, Oil Heads for Weekly Loss  The Asia Trade 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Andy Burnham Wins Election In Threat to UK Prime Minister Keir Starmer  Daybreak Europe 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/Andy Burnham Win Puts UK PM Under Pressure & US-Iran Talks Called Off  The Pulse 6192026.md
+- 2026-06-19 | 01_Videos/Bloomberg Television/60-Day Clock Starts on Iran-US Talks  Insight with Haslinda Amin 06192026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Warsh Rocks Bond Market in Debut, Sparks Surge in Hike Bets.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Warsh Is a Hawk in Dove's Clothing, Yardeni Says.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Sign Interim Deal  - What Happens Next in Hormuz.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Interim Deal Takes Effect  The Pulse 06182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Deal Takes Effect; Futures Rally, Oil Slides  Horizons Middle East & Africa 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US-Iran Deal Takes Effect  Balance of Power 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US Signs Deal With Iran, But Some Trump Allies Not Happy.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US Jobless Claims Fall as Philadelphia Fed Index Rises.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/US Ends Hormuz Blockade, Downplays Tolls as 60-Day Clock Starts.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump’s Iran Deal Faces a Fragile 60-Day Test  Insight with Haslinda Amin 06182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump Signs US-Iran Deal, Warsh Fuels Fed Rate Hike Bets  Daybreak Europe 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump Signs Iran MoU, Warsh Rocks Bond Market in Debut  The Opening Trade 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Trump Says Intel Will Work With Apple to Make Chips in the US.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/This Hawkish Fed Was Good for Stocks 3-Minutes MLIV.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Stocks rally as US-Iran sign interim deal, oil prices drop.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Stock Futures Rise, Oil Falls on US-Iran Deal; Warsh Rocks Bond Market  Bloomberg Brief 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/SpaceX Demand Is 'Off the Charts,' Says Schwab CEO.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Obama Seeks to Defend, Define Presidential Legacy With $850 Million Center.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Lithuania's Nauseda Says Putin Can't Win the War With Ukraine.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Knicks Championship Parade Takes Over NYC.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Intel Surges on Apple Deal  Open Interest 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/How FIFA Picks World Cup Host Cities  Sports City.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Goldman Sees More Two-Year Volatility Under Warsh Fed.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/First Saudi Supertankers Begin Hormuz Crossing.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Fed Turns Hawkish, Spurs Surge in Rate Hike Bets  The China Show 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Chair Warsh Makes Fed Debut, Opportunity In the Credit Market  Real Yield 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6182026.md
+- 2026-06-18 | 01_Videos/Bloomberg Television/Asian Stocks Shrug Off Pressure from Hawkish Fed  The Asia Trade 6182026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/We're Entering a 'Summer of the Bond Market,' Goncalves Says.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Warsh Faces Big Test, US & Iran Prepare for Deal Signing  The Opening Trade 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/US-Iran Deal Details Emerge; Bonds Rally Ahead of Fed  Horizons Middle East & Africa 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/US-Iran Deal Details Emerge in 14-Point Memorandum  The Pulse 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Trump to Offer Iran Financial Boost in Peace Deal  Daybreak Europe 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Trump Sees Iran Deal by Friday  Balance of Power 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Trump Says India's Modi Is a 'Tough Negotiator'.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/The Books That Influenced SpaceX Founder Elon Musk.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Stocks Rise Ahead of Fed Decision; US-Iran MOU Details; G7 Summit  Bloomberg Brief 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/SpaceX Adds $1 Trillion in Value Since IPO.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Signing of Iran MOU Isn't Fully Priced 3-Minutes MLIV.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Seeking to Raise $300M, Create Unique Structure LIV CEO.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/RBC President and CEO Dave McKay  Bloomberg Newsmakers.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Oil Slides Below $80 as Iran Breakthrough Takes Shape  Insight with Haslinda Amin 06172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Oil Prices Fall as US-Iran Deal Set to Add Wave of Supply.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Oil Holds Below $80 as Iran Peace Deal Details Emerge  The Asia Trade 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson Says Investors Looking Past War.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Is Europe Bringing Trump and Zelenskyy Closer Together.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Iran War Update Trump Speaks at G7 and Defends Deal Made.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Goldman's Kaplan on Fed's Warsh and AI Capex Boom.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Goldman Tops $1 Trillion in M&A Deals, Fastest to Reach the Mark.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Fed's Warsh Says He Doesn't Think Submitting Dots Is Helpful.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Fed Leaves Rates Unchanged, Projections Over Hikes Are Split.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/China's Central Bank Hints at New Policy Framework  The China Show 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Chair Warsh Says Fed Will Deliver Price Stability.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6172026.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/ASML CEO on AI Demand, Data Centers in Space and Musk's Terafab.md
+- 2026-06-17 | 01_Videos/Bloomberg Television/$1 Billion+ Tax Giveaways The Backlash Against Data Center Incentives.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Yum! Will Sell Struggling Pizza Hut for $2.7 Billion.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Who Makes Out Better in Deal Iran or the US.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/What Will Be The Legacy of the 2026 World Cup.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US, Iran Prepare to Sign Deal  Balance of Power 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US, Iran Prepare for Deal Signing With Both Claiming Victory.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US, Europe Disagree on How Easy It Is to Reopen Hormuz.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US Set to Offer Iran Broad Financial Gains in Deal to End War.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/US Draft Deal Includes Financial Incentives for Iran  Balance of Power 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Trump Speaks at G7 Summit in France; Oil Drops to Three-Month Low  Bloomberg Brief 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Trump Says That Russia Should Make a Deal With Ukraine.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Trump Says Hormuz to Reopen Friday But G7 Allies Less Convinced  Daybreak Europe 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/The Future of Forward Guidance Under Fed Chair Warsh.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/The Close 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Tech Stocks Halt S&P 500 Rally  Closing Bell.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Strategy Purchases More Bitcoin, Possibility of Rescinding Rule 611  Bloomberg Crypto 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Stock Rally Cools Ahead of BOJ, RBA Decisions  The Asia Trade 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Soars in 3rd Day of Trading, Set to Overtake Amazon Bloomberg Businessweek Daily 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Shares Surge, US & Iran Prepare for Deal Signing  The Opening Trade 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Set for More Than 50% Jump in Just Three Sessions  The Pulse 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Nears $3 Trillion in Value  Open Interest 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX IPO in Focus as Iran Fears Ease  The Asia Trade 6122026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/SpaceX Agrees to Buy AI Startup Cursor for $60 Billion Days After Going Public.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Senator Warren on Iran Deal, Fed's Warsh and SpaceX IPO.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Sen. Johnson US Must Keep Iran ‘In a Box’.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Ret. Gen. Clark US Must Not Give Up Iran Leverage Too Soon.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/RBC CEO on AI, Jobs, SpaceX IPO, US Trade, Energy Demand.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Oil Falls Below $80 For First Time in More Than Three Months.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Netanyahu Pays Political Price for Trump's Iran Deal.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Jeff Currie Says Hormuz Flows May Not Normalize Until End of the Year.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran Won't 'Get a Dime' of US Taxpayer Money, Vance Says.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran War Update Trump Says Netanyahu Should Be More Responsible With Lebanon.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran War Can Trump Really Reopen the Strait of Hormuz by Friday.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Iran Deal Points to Steeper Yield Curves 3-Minutes MLIV.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/G7 Allies Question Trump's Hormuz Optimism; Stocks Waver  Horizons Middle East & Africa 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/France Is Against Iran Imposing Any Tolls to Pass Through Hormuz.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Dan Ives on US-Anthropic Talks, AI M&A, Open AI Losses.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/China Sees First Consumer Spending Drop Since Covid  The China Show 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6162026.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/Australia Grapples with Demographic Shifts Falling Fertility, Immigration.md
+- 2026-06-16 | 01_Videos/Bloomberg Television/AI Relief Rally Fades While Chinese Economy Stalls  Insight with Haslinda Amin 6162026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/World Cup’s Smooth Start Eases Concerns for Host Nations, FIFA.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US‑Iran Deal Promises De‑Escalation, Fuels Risk‑On Turn  Insight with Haslinda Amin 06152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US-Iran Deal Triggers Rally in Asian Stocks  The China Show 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US-Iran Deal Set to Dominate G7 Summit in France.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US, Iran Reach Hormuz Deal  Balance of Power 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US, Iran Agree to Halt War But Key Questions Unanswered  Daybreak Europe 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US Orders Anthropic to Block Foreign Access to Mythos.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US Oil Reserve Hits 43-Year Low as Trump Tries to Limit Iran Fallout.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US and Iran Agree to Halt War; Stocks Rally, Oil Slumps  Horizons Middle East & Africa 06152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/US and Iran Agree to Halt War, SpaceX Jumps  The Pulse 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Trump, Macron Meet In France  ETF IQ 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Tom Mueller on SpaceX’s Rise and Space Economy.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Swiss Referendum Voters Reject 10 Million Population Cap Proposal.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Stocks Rally, Oil Falls on Long-Awaited Iran Peace Deal  The Asia Trade 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Stocks and Bonds Rally on US-Iran Deal  The Opening Trade 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Stocks & Bonds Rally, Oil Falls after US and Iran Agree to Interim Deal  Bloomberg Brief 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/SpaceX, Tesla Merger A 'Forgone Conclusion,' Says Ross Gerber.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/SpaceX Shares Jump in Second Day of Trading After Record IPO.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/SpaceX Second Day of Trading, US at Odds With Allies  Bloomberg Businessweek Daily 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Short-Term Iran Deal to Pave Way for More Talks  Balance of Power 06152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Salesforce to Buy AI Firm That Handles Customer Service.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/S&P 500 Set for Best Day Since April as Oil Sinks  The Close 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Oil Down on US-Iran Interim Hormuz Deal.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/New York is in the Money With Knicks’ Historic Run.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Muni Market Operating Efficiently BofA's McQueen.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/MSG Should Split Into Two Companies, Ariel's John Rogers Says.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Markets Shift Focus From SpaceX to Iran, Fed  Open Interest 6152026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Markets Rally on Hope for US-Iran Peace Deal  Closing Bell.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Knicks Win, G7 Meeting in France,  & Us-Iran Talks   Bloomberg This Weekend June 14, 2026.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Iran War Update Trump Says ‘A Lot of Lanes’ Already Opened in Toll-Free Hormuz.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Ice Cube Ready To Take BIG3 to the Next Level.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Fox Will Buy Roku In Deal Worth About $22 Billion.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Fed Decision Likely to Have No Dissenters, JPM’s Berro Says.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Deal is Bullish But Risk-Reward Poor 3-Minute MLIV.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Can SpaceX’s IPO Provide Liftoff for the Space Industry.md
+- 2026-06-15 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6152026.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/The Save Our Bacon Act Targets Pig Welfare in Pork Industry.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Tehran Hesitates and US Remains Silent on Terms of Deal.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Rep. Olszewski Expresses Skepticism Over Iran MOU Details.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Questions Raised Over Costs of UFC Event at White House.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/G7 Summit Delayed Amid Absence of US President.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Knicks In 5, Iran Deal Uncertain at G7, Fight Night at White House.md
+- 2026-06-14 | 01_Videos/Bloomberg Television/Approachable Luxury Father's Day Gifts.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why the US Is Investing in Quantum Computing.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why Nike Keeps Stumbling.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO (70QeaWhbTzE).md
+- 2026-06-13 | 01_Videos/Bloomberg Television/US and Iran Move Closer to Deal Despite Hormuz Skirmishes.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/The Knicks’ Name Traces Back to a 200-Year-Old Publicity Stunt.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Swarovski CEO's focus on modern luxury to return the 131-year-old company to profitability.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/SpaceX Shares Close Higher Post Historic $75 Billion IPO.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Pointed News Quiz  Weather, Currency, Shoes.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Nuns, Witches, Knicks  BTW Headlines You Should See.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Investing in African Startups Opportunities and Challenges.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Can Tech Justify a Trillion-Dollar Valuation.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Caffeine Minimalists Rewrite Routines to Battle Coffee Jitters.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  SpaceX Launches Biggest IPO, Team USA Wins.md
+- 2026-06-13 | 01_Videos/Bloomberg Television/As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump Taps Jay Clayton to Lead Top Intel Office  Balance of Power 06112026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump Says Iran Deal in 'Coming Days' & SpaceX IPO Breaks Records  Daybreak Europe 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump No Strikes As Iran Deal Close; Historic SpaceX IPO  Horizons Middle East & Africa 06122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Trump Insists Iran Deal Is Close After Scrapping Strikes.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/The Bull and Bear Case for SpaceX.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Stocks Rally on US-Iran Deal Hopes; SpaceX Prepares Debut  Bloomberg Brief 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX, Peace Talks Clear Way for Rally 3-Minutes MLIV.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Surges 11% In Public Debut  Open Interest 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Should Triple Revenue in Two Years, Kennedy Says.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Makes History With Biggest-Ever IPO.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Jumps in First Trades  Balance of Power 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Raises $75 Billion, US-Iran Edge Towards Interim Deal  The Pulse 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Is Troubling Sign for Markets, Chanos Says.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX IPO Elon Musk Becomes the World's First Trillionaire.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX Debut Fuels Musk Mania and Valuation Debate  Insight with Haslinda Amin 06122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX and Tesla Will Likely Merge, Ives Says.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/SpaceX (SPCX) Begins Trading on Nasdaq After Record IPO.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Musk, Trump Relationship More Professional  The Debrief.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Musk On Verge of Trillionaire Status With SpaceX IPO  The Opening Trade 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Knicks Spark Euphoria From Bronx to Brooklyn.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Is China's Regulatory Truce With E-Commerce Platforms Over  The China Show 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Fixing the Social Security Problem Can't Wait, Says Jack Lew.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Concerns Raised Over Corporate Governance in SpaceX's Historic IPO.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Chevron CEO Is Open to Expanding in Middle East.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Central Banks Face Growing Pressures Markets Snapshot.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6122026.md
+- 2026-06-12 | 01_Videos/Bloomberg Television/Air India Crash Investigation Report What Went Wrong.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Will There Be Another Brexit Referendum.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Who Is Your Dream Odd Lots Guest.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Warsh May Tackle Inflation in New Way, Says Betsy Duke.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Strikes Iran; Stock Rout; SpaceX IPO Oversubscribed  Horizons Middle East & Africa 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Strikes Iran Again in Trump Escalation  The Asia Trade 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Strikes 'Multiple' Targets in Iran.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/US Stocks Rebound; Oracle Falls on Spending Concerns; SpaceX IPO Pricing  Bloomberg Brief 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Trump Threatens More Iran Strikes, SpaceX IPO Demand Takes Off  The Pulse 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Trump Says Deal With Iran Could Be Signed Within Days.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Trump Cancels Planned Iran Strikes  Balance of Power 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/True 'FOMO' Is Still Ahead of Us, Emanuel Says.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/The SpaceX Debt Debate Before Debut  Open Interest 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Tech Rout Pushes China Stocks to Brink of Bear Market  6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX Raises $75 Billion in Biggest IPO of All Time.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX IPO Is Said to Be Over Four Times Oversubscribed.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX IPO Draws Billions in Orders From Middle Eastern Funds.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/SpaceX Euphoria Tests Markets as War Risks Rise  Insight with Haslinda Amin 06112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Sen. Scott Says Democrats Won't Support Anything Trump Wants to Do.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Richards Says SpaceX Is Biggest Rising Star of All Time.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Retired Gen. Kimmitt Hormuz, Lebanon Are ‘Diversions'.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Probably a Bit More Markets Pain Ahead 3-Minutes MLIV.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Iran Was Never Going To Do a Deal Says Nikki Haley.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Iran War US Launches New Missile Strikes, Trump Threatens More Action  Daybreak Europe 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Highlights from Bloomberg Invest Hong Kong.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Fresh US Strikes On Iran Risk Fragile Ceasefire  The Opening Trade 6112026.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/El Niño Emerges in the Pacific, Raising Heat Risks.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/ECB's Lagarde Warns of Impact of Prolonged Energy Shock.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/ECB Raises Rates for First Time Since 2023.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Could Current Ebola Outbreak Be of Worry For World Cup Games.md
+- 2026-06-11 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6112026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/What to Expect From Maine's Primary Election.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/War, Volatility and a Tech Reckoning in Asia  Insight with Haslinda Amin 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/US, Iran Trade Fire After Apache Helicopter Shot Down Near Hormuz.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/US Strikes Iran After Helicopter Downed; Stocks Decline  Horizons Middle East & Africa 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/US & Iran Trade Strikes, Testing Ceasefire Agreement  Daybreak Europe 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Trump Vows Iran Attacks  Balance of Power 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Trump Says US Will Resume Attacking Iran 'Very Hard'.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Trump Says Citi Is the Top M&A Adviser, But It's Not.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/This Market Is Very Scared About US CPI 3-Minutes MLIV.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Tech Selloff Deepens Ahead of CPI; US, Iran Exchange Strikes  Bloomberg Brief 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Stocks Under Pressure as SpaceX Mania Grows  Open Interest 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/SpaceX IPO Is a 'White Knuckle' Moment, Ives Says.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/SpaceX Float Price Risks Being Driven Up by Index Funds Demand  The Pulse 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Seanergy Sees Strength in Commodity Demand.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Ret. Rear Adm. Urges Trump to Keep Iran Response ‘Proportionate’.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Police, Protesters Clash in Kenya over US Ebola Facility.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson Sees Big Shift From 6040 Strategy.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson Expects Stocks to Rise Into Year-End.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Markets Weigh AI Rotation, US 'Self-Defense' Strikes  The Asia Trade 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Iran War Update Trump Says US Will Resume Attacking Iran 'Very Hard' (Q&A at Oval Office).md
+- 2026-06-10 | 01_Videos/Bloomberg Television/China to Spend $295B on Nationwide AI Buildout  The China Show 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 6102026.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Blackstone's Brand on IPO Returns, Anthropic Partnership.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/BlackRock's Chan on Asia Market Strategy.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Apollo's Kleinman Says PE Needs to Start Capitulating on Valuations.md
+- 2026-06-10 | 01_Videos/Bloomberg Television/Anthropic Releases New Mythos-Like Model Ahead of IPO  The Opening Trade 6102026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Why Jensen Huang Talking up Suppliers Is Worrying.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Vale CEO Says Metals Demand Is Robust Despite Conflict With Iran.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/US Existing-Home Sales Rise to Fastest Pace of the Year.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/US Accuses Alibaba, Baidu, BYD of Aiding Chinese Military  The China Show 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Trump's 'No Tax On Tips' Isn't Persuading Nevada Voters.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Trump Says US Must Respond to Iran’s Attack on Helicopter.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Trump Blames Iran for Helicopter Hit  Balance of Power 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Tech Rebounds as Malaysia Positions for the Next Wave  Insight with Haslinda Amin 06092026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Stocks Extend Rally in AI-Led Rebound; Trump Says Peace Talks on Track  Bloomberg Brief 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/SpaceX IPO Oversubscribed With More Than $10 Billion Orders  The Opening Trade 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/SpaceX IPO 'Watershed' Moment for Markets, Says Ives.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Schwab's Sonders Warns of 'Red Flags,' Possible Inflationary Boom.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/OpenAI Joins AI Rivals in Race for Public Market Cash.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/OpenAI Files for IPO with SpaceX Debut Well Oversubscribed  Daybreak Europe 6092026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/New York Knicks Take Over City During Historic Playoff Run.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Iran, Israel Pledge to End Attacks; OpenAI Files For IPO  Horizons Middle East & Africa 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Iran, Israel Pledge to End Attacks That Threatened Talks.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/IBM CEO Krishna on Quantum Advantage, Profit Strategy.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Former Amb. Taylor Ukraine is Winning the War.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Bitcoin Treasuries Shed $62B in Deepening Crypto Rout.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/Asian Stocks Rebound After AI Selloff  The Asia Trade 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/AI Rivals Race to Market, Intesa Exclusive  The Pulse 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/AI Rally Remains Supported After Friday Pullback 3-Minutes MLIV.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/AI Rally Fuels Tech Optimism  Open Interest 692026.md
+- 2026-06-09 | 01_Videos/Bloomberg Television/10 Years of Brexit What's the Cost and What's Next.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/‘Odd Lots’ Meets ‘The China Show’ Stock Rout Hits Asia.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/‘Odd Lots’ Hosts Discuss Stock Rout, AI Boom Winners  The China Show 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/What to Expect Today From the Apple WWDC Event.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Wall Street Preps for the SpaceX IPO.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/UK Plans to Purchase £400 Million of AI Chips as London Tech Week Begins.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/This Market Selloff Isn't Exhausted Yet 3-Minutes MLIV.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/The Aftermath of Trump’s Foreign Aid Cuts.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Stocks Tumble as AI Trades Unwind  The Asia Trade 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Stocks Halt Selloff; Iran, Israel Exchange Missile Strikes  Bloomberg Brief 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/SpaceX IPO Countdown Begins  Open Interest 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Space ETFs Accelerate, Growing Population of Zombie ETFs  ETF IQ 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Oil Jumps After Israel Strikes Iran; AI Rally Cools  Horizons Middle East & Africa 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Nvidia CEO Says Tech Stock Selloff Is a Buying Opportunity  The Pulse 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/M&A Monday Intesa's €31 Billion Bid for Paschi & Tate & Lyle Takeover  The Opening Trade 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Israel Retaliates Against Iran After Missile Attack.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Israel and Iran Trade Missile Attacks, Jeopardizing Peace Talks  Daybreak Europe 06082026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Iran, Israel Pledge to End Attacks  Balance of Power 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/IATA Director Walsh Says the Airline Industry Is Not in a Crisis.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Former US Defense Secretary Austin Doesn't Think China Will Take Taiwan by Force.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Brookfield's Rashid Not Surprised by the Selloff in Tech Stocks.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 682026.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Apple Unveils New AI Platform and Siri Upgrades.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Apple Investors Tepid About New AI Platform.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Airline CEOs Weigh In on Fuel Prices; Screwworms Threaten US Cattle  Bloomberg This Weekend June 7.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/Air France Could Consider Being Part of EasyJet Bid, CEO Says.md
+- 2026-06-08 | 01_Videos/Bloomberg Television/AI Mania Shows Cracks as Asia Sells Off and War Risks Spike  Insight with Haslinda Amin 06082026.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/Why an AI 'Death Spiral' Threatens the Internet.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/United Airlines CEO Scott Kirby Discusses Industry Challenges.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/The Innovative Digital Archives at the Obama Presidential Center.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/Sen. Armstrong Advocates for Energy Infrastructure Expansion.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/GE Aerospace Evolves Amid High Aviation Demand.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/Etihad Airways CEO Antonoaldo Neves IATA Interview.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/Democratic Primary Race in Maine Intensifies.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/Can a Forgotten Caribbean Town Become a Spaceport.md
+- 2026-06-07 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Aviation Executives Live From Rio, Screwworm Cases in Texas.md
+- 2026-06-06 | 01_Videos/Bloomberg Television/War in Iran Approaches 100 Day Mark.md
+- 2026-06-06 | 01_Videos/Bloomberg Television/Trump Speaks on Air Force One to Wisconsin.md
+- 2026-06-06 | 01_Videos/Bloomberg Television/Trump Holds Profanity-Filled Call with Netanyahu.md
+- 2026-06-06 | 01_Videos/Bloomberg Television/Pointed News Quiz  AI, Securities Fraud, Movies.md
+- 2026-06-06 | 01_Videos/Bloomberg Television/Grindr Growing From Dating App to Politics, AI.md
+- 2026-06-06 | 01_Videos/Bloomberg Television/FIFA Prepares for World Cup 2026.md
+- 2026-06-06 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Major Indexes Tumble, Trump Eyes Government Stake in AI.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/US-Iran Talks Stall; Stocks Drop as AI Mania Fades  Horizons Middle East & Africa 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/US-Iran Talks Stall After Hezbollah Rejects Truce.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/US-Iran Talks Show Little Progress as Clashes Continue.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/US-Iran Talks at a Standstill as Hezbollah Rejects Truce.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/US Adds 172,000 Jobs in May Topping All Estimates.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Stocks Winning Streak to Break as Investors Weigh AI Prospects & Jobs Data  The Pulse 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Senate Votes Down Bids to Kill DOJ 'Anti-Weaponization Fund  Balance of Power Late Edition.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Schwab's Sonders on the Rise of Casino Culture in Markets.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Nvidia's Profit Margins Are Safe for Now, Luria Says.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Morgan Stanley's Sheets Discusses What's Next for Fed.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Mega IPO Arms Race Heats Up Markets Snapshot.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Markets 'Terribly Wrong' to Price in Rate Hike Hassett.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Korean Stocks Drop as AI Mania Fades  The Opening Trade 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Korea Leads Drop as AI Mania Gets Tested  The Asia Trade 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Jobs Report Shocks Wall Street  The Open Interest 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/How to Make Sure You Have Enough Money for Retirement.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/How the NYC Ferry Is Staging a Comeback.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/How Indian Equities Could Thrive amid Market Gloom.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Goldman's Flood Says Share Sales Signal 'Healthy' Market.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Fed Is In No Hurry To Raise Rates, BlackRock's Rosenberg Says.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Ebola Bundibugyo Strain Spreads Fast.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/China Scrutiny of Cross-Border Flows Sparks Concerns in HK  The China Show 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/BlackRock's Rieder Talks Jobs Report, AI and Markets.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/AI Trade Falters; Chinese Investors Banned from SpaceX IPO; Jobs Report  Bloomberg Brief 652026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/AI Trade Cools as Asia Rotates and Indonesia Cracks  Insight with Haslinda Amin 06052026.md
+- 2026-06-05 | 01_Videos/Bloomberg Television/AI Stocks Fall as Tech Momentum Fades, US-Iran Talks Stall  Daybreak Europe 6052026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/What to Expect From the Monthly Jobs Report.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Verizon CEO Sees AI Coming for Customer Service Jobs.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/US-Iran Conflict Forces Asian Countries to Choose Sides  Insight with Haslinda Amin 06042026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/US Stocks Drag as Broadcom's Outlook Fails to Impress  Bloomberg Brief 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/US Seeks To Revive Iran Talks as Israel, Lebanon Reach Ceasefire  Daybreak Europe 06042026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Trump Unveils New Tariff Plan for Trade Partners.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Sports City The World Cup Keeps Getting Bigger.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/SpaceX Seeks to Raise $75 Billion in Record IPO.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/SpaceX Plans Mega IPO; Broadcom Weighs on Tech  The Asia Trade 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Senate Rejects Bids to Kill DOJ Fund  Balance of Power 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Retail Traders Dive Into Private Markets.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/JPMorgan's Jamie Dimon and SpaceX Executives to Pitch IPO to Clients.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Jobs Report Will Not Help Fed Berro.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Israel, Lebanon Reach Ceasefire; Stocks and Oil Slip  Horizons Middle East & Africa 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Israel Won't Have A Say In How The Iran War Ends, Aaron David Miller Says.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Iran Says No Progress in US Talks.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Iran Says No Progress in US Talks & Broadcom AI Chip Outlook Disappoints  The Pulse 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Iran Says No Progress in US Talks  The Opening Trade 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Inside Nike’s 2026 World Cup Playbook.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/House Passes Iran War Powers Measure, Rebuking Trump  Balance of Power Late Edition 632026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Hiring Has Expanded Beyond Healthcare, Richardson Says.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Glazer Family Members Said to Study Manchester United Stake Sale.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Fed's Daly on the Economic Impact of AI, Labor Markets, Monetary Policy.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/European Allies Work on Plan to Engage Putin in Ukraine Talks.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/China’s DeepSeek Set to Join AI Fundraising Frenzy  The China Show 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Broadcom Sparks AI Rally Fears  Open Interest 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 642026.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/Anthropic president cites high computing costs as driver for IPO shorts anthropic ai ipo.md
+- 2026-06-04 | 01_Videos/Bloomberg Television/AI Concentration Risk Is the Problem 3-Minutes MLIV.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Yields Likely to Go Higher Again 3-Minutes MLIV.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/US-Iran Impasse Fails to Stall AI Rally Insight with Haslinda Amin 06032026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/US, Iran Exchange Strikes; Trump Plans New Tariffs  Horizons Middle East & Africa 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/US Proposes Tariffs Over Alleged Forced Labor. Here's How Pompeo, Markets Reacted.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/US Proposes New Tariffs After Investigation; US, Iran Exchange Clashes  Bloomberg Brief 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/US and Iran in Deadly Clashes, Putting Fresh Strain on Truce.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/US and Iran Exchange Strikes, Trump Begins Rebuilding Tariff Wall  The Opening Trade 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Trump Tariffs China, UK, Europe Among US Trade Partners Targeted  Daybreak Europe 06032026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Trump Proposes New Tariffs of at Least 10%.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/SpaceX Said to Target $75 Billion in IPO at $135 Per Share.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/SpaceX IPO Terms Due & Trump's New Tariffs  The Pulse 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/SpaceX IPO Is About Buying Elon Musk, Ives Says.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/SDNY's Clayton Takes Closer Look at Private Credit.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Ray Dalio Sounds the AI Bubble Alarm  Open Interest 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Ray Dalio on US Debt, AI Bubble, Bond Markets.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Pompeo Warns of Rising Global Flashpoints.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Norwegian Finance Minister Jens Stoltenberg  Bloomberg Newsmakers.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Markets Live Forget Tariffs, It’s All AI-Led Growth.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Kenya Pressed on Details of Ebola Center Deal With US.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Hungry Knicks Fans, Wemby to Propel NBA Finals.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Global AI Trade Takes Stocks to Fresh Records  The Asia Trade 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Fresh US-Iran Fighting Puts Ceasefire Under Strain.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Former VP Mike Pence on Conservatism, AI, Donald Trump.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Fed Beige Book Shows Steady Employment, Higher Inflation.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/DoubleLine's Cohen Warns of AI Bubble Coming to Credit.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/California’s Critical Primary Elections What's at Stake.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/California in Focus as Six State Hold Primaries.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Business of Basketball, Private Debt Landscape Amid AI CapEx Surge  Bloomberg Deals 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/BofA CEO Moynihan on Affordability, Lending and AI Spending.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Bitcoin’s Break With Tech Widens as Strategy’s Sale Feeds Rout.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Ares CEO Arougheti on Private Credit, Sports Investing.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/AI Financing Is an Arms Race, Says GoldenTree's Tananbaum.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/AI Boom Fuels Stock Surge; US Proposes New Tariffs  The China Show 632026.md
+- 2026-06-03 | 01_Videos/Bloomberg Television/Acting AG Blanche Not Moving Forward With $1.8B Fund  Balance of Power 06022026.md
+- 2026-06-02 | 01_Videos/Bloomberg Television/Stoltenberg Weighs In on US-NATO Tensions, Wealth Fund.md
+- 2026-06-02 | 01_Videos/Bloomberg Television/Stocks Get Tech Lift Toward All-Time Highs.md
+- 2026-06-02 | 01_Videos/Bloomberg Television/SpaceX Wants Fee Cut From Bankers Chasing $500 Million Windfall.md
+- 2026-06-02 | 01_Videos/Bloomberg Television/Franklin Templeton Moves More Business Onto Blockchain.md
+- 2026-06-02 | 01_Videos/Bloomberg Television/Dimon Sounds Off, Prediction Markets vs. Sports Betting  Bloomberg Crypto 622026.md
+- 2026-06-02 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 622026.md
+- 2026-06-02 | 01_Videos/Bloomberg Television/Alphabet's $80 Billion AI Power Move  Open Interest 622026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Will France Be a Top European Hub for AI Infrastructure  The Pulse 61.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/What's Driving the Rally in AI Stocks.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/US, Iran Trade Deal Drafts; Israel Expands Lebanon Assault  Horizons Middle East & Africa 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/US Stocks Invulnerability a Concern  3-Minute MLIV.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Trump Says Iran Talks Still On  Balance of Power Early Edition 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Trump Says Deal Will ‘Work Out Well’ Even as US, Iran Clash  The Opening Trade 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/The Little Known Supreme Court Doctrine That Helped Strike Down Trump's Tariffs.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Stocks Hit Record on AI Rally  The China Show 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Risk Rally Powers Past Iran Stalemate  The Asia Trade 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Open Interest 612026  Jensen Huang's Bullish Software Call.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Nvidia Enters PC Market; Oil Rebounds as US, Iran Clash  Bloomberg Brief 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Nvidia CEO Says Market Got it Wrong On Software Stocks  Insight with Haslinda Amin 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Iran War Ceasefire Deal in Doubt as Israel Steps up Lebanon Offensive  Daybreak Europe 06012026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Iran to Suspend Talks With US Over Israeli Actions.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 612026.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/Anthropic Confidentially Files for IPO in Race Against Rival OpenAI.md
+- 2026-06-01 | 01_Videos/Bloomberg Television/2026 IPO Boom Spacex, OpenAI and Anthropic.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Why Britain’s Bond Market Is Sounding the Alarm.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Ukraine’s Drone Warfare Redefines Battlefield Dynamics.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Trump Requests Edits to Iran Deal.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/TikTok Is Driving A Men’s Fragrance Boom.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/The Aluminum Shock Hitting the Global Economy.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/SpaceX Cuts Valuation to $1.8 Trillion, Still on Track for World's Largest IPO.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Riyadh Air CEO on US Plane Deliveries, Fuel Costs.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/No Breakthrough in Iran Talks as Red Lines Remain Firm.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/MLB Proposes $245 Million Salary Cap That Players Union Rejects.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Major Companies Reconsider AI Costs.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Live at Shangri-La Dialogue; Iran Strike Injures Americans  Bloomberg This Weekend May 28.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Knicks Tickets Reach Record Prices Ahead of Finals.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/How Poland Became Europe’s Growth Leader.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/How Nigerian Startup Moniepoint Became an Fintech Unicorn.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/How Britain, Europe and the West Were Changed by Brexit.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Gen Z Swaps Bars for Barbells.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Bolton on Iran We'll Be Right Back Where We Started.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump’s Edits to Iran Proposal, Report From Ebola Epicenter.md
+- 2026-05-31 | 01_Videos/Bloomberg Television/A Look Inside the Epicenter of the Ebola Outbreak in The Congo.md
+- 2026-05-30 | 01_Videos/Bloomberg Television/Cisco Rides AI Boom as Stock Surges Higher.md
+- 2026-05-30 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Hegseth Reaffirms Commitment to Pacific Allies, Kennedy Cntr Name Restored.md
+- 2026-05-30 | 01_Videos/Bloomberg Television/At Scrabble’s Biggest Tournament, Thailand Punches Above Its Weight.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Who's Worth More - Anthropic or OpenAI.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/What's Driving Markets This Morning Dell is surging, Gap is falling.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/US-Iran War Peace Prospects Rise as Trump Weighs 60-Day Truce Renewal.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/US Jobless Claims Tick Up To 215K, AI Tech Debt Binge  Real Yield 5292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Trump Says He's Making 'Final Determination' on Iran.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Tentative US-Iran Deal & SpaceX Cuts Valuation  The Pulse 5292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Stocks Rise as Trump Says He’ll Make Call on Iran.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Stocks Hold at Record Highs on US-Iran Deal Optimism  Bloomberg Brief 5292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/SpaceX Said to Cut IPO Valuation Goal.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/SpaceX Said to Cut IPO Valuation Goal, Blue Origin Rocket Explodes  The Opening Trade 5292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/SpaceX Cuts IPO Valuation By $200 Billion  Daybreak Europe 05292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Retired Admiral Stavridis Warns of Global War in 2084.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Philippines' Marcos on Building a Legacy of His Own.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Oil Declines on US-Iran Ceasefire Optimism.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Markets Cheer Truce Hopes as Oil Falls  Insight with Haslinda Amin 05292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Job Market Jitters as AI Demand Grows Markets Snapshot.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Investors Bet Big on Humanoid Robots.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Inside the DOJ’s $1 8 Billion ‘Anti Weaponization Fund’.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Global Stocks Rally on Hopes of US-Iran Deal  The Asia Trade 5292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Gap CEO Remains Bullish Despite Lowering Sales Outlook.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Dollar Downtrend Primed to Kick Back In 3-Minutes MLIV.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/China Tech Earnings Hit by AI Spending  The China Show 5292026.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Chevron CEO Wirth on Oil Prices, Strait of Hormuz, Venezuela.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/BOE's Bailey UK banks still don’t have access to Mythos.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/BOE's Bailey Talks AI Risks, Private Credit and Crypto.md
+- 2026-05-29 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5292026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/US, Iran Truce Hopes Lift Stocks  Open Interest 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/US Strikes Iran Targets; Snowflake Jumps on Results  Bloomberg Brief 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/US Strikes Iran Targets as Trump Vows to 'Watch Over' Hormuz.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/US and Iran trade fresh strikes & Snowflake's melt-up  The Pulse 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/US and Iran Reach Deal to Extend Truce, Axios Reports.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Unpacking Trump’s “Anti-Weaponization Fund”.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Trump 'Not Satisfied Yet' on Iran Deal  Balance of Power Late Edition 5272026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/SpaceX Fever Accelerates Space ETFs, Weakness In Crypto ETF Flows  ETF IQ 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Salesforce Is Facing a True Test, Ives Says.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Paxton, Talarico to Battle for US Senate Seat.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Mistral AI Signs New Manufacturing Deals With Airbus, BMW.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Iran War US Strikes Targets Near Hormuz With No Deal in Sight  The Opening Trade 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Iran War US Launches Strikes as Trump Rejects Easing Sanctions  Daybreak Europe 05282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/How NASA’s Chief Plans to Bring Back the Moonwalk — And Beat China.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Goldman's Wheeler Sees 'Generational Opportunity' in AI.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Global Interest in India’s Affordable Housing.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Fed's Musalem on Possible Rate Hike, Balance Sheet and Warsh.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/CXMT Eyes China's Biggest IPO Since 2022  The China Show 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Conditions Are Ripe for Negative Spiral 3-Minutes MLIV.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/BOK's New Governor Delivers Hawkish Hold  The Asia Trade 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5282026.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/BlackRock's Rosenberg on Fed Rates, IALT ETF Strategy.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/Apple Is Overhauling Siri to Bring AI to the Masses.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/AI Risks Prompt Carson Block to Rethink India Plans.md
+- 2026-05-28 | 01_Videos/Bloomberg Television/AI Rally Gets a Reality Check From US Strikes on Iran  Insight with Haslinda Amin 5282026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/US Steel Costs Impacted by War, Trade Deals.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/US Is running out of options for Iran, says Michael Allen of Beacon Global Strategies.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Trump Says US Is Not Satisfied Yet on Iran Deal (Remarks).md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Trump Disputes Iran’s Hormuz Control  Balance of Power Early Edition 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Trillion Dollar Valuations & BP Boardroom Drama  The Pulse 05272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Texas Primary Paxton Defeats Cornyn After Securing Trump Nod.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Strategic Victory in Iran Could Prove 'Elusive', says Gavito.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Stocks Extend Highs; Paxton Defeats Cornyn in Texas Senate Runoff  Bloomberg Brief 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/SK Hynix, Micron Join $1 Trillion Market Cap Club  The Asia Trade 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Sen. Scott Trump Won’t Punt Iran Nuclear Demands.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Russian Airlines Skirt Sanctions to Keep Jets Flying.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Price-Action Is Bearish Even at Records 3-Minutes MLIV.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Nasdaq President on Winning SpaceX IPO, Rule Changes.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Morgan Stanley's Caron Says This Is a Stock Pickers Market.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Micron Joins Trillion-Dollar Club  Open Interest 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Micron Blows Past $1 Trillion on AI Demand.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Memory Mania Overshadows Investors' Fears Around Iran War  Insight with Haslinda Amin 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Memory Chip Frenzy Grips Asia  The China Show 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Jamie Dimon 'On The Lookout' For Next Big Deal, Real-Estate Deals  Bloomberg Deals 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Iran War Supreme Leader's Warning After US & Israeli Strikes  The Pulse 05262026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Goldman Strategists Cite Earnings in Hiking S&P 500 Target to 8,000.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Global Stocks Hit Record as SK Hynix, Micron Soar  Daybreak Europe 05272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Former Centcom Head Sees ‘Prolonged’ US Mission in Iran.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Everybody Wants Fed Independence, Rubenstein Says.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Europe Car Sales Up for Third Straight Month.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Elon Musk’s SpaceX Has More Bitcoin Than Estimated, SEC Filing Shows.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Ed Yardeni Says Dip-Buying Opportunities in This Market Are Wishful Thinking.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/China Is Delaying Approvals of Airbus Deliveries.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/BP’s Ousted Chair Manifold Disputes Firm's Accusations.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/AP CEO Defends Swatch Collaboration.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/American Airlines CEO Sees Tremendous Demand for Travel.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/AI Optimism Sends Stocks Rocketing Higher; BP's Chair Ousted  The Opening Trade 5272026.md
+- 2026-05-27 | 01_Videos/Bloomberg Television/AI Automation, Job Loss Fears and Where New Work Emerges.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/World Cup Expected to Generate $80 Billion in Global Spending.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/US Touts Iran Deal Prospects  Balance of Power Early Edition 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/US Strikes Iran Targets as Trump Hails Progress on Talks.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/US Strikes Iran as Trump Says Talks 'Proceeding Nicely'  Daybreak Europe 05262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/SpaceX Roadshow Begins After Starship Launch.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/SpaceX IPO Sends Space Stocks Soaring  Open Interest 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Russia Tells US to Evacuate Citizens, Diplomats From Kyiv.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Pressure Builds for Australia's Albanese Over Housing Tax Overhaul.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Powell Will Vote With His Mind and Heart, Daco Says.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Oil Rebounds as US Launches New Strikes on Iran.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Oil Rebounds After US and Iran Clash Near Hormuz  Bloomberg Brief 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Oil Climbs as US Strikes Iran Targets  The Asia Trade 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Nasty Texas Republican Runoff Comes to a Head Today.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Meta’s $200 Billion Bet on a Remote Data Center.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Lockheed Moving Rapidly to Resupply US Missile Stockpile.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Lilly Gets Back Into the Vaccine Business With New Deals.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Israel Seeks Deal That Eliminates Nuclear Danger From Iran.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Huawei Touts Chip Breakthrough to Shorten Gap With TSMC.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/How a ‘Cockroach’ Jibe United India’s Disgruntled Jobless Youth.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Hormuz Strikes Whipsaw Oil as Asia Braces for Summer Demand  Insight with Haslinda Amin 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Ferrari Unveils 5-Seat Fully Electric Car, Shares Fall.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Ferrari Luce- Company's First EV, Gets Brutal Reviews.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Ferrari Drops as New €550K EV Design Disappoints  The Opening Trade 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Farmers Feel Squeeze From Higher Fuel Costs, Fertilizer Shortages.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Congo Ebola Epidemic Is ‘Outpacing’ Response, WHO Says.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/China Chip Stocks Jump on Hopes for Huawei Tech  The China Show 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Bolivia's Paz Says Protests Test Democracy Ahead of Talks.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/Bloomberg Crypto 5262026.md
+- 2026-05-26 | 01_Videos/Bloomberg Television/AI Vs Economy Disconnect Getting Larger 3-Minutes MLIV.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Respite for JGBs Won't Last Long 3-Minutes MLIV.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Oil Falls, Stocks Rise as US, Iran Inch Toward Deal  The Asia Trade 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Markets Up Oil Down Over Iran Deal; Ebola Affects Flights  Horizons Middle East & Africa 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Iran War Trump Says 'No Rush' as US, Iran Inch Towards Deal  Daybreak Europe 05252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Iran Says US Deal Not Imminent  The Pulse 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Iran Says US Deal Not Imminent  The Opening Trade 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/Deal Or No Deal Oil Falls On Hope  Insight with Haslinda Amin 5252026.md
+- 2026-05-25 | 01_Videos/Bloomberg Television/China Investigates Deadly Coal Mine Blast  The China Show 5252026.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/White House Signaling Imminent Deal Announcement with Iran.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Trump Touts Influence in Texas Midterm Primaries.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Trump Mulls Arms Sale to Taiwan, Will Speak to President.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/The Surprising Science Behind Google Searches.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Rubio Invites India’s Modi to Visit White House as Relationships Improve.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Rising Energy Prices Pose Challenge for Travelers.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Rep. Ivey Disgusted at Settlement Slush Fund, Critiques $1B Ballroom Budget Ask.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Pope Leo Focusing on AI in First Social Encyclical.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Marco Rubio Sees Good News Coming on Hormuz as Iran Talks Continue.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Marco Rubio Says Significant Progress Made on Iran Talks.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/How New Mega-Cap IPO's Will Reshape the Markets.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Has the NYC Ferry Righted Its Ship.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Ebola Spreads Across Congo as Flights Are Halted, Supplies Run Low.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/College Kids Don’t Want Your AI.md
+- 2026-05-24 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  White House Iran deal to be announced, Texas-sized primaries.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Warsh Sworn In at Fed, Iran Deal in Limbo  Balance of Power Live 052226.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/US and Iran Remain in Holding Pattern.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Uganda Confirms Three More Ebola Cases, Outbreak Spreads.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Tulsi Gabbard to Resign as US Intelligence Director  Balance of Power Late Edition 5222026.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Trump’s 3,711 Trades Point to Several Stock-Market Strategies.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/The Surprising Joy of a Crowded Hiking Trail.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/SpaceX Starship Successfully Deploys Mock Satellites.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Since Last Outbreak US Ebola Aid Plummeted 99%.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Retail, Cryptocurrency, Obituaries  Pointed News Quiz.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Navigating Higher Food Costs as Burger Season Begins.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/In a Cashless Society, Will the Dollar Remain King.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/General Petraeus We May Have to Go Back to War with Iran.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Gas Prices Rising as Summer Holiday Travel Begins.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Chanel’s Mega Dividend Brings Owners’ Windfall to $21 Billion.md
+- 2026-05-23 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump Weighs Iran Options, Tracking The Ebola Outbreak.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Warsh Sworn In As Fed Chair  Balance of Power Early Edition 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/US Stocks Eye Longest Stretch of Weekly Gains Since 2023  Bloomberg Brief 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/US Blockade Is Painful for Iran, Sanders Says.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/UAE, Saudi Arabia, Qatar All Urge Trump to Not Restart Iran War.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Turkish Court Unseats Leader of Main Opposition Party.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Trump Tells Warsh to Do ‘Own Thing’ as Fed Chair Sworn In.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Traders Bet Warsh's Fed Will Hike Rates by December.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/The Next Phase of Artificial Intelligence.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Tech Sector Momentum Teeters Market Snapshot.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Strait Resolution is Almost Fully Priced 3-Minutes MLIV.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Stocks Eye Longest Weekly Run Since 2023  Open Interest 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/SpaceX Scrubs Starship Test Flight  The Asia Trade 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/SpaceX IPO Filing The Key Numbers.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/NYSE's Martin Questions Some Rules Used to Attract SpaceX to Nasdaq.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Musk’s SpaceX Files Publicly for Nasdaq IPO.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Muni Bond Sales Surge in 2026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Micron CEO on Expanding Chip Production, Memory Demand.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Messi Joins Ronaldo in Football Billionaire Ranks  The Opening Trade 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Lenovo Surges to 26-Year High After Strong AI Growth  The China Show 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Kevin Warsh to Be Sworn In as Fed Chair Today.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Kevin Warsh Sworn in as New Federal Reserve Chair.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Kevin Warsh Sworn In As Fed Chair  Real Yield 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Iran War Trump Rejects Hormuz Tolls  Daybreak Europe 05222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Iran Talks Progress Undercut by Hormuz, Uranium Divide.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Iran Says Latest US Proposal Has ‘Narrowed the Gaps'  Balance of Power Live 052126.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Inside Zara Inditex CEO Exclusive on Fashion & AI  The Pulse 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Indonesia’s Shock Export Controls Catch Traders Off Guard  Insight with Haslinda Amin 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/How ICE Is Hurting Local Economies.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Director of National Intelligence Chief Gabbard Is Stepping Down.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Bolton Calls Iran Talks a 'Waste of Oxygen'.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5222026.md
+- 2026-05-22 | 01_Videos/Bloomberg Television/APEC Is Important Part of Trade Agenda, US Diplomat Says.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Walmart Warns Fuel Costs Are Squeezing the Bottom Line.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Trump Wants Hormuz Open, Free, With No Tolls.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Trump Says US Is in 'Final Stages' With Iran.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Trump Holds Grip on Primary Elections  Balance of Power Live Coverage from Georgia 052026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Slashing the Gas Tax Will Save Drivers 18 Cents Per Gallon, Agen Says.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Open Interest 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Oil Markets Are In Deficit, But Not Shortage, Sen Says.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia’s Lackluster Forecast; Musk's SpaceX files for IPO  Horizons Middle East & Africa 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia's Huang Is 'Dunking' on Competition, Luria Says.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia slips after earnings, SpaceX & OpenAI IPOs in focus  The Asia Trade 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia Shares Muted After Fluctuation; Iran Assesses Trump's Proposal  Bloomberg Brief 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Nvidia Disappoints & SpaceX Files for Record IPO  Daybreak Europe 05212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Markets Are Positioned Optimistically 3-Minutes MLIV.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/JPMorgan's Dimon on Bond Yields, AI Adoption, Mamdani, Geopolitics.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/JPMorgan Warns on India Equities as Risks Build  Insight with Haslinda Amin 05212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/JPMorgan CEO Jamie Dimon's Warning on Rates  The Pulse 521.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Jamie Dimon on Bond Market, Inflation and Equities.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Iran War Update and More Trump Says US Will Get Iran's Uranium.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Iran Looks at Setting Up Permanent Hormuz Toll System.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Iran Is Reviewing Latest US Peace Proposal.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Goldman CEO Slides Into Musk’s DMs, Iran Reviews Trump’s Latest Offer  The Opening Trade 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5212026.md
+- 2026-05-21 | 01_Videos/Bloomberg Television/Asia Tech Stocks Rally As Investors Return To AI Trade   The China Show 5212026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Xi Welcomes Putin for China Talks.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Xi Steps Up Call to End Iran War, SpaceX’s Mega-IPO Bank Lineup  The Opening Trade 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Why is China's Xi Hosting Russia's Putin After Trump Visit  The Pulse 520.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/WHO Escalates Response to Ebola Outbreak.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/What to Watch for In Nvidia Earnings After the Bell.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/US Charges Former Cuban Leader Raúl Castro With Murder.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Tightens GOP Grip With Massie’s Defeat in Kentucky.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Tightens GOP Grip With Massie’s Defeat in Kentucky (I_Lhd2AYcdk).md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Threatens Iran With ‘Big Hit’; Stocks, Bonds Slump  Horizons Middle East & Africa 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Threatens Iran Strikes If There’s No Deal Soon.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Trump Says He's in 'No Hurry' to Reach Iran Deal.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Stocks Rebound Ahead of Nvidia Earnings; GOP Scores Win in Kentucky  Bloomberg Brief 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/StanChart CEO Says AI Could Replace 'Lower-Value Human Capital'.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/SpaceX Expected to Make IPO Filing Public Today.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Samsung Workers to Go Ahead With Strike.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Samsung Braces For Disruption After Labor Talks Collapse  The China Show 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Rising Global Bond Yields Drag Asian Stocks  The Asia Trade 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Retail Ignoring Risk From Samsung Strike 3-Minutes MLIV.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Primary Elections in Seven States  Special Coverage from Balance of Power LIVE in Georgia 051926.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Polls Open on 'Mini' Super Tuesday  Balance of Power 05192026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/OpenAI Preparing to File for IPO in Coming Weeks.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Oil Extends Decline as Traders Weigh Trump’s Latest Iran Threats.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Nvidia Earnings in Focus as SpaceX IPO Buzz Builds  Open Interest 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/NFL Ownership Moves, AI Infrastructure & Scaling Demand  Bloomberg Deals 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Minutes Show Fed Officials Warned of Possible Rate Hike.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Liontrust Focused on Nvidia Suppliers Ahead of Earnings.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Hasbro CEO on Oil Costs, Video Games and New Projects.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Global Bond Selloff Threatens India, Philippines, Indonesia  Insight with Haslinda Amin 05202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/EU Expedites Start of US Trade Deal.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/China's Xi Hosts Putin, Steps Up Call for Iran Ceasefire  Daybreak Europe 05202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5202026.md
+- 2026-05-20 | 01_Videos/Bloomberg Television/Block's Jennings Says Spending Seems Resilient Right Now.md
+- 2026-05-19 | 01_Videos/Bloomberg Television/Clarity Act Wins Senate Committee Vote, Crypto Wrench Attacks Surge  Bloomberg Crypto 5192026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/When is the SpaceX IPO Elon Musk Wants it 'Pretty Soon'  The Pulse 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/US Tells Iran ‘Clock Is Ticking’, Stocks Fall as Brent Hits $110  The Opening Trade 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/US Says China to Buy $17 Billion in Farm Goods Annually.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/US Faces Challenging Summer Gas Season, BofA’s Blanch Says.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Trumps Says Clock is Ticking for Iran  Daybreak Europe 05182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Trump-Xi Summit Brings Clarity, AmCham China Says.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Trump Warns Iran to Move Fast; Bond Selloff Deepens  Horizons Middle East & Africa 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Strait of Hormuz Is Source of Asset Pain 3-Minutes MLIV.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Stocks, Bonds Decline as Brent Hits $110  Bloomberg Brief 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Stock Rally Falters as Investors Eye Inflation  Open Interest 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/SpaceX IPO Could Value Company at $2 Trillion.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Nvidia's Huang, Michael Dell on Agentic AI, Memory Demand and China.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Nvidia's Huang Sees China Becoming a More Open Market.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Nvidia Q1 Revenue Expected to Reach Record $79 Billion.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Nvidia CEO Huang Think of AI agents as digital workers shorts nvidia dell ai aiagents tech.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Musk Wants to Get SpaceX IPO Underway 'Pretty Soon'.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/LIRR Strike Snarls NYC Commutes as Negotiations Continue.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Jury Rules Elon Musk Sued Sam Altman Too Late Over OpenAI.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Iran War Fuels Bond Rout as Asia Markets Reel  Insight with Haslinda Amin 05182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Global Bond Sell Off Hits Markets, JPMorgan's Tokenized Fund Filing  ETF IQ 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Global Bond Rout Deepens as Inflation Fears Hit Stocks  The Asia Trade 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Extended Oil Shock Spells Higher, Sticky Inflation.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Europe Won’t Run Out of Jet Fuel, Ryanair CEO Says.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/China's Economy Slows Sharply in April  The China Show 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/CDC to Get Some Americans Out of Ebola Region in Congo.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5182026.md
+- 2026-05-18 | 01_Videos/Bloomberg Television/5% is New 4% in Era of Higher Yields, Says Guneet Dhingra.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/US Gas Prices Near Record High.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Trump Ethics Filings Reveal Unusually High Number of Tech Stock Trades.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Trading During a Global Economy Shift.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Rep. Mike Lawler I Support Continuing to Arm Taiwan.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Rep. Clarke on Impact of Supreme Court's Redistricting Decision.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Polls Open Tuesday on Mini Super Tuesday.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/NVIDIA Earnings Anticipated Wednesday Amid Supply Constraints and China Uncertainty.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/New Book Details Silicon Valley's Grip on College Campuses.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Millennial Men Are Rethinking What 'Aging Well' Means.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/GOP Sen. Bill Cassidy Loses Race in Win for Trump.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/China’s Energy Boom Could Give It the AI Edge.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Can New York City Tax the Rich Without Driving Them Away.md
+- 2026-05-17 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Bill Cassidy Loses Primary Race, Trump Uses Taiwan as Negotiating Chip.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/‘The Oppenheimer’ of the AI Era.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Voters Head to the Polls in Louisiana.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/UK Elections Signal Political Shakeup.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Trump Leaves China With No Resolution  Balance of Power 05152026.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Trump is Ambiguous Over Taiwan After Summit in China.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Trump Calls Trip to China a Historic Moment.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Tech Heads Accompany Trump on China Trip.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Sports, Media, Inflation  The Pointed News Quiz.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Ray Dalio 'Expect a Tribute System' as China Influence Grows.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/New York Commuter Rail Strikes, Stranding 300,000 Daily Riders.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Classic Cars, Cocktails, Peptides  BTW.md
+- 2026-05-16 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump Returns from China, Xi to Meet with Putin, LIRR Goes on Strike.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/What's Really Going on in Bond Markets 3-Minutes MLIV.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Wall Street Week  Dalio's Warning, AI Arms Race, China Powers Ahead, NYC Tax Standoff.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Wall Street Prices Out Rate Cuts, Eyes Hikes, Global Bond Selloff Deepens  Real Yield 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/US, China Agree to Stabilize Ties, But Taiwan Risk Lingers  Insight with Haslinda Amin 05152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Trump-Xi Summit Trump Says China Offered to Help on Iran  Daybreak Europe 05152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Trump-Xi Summit Chinese Leader Hails ‘Landmark’ Talks.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Trump's China Deals Are Just Performance, Says Ex-US Trade Rep.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Trump Wraps Up China Trip  Balance of Power Early Edition 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Trump Says Relationship with China's Xi is 'Very Strong'  The Pulse 05152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Trump Says He Made No Commitment to Xi Over Taiwan.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Trump Says China Offered Iran Help After Ship Seizure  Horizons Middle East & Africa 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/SocGen Says 'Unhinged' Yields Pose Early Test for Warsh.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Pound and Gilts Under Pressure Amid Starmer Uncertainty.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/OpenAI May Raise More Capital as Compute Crunch Deepens, CFO Says.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Oil Prices Spook Investors, Consumers Feel Price Crunch  Bloomberg Businessweek Daily 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/New York Plans Tax on Homes Over $1 Million Purchased With Cash.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/MIT Warns of Loss From Funding, Grad Enrollment Drops.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Inflation Is Roiling Bond Markets as Yields Rise  The Opening Trade 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Inflation and Fed Policy Are on Collision Course, Page Says.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/How Trump-Xi Summit Could Reshape US-China Trade.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Greer US, China Willing to Continue Trade Truce.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Greer Says He Doesn't Expect Taiwan Issue to Affect Trade With China  The Asia Trade 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Global Bonds Sell Off Amid Inflation Angst; Trump-Xi Summit Concludes  Bloomberg Brief 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Global Bond Selloff Halts Stock Rally  Open Interest 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Global Bond Selloff Deepens as Oil Prices Rise  The Close 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Fed Faces Regime Change as Powell's Chairmanship Ends.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Equities & Bonds Take a Hit To Close the Week  Closing Bell.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/DC Landmark Gets The ‘SNL’ Treatment.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Comparing China and US Statements on Trump-Xi Summit.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/China Calls for Hormuz Reopening  The China Show 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Burns on Key Takeaways From the Trump-Xi Summit.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Boeing Gets China Deal at Trump’s Visit, With Many Questions.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5152026.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Billionaire Adani Pays $18 Million to Settle US Bribery Case.md
+- 2026-05-15 | 01_Videos/Bloomberg Television/Big Tech, Chips Will Push Nasdaq to 30,000, Ives Says.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Xi, Trump Meet in China  Balance of Power Early Edition 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Xi Warns Trump of Possible ‘Clashes’ If Taiwan Issue Mishandled.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Xi Says Common Interests Outweigh Differences.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Xi and Trump Tackle Tech, Trade, Taiwan, and Tehran  Insight with Haslinda Amin 05142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/US Says Trump, Xi Discussed Increased Farm, Oil Trade.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/UK Navy Says Ship in Gulf of Oman Taken, Heading to Iran.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump-Xi Talk Taiwan, Trade & Iran During Summit  Balance of Power 05142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump-Xi Summit; Tech Rally Persists; Warsh Confirmed as Fed Chair  Bloomberg Brief 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump-Xi Summit Xi Warns Trump Of ‘Clashes’ If Taiwan Issue Mishandled  Daybreak Europe 05142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump-Xi Summit Leaders Discuss Farm and Oil Trade  The Opening Trade 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump-Xi Summit China Says Will Open Up & Starmer Fights for Survival  The Pulse 05142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump-Xi Meeting Focuses on Taiwan Issue.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump, Xi Set to Meet in China Within Hours  Balance of Power 05132026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump, Xi Meet With Iran and Trade in Focus  The Asia Trade 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Trump in China for Xi Summit; Stocks Waver  Horizons Middle East & Africa 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Tech Stocks Power Wall Street Gains  The Close 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Starmer in Crisis Burnham Path to Challenge Starmer Opens as MP Quits.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Open Interest 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Modi Is More Powerful Than Ever – Even As India's Economy Strains.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/JPMorgan's Quinsee Says Investors Should Look Beyond Big Tech for Strong Returns.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Invesco CEO on Private Assets, QQQ Growth and Nasdaq Partnership.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Fed’s Miran on Supply Shocks, Policy, Central Bank Tenure.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/China's Xi Greets Trump in Beijing.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Cerebras’ IPO Price Soars  Closing Bell.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Bonds Have Much More to Selloff In 2026 3-Minutes MLIV.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5142026.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/AI chipmaker Cerebras raises $5.55 billion in year’s biggest IPO.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/AI Chipmaker Cerebras Systems Surges 81% in Trading Debut.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/Active Debate Is Important at the Fed, Shah Says.md
+- 2026-05-14 | 01_Videos/Bloomberg Television/'Better Than Ever' Trump, Xi Hail Ties at Beijing Summit  The China Show 5142026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Why Trump Brought Nvidia's CEO With Him to China.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Warsh Confirmed by Senate to Lead Federal Reserve.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/US Producer Prices Climb by Most Since 2022.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump-Xi Summit Nvidia CEO Joins Air Force One to China  Daybreak Europe 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump Lands in China for Xi Summit  Balance of Power Early Edition 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump Lands in China as War-Fueled Inflation Surges  Open Interest 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump in China Nvidia CEO Joins Musk and Cook on Trip.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump Heads to China, SoftBank Profit Jumps on OpenAI Bet  The Opening Trade 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump Faces Emboldened Xi as War Clips US Leverage  Horizons Middle East & Africa 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump En Route to Beijing For Highly-Anticipated Summit  Balance of Power 05122026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Trump Arrives in China For High-Stakes Meeting With Xi.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Tech Rebounds; Trump Heads to China  Bloomberg Brief 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Stocks Get Tech Boost Despite Pickup in Inflation  The Close 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Shaquille O'Neal on Partnership with Authentic Brands.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Senate Votes to Confirm Kevin Warsh as Next Fed Chair  Bloomberg Businessweek Daily 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Oil Inventories Falling at Record Pace, Warns IEA  The Pulse 05132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Nvidia's Jensen Huang Joins Trump's China Trip  The China Show 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Markets on Edge as Trump-Xi Talks Loom  The Asia Trade 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Ford Shares Take Biggest Leap Since 2020  Closing Bell.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/FDA's Makary Resigns With Agency in Turmoil.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Everything We Know About Trump's State Visit to China.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Cisco Sales Forecast Tops Estimates, Will Cut 5% of Jobs.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/China Dominates Offshore Wind as Global Tensions Rise.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Boeing Bets Comeback on Trump, China and an Elusive New Plane.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Anthropic’s $30 billion financing talks, and what they meanshorts anthropic ai finance claude.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Anthropic in Talks to Raise $30 Billion at a $900 Billion Valuation.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/Anthropic Could Be Valued At $900B In New Raise, Next Chapter For Media  Bloomberg Deals 5132026.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/AI In Focus As Top CEOs Head To China For Trade Summit.md
+- 2026-05-13 | 01_Videos/Bloomberg Television/A More Assertive China Awaits a Leverage-Less Trump  Insight with Haslinda Amin 05132026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/What to Expect From the Trump-Xi Summit in Beijing.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/US-Iran Ceasefire Remains Fragile; Starmer Intends to Stay as PM; CPI  Bloomberg Brief 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/US Inflation Accelerates  The Close 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/UK's Starmer Tries to Shut Down Labour Rebellion.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/UK's Starmer Faces Mounting Pressure to Step Down.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Trump To Discuss Taiwan, Jimmy Lai With Xi at Summit  The China Show 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Trump Says Trade Not Iran Will Be Priority in Summit With Xi (Q&A).md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Trump Says He's Going to Have a 'Great' Meeting With Xi.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Trump Faces Emboldened Xi in China  Balance of Power Early Edition 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Trump Ceasefire With Iran on ‘Massive Life Support’  Horizons Middle East & Africa 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Starmer Rebuffs Calls to Resign, Gilts Open Lower on Risk  The Opening Trade 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Senate Crypto Bill Under Discussion, Use of Stablecoins For Payments.  Bloomberg Crypto 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Senate Confirms Kevin Warsh to Fed Board of Governors.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/S&P 500 & NASDAQ Fall as Oil Jumps  Closing Bell.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Morgan Stanley's Gapen Expects Inflation to Peak in May or June.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/JPMorgan's Dimon Weighs In on Markets, Iran War and AI.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/JPMorgan's Dimon Sees Too Much Exuberance in Markets.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Is There Congressional Support For Trump's Temporary US Gas Tax Halt.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Iran War Trump Says Ceasefire on 'Life Support' Ahead of China Visit  Daybreak Europe 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Inflation Climbs, Tech Cools and Dimon Warns on Market Exuberance  Open Interest 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/India’s Top Jeweler Sees Brief Slowdown if Gold Buying Curbed.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/India Weighs Emergency Steps to Protect Forex Reserves  Insight with Haslinda Amin 05122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/In A Game of Chicken Daadler on US-Iran Talks.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/How the Trump-Xi Relationship Has Changed.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/How Epstein Moved Women With His Exclusive Amex Card.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Gilts Have Global Relevance Right Now 3-Minutes MLIV.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Food, Fuel and Rent Prices Accelerate Inflation  Bloomberg Businessweek Daily 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/eToro Earnings Beats Expectations.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Ed Yardeni Boosts S&P Target Amid ‘Unprecedented’ Earnings Expectations.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Defiant UK Prime Minister Starmer Tells Cabinet He's Staying  The Pulse 05122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Could Iran Not Be on Agenda During US-China Summit.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Chip Stocks Down on Momentum and Not CPI, Bokeh's Forrest Says.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Bessent in Tokyo Ahead of Xi‑Trump Meet  The Asia Trade 5122026.md
+- 2026-05-12 | 01_Videos/Bloomberg Television/Australia Targets Housing Inequality in New Budget.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/We're Alright as Long as AI Is Okay 3-Minutes MLIV.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/US-Iran Tensions Flare Ahead of Trump-Xi Meeting  Balance of Power 05112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/US Citizens With Hantavirus Isolated in Nebraska.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Trump, Xi Slated for Beijing Summit Amid Iran Conflict.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Trump Says US-Iran Ceasefire Is in Weak State (FULL Q&A).md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Trump Says Iran Ceasefire Is Weakened  Balance of Power Early Edition 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Trump Rejects New Iran Peace Offer; Oil Jumps  Horizons Middle East & Africa 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Trump Rejects New Iran Peace Offer as ‘Totally Unacceptable’.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Trump Rejects Iran Offer as Tensions Rise  Open Interest 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Trump Rejects 'Unacceptable' Iran Offer, AI Boost Continues  The Asia Trade 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/The Iran Peace Push Stalls; India Turns to COVID Playbook  Insight with Haslinda Amin 05112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/The Arms Race That Could Determine Iran War Outcome.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Starmer's Make-or-Break Speech, Hormuz Strait Stalemate  The Opening Trade 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Stablecoins Are Quietly Changing How the World Sends Money.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/S&P Rises as Chipmakers Lift Stocks  The Close 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Oil Gains as Trump Signals Iran Deal On 'Life Support'  Bloomberg Businessweek Daily 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Oil Climbs as US, Iran Remain At Impasse; Bessent in Asia  Bloomberg Brief 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Moderna Shares Surge on Hantavirus Research.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Keir Starmer Delivers Speech to Save His Premiership (Full Remarks).md
+- 2026-05-11 | 01_Videos/Bloomberg Television/JPMorgan Says Equities at All-Time Highs 'Make Sense'.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Iran War Trump Rejects Iran Latest Offer & Trump-Xi Summit  Daybreak Europe 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Iran Peace Efforts Falter & China Confirms Trump-Xi Summit  The Pulse 05112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/India's Modi Urges People to Cut Back on Travel as Fuel Prices Rise.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/How Ketamine Spawned a $1.7 Billion J&J Blockbuster Drug.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/DRAM's First-Month Surge, Corgi Launches Record 34 ETFs  ETF IQ 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Brent Has Found an 'Uneasy Equilibrium,' StanChart Says.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 5112026.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Bartels Expects Secular Bear Market to Start Next Decade.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/Another Record Setting Day for US Equities  Closing Bell.md
+- 2026-05-11 | 01_Videos/Bloomberg Television/AI Trade Lifts Asian Stocks  The China Show 5112026.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Why Parenting Now Feels Like an Investment Strategy.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Trump, Xi Set to Meet for High-Stakes Meeting in Beijing.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Trump's Latest 10% Tariffs Declared Unlawful by US Trade.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/The Ultimate Guide to Travel Insurance for Complex Times.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/The Sparkling Water Wars Are Just Getting Started.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Spice Company Wins Suit Over 10% Trump Global Tariffs.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/RNC Gruters This President's Been Going to Bat for the Average American Worker.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Qatar Sends First LNG Shipment Through Hormuz Since War Started.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Pointed News Quiz  Ted Turner, Pharmaceuticals, Finance, Elon Musk.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Olszewski Not Confident the US Can Negotiate an Advantageous Deal with Iran.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/O'Brien Supreme Court Voting Rights Act Decision Likely Lead to Redistricting War.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Hantavirus-Hit Cruise Ship Begins Evacuation in Canary Islands.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/BTW Headlines You Should See  Weird Gelato, Elf Ears, Capsule Hotels.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Qatar Sends Ship Through Strait, Passengers Disembark Ship with Hantavirus.md
+- 2026-05-10 | 01_Videos/Bloomberg Television/Bloomberg News Now Iran Replies to US Peace Plan, LNG Tanker Transits Hormuz, More.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/‘It’s Not Because They Want to Be Friends’ Brilliant on What to Expect From the Trum 2883ecfc.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Wayve CEO on Tesla, Waymo and the Future of Self-Driving Cars.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/US Awaits Iranian Response After Hormuz Clashes Strain Ceasefire.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Rachel Entrekin Shatters 250-Mile Course Record.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Pressure is Mounting Amb. Hale on US-Iran Relations.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/New Zealanders Are Moving to Australia in Record Numbers. Can It Get Them Back.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Iran War Drives Africa’s Fertilizer Crisis.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Exploring The Met's New Costume Art Exhibit.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/DOJ Probing Suspicious Oil Trades Tied To Iran War.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Daniel Dae Kim Make Korean Culture Global in Docuseries.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Dangers of Sitting, Astrology Vacations, Man Bands  BTW Headlines You Should See.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/China Summit Stays on Track Despite Iran Concerns.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/China is Just Watching Ro Khanna on Why the Iran Conflict is a Gift to Beijing.md
+- 2026-05-09 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US Awaits Iranian Response to Proposed Deal, Hantavirus Hits Cruise Ship.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Why the Iran War is Hitting Indian Stocks Harder Than Other Markets.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/War Risks Rattle Markets as US and Iran Exchange Fire  Insight with Haslinda Amin 05082026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Virginia’s Top Court Blocks Democrats’ New Congressional Map.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US, Iran Trade Fire as Trump Demands Deal  The Asia Trade 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US, Iran Forces Clash; Trump's 10% Tariffs Deemed Unlawful; Jobs Day  Bloomberg Brief 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US Fires on Iran Targets as Trump Demands Deal From Tehran  Horizons Middle East & Africa 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/US Adds 115,000 Jobs in April, Unemployment Rate Holds.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/UK Elections Starmer Vows to Stay On as Farage Gains  The Pulse 58.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Trump Demands Deal From Tehran  Balance of Power Early Edition 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/NYC Tax Plan That Angered Rich Proving Hard To Design.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Jobs Surge As AI Stocks Wobble  Open Interest 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Jobs Report Should Not Cause Fed to Hike Rates, Hassett Says.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Iran War Clashes Near Strait of Hormuz Threaten Fragile Ceasefire  Daybreak Europe 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Inflation Is 'Topic of the Moment,' Says Fed's Goolsbee.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Hassett Says US Has a 'Rip-Roaring Jobs Market'.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Flare-up in US-Iran Tensions Jolts Markets  The China Show 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Fed's Goolsbee on Inflation Risk, Rates and Warsh.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Earnings Boost Before Stagflation Fears 3-Minutes MLIV.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/CoreWeave's Q1 Earnings Were 'Transformational,' CEO Says.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Clashes Near Hormuz Send Oil Higher, UK Local Elections  The Opening Trade 582026.md
+- 2026-05-08 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 582026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Will.i.am on Ethical AI Use & Growing AI Opportunities.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/We're Going Towards a Cliff on Oil Says Hochstein.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Wall Street Poised for Bonus Increases in ‘Year of the Bank’.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US, Iran Weigh Potential Deal; Global Stock Rally Builds  Horizons Middle East & Africa 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US Awaits Iran's Response; China Asks Banks to Pause New Refiner Loans  Bloomberg Brief 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US Awaits Iran's Peace Deal Response  Balance of Power Early Edition 5072026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/US & Iran Weigh Potential Deal to End War as Trump Seeks Offramp  Daybreak Europe 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Trump Says Iran Deal Possible Before Xi Summit  The China Show 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Stocks Crazy Rally Won't Tire Naturally 3-Minutes MLIV.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Starwood CEO on Business Strategy, AI, Data Centers.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Seroka Shipping Firms in Wait and See Mode.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Ruchir Sharma on Why India Seems to Be on the Wrong Side of the AI Trade.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Pentagon's Botched Blacklist Looms Over Trump-Xi Summit in China.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Oil, Gas Plunge As Iran Weighs US Proposal to End War  Balance of Power 05062026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Oil Prices Whipsaw as US-Iran try to work out deal to end war.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Oil Prices Are Moving Like Crazy, Citi's Layton Says.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/New Risks to the Port That Became the UAE’s Lifeline As Hormuz Closed.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Missile Unveiled by Turkey Has a Range of 6,000 Kilometers.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Japan Catchup Rally, Iran Optimism Fuels Asia To Record  The Asia Trade 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran's Leaders Meet as US Waits on Peace Deal Response.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran Weighs One-Page US Memorandum to End War.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran War Stocks Build on Gains as Traders Await Truce Update  The Opening Trade 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Iran Nuclear Threat Germany Moves to Fix Trump-Merz Rift  The Pulse 57.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Inflows & Outflows For ETFs, Mary Daly Speaks With Bloomberg Live  ETF IQ 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Honduras’ New President Reviews China Ties.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Fed’s Daly Says Policy Division Is Less Important Than FOMC Action.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Fed Can't Lose Credibility, Says Doubleline's Campbell.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Evelyn Farkas Iran's Nuclear Program is the Number One Problem.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Could GOP Infighting Hurt Republicans in November.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 572026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Asia Stocks Rally Hard as AI Boom Outpaces War Risks  Insight with Haslinda Amin 05072026.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/Ark Invest's Wood on AI, Crypto and Impending SpaceX IPO.md
+- 2026-05-07 | 01_Videos/Bloomberg Television/AI Rally Powers Wall Street Earnings  Open Interest 572026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Says Iran Ceasefire Still In Place After Hormuz Clash  Balance of Power 05052026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Oil Storage Tanks to Run Empty Around July 4, Currie Says.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Gasoline at $5 'Not Likely', Oil Analyst Schork Says.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/US Could Impose Auto Tariffs on EU 'Soon' Ambassador.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Trump Will Address China Buying Iranian Oil, Greer Says.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Trump Pauses Plan to Guide Ships While Seeking Iran Deal.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Trump Pauses Plan to Guide Ships While Seeking Iran Deal  Horizons Middle East & Africa 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Stocks Rally, Oil Falls on Iran Deal Hopes; US Gasoline Tops $4.50Gallon  Bloomberg Brief 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Samsung Joins $1T Club, Stocks Extend Rally on Iran  The Asia Trade 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Samsung Hits $1 Trillion Valuation.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Oil Slides On Iran Deal Hopes  Open Interest 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Novo Raises Forecast as Wegovy Pill Fuels Sales.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Iran War US Boosts Efforts to End Mideast Conflict  The Pulse 56.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Iran War Trump Pauses Plan to Guide Ships in Hormuz, Seeks Iran Deal  Daybreak Europe 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Iran Evaluating New US Proposal to End War as Trump Warns of More 'Bombing'.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/How AI Is Changing Risk and Returns in Global Bond Markets  Insight with Haslinda Amin 05062026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Greer on EU Complying With Trade Deal, Trump to China.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Disney Parks, Films Boost Profit in CEO’s Debut Quarter.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Commodities Saudi Arabia Cuts Oil Prices for June.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/China Tech Stocks Join Broad Rally After Holiday  The China Show 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 562026.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/Anthropic Unveils AI Agents for Financial Services Tasks.md
+- 2026-05-06 | 01_Videos/Bloomberg Television/'Project Freedom' Pause, Stocks Rally as AI Spend Drives Tech  The Opening Trade 562026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/What It Will Take to Fix the Oil Market.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US-Iran Truce Jolted After Both Trade Fire in Gulf  The China Show 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US-Iran Ceasefire Holds; Apple Weighs Using Intel, Samsung for Processors  Bloomberg Brief 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US Trade Deficit Widens in March to $60.3 Billion.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US and Iran Trade Fire in the Gulf, UAE Intercepts Missiles.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/US and Iran Trade Fire in Gulf, Jolting Four-Week-Old Truce  Horizons Middle East & Africa 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/TCW's Katie Koch Sees No Reason to Panic Over Private Credit.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Stocks Near Highs As Earnings Roll On  Open Interest 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Ship Attacks Reignite US-Iran War Risks   Insight with Haslinda Amin 05052026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/SEC Unveils Proposal for Semiannual Reporting.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Robinhood Just at Beginnings of Prediction Markets, CEO Tenev Says.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/PayPal Plans to Cut 20% of Workforce as CEO Seeks to Revamp.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Mnuchin Talks Semiannual Reporting, AI and Fed Rates.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Mideast War Hormuz Fighting Raises Prospect of Fresh US Strikes on Iran.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Markets on Edge as US, Iran Trade Fire in Gulf  The Asia Trade 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/KKR CFO Sees 'Compelling' Case for Private Credit.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/JPMorgan's Aiyengar Says Clients Are Going for Bigger Deals.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Iran War US Stocks Bounce as Traders Track If Truce Hold  The Opening Trade 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Iran War Update The Ceasefire Is Not Over With, Hegseth Says.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Iran War Flareup of Violence Tests Ceasefire  Daybreak Europe 05052026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Inflation Pushes Bonds to Breaking Point 3-Minutes MLIV.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Industry Leaders Look for Energy Solutions at Milken  Balance of Power Early Edition 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Guggenheim's Schwartz Concerned Private Credit Will Crack.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Goldman's Snider Sees 'Yellow Flags' in Equities.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Duke Energy Beats on Profits and Revenue, But Is Not Raising Guidance.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 552026.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/Apple Considers Using Intel, Samsung to Build Device Processors.md
+- 2026-05-05 | 01_Videos/Bloomberg Television/'Irrationally High' Risk of Iran War Restarting Bloomberg Opinion's Champion  The Pulse 55.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Wall Street Leaders Gather at Milken as Mideast Tensions Rise  Open Interest 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/US to Guide Trapped Ships Through Hormuz; Oil Steadies  Horizons Middle East & Africa 452026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/US Says Navy Ship Was Not Hit by Iranian Missiles.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump's New Hormuz Plan; China, Europe Respond to US Trade Agenda  Bloomberg Brief 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump's Hormuz Plan; Takaichi Visits Australia  The Asia Trade 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump's 'Project Freedom' Is Nearly Impossible to Pull Off, Says Gavito.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump Says US to Guide Ships Through Hormuz & US-EU Tariffs Dispute  Daybreak Europe 05042026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Trump Is Imposing Economic Pain on Iran, Cruz Says.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Stocks Rally With Asia Hitting Record on AI Trade  The Opening Trade 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Shipping Security in Hormuz Is a Concern, Chevron CEO Says.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/PJT CEO Says Retail Will Stop Fueling Private Credit Growth.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Oil Rises as US Hormuz Plan Leaves Shipowners Guessing.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Oaktree's Panossian Warns of Building Credit Market Risks.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Iran War US to Help Ships Exit Hormuz & Trump Plans 25% Tariff on European Autos  The Pulse 54.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Iran Is Desperate, But Regime Won't Change, Bremmer Says.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Inside the First Berkshire Shareholder Meeting With Greg Abel as CEO.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Fmr Indian Navy Officer Says US Hormuz Escort Plan Raises Huge Risks.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Ex-Taiwan Lawmaker warns of China’s 'Dangerous' Strategy.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Business Leaders Talk Geopolitical Risk at Milken  Balance of Power Early Edition 5042026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Asian Stocks Hit Record as Iran Fears Ease  The China Show 542026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/AI Helps Asia Stocks Surge Defying Iran War Risks  Insight with Haslinda Amin 05042026.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/AI All That Matters Even as Yields Climb 3-Minutes MLIV.md
+- 2026-05-04 | 01_Videos/Bloomberg Television/Ackman Talks Succession, Universal Music Bid and Mamdani.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Why Geothermal Could Be the Energy Breakthrough Everyone Agrees On.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/US Navy Taps AI Firm to Clear Iranian Mines in Strait of Hormuz.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Sununu Spirit Bailout Made No Financial Sense Whatsoever.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/South African Wine Estates Become Focus for Global Buyers.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Sharapova's 'Pretty Tough' Smashes Podcast Manosphere.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Rep. Kiley Iran Cannot Be Allowed To Get A Nuclear Weapon.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Rep. Fields We Need Term Limits on the Supreme Court.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Pointed News Quiz  AI, Marathon, Toys.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Las Vegas Is Gambling on Its Own Reinvention.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Goop Kitchen, Ozempic Breath, Hotspan  BTW Headlines You Should See.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/FCC Commissioner Gomez Condemns Early ABC License Review as First Amendment Violation.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump Reviewing Iran's Proposal, Spirit Leaves Passengers Scrambling.md
+- 2026-05-03 | 01_Videos/Bloomberg Television/Bloomberg Dispatch It’s a Weird Time to Be Named Claude.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Why Vibe Coding Isn’t the End of the Software Engineer.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/What Kevin Warsh Means for the Future of the Fed.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/UAE Departs OPEC as Iran Feel Economic Sting of Blockade.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Trump Rues State of Iran Talks.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Spirit Airlines Shuts Down Operations After White House Bailout Collapse.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/South Africa's Karoo Region Bets on Pistachio Boom.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/J&J's $1.7 Billion Drug Ushers in Age of Psychedelic Medicine.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Iran War Hits 60-Day Legal Deadline  Balance of Power 05012026.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Spirit Airlines Shuts Down, Berkshire Hathaway Q1 Earnings.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Bloomberg House Miami Highlights the F1 Grand Prix.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Blockade Continues in Hormuz and Iran War Drags On.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Berkshire Hathaway Posts $11.35 Billion Q1 Earning.md
+- 2026-05-02 | 01_Videos/Bloomberg Television/Actor Ben McKenzie Explores Cryptocurrency Fraud in Documentary.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Yen Intervention Faces Headwind from Higher Energy Prices 3-Minutes MLIV.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Wall Street Week  Warsh’s Fed, Vibe Coding, Geothermal Energy, Vegas Bets Big.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/US Economy 'Incredibly Resilient' Mossavar-Rahmani.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/US Economic Resilience Lowers Rate Cut Odds, Private Credit Fears  Real Yield 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Vows to Maintain Pressure on Iran Through Naval Blockade  The Pulse 51.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Vows Iran Pressure With Naval Blockade, Yen Resumes Rally  The Opening Trade 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Sticks With Blockade, Says It's 'Incredible'.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Sticks To Naval Blockade; Apple's Strong Rev Forecast  Horizons Middle East & Africa 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Says 'Not Happy' on Iran, Touts Hormuz Closure  Balance of Power Early Edition 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Trump Bemoans Iran Talks, Magna CEO Talks News Trump Tariffs  Bloomberg Businessweek Daily 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Stocks Keep Record Highs on Renewed US-Iran Hopes  The Close 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Stocks Hold Record Highs  Closing Bell.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Iran War Trump Says Blockade Having 'Incredible' Effect  Daybreak Europe 05012026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Futures Waver After Stocks Notch Best Month Since 2020; Apple Earnings  Bloomberg Brief 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Florida’s Brightline Seeks Rescue to Avoid Bankruptcy.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Chevron CFO Bonner on Earnings, Buyback and Oil Prices.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Barclays' Rajadhyaksha Shifts to Neutral on Risk Assets.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Artemis II Is Just the Opening Act for NASA, Isaacman Says.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Apple Sales Forecast Beats Estimates.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Apple Growth Engine Powers Ahead  Open Interest 512026.md
+- 2026-05-01 | 01_Videos/Bloomberg Television/Aluminum Facing 'Very Large Supply Hole,' JPM Says.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/US-Iran War Is Trump Considering Fresh Military Options.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Royal Caribbean CEO Sees Robust Demand Despite Risks.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Oil Hits Wartime High; Trump Rejects Iran Offer  Horizons Middle East & Africa 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Oil Hits Wartime High; Tech Earnings; ECB, BOE Rate Decisions  Bloomberg Brief 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Oil Hits Wartime High on Report US Eyeing Iran Military Options  Daybreak Europe 04302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Japan's 'Final Warning' on Yen as US Rate Gap, Iran Tensions Bite  The Pulse 430.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Iran War Oil Hits 4-Year High on Report US Mulls Military Options   The Opening Trade 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/House Votes to End DHS Shutdown  Balance of Power Early Edition 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Hassett on Powell Staying at Fed, Inflation and Oil Spike.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Fed's Hawkish Tilt, Iran Concerns Weigh on Markets  The China Show 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Fed Shows Division, Earnings Power Asia Tech  The Asia Trade 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Fed Keeps Rates Steady As Powell's Leadership Nears End  Balance of Power 04292026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/F1 Meets Finance in Miami  Open Interest 4302026.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Dovish BOE Pushback Could Undermine Pound 3-Minutes MLIV.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/BOE Interest-Rate Decision  Special Coverage.md
+- 2026-04-30 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4302026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/US Signals No Letup of Naval Blockade in Bid to Squeeze Iran.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/UAE's OPEC Exit Blindsides Cartel Amid Iran War  The China Show 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/UAE Exits OPEC, OPEC+; Hormuz Blockade Continues  Horizons Middle East & Africa 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/UAE Blindsides OPEC, OpenAI Sparks Tech Jitters  The Asia Trade 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Trump Signals No Letup of Naval Blockade, Tech Results on Deck  The Opening Trade 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Trump Says Iran ‘Better Get Smart Soon’.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Starbucks CEO on Earnings, Sales Growth, Speedy Service.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Powell Says He Has 'No Choice' But to Stay at Fed.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Pershing Square's Ackman Talks IPO, State of Markets.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Large-cap Earnings Overshadow Iran Stalemate 3-Minutes MLIV.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Key Takeaways From King Charles III's Address to Congress.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Iran's Uranium Stockpile Must Be Addressed, Grossi Says.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Iran War Trump Warns of Extended Hormuz Blockade WSJ  Daybreak Europe 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Iran War Trump Posts 'No More Mr. Nice Guy' Caption  The Pulse 429.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/IAEA Believes It Knows Where Iran's Buried Uranium Is.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Fed Leave Rates Unchanged, Four Officials Dissent.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Fed Chair Nominee Warsh Wins Key Senate Committee Vote  Balance of Power Early Edition 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/DIGI Big Tech Capex Hits Critical Limit.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/China’s Meta Backlash Kills Manus Model  Insight with Haslinda Amin 04292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Big Tech Faces Make or Break Moment  Open Interest 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Big Tech Earnings; No Letup of US Naval Blockade; Fed Decision  Bloomberg Brief 4292026.md
+- 2026-04-29 | 01_Videos/Bloomberg Television/Ackman Says Stocks Above 'Stupidly Cheap' Market Bottom.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Why Merz Comments Could Further Harm EU-US Relations.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/WHCD Shooting Was a 'Near Miss' Security Expert.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/US Not Considering an Energy Export Ban, Secretary Wright Says.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/UAE Leaving OPEC at Right Time, Energy Minister Says.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump reviews Iran plan; China blocks Meta-Manus deal  Horizons Middle East & Africa 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump Meets National Security Team as Iran Proposes End to War.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump Hosts King Charles Amid Strained UK Ties Balance of Power Early Edition 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Trump Discusses Iran Proposal With Aides, White House Says.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Spotify Shares Fall Most Since 2022 on Operating Income Forecast.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/OpenAI-Linked Stocks Slump, Oil Tops $110 Again  The Opening Trade 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/OPEC Faces Rift After UAE Exit  Open Interest 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Oil Rises as Traders Await US Response to Iran Proposal  Bloomberg Brief 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Nicolai Tangen, Norway's Wealth Fund CEO, on Markets, Real Estate, AI and China.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/King Charles III Addresses Congress About US-UK Relations.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Kimmel Defends Joke in Latest Fight With Trump.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Iran, Rate Calls Loom Over Asia’s Tech‑Led Rally  The Asia Trade 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Goldman Hikes Oil Forecasts Again as Hormuz Shock Builds.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/GM Hikes Profit Outlook on Strong Truck, SUV Demand.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Fortescue’s Mark Barnaba on Iran, Rates and China.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Formula 1 May Reschedule One Middle East Race Canceled Due to Iran War.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/China Forces Meta to Unwind AI Deal as BOJ Turns More Hawkish  Insight with Haslinda Amin 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Central Banks Focus on Energy Shock Ahead of Rate Decisions.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/BOJ Holds in Shock Split Vote & Merz Says Trump 'Humiliated' By Iran  Daybreak Europe 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Bitcoin Up More Than 10% In April, SEC Chair Outline Crypto Plans  Bloomberg Crypto 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/Beijing Blocks Meta‑Manus Deal That’s Already Done  The China Show 4282026.md
+- 2026-04-28 | 01_Videos/Bloomberg Television/AI Stocks & Big Tech Earnings Why OpenAI Partners are Falling  The Pulse 428.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Why Did China Block a $2 Billion Deal for Meta.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Why DeepSeek V4 Impresses Despite Lack of 'Wow' Factor.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/White House to Assess Safety Measures After Dinner Shooting Says Leavitt (Opening Remarks).md
+- 2026-04-27 | 01_Videos/Bloomberg Television/White House Assesses Security After Dinner Shooting  Balance of Power Early Edition 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/What We Know About the Gunman in DC Gala Attack.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/What to Expect From King Charles' Visit to Washington.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Wendy Cutler What’s at Stake at the Trump-Xi Summit.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Washington Attack Raises Presidential Security Issues.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Wall Street Split on Quantum Computing Bet.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Strong Start For ETFs In 2026, What's Next For The Fed  ETF IQ 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/RBC’s Calvasina Sees US as Global Safety Trade Amid Iran War.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Pollster Frank Luntz on his experience at the WH Correspondents' Dinner and What's Next.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Markets on Edge With Rates, Earnings, Iran in Focus  The Asia Trade 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Markets Brace for Busy Week of Rate Decisions, Earnings  Bloomberg Brief 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Mag 7 Earnings Test $16T AI Rally  Open Interest 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/King Charles and Camilla Arrive in US for State Visit.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran's Terms To Reopen Hormuz; DC Gunman Targets Officials  Horizons Middle East & Africa 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran's Araghchi Arrives in Russia as US Talks Stall.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran War Stocks Slip From Highs as Hormuz Remains Shut  The Opening Trade 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran Said to Offer US New Proposal to Reopen Strait of Hormuz  Daybreak Europe 04272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Iran Reportedly Offers Plan to Open Strait  The China Show 4272022.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Hormuz Blockade, AI Race and Asia’s Great Market Divide  Insight with Haslinda Amin 04272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Fed, BOJ, Bank of Canada Expected to Hold Rates.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/China Blocks Meta’s $2 Billion AI Deal; DeepSeek Slashes Prices  The Pulse 425.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Central Bankers Have Bond Market on Edge 3-Minutes MLIV.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4272026.md
+- 2026-04-27 | 01_Videos/Bloomberg Television/Ackman’s Pershing Square IPO Expected to Raise $5 Billion.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/UN Deputy Secretary-General Warns of Food Security Risks in Africa.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Trump Recounts Shooting Incident at Correspondents’ Dinner.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Trump Evacuated After Shooting at Press Dinner, Gunman Detained.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Shots Fired at White House Correspondents' Dinner, Suspect in Custody.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Sen. Tillis Expected to Clear Way for Kevin Warsh as Fed Chair.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Secret Service Likely to Lead WHCD Investigation.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Rep. McCaul on How to Combat Political Violence.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Rep. Beyer We Are More Divided Than We've Ever Been.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/King Charles' Security Under Review ahead of DC Visit.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/How Boring Businesses Create Billionaires.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Can the World’s Economic Firefighter Adapt to the 21st Century.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Shots Fired at WHCD.md
+- 2026-04-26 | 01_Videos/Bloomberg Television/A History of Presidential Assassination Attempts.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Why Americans Can’t Buy Cheap Chinese EVs.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/What the Fed Can Do About Anthropic’s Latest System.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Trump Sends Team to Pakistan as Iran Balks at Talks.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Triumphal Arch How Trump is Leaving His Mark on Washington DC.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/The Diplomacy Behind the 2026 World Cup.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/The Billion-Barrel Hormuz Oil Shock Is About to Crash Demand.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Standoff Keeps Traffic in Strait of Hormuz Near Zero.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/S&P's Yergin This is The Biggest Energy Disruption We've Ever Seen.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Rep. McCaul (R-TX) US-Iran Talks Unlikely to Reach Breakthrough.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Iran War Fallout Drives Inflation Risks in Africa  Bloomberg Next Africa.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Insurance, Crypto, Media  The Pointed News Quiz.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Inside the shocking rise of BYD, China’s top EV maker.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/FIFA World Cup, Chili, Pokémon  BTW.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/European Union Leaders Convene in Cyprus Amid Iran War.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/DOJ Drops Powell Probe.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Decoding Muskism Beyond the Billionaire.md
+- 2026-04-25 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Mix Messages on Iran Talks, DOJ ends Powell probe, Trump's Triumphal Arch.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Witkoff, Kushner Heading to Pakistan for More Talks.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/What to Think of FX Carry Trade Revival 3-Minutes MLIV.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Vice Admiral Harward Iran Strategy Has 'Been Sound'.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/US-Iran Stalemate, Intel Soars & EU Opens Door to Ukraine Joining  Daybreak Europe 04242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/US Needs 'Patience' in Iran John Bolton.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Trump We Have 'Total Control' of the Strait of Hormuz  Balance of Power 04232026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/The AI Trade That’s Helping Markets Sidestep Iran Risk  Insight with Haslinda Amin 04242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Pakistan Expects to Host Another Round of US-Iran Talks.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Oil Rises on Iran Talks Stalemate; Katayama Talks Yen  The Asia Trade 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Limiting Oil Exports Would Be a Mistake, McNally Says.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Israel-Lebanon Truce Extended; Hormuz Standoff Continues  Horizons Middle East & Africa 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Is West Bengal a Bigger Test for Modi's BJP or the Opposition.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Iran War Update Trump Says There's No Need to Use Nuclear Weapons (Full Q&A from White House).md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Iran War Hormuz Stalemate Lifts Oil for a 5th Day  The Opening Trade 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Intel Shares Soar on AI-Fueled Outlook; US-Iran Peace Talks Stalemate  Bloomberg Brief 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Earnings Are Surprisingly Strong, Says Morgan Stanley's Wilson.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/DOJ Drops Powell Probe, Smoothing Warsh Path to Fed.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/DOJ Drops Powell Probe, Iran War Impact on Credit Markets  Real Yield 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/DOJ Dropping Powell Probe Is a Step in the Right Direction, French Hill Says.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/China's DeepSeek Unveils AI Model To Challenge Anthropic, OpenAI  The Pulse 424.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4242026.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/Asian Policymakers Confront Iran War Fallout  The China Show 4242022.md
+- 2026-04-24 | 01_Videos/Bloomberg Television/AI Euphoria Lifts Stocks as Iran Hopes Build  Open Interest 4242026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Warner Bros. Shareholders Approve $110 Billion Paramount Deal.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US-Iran Tensions Build in Hormuz Without Talks  Balance of Power Early Edition 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US Navy Secretary Fired After Infighting at Pentagon Sources  The Pulse 423.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US Awaits Iran Response on Talks as Hormuz Remains Shut.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/US & Iran in Hormuz Standoff, ASML's New Gear 'Too Expensive' for TSMC  Daybreak Europe 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Trump Tells Navy to Shoot Any Boats Laying Mines in Strait of Hormuz.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Tilray CEO on Possible US Cannabis Reclassification.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Oil Extends Gain as Hormuz Traffic Grinds to a Halt.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Oil Climbs with Iran Talks in Limbo; Tesla Boosts Spending Plan to $25B  Bloomberg Brief 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Meta Tells Staff It Plans to Cut 10% of Jobs in Efficiency Push.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Israel-Lebanon Talks to Resume in Washington.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Iran War Stocks Fall as Oil Climbs With Talks in Limbo  The Opening Trade 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Iran Concerns Give Oil a Short-lived Boost  The China Show 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/How the Mideast War is Affecting the Trump-Xi Meeting.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Hormuz Standoff; US Says No Deadline for Iran Proposal  Horizons Middle East & Africa 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/GSAM's Calnon on Markets, Investment Strategy.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/China Jostles With US for FX Influence 3-Minutes MLIV.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/CBRE Group CEO Sees AI as Tailwind, Bullish on NYC Growth.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Blackstone's Jon Gray says AI is Single Biggest Driver  Open Interest 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/Asia bears the cost as US and Iran locked in standoff  Insight with Haslinda Amin 04232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/American Express Sees Strong Credit Card Spending, Higher Costs.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/American Airlines Lowers Guidance Due to Fuel Prices.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/AI Optimism Drives Korean Stocks to Record  The Asia Trade 4232026.md
+- 2026-04-23 | 01_Videos/Bloomberg Television/AI Optimism Drives Korean Stocks to Record  The Asia Trade 4232026 (3Udt4p-AEpU).md
+- 2026-04-23 | 01_Videos/Bloomberg Television/AI Is Central to ServiceNow Platform, CEO McDermott Says.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/What's Happening In Iran War Trump Extends Truce with Talks In Limbo  The Pulse 422.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/US Expected to Ease Restrictions on Marijuana.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/US Can Sustain Hormuz Blockade Indefinitely, Esper Says.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/United CEO Won't Comment on Possible Merger With American Airlines.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/United CEO Eyes Assets, But Won't Say From Which Airline.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Pushes for Plan to Save Spirit Airlines.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Iran Ceasefire; US Maintains Hormuz Blockade  Horizons Middle East & Africa 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Iran Ceasefire as Talks Falter  The China Show 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Ceasefire; Users Get Unauthorized Access to Mythos  Bloomberg Brief 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Ceasefire, Virginia Backs Redistricting Balance of Power Early Edition 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Trump Extends Ceasefire But Hormuz Stays Closed  Insight with Haslinda Amin 04222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Satellite Data Show Scale of US-Israeli Damage on Iran.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/S&P 500 Set for Record High on Earnings  Open Interest 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Markets Weigh Iran Truce as Risks Persist  The Asia Trade 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Iranian Oil Tankers Sail Past Hormuz Blockade.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Iran Reports 'Some Sign' US Ready to Break Blockade  Daybreak Europe 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Iran Latest Trump Backtracks & Extends Tehran Truce, Talks in Limbo  The Opening Trade 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Global Telecom Mega-Merger, Bailout Caused By Financial Stress  Bloomberg Deals 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Deutsche Telekom Said to Weigh T-Mobile Combination.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Bond Market Weathers Warsh Hawkish Hint 3-Minutes MLIV.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/BMW Says EV Demand Is Rising, Unveils the New Series 7.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4222026.md
+- 2026-04-22 | 01_Videos/Bloomberg Television/Anthropic’s Mythos Accessed by Unauthorized Users.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/What to Expect From Apple's Incoming CEO John Ternus  The China Show 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh's Fed Confirmation Hearing  Balance of Power Early Edition 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh Vows to Protect Fed Independence in Senate Hearing Opening Remarks.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh Says He Will Not Be Trump's 'Sock Puppet'.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Warsh Needs to Tune Out Trump Pressure, Dudley Says.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Vance Trip to Pakistan for Talks With Iran Is On Hold, NYT Reports.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/US-Iran Peace Talk Uncertainty; Warsh Hearing; Apple Names New CEO  Bloomberg Brief 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/US Retail Sales Soar in March Led by Spending on Gas.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/UniCredit CEO Orcel on His Pursuit of Commerzbank.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Tim Cook's Exit, Warsh Faces Congress  Open Interest 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Senator Warren Clashes With Warsh Over Assets, Ties to Trump and Epstein.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/LIVE Wells Fargo CEO Charlie Scharf Speaks to David Rubenstein.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Iranian-Flagged Cargo Ship Attempts to Cross Hormuz.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Iran War Trump Signals No Truce Extension & New Apple CEO  Daybreak Europe 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Iran War Stocks Edge Up as Traders Remain Hopeful on Talks  The Opening Trade 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Investing in AI Amid Geopolitical and Supply Risks.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Hormuz Stays Shut Until a Deal Is Reached  Insight with Haslinda Amin 04212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Germany's Merz Slams Hostile Bank Tactics; Exclusive UniCredit CEO Interview  The Pulse 421.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Current Rally is 'V-Shaped Recovery for the Ages' Says Troy Gayeski.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Australia's Housing Crisis Worsens on Energy Costs.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Apple's Next CEO; Trump Aims To Seal Iran Deal  Horizons Middle East & Africa 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Apple Names New CEO; Korean Stocks Notch New High  The Asia Trade 4212026.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/Apple Isn't on Right Path for AI, Piecyck Says.md
+- 2026-04-21 | 01_Videos/Bloomberg Television/AI Optimism Pushing Stocks Higher Despite Iran Risks 3-Minutes MLIV.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Who Wins From the Iran Conflict.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Wells Fargo CEO Says US Economy Is 'Extremely Strong'.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US-Iran Peace Talks Uncertain as Ceasefire Deadline Approaches.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US-Iran Peace Talks in Doubt After Weekend Chaos  The China Show 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US Seizes Iranian Ship; Iran Vows Response  Horizons Middle East & Africa 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US Seizes Iranian Ship as Ceasefire Is Set to Expire.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/US has already “blown up” Iran talks, says Ian Bremmer.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/UK's Starmer Faces Showdown Over Mandelson Saga.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Trump Says 'Highly Unlikely' He Extends Iran Ceasefire.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Trump Aims to Seal Iran Deal  Balance of Power Early Edition 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Stocks Fall, Oil Rises After US Seizes Iran-Flagged Ship  Bloomberg Brief 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Oil Surges After Iran Strait Closure  Open Interest 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran Wavers on Peace Talks & UAE Explores US Financial Lifeline WSJ   The Pulse 04202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran War US Seizes Iranian Ship, Casting Doubt on Peace Talks  The Opening Trade 04202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran War US Seize Iranian Ship & Peace Talks Uncertain  Daybreak Europe 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Iran Takes Control of Hormuz Again Sending Oil Higher.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Inside the $21T ETF Industry, Apollo's Role in 'PRIV   ETF IQ 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Humanoid Robot Beats Human Record in Beijing.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Hormuz Standoff Keeps Markets on Edge  The Asia Trade 4202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Has the U.S. Seizure of an Iranian Ship Doomed Peace Talks  Insight with Haslinda Amin 04202026.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Fed Independence Is Critically Important, Says Wells Fargo CEO Scharf.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Equities Weaker but Not Overly Concerned on Iran 3-Minutes MLIV.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Bulgaria Election Rumen Radev Scores Landslide Win.md
+- 2026-04-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4202026.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Why the US Is Pushing to Rebuild Its Copper Supply.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Why Private Credit Is Not a Financial Crisis Threat.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/What to Expect From Fed Chair Nom. Kevin Warsh's Confirmation Hearing.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/US Officials Head to Pakistan Again for Peace Talks Amid Hormuz Standoff.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Rising Costs and Achieving a Comfortable Retirement.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Rep. Stutzman War Has Made Life Harder For Constituents.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Jon Finer Criticizes Lack of Expertise in Iran Negotiations.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Investigations, Business Leaders, Cons  Pointed News Quiz.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Hormuz Still at Standstill, Denting US-Iran Peace Deal Hopes.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Fmr. Secretary of Defense Mark Esper It's Gonna Be Hard To Get a Deal Done.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/EU Special Rep. Says Peace Requires Israel Restrains Itself.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Eating for Sustainability with 'Blue Foods'.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Blue Origin Rocket Launches With First Reused Booster.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Blue Origin CEO on Growing Satellite Launch Demands.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Standstill in Strait, Warsh Heads to the Hill, Blue Origin Blastoff.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Bank Debate Interview Umar Farooq and Shahmir Khaliq.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/Are the Rich Paying Their Fair Share of Taxes.md
+- 2026-04-19 | 01_Videos/Bloomberg Television/AI Boom Driving $100 Bln Chip Opportunity, Arm CEO Says.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Trace the Origins of Bitcoin, The Search for Satoshi.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/The Hidden Damage Behind the Iran Oil Shock.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Tech Has Transformed Many Industries. Why Not Child Care.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Strait of Hormuz Uncertainty Causes Stocks to Jump.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Strait of Hormuz Shut Amid Reports of Gunfire.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Peace Deal Uncertain, Iran Says Strait of Hormuz is Shut.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Major Banks Shake Off Private Credit Fears.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Iran Claims ‘Strict Control’ of Strait of Hormuz.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/India’s Parliament Expansion and the North-South Divide.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/How Rising Energy Bills Are Impacting Elections.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/How OpenTable Plans to Make a Comeback.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/How JLL is Embracing Artificial Intelligence.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Hank Paulson on Iran War, Inflation, and Market Risk.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Gunfire Reported as Iran Shuts Strait of Hormuz and US Blockade Intensifies.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Federal Agency Probes Suspicious Oil Trades.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/BTW  Boston Globe Reporter's Wicked Accent.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Iran Restricts Strait, Oil Futures Down, Stocks Rally.md
+- 2026-04-18 | 01_Videos/Bloomberg Television/AI and Consumers in the Beauty Industry.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/What's Next for Reed Hastings After Leaving Netflix.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/US-Iran Ceasefire Optimism Meets Market Skepticism  Insight with Haslinda Amin 04182026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/US May Unfreeze $20 Billion in Funds for Iran’s Uranium Axios.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Speaks to Bloomberg - Expects Deal With Iran to Come Quickly.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says US-Iran Truce Deal Looking 'Very Good'.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Will Suspend Nuclear Program, Hormuz Reopens  Balance of Power 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Is Removing Mines From Hormuz Strait.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Deal Getting Closer; Netflix Drops On Outlook Miss  Bloomberg Brief 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Says Iran Agrees to Unlimited Suspension of Nuclear Program.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Iran Deal 'Looking Good' & Israel-Lebanon Ceasefire  Daybreak Europe 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Hopeful of Iran Peace Deal & New Crisis for UK PM Starmer  The Pulse 04172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Trump Hints Lasting Iran Truce; Israel-Lebanon Ceasefire  Horizons Middle East & Africa 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Stock Rally Stalls as Markets Await Iran Ceasefire  The Asia Trade 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Stock Gains Pause, Rally Remains Intact 3-Minutes MLIV.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Rep. Hill Says Time to Move on From Powell Case and Confirm Warsh.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Reed Hastings Stepping Down as Netflix Chairman and Co-Founder.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Oil and Gas Prices Plunge After Iran Says Hormuz Strait Is Open.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Musk Asks Suppliers to Move at ‘Light Speed’ on Terafab Plan.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Israel, Lebanon Agree on 10-Day Ceasefire  Balance of Power 04162026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Iran War Trump Says Deal Getting Closer as Lebanon Truce Starts  The Opening Trade 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Iran Says Strait of Hormuz Is Completely Open for Commercial Ships.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Investors Weigh Impact of Iran War, Expectations For Credit Market Economy  Real Yield 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Ed Yardeni Sees Three Reasons for Optimism on Equities.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Bulgaria Election Rumen Radev Extends Lead Ahead of Vote.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/BlackRock’s Rieder Says Equity Technicals Are Extraordinary.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Are Markets Moving Past Iran War Shock  The China Show 4172026.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Anthropic’s Mythos What It Is and What It Is Capable of.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/Airlines Won't Lower Prices Soon, Says Brian Kelly, the 'Points Guy'.md
+- 2026-04-17 | 01_Videos/Bloomberg Television/A Major Breakthrough David Hale on Israel, Lebanon 10-Day Ceasefire.md
+- 2026-04-16 | 01_Videos/Bloomberg Television/Why Stocks Are Gaining Despite Iran War Risks  Insight with Haslinda Amin 04162026.md
+- 2026-04-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4162026.md
+- 2026-04-15 | 01_Videos/Bloomberg Television/IMF's Georgieva Says Markets Need to Be More Cautious.md
+- 2026-04-14 | 01_Videos/Bloomberg Television/Relief Rally in Asia Amid Renewed Hopes for Iran Peace Deal  Insight with Haslinda Amin 04142026.md
+- 2026-04-14 | 01_Videos/Bloomberg Television/Dimon Warns on Economy and AI  Open Interest 4142026.md
+- 2026-04-14 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4142026.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/S&P Erases Losses Since Iran War Began  Closing Bell.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Nouriel Roubini on Iran War, Oil Shock, AI Boom.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Inside the $20T ETF Industry, 'QQQ' Competition Heats Up  ETF IQ 4132026.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 4132026.md
+- 2026-04-13 | 01_Videos/Bloomberg Television/Bloomberg Open Interest 4132026.md
+- 2026-04-11 | 01_Videos/Bloomberg Television/Oil Demand Is About To Spike Says Schork.md
+- 2026-04-10 | 01_Videos/Bloomberg Television/Big Bank CEOs summoned to Washington for Emergency Meeting on Anthropic.md
+- 2026-04-10 | 01_Videos/Bloomberg Television/AI Cyber Threats Alarm Wall Street  Open Interest 4102026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/US-Iran Ceasefire at Risk amid Lebanon Attacks  Insight with Haslinda Amin 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/US, Iran Prepare for Talks  Balance of Power Early Edition 4092026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Trump's Conflicting Statements Sow Confusion on Ceasefire  Balance of Power 04082026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Trump Vows To Keep Troops In Place Before Iran Talks  The Opening Trade 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Stock Rally Stalls, Oil Rebounds Ahead of US-Iran Talks, Ceasefire Doubts  Bloomberg Brief 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Rutte Says NATO Moving on From 'Unhealthy' Dependence on US.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Iran War Vance to Lead Iran Talks as Tehran Says Ceasefire Violated  Daybreak Europe 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Iran War US, Iran Prepare for Talks in Pakistan  The Pulse 49.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Iran Ceasefire Vance to Lead US Delegation in Islamabad Talks.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Gulf Tensions Push Oil Higher  Open Interest 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Fragile US-Iran Truce; Israel Intensifies Lebanon Attacks  Horizons Middle East & Africa 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/China Touts Efforts to Push For US-Iran Truce  The China Show 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/China Has Done Its Best for Mideast Peace, Expert Says.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Ceasefire Uncertainty Dampens Mood in Asia  The Asia Trade 492026.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Ceasefire Stirs Bets on Asian Currencies 3-Minutes MLIV.md
+- 2026-04-09 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 492026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/What Iran War Ceasefire Means for Stocks, Bonds, Oil  The Pulse 48.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US-Iran Agree To Two-Week Ceasefire; Oil Slumps  Horizons Middle East & Africa 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US, Iran Ceasefire What Next for the 800 Vessels Trapped in the Persian Gulf.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US, Iran Agree to Two-Week Ceasefire  The Asia Trade 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/US, Iran Agree to Two-Week Ceasefire  Balance of Power Early Edition 4082026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Stocks Rally, Oil Plunges on US, Iran Agreeing to Two-Week Ceasefire  Bloomberg Brief 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Relief Sweeps Through Markets on US-Iran Ceasefire Plan  The China Show 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Pakistan Seeks Two Week Extension For Iran  Balance of Power 04072026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Oil Falls as US, Iran Agree to Two-Week Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Oil Drops After Iran Ceasefire  Open Interest 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Middle East War US, Iran Agree to Two-Week Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Middle East  Airlines Rally After US, Iran Agree to Two-Week Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Market Relief After US-Iran Ceasefire Before Trump Deadline  The Opening Trade 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Madison Air Seeks $2.23B in IPO, Activist Investing Picks Up In 2026  Bloomberg Deals 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Iran War Trump Agrees to Two-Week Iran Ceasefire, Oil Slumps  Daybreak Europe 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Iran Ceasefire Sparks Huge Market Moves 3-Minutes MLIV.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/How Pakistan, China Played Roles in US-Iran Ceasefire.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/How Fragile Is The US-Iran Ceasefire  Insight with Haslinda Amin 482026.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Goldman's Dane Likes Semis, AI Building Blocks on Capex.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Ecuador’s Noboa Open to Broader US Role on Security.md
+- 2026-04-08 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 482026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump’s Iran Ultimatum Heightens War Jitters  Insight with Haslinda Amin 04072026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump's Iran Deadline Looms; Tehran Rejects Proposal  Horizons Middle East & Africa 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump's Iran Deadline Looms Over Markets  Open Interest 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump Says Iran Could ‘Die Tonight’  Balance of Power Early Edition 4072026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump Escalates Iran War Threats as Deadline Looms  The Opening Trade 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Trump Doubles Down on Iran Deadline; Universal Music Acquisition Proposal  Bloomberg Brief 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Singapore's Top Diplomat Warns Worse Case on War Yet to Come  The China Show 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Risks Rise on Yet Another Iran Deadline 3-Minutes MLIV.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Oil Gains as Trump Amps Up Threats Before Iran Deadline  The Asia Trade 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Iran War Trump's Deadline Nears as Threats Escalate.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Iran War Trump Escalates Iran Threats Ahead of Tuesday Deadline  Daybreak Europe 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Iran War Trump 'Not At All' Concerned About Committing War Crimes  The Pulse 47.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Intel Announces It Is Joining Musk's Terafab Project.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Hungary Election Vance Endorses Orban, Accuses EU of 'Interference'.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/How Iran War Could Reshape US Alliances in Asia.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Google Paper Warns Crypto on Quantum Risk Ahead of 2029 Timeline.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Fed’s Williams on Inflation, Monetary Policy, Labor Market.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Digital Asset Treasuries Under Pressure, IMF Warns of Tokenization Risks  Bloomberg Crypto 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 472026.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Australia Risks Sharp Recession in Prolonged Iran War.md
+- 2026-04-07 | 01_Videos/Bloomberg Television/Artemis Update NASA Astronauts Are Heading Back to Earth.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Trump’s Iran Deadline Looms  Balance of Power Early Edition 4062026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Trump Threatens to Jail Journalist Over Iran Rescue Mission Leak.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Oil Fluctuates on Report of Ceasefire Push; New Trump Deadline Looms  Bloomberg Brief 462026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Next Gen Bitcoin ETFs, Refiners Outperform Broader Market  ETF IQ 462026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Iran Rejects Ceasefire Ultimatum  Open Interest 462026.md
+- 2026-04-06 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 462026.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/US Successfully Rescues Second Airman from Iran.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Trump Gives Ultimatum to Reopen Strait in 48-Hours.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/TMZ Heads to Washington DC.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/OPEC+ Plans Symbolic Oil Quota Hike for May.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/IBM and the Masters use AI to Bring the Fairway to Every Fan.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Humanitarian Crisis Escalates in Lebanon.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Economic Impact of Ending Birthright Citizenship.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/By The Way  Headlines You Should See.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Daring Rescue Mission, OPEC Meeting on Energy Crisis, TMZ Goes to DC.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/AI FOMO and Why You Should Ignore It.md
+- 2026-04-05 | 01_Videos/Bloomberg Television/Africa's Water Supply Faces Funding Gap, World Bank Says.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Tech Sectors Threatened by Global Helium Shortage.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Searching for the Missing US Airman in Iran.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Resignations, Wearable, Food  Pointed News Quiz.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/NATO's Secretary General Rutte to Meet With Trump Next Week.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Napster in the AI Era.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Fixing Johannesburg Water Crisis Is Top Priority for Mayoral Candidate Helen Zille.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Easter Candy Sales Decline.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/DNC Chair Ken Martin We Don't Need to Out-Raise the Republicans.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  US Airman Missing in Iran, March Jobs Report, Easter Candy Sales Down.md
+- 2026-04-04 | 01_Videos/Bloomberg Television/Artemis II Passes Halfway Point to Moon.md
+- 2026-04-03 | 01_Videos/Bloomberg Television/NEC’s Hassett on Jobs Report, Oil Exports, US Economy.md
+- 2026-04-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 432026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump’s Aggressive but Vague Iran Announcement  Insight with Haslinda Amin  04022026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Vows More Iran Strikes; Oil Soars  Horizons Middle East & Africa 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Threatens Iran Escalation, Rattling Markets  The China Show 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Removes Bondi as Attorney General.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Trump Ousts Bondi As Attorney General  Balance of Power Early Edition 04022026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Stocks Fall, Oil Climbs on President's Trump Address  Bloomberg Brief 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Risk-Off Playbook to Hold into Long Weekend 3-Minutes MLIV.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Private Credit Faces Redemption Pressure  Open Interest 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Oil Surges As Trump Vows To Hit Iran Hard  The Opening Trade 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Oaktree's Panossian Says Private Credit Correction Not Systemic.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Nick Candy Sells London Home For Over $350 Million  The Pulse 42.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Iran’s President Issues Open Letter to the American Public.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Iran War Trump Threats Dim Hopes For Quick End to Conflict  Daybreak Europe 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Iran War Soaring Jet Fuel Prices Disrupt Global Aviation.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Asian Stocks Rise Ahead of Trump Speech  The Asia Trade 422026.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Artemis II Update Crew Begins Initial Phase of Moon Mission.md
+- 2026-04-02 | 01_Videos/Bloomberg Television/Apollo’s Zelter Says Private Credit Concerns Are Just Growing Pains.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/US Manufacturing Expands as Input Costs Surge.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Signals Iran War End; Plan For Hormuz  Horizons Middle East & Africa 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Says Iran Ceasefire Possible Only When Hormuz Reopens.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Outlines Ceasefire Demands  Balance of Power Early Edition 4012026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Trump Has to Finish the War in Iran, Roubini Says.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Stocks Higher as Trump Signals Iran War Exit; Oil Slips near $100  Bloomberg Brief 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/SpaceX Has Filed Confidentially For IPO, The AI Divide In Venture Capital  Bloomberg Deals 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/SpaceX Eyes Record-Breaking IPO.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Sen. Kelly Wants to Beat China to the Moon.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Oil Falls on War-End Optimism  Open Interest 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/NATO Operating in a World of Shock, Not Crisis, Admiral Says.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Is Iran War Nearing Its End  The China Show 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Iran War UAE Prepared to Help US in Strait of Hormuz, Report Says.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Iran War Stocks Rally Ahead of Trump Speech on Mideast Conflict  The Pulse 41.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Iran War Market Euphoria As Trump Envisions US Withdrawal In Weeks  Daybreak Europe 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/How Iran Counters US Military Might.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Former VP Pence Happy Trump Pulled 'Trigger' on Iran.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Extent of Crude Slump is Key for Stocks and Bonds 3-Minutes MLIV.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Brent Oil Drops Below $100 As Trump Talks War End  The Opening Trade 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Astronauts Suit Up for Launch of Artemis II.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Asian Stocks Jump on Iran War Offramp   The Asia Trade 412026.md
+- 2026-04-01 | 01_Videos/Bloomberg Television/Asia Needs a Strait Answer on Iran From Trump  Insight with Haslinda Amin 04012026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Why Eli Lilly Is Buying Centessa for $7.8 Billion.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Where to Invest After $12 Trillion Market Cap Wipeout.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/What To Expect From the Artemis II Launch.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/USTR Greer on Hormuz, China Talks, Trade Tariffs.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/US Withdrawal Without Hormuz Reopening Poses Issue for Stocks 3-Minutes MLIV.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/US Job Openings Fall as Consumer Confidence Rises.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Trump Tells Allies to Just 'Take' Jet Fuel From Hormuz.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Trump Seeks Iran Exit Plan; Houthis Red Sea Threats  Horizons Middle East & Africa 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Refiners Could Wait Weeks for Oil, Even After Strait Is Fully Reopened, Macquarie Says.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/President Trump Reportedly Mulling Iran Exit; Iran Attacks Oil Tanker  Bloomberg Brief 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Prediction Pushback, Traditional Finance Adopting Tokenized Assets  Bloomberg Crypto 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Markets Wrap Volatile Month War Risks, $4 Gas, M&A Action  Open Interest 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Markets Weigh Trump Remarks, Iran Tanker Strike  The Asia Trade 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Markets React as Iran, US Signal Willingness to End War  Bloomberg Businessweek Daily 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Update Strikes Will Intensify If There's No Deal Hegseth Says (Full Press Conference).md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Trump Willing to End War Without Reopening Hormuz WSJ  Daybreak Europe 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Trump Wavers On Escalation as US Pump Price Tops $4  The Pulse 331.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Trump Reported to Seek Exit Plan Without Hormuz Deal.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Triggers Inflation and Growth Fears  Insight with Haslinda Amin 03312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran War Stocks Rally, Oil Swings As US Weighs End to War  The Opening Trade 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran Strikes Kuwaiti Tanker; Trump Reportedly Weighs War Exit  The China Show 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Iran Ready to End War But Wants Guarantees, President Says.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Energy Crisis in US Will Get Worse, Says Former Biden Advisor Hochstein.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Energy Crisis Gas Tops $4 a Gallon in US.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Breaking Down the $44.8 Billion Unilever-McCormick Deal.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3312026.md
+- 2026-03-31 | 01_Videos/Bloomberg Television/Air Canada CEO to Quit After Furor About Crash Condolence Video.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Why Iran War is Making German Inflation Soar  The Pulse 330.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Why Curbs on Speculation Won't Resolve Indian Rupee Woes.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Warns Iran of Escalation  Balance of Power Early Edition 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Talks Up Iran Deal Hopes; Proxy Attacks  Horizons Middle East & Africa 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Says Iran Really Wants to Settle the War.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Trump Says Iran Gave In to US Demands Despite 15-Point Plan Rejection  Daybreak Europe 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Rallies in Equities Likely to be Shortlived This Week 3-Minutes MLIV.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Oil jumps as Iran War enters fifth week  Insight with Haslinda Amin 03302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Oil Gains As Iran War Escalates with Houthi Attacks  The Opening Trade 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Oil Climbs, Global Bonds Rally as US, Israel Keep Up Strikes on Iran  Bloomberg Brief 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Middle East Conflict Red Sea Transit Is Becoming a Concern as War Widens.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Markets Brace For Fallout  Open Interest 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Iran War US Troop Buildup in Middle East Spurs Escalation Concern.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Iran War Escalation Triggers Risk Aversion  The Asia Trade 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/If the War Drags On, Rates Could Rise, Rochester Says.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Fed's Powell Says Long-Term Inflation Expectations Well-Anchored.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Fears of Widening Iran War Grow  The China Show 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Churchill's Kencel on the State of Private Credit.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Breaking Down the Gold Trade.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Bonds Rally as Investors Eye Growth Risks Over Inflation.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3302026.md
+- 2026-03-30 | 01_Videos/Bloomberg Television/Billionaire Kirsh Sells Jetro Restaurant Depot to Sysco for $29 Billion.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Young, Slotkin Our hope is that it will restore trust in the decision making here in Congress.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/US Considers Ground Operations in Middle East.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/This Weekend  Soldiers Arrive in Middle East, Crowds at No Kings Protests, Limiting Insider Bets.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/The Hidden Cost of Viral Food Trends.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/The 90s Internet Boom and The AI Revolution of Today.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/New Investment Opportunities in Venezuela.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/New Democrat Florida State Rep talks staying disciplined on the issues.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/NASA Prepares for Artemis II for Moon Flyby Mission.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Middle East Conflict Risks Escalate Infrastructure Disruptions.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/How Singapore and Australia Took Opposite Paths on Housing.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/How Gen Z Is Bringing Back The Mall.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Conflict Overshadows CPAC 2026.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Can't Look Away The Case Against Social Media.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/Can Lesotho Solve Johannesburg's Water Crisis.md
+- 2026-03-29 | 01_Videos/Bloomberg Television/BTW  Tech Neck, Relax Row and Opera, Australia's Social Media Ban.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/TSA Union Rep Voices Concerns Over Privatization.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Trump Administration Signals No Immediate Plans for Invasion.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/This Weekend  Houthis Enter Middle East Conflict, DHS Fundinl, SpaceX, Anthropic Eye IPOs.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/SpaceX, Anthropic Eye Prospective IPOs.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Rubio Says Weapons for Ukraine Not Diverted to Middle East, But Could.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Rubio Downplays Need for Ground Troops in Iran.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Iran War Sends Shockwaves From Energy Markets to Global Food Supply.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/IMO Negotiating Evacuation Corridor for Seafarers.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/House GOP Plans Vote on 8-Week Stopgap on DHS Funding  Balance of Power 03272026.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Funding Africa's Water Future  Bloomberg Next Africa.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/DHS Funding Causes Impasse in Congress.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/BTW  Cruises, First Class and Netflix Opening Night.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/Ammunition, Hoarding, Trade  Pointed News Quiz.md
+- 2026-03-28 | 01_Videos/Bloomberg Television/American Farmer We Need a Farm Bill.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump to Sign Order to Get TSA Staff Paid.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump Pushes Back Iran Deadline as War Continues.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump Pushes Back Iran Deadline  Balance of Power Early Edition 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Trump Extends Energy-Attack Pause; Stock Selloff Eases  Horizons Middle East & Africa 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Stock Selloff Extends As Iran Conflict Drags On  The Asia Trade 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Stock Selloff Eases as Trump Gives Iran More Time  Daybreak Europe 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Senate Vote Remains Open Amid DHS Negotiations  Balance of Power 032626.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Oil Steadies as Trump Extends Energy-Attack Pause.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Nasdaq Correction Exposes AI Divide  Open Interest 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Markets Fall on Gap Between Trump's Talk and Actions  Bloomberg The China Show 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Market Optimism Fades as War in Iran Drags On  Insight with Haslinda Amin 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/JPM's Michele See Growth Slowdown, But Not Recession Amid $100 Oil.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran War Triggers Economic Uncertainty, Credit Concerns Persist  Real Yield 3272025.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran War & China-US Trade Probe Pull Stocks Lower  The Pulse 327.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran Keeps Up Strikes in Middle East, Oil Rises  The Opening Trade 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Iran Awaits US Response to Its Plan to End War.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Inflation Expectations Are Stable, Says Apollo's Slok.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Indian Premier League Teams Turning Into Billion-Dollar Assets.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/How Weekends Became Traders’ Worst Worry 3-Minutes MLIV.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3272026.md
+- 2026-03-27 | 01_Videos/Bloomberg Television/Anthropic Could Go Public by October.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/World Is Losing 10 Million Barrels of Oil a Day, Morse Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/US Continuing Claims Fall to a Nearly Two-Year Low.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/US and Iran Wrangle Over Talks; Stocks Slip, Oil Gains  Horizons Middle East & Africa 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/US & Iran Spar Over Talks & Trump-Xi To Hold Summit in May  Daybreak Europe 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump, Xi to Meet in Beijing on May 14–15  The China Show 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Threatens Escalation in Iran  Open Interest 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Stacked Tech Council With ‘Star Power,’ David Sacks Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Says Iran’s Gift Was 10 Boats Transiting Hormuz (Q&A with press).md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Questions Iran Deal  Balance of Power Early Edition 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Trump Jokes Warsh as Fed Chair Might Work at White House.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/The Best of Bloomberg Invest 2026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Stock Selloff Gains Speed on Ceasefire Doubts  Bloomberg Businessweek Daily 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Senators Try to Put Guardrails Around Prediction Markets.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Oil Climbs as US, Iran Argue Over Terms to End War.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Negotiations With Iran Are Likely 'DOA,' Says Wasser.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/It's Not Worth Being a Premature Bull 3-Minutes MLIV.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Iran War Update Are the US and Israel On the Same Page.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Iran War Military Strikes Continue as US, Tehran Argue Over Terms  The Opening Trade 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Iran War Canada To Push For De-escalation at G7 in France  The Pulse 326.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Higher Oil Prices Are Holding Back Some Deals, Says M&A Lawyer Spottswood.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/G-7 Foreign Ministers to Discuss Iran, Ukraine Conflicts.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Fed Should Do Nothing for This Moment, Goldman’s Robert Kaplan Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Ex-Goldman CEO Blankfein Warns of Risk in Private Credit.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/EU's Kallas on War in Iran, Ukraine, Opening Hormuz.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Conflicting Signals on Iran War Sap Market Sentiment  Insight with Haslinda Amin 03262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Canada Wants a Role in US-Iran Diplomacy, Anand Says.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3262026.md
+- 2026-03-26 | 01_Videos/Bloomberg Television/Asian Stocks Weigh US-Iran Ceasefire Talks  The Asia Trade 3262026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Who's Really in Charge of Iran.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/White House Press Briefing.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/What We Know About Trump's 15-Point Plan.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/US Sent Iran Plan to End Conflict Reports   Balance of Power 032426.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/US Forms 15-Point Plan to End Iran War  The China Show 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/US Drafts Plan to End Iran War; Stocks Rise, Oil Slips  Horizons Middle East & Africa 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/SpaceX Maybe Largest US IPO, Iran War Reveals Gaps In Defense Spending  Bloomberg Deals 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Oil Falls, Asian Stocks Rise on Iran Peace Plan Hopes  The Asia Trade 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Oil Down as Trump Awaits Iran's Response to Peace Plan.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Iran War US Forms 15-Point Plan to End War as Trump Pushes Talks  Daybreak Europe 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Iran War US Awaits Response to Peace Plan, Tehran Keeps Up Attacks  The Opening Trade 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Iran War Tehran Reportedly Receives Trump's Peace Plan  The Pulse 325.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Iran Rejects US Peace Plan in Blow to Efforts to End War.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Iran Rejects Trump Peace Plan  Open Interest 32520226.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Iran Rejects Trump Outreach  Balance of Power Early Edition 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/How Influencers Are Reshaping the Cruise Industry.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Griffin's Citadel Posts Record $12 Billion Trading Haul.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Fmr. Commerce Sec. Ross China, Russia Now on Notice Amid Iran.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/EU Deepens West Africa Engagement With Nigeria Investment, Ghana Security Pact.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Denmark Election Premier Wins Vote, Fails to Secure Majority.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Brent Crude Levels Are $95 and $105 3-Minutes MLIV.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3252026.md
+- 2026-03-25 | 01_Videos/Bloomberg Television/Airlines Face Jet Fuel Shock As Iran War Rages  Insight with Haslinda Amin 3252026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Where is the tipping point for US Stocks.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/US Pushes on Iran Peace Talks  Balance of Power Early Edition 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/United Airlines CEO on Demand, Oil Prices and TSA Lines.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Trump Delays Energy Strikes, Sets Five Days for Iran Talks  Horizons Middle East & Africa 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Stocks Bounce From Lows on Hopes for US-Iran Talks  The Close 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Stocks Bounce From Lows on Hopes for US-Iran Talks  Bloomberg Businessweek Daily 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/S&P Closes Below 200-Day Moving Average  Closing Bell.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Philippines' Marcos Says War May Spur Energy Talks With China.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Palantir CTO sees Iran War as first major AI-driven conflict shorts iran ai trump palantir.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Oil Surge Shakes Global Markets  Open Interest 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/NRG’s Gaudette on Iran Conflict, Investor Outlook and Data Center Demand.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/NRG CEO on Houston Power Project and Power Demand Outlook.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/News Flow Is Trending Negatively Overall 3-Minutes MLIV.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Mideast Conflict Kuwait, Bahrain Hit by Iran Strikes as Optimism Fades.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Markets Weigh Fragile Iran De-Escalation Hopes  The Asia Trade 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Markets Cautious Amid Mixed Messages From Trump, Iran  The China Show 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Lazard’s Bilicic on Iran War Impact on Energy Investment and Renewables.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Kimmeridge’s Viviano on Iran War, LNG and Price Volatility.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/John Ternus Seen as Successor to Apple CEO Tim Cook.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Jefferies Jumps on Report of Potential SMFG Takeover.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Iran War Update Negotiations Ongoing, As Trump Says 'War Has Been Won' (Full Q&A).md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Iran War Kuwait, Bahrain Hit by Iran Strikes As Optimism Fades  The Opening Trade 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Iran Says Trump's Claim of Talks is 'Fake News'  The Pulse 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Iran Refutes Trump Talks Claim & Gulf Weighs Joining War WSJ  Daybreak Europe 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Hopes Dim for Iran War De-escalation  Insight with Haslinda Amin 03242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Europe, Australia Agree on Trade Deal to Boost Ties.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Enbridge CEO on Oil Demand, Infrastructure and Iran War Impact.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Dollar Declines as Trump Says Talks With Iran Underway.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Crypto Trading Splits Amid Iran War, Morgan Stanley's Crypto Ambitions  Bloomberg Crypto 3242026.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Canada Energy Minister Tim Hodgson on Oil Sands and Supply Measures.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Cameco’s Grant Isaac on Uranium Demand and Prices.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Businessweek Convenes Black Leaders Face the DEI Backlash.md
+- 2026-03-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3242026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Trump's Iran Ultimatum Roils Asian Markets  The China Show 3232026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Trump Says US 'Very Willing' to Make a Deal With Iran.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Trump and Iran Hurl War Threats; Stocks, Bonds Fall  Horizons Middle East & Africa 3232026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Too Soon to Draw Conclusions on Oil, Fed Governor Miran Says.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Stocks Head for Correction on Fear of Iran Escalation  The Pulse 03232026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Oil Higher as Trump Gives Iran Two-Day Hormuz Reopening Deadline.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Miran Says Policy Can't Be Made on Short-Term Headlines.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Market Rout Deepens as US, Iran Signal Potential Escalation  Insight with Haslinda Amin 03232026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/It's Still Contrarian to Be Bearish 3-Minutes MLIV.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Iran War Trump’s 48-Hour Iran Hormuz Deadline & Global Market Selloff  Daybreak Europe 3232026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Iran War Tehran Strikes Gulf Targets as Hormuz Deadline Looms  The Opening Trade 3232026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Iran War Israel Says Won’t Strike Iran Energy Sites After Trump Rebuke  Daybreak Europe 3202026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Global Stock Selloff Extends as Iran War Escalates  The Asia Trade 3232026.md
+- 2026-03-23 | 01_Videos/Bloomberg Television/Air Canada Collision at LaGuardia Airport Kills Two Pilots.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Why Australia’s Social Media Restrictions are Dividing Opinion.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Trump’s Tariffs on Canada Economic Pain or Long-Term Gain.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/This Weekend  Strait of Hormuz Ultimatum, ICE Agents at Airports, More on Iran.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Rep. Ivey Says Let's Have a War Powers Act Debate.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Rep. Greg Steube Says I Don't Want to See Our Troops on the Ground.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Poilievre says Oil is Canada's Leverage to Sway Trump.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Mixed Signals on War Timeline After Trumps Ultimatum.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Israeli Amb. Leiter Says We Want Peace With Lebanon.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Ian Bremmer says Iran War's Not Priced into the Markets Yet.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/How AI's Revolution Could Mirror the Industrial Revolution.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Highest Oil & Gas Prices in Years.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/BTW  College Dining, Espresso and Opera, Social Media Blues.md
+- 2026-03-22 | 01_Videos/Bloomberg Television/Alex Rodriguez Right Now Time to Invest in Baseball.md
+- 2026-03-21 | 01_Videos/Bloomberg Television/Trump Says He Doesn't Want Ceasefire With Iran  Balance of Power 03202026.md
+- 2026-03-20 | 01_Videos/Bloomberg Television/Pentagon Seeks $200B From Congress For Iran Conflict  Balance of Power 03192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/What to Make of The Federal Reserve's Decision.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Weeks of War Are Reshaping Global Gas Market for Years to Come.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Trump Says We Have Unlimited Supply of Armaments.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Trump Says He'll Speak Japan's Praises in China with Xi (Full Q&A).md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Trump Has Warm Welcome For Japanese Leader Takaichi at White House.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Trump 'Knew Nothing' About Israeli Attack on Iranian Gas Field  The China Show 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/The Debrief with Mario Parker Japan Prime Minister, Rising Gas Prices.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Sen. Peters on War Funding, DHS Standoff, Mullin Nomination.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Qatar LNG Plant Suffers 'Extensive Damage' After Iran Strike.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Pentagon Seeks $200 Billion for Iran  Bloomberg Businessweek Daily 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Panetta on War Costs, Hormuz Strategy, US Role.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Open Interest 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Oil Surges as Energy Assets Hit in Mideast; Fed Holds Rates  The Asia Trade 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Oil Falls on Hormuz Hopes  Closing Bell.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Oil & Gas Surge As Iran, Israel Escalate Energy Attacks  Horizons Middle East & Africa 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Markets See Iran War Lasting Months, Not Weeks Says Amundi  The Pulse 319.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Market Impact of War Finally Registering 3-Minutes MLIV.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Jeff Currie Says No Policy Response Can Stop Crude’s Ascent.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Iran-Related Shocks to 'Hollow Out' US Long-Term Growth, Says Gary Gensler.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Iran War Trump Calls for De-Escalation on Mideast Energy Site Attacks  Daybreak Europe 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Iran War European Stocks Fall as Energy Costs Surge Again  The Opening Trade 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Iran Shock ‘Long-Term Bullish’ for Treasuries, BMO’s Lyngen Says.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Iran Attacks Energy Sites  Balance of Power Early Edition 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/HSBC Weighs Job Cuts From Multiyear AI-Fueled Overhaul.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Hegseth Maintains Iran Not a 'Quagmire,' Defends $200 Billion Supplemental Ask (Full Presser).md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Gold and Silver Plunge Amid War, JPMorgan Debuts Equity Premium Yield ETFs  ETF IQ 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Fed Unveils Plans to Ease Capital Rules for Big Banks.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Fed Holds Rates Steady, Projects One Rate Cut in 2026  Balance of Power 03182026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Energy, Financial Markets Rattled by Iran Strikes  The Close 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Energy Crisis Oil and Gas Prices Keep Surging, as Metals Fall.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Cuba Won't Remove Its President to Appease Trump, Says UN Envoy.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Cuba will fiercely resist US threats, says envoy shorts cuba trump.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Coca-Cola’s $6 Billion Tax Fight How Transfer Pricing Works.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Chinese Shares Are Top Bet During Iran War Jefferies.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3192026.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Bessent Says US Could Release More Oil From SPR.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/Bank of England Votes 9-0 to Keep Rates on Hold.md
+- 2026-03-19 | 01_Videos/Bloomberg Television/$200 Oil No Longer A Far-Fetched Idea  Insight with Haslinda Amin 03192026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/US Aims to Curb Soaring Oil Prices  Balance of Power Editor Edition 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Trump Turns on Allies Over Iran War  The Asia Trade 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Trump Ditches Appeal for Help in Iran War.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Pimco's Stracke Addresses Private Credit Market Concerns.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Oil Prices Drop as Iraq Signs Pipeline Export Deal.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Oaktree's Marks Weighs In on Big Tech Debt Sales.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Oaktree's Howard Marks on Unpredictablility, Importance and Investing in AI.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Nvidia “Firing Up” Chip Production for China  The China Show 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Nvidia Says Company Firing Up H200 Production for China.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Jeff Currie Sees ‘Substantial’ Upside as Oil Market Rebalances.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Jeff Currie Says Oil Is ‘Mispriced’ at $100 Per Barrel.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Iraq Resumes Oil Exports Via Turkey & Trump Gives Up On Hormuz Help  Daybreak Europe 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Iran's Ali Larijani Killed in Strikes; Trump Slams Allies  Horizons Middle East & Africa 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Iran War Is a Mistake & US Congress 'Absolutely Absent' Says Rediker  The Pulse 318.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Iran Tensions, M&A Outlook & Health-Care Cost Crisis Open Interest 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Iran Says US, Israel Struck Giant Gas Field in the Gulf.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Iran Moves Its Own Oil Through Hormuz, Stocks Rise in Runup to Fed  The Opening Trade 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/European Gas Rises as Iran War Spurs Uncertainty.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Counterterrorism Center Director Resigns Over Iran War  Balance of Power 03172026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Central Bank Docket Set to Disappoint Hawkish bets 3-Minutes MLIV.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Banking Sector M&A, Dealmaking For Regional Banks  Bloomberg Deals 3182026.md
+- 2026-03-18 | 01_Videos/Bloomberg Television/Asia Braces for Fuel Shock as Iran War Escalates   Insight with Haslinda Amin 03182026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Wall Street Cautious as War Rages On  Open Interest 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Trump Seeks Xi Summit Delay Over Iran War  The China Show 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Trump Says He's Disappointed in NATO  Balance of Power Early Edition 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Trump Says He Asked China to Delay Xi Summit Due to Iran War.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Trump Demands Help With Hormuz; Iran Ramps Up Attacks  Horizons Middle East & Africa 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Trump Bashes NATO Allies as Iran War Intensifies, Oil Rises  Bloomberg Businessweek Daily 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Top Trump Counterterrorism Official Quits Over Iran War.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/TC Energy Could Invest Billions More in US, CEO Says.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Stocks Suffering More Than Some Think 3-Minutes MLIV.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Stocks Stage Cautious Advance  Closing Bell.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Oil Volatility Calms, Airline Stocks Soar  The Close 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Oil Shock and Peso Volatility Hit Philippines Amid Iran War  Insight with Haslinda Amin 03172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/NATO Is Making a Foolish Mistake Says Trump (Full Q&A).md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Israel Targets More of Iran's Top Leaders.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Israel Says Iran's Security Chief Ali Larijani Has Been Killed.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Iran War Trump Demands Help With Hormuz & Trump-Xi Delay Request  Daybreak Europe 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Iran War Shakes Trump-Xi Summit, Nvidia Makes $1T Forecast  The Asia Trade 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Iran War Pushes Diesel Prices Over $5 a Gallon in US.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Iran War Israel Says Tehran's Key Official Larijani Killed  The Pulse 317.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Iran War Europe Signals Little Interest in Aiding US with Hormuz  The Opening Trade 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Iran Launches Fresh Attacks on Energy Supplies.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Investors Can't Ignore Washington, Sonders Says.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/IBM CEO Krishna on Confluent Deal, AI and Hiring.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Crypto Prices Cyclical, Not Cause of Concern Belshe.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/China’s AI Boom Risks Job Losses, Regulatory Concerns.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Bitcoin Outperforms Asset During War, Mastercard Buys BVNK  Bloomberg Crypto 3172026.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/Airlines See Surge in Demand as Fuel Prices Rise.md
+- 2026-03-17 | 01_Videos/Bloomberg Television/$5 Diesel Could Mean a 35% Jump in Prices for US Consumers.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Worst Month Since 2022 Can Get Worse 3-Minutes MLIV.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Will the Trump-Xi Summit Go Ahead.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/What Are Trump's Options in Iran.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/US Is ‘Hammering’ Iran’s Ability to Threaten Hormuz Says Trump (Full Remarks).md
+- 2026-03-16 | 01_Videos/Bloomberg Television/UniCredit Makes €35 Billion Commerzbank Bid to Cross 30% Threshold.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/UAE's Fujairah Port Hit Again, Oil Loading Suspended.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump US Requests Delay of Xi Summit Amid War  Balance of Power 03162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Seeks Help on Hormuz; Oil Gains in Choppy Session  Horizons Middle East & Africa 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Says US Could Target Iran's Oil Assets.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Says Some Countries Will Help Secure Strait of Hormuz.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Gives Update on Iran Military has Been Obliterated, Some Allies Will Help With Hormuz.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Demands Other Nations' Help on Hormuz  The Asia Trade 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Demands Help From Allies to Secure Hormuz  Insight with Haslinda Amin 03162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Asks Allies For Help With Hormuz, Nvidia GTC Underway  Bloomberg Businessweek Daily 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Trump Appeals for Help With Hormuz  Balance of Power Early Edition 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Starmer Says UK 'Will Not Be Drawn Into the Wider War'.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Private Credit Infecting Public Markets, Boaz Weinstein Says.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Oil Declines, Major Averages Hold onto Gains  The Close 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Oil could top out between $105-$110 per barrel, Carley Garner Says.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Nvidia CEO Huang Expects to Make $1 Trillion From AI Chips.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Meta Layoff Report Sends Stock Higher  Open Interest 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Markets 'A Bit Complacent' on Iran War, JPM's Parker Says.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Major Averages Close Green Across Board  Closing Bell.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Long Airport Security Lines Become Flashpoint in DHS Shutdown Debate.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Iran War ‘Sharp Wake-up Call’ for Europe, Says Ireland's Finance Minister  The Pulse 316.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Iran War UAE’s Fujairah Oil Port Damaged, Iran Denies It Wants Truce  The Opening Trade 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Iran War Trump Hormuz Plea & Trump-Xi Summit Possible Delay FT  Daybreak Europe 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Finland's Stubb Says NATO Should Take Trump Seriously.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Fed Expected to Hold Rates Steady Due to War, Energy Shock.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/China’s Economy Surprises With Rebound  The China Show 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/China 'Supergrid' Gives Xi Buffer Against Energy Shocks.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/BofA’s Francisco Blanch Explains the Path to $200 Oil.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3162026.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Blackstone's Gray on UK Policies, Private Credit, Impact of Iran War.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/Allies Weigh Options as US Demands Hormuz Assistance.md
+- 2026-03-16 | 01_Videos/Bloomberg Television/'No Clear Off-Ramp' Asia Hit Hard by Hormuz Blockade.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/What the Millennial Prime Minister of Nepal Teaches Us About Inequality.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/Trump Ignoring Lessons From Past Sir Lawrence Freedman.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/Tonight's Academy Awards and What to Expect.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/This Weekend  Trump Not Ready for Iran Deal, Iran's Uncertain Future.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/Rep. Smith Says Trump's Iran Plans Are 'Cavalier and Unserious'.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/New Strikes In Iran As War Enters Day 16.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/How the Private Credit Crunch Is Raising New Questions About Risk.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/Democrats' Hope Is 'Not a Strategy,' Says Rep. Lawler.md
+- 2026-03-15 | 01_Videos/Bloomberg Television/Asia Should Buy More Oil From the US, Says Zeldin.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/Why Sweden Is Becoming a Defense Powerhouse as Europe Rearms.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/Warships Sent to MidEast, US Embassy in Baghdad Struck This Weekend.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/Volatile & Dangerous Game' Trump Balancing Iran Military Campaign Without Disrupting Oil Supply.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/US Faces Tough Choices in Next Steps in Iran.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/The Risk to Oil Tankers and Ships in Strait of Hormuz.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/Pointed News Quiz  Oil, Asia Politics, Hollywood.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/ormer State Dept. Official on US Military Campaign on Iran.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/Is the US Jobs Market Starting to Crack Steven Rattner on Tariffs, AI and Stagflation.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/DIGI Secy. Ernest Moniz - Former Energy Secretary under President Obama.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/DIGI Pnael Jeff, Dan and Philip.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/C-Suite Saturdays with Trane CEO on Bloomberg This Weekend.md
+- 2026-03-14 | 01_Videos/Bloomberg Television/AI Will Break Software Monopolies, Lovable CEO Says.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Zelenskiy to Meet Macron in Paris as Ukraine Faces Air Defense Squeeze.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Why Oil's Future Is So Unpredictable.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/War Shows No Signs of Easing, Leaders Use Defiant Tones.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Wall Street Week  Soft US Jobs, Swedish Defense Spending, Private Credit Woes.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Volatility Grips Wall Street, Judge Rejects Subpoenas of Fed Board  The Close 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/US, Iran Defiant On War; Khamenei To Keep Hormuz Closed  Horizons Middle East & Africa 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/US Says Intense Strikes on Iran Will Continue With Oil Around $100.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/US Economic Outlook Dragged Down by Iran War  Bloomberg Businessweek Daily 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/US Consumer Spending Stalls, GDP Takes a Hit.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/US Attorney Pirro Says Powell Is Not Above the Law.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Trump Warns of New Strikes on Iran as War Hits Two-Week Mark.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Trump Warns of New Strikes on Iran  Balance of Power Early Edition 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/The Iranian Regime Is Intact and in Control, Hochstein Says.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Stocks Extend Slide with Brent Oil Above $100  Bloomberg Brief 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/S&P Closes Out Third Straight Week of Loses  Closing Bell.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Russia Is Helping Iran Hit Back Against US Forces in Region.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Netflix to Pay Up to $600 Million for Ben Affleck's AI Firm.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Navigating The Geopolitical Uncertainty, Private Credit Concerns  Real Yield 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/McNally Oil Disruption From Hormuz Could Last Weeks.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Judge Rejects Subpoenas of Fed Board in Powell Case.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Judge Blocks US Investigation of Fed Chair Powell, DOJ to Appeal.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Judge Blocks Subpoenas Against Fed Chair Powell  Balance of Show 03132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/It Looks Very Bleak for Stock Markets 3-Minutes MLIV.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Iran's Supreme Leader Wounded, Likely Disfigured Says Hegseth (Full Presser).md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Iran War Trump Warns 'Watch What Happens' & US Allows Russian Oil Sales  Daybreak Europe 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Iran War Stocks Extend Slide With Oil at $100, Dollar Gains  The Opening Trade 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Iran War Helium Supply, Chip Production at Risk.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Iran Holding World Economy Hostage, Interior Secretary Burgum Says.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/India’s Restaurant Industry Running on Fumes.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/India, Southeast Asia Brace for Impact as Iran War Rages  Insight with Haslinda Amin 02132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/How's Minneapolis Doing Post ICE Withdrawal.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Fears of Helium Supply Crunch Hit Asian Chipmakers  Bloomberg The China Show 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Esper Drones, Mines Complicate Strait Escort Mission.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Economy Loses Steam, Adobe CEO Exits After 18 Years.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/BMW to See 'Rather Stable Environment,' CEO Zipse Says.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/Asian Stocks Lower as US & Iran Remain Defiant  The Asia Trade 3132026.md
+- 2026-03-13 | 01_Videos/Bloomberg Television/2026 Will Be Big Dealmaking Year, Pause Is Temporary Citi's Amit Nayyar.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/US, Iran Strike Defiant Tones  Balance of Power Early Edition 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/US Trade Probe Into China Paves Way for New Trump Tariffs.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Trump Vows to Finish Job in Iran; Brent Hovers Near $100  Horizons Middle East & Africa 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Trump Signals US Will Tap Oil Reserve  Balance of Show 03112026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Stocks Fall, Oil Rises as Shipping Crisis Worsens  Bloomberg Brief 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Oil Trades Near $100 as Shipping Crisis Widens.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Oil Jumps as Energy Supply Risks Persist  The Asia Trade 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Oil Back Above $100 As Iran War Deepens  Insight with Haslinda Amin 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Oil at $120 or $130 Could Trigger a Recession, Hooper Says.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Narayen Departure Puts Adobe Investors in Limbo, Analyst Luria Says.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Mideast Conflict Dubai Drone Incidents Add to Regional Flight Disruptions.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Mattel CEO Says Toy Industry Is Strong and Healthy.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Markets Show Concern Over Hormuz Closure   The Close 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Markets See Worst Day Since Iran War Began  Closing Bell.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Man Killed After Ramming Car Into Michigan Synagogue.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Iran's New Supreme Leader Says Strait of Hormuz Should Stay Closed.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Iran War Tanker Attacks Spike Oil & Trump Trade Probe  Daybreak Europe 03122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Iran War Global Stocks Fall as Vessel Attacks Lift Oil  The Opening Trade 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Iran Vows to Keep Strait of Hormuz Closed  Balance of Show 03122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Iran Threatens New Targets; US Works to Tame Oil Prices.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Iran Threatens New Targets as US Aims to Tame Oil Prices  Open Interest 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Iran Supply Chain Shock to Last Weeks, Not Months, BlackRock’s Boivin Says.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/How the Pentagon Got Hooked on AI War Machines.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Dell and DOE Partner on Building AI Infrastructure.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Brent Oil Surges Again as Iran War Impact Deepens  The China Show 3122026.md
+- 2026-03-12 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3122026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/You Can't 'Jawbone' Down Energy Prices, Rubenstein Says.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Why Oil Markets Aren’t Pricing a Prolonged War Risk  Insight with Haslinda Amin 03112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/War Jitters Put Stocks Under Pressure  The Close 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/US Warns Iran Against Laying Mines in Strait of Hormuz.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/US Military Under Strain From Iran War; China Moves to Limit OpenClaw AI  Daybreak Europe 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Uber and Zoox CEOs on Partnering to Offer Robotaxi Rides.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Trump Warns Iran on Laying Mines in Hormuz; Oil Below $90  Horizons Middle East & Africa 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Trump Touts Strikes on Iran  Balance of Power Early Edition 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Trump Says 'Not Worried' About Iran-Backed Domestic Terror Attack (Q&A).md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Texas Senate Runoff Tees Up Bitter Republican Showdown.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Tech Sector Closers Higher, Led by Oracle  Closing Bell.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Tame CPI Overshadowed by Oil Moves, Traders Weigh War Impact  Bloomberg Businessweek Daily 31126.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Stocks Will Have a Panic Attack in March 3-Minutes MLIV.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Sen. Rand Paul on US Debt, ICE, and the Future of the DHS.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Pakistan’s Stance on Saudi Defense Pact Amid Iran War Tensions.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Our Economy 'Hangs Off' the Strait of Hormuz says McHenry.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Oracle Rally Fueled by AI Cloud Boom  Open Interest 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/OpenClaw Mania Sweeps China  The China Show 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Oil Rises as Attacks Continue in Middle East; CPI on Deck  Bloomberg Brief 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Jeff Currie Says No Policy Response Can Stop Crude's Ascent.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Iran’s Cheap, Plentiful Weaponry Puts US Military Under Strain.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Iran War World Races to Protect Oil, Traders Assess Mixed Messages  The Opening Trade 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/IEA Proposes Largest Oil Stockpiles Release in Its History.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/How Iran's Weaponry Can Put US Military Under Strain.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Headline Inflation Could Keep Accelerating, Wilding Says.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/China Said to Be Irked by Xi-Trump Summit Planning.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/China Pivots to Domestic Demand in New Five-Year Plan.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Carlyle's Currie Warns Against Oil and Gas Hoarding.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Bloomberg Deals 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Asian Stocks Rise on Huge Oil Release Report  The Asia Trade 3112026.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/Apple to Release MacBook Neo, its First Budget Option.md
+- 2026-03-11 | 01_Videos/Bloomberg Television/AI and Geopolitical Risks Are Mispriced, Paul Taubman Says.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Yardeni Sees Increased Risk of a Sharp Selloff Due to Iran War.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Yardeni Says Gold Could Hit $6,000 an Ounce by End of Year.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Why Investors Need To Be Cautious Despite Trump’s Optimism  Insight with Haslinda Amin 03102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/We're Getting Closer to How Banks Operate Kraken Co-CEO.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/US Won't End Iran War Until Enemy is Defeated Says Hegseth (Full Presser).md
+- 2026-03-10 | 01_Videos/Bloomberg Television/US Says It’s Escalating War on Iran  Balance of Power Early Edition 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Trump Warns Against Iran Putting Mines Around Strait of Hormuz  Balance of Show 03102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Trump Waiving Some Oil-Related Sanctions  Balance of Show 03092026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Trump Talks to Putin After Iran Market Panic, Insists 'I Have a Plan'  Daybreak Europe 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Trump Signals Possible End to Iran War; Oil slides  Horizons Middle East & Africa 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/The Key Takeaways From Oracle's Earnings Beat.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Stocks Rally is Vulnerable to News 3-Minutes MLIV.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Stocks and Bonds Slide Globally as Oil Tops $100.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Shipping CEO on Hormuz Disruptions & Yardeni's 35% Meltdown Warning  Open Interest 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Pentagon Says US Is Stepping Up Attacks on Iran.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Oracle Earnings Beat Leads to After-Hours Surge  Closing Bell.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Oil Slides as Trump Seeks to Ease War Length Concerns.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Oil Slides as Trump Indicates End to War Soon  The Opening Trade 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Oil Drops as Trump Signals Possible End to Iran War  Bloomberg Brief 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Markets Still Grappling with Conflict in Iran  The Close 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Markets Relieved as Trump Signals Iran War Ending 'Soon'  The China Show 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Markets Increasingly Dollar-Denominated, Says ICE Chairman and CEO.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Ex-Israel PM Neutralizing Iran Threat Is Still the Goal.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/CFTC Boss Says Bets Risk Becoming `Assassination Market'.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Bloomberg Crypto 3102026.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Australia Gives Asylum to Five Iranian Female Soccer Players.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Apple Increases iPhone Production in India by 53%.md
+- 2026-03-10 | 01_Videos/Bloomberg Television/Admin Denies Hormuz Escort, Stocks Whipsawed  Bloomberg Businessweek Daily 3102026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/War Triggers Tumult in Oil Market  Balance of Power Early Edition 3092026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/US Equities Dragged Into Global Selloff as Iran Crisis Escalates.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Trump Says War With Iran Is 'Very Complete'.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Trump Says Oil 'Small Price To Pay' as Iran Names New Supreme Leader  Daybreak Europe 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Trump Mulls Using Special Forces to Seize Iran's Uranium.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Stocks, Commodities Waver as Iran Conflict Continues  Bloomberg Businessweek Daily 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Stocks, Bonds Slide as Oil Tops $100  Bloomberg Brief 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Stocks Mount Comeback After Trump Remarks  Closing Bell.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Stock Markets Still Look Complacent 3-Minutes MLIV.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Saudi Pipeline Could Help Trump Buy Time and Try to End War, Opinion's Blas Says.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Saudi Arabia Begins Oil Output Cuts as Storage Fills Up.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Surges Past $100 a Barrel, Iran Names New Supreme Leader  The Opening Trade 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Surges Above $100, Stocks Slump  The Asia Trade 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Surge Spooks Markets as Iran War Escalates  The China Show 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Price Shock Who Gets Hit the Hardest  Insight with Haslinda Amin 03092026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Pares Gains Above $100 Amid Report of Reserves Release.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Falls After Trump Iran Remarks  The Close 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Could Spike Again, Babin Says.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Oil Above $100 What’s Next  Open Interest 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Live Nation Reaches DOJ Settlement in Antitrust Case.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Iran's New Supreme Leader; Oil's Massive Rally  Horizons Middle East & Africa 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Iran War Pushes Oil Past $100 as Saudi Arabia Announces Production Cuts.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Expect $4 Gas Sooner Rather Than Later, Morse Says.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/ETF IQ 392026.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Energy Shock May Impact Consumer Spending, George Says.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Citi’s Kate Moore Sees Safety in US Large Cap Stocks.md
+- 2026-03-09 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 392026.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Why Data Centers Are Creating a Blue-Collar Gold Rush.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Trump Speaks on Iran, Energy Market Uncertainty, Middle East Conflict Enters Day 9  This Weekend.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Trump on Iran War  Air Force One Comments In Full.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/The Forecast Newsletter The ‘70s Global Crises and Today.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Sen. Rounds on US Actions in Iran Conflict.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Scottie Pippen is auctioning off gear from his legendary NBA career with the Bulls.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Philip Morris CEO Says Cigarettes Belong in a Museum as Zyn and IQOS Surge.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Maker of OnCloud Running Shoes disappoints investors with outlook.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Israel’s Strategic Objectives Amid Ongoing Conflict in the Middle East.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Exploring Trump's Stance on Potential Military Action in Iran.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Exploring Regional Dynamics One Week into Iran Conflict.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/China Steps Up Investment in Africa's Railway Infrastructure.md
+- 2026-03-08 | 01_Videos/Bloomberg Television/Amid Prolonged Conflict Energy Markets Face Uncertainty.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/Wall Street Week  Lloyd Blankfein, Ukraine’s Tech, Big Tobacco’s Future, Building Data Centers.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/Trump Wants Unconditional Iran Surrender  Balance of Show 03062026.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/This Weekend  Trump on Iran, Oil Price Outlook, Mullin Replaces Noem.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/The Escalating War in Iran.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/Mixed US Messaging Raises Questions on Strategy.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/Lloyd Blankfein on War Risk, Market Fragility, and the Next Financial Reckoning.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/J.Crew Survived Bankruptcy. Next Up Cultural Relevance.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/Iran War is Fracturing the MAGA Base.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/How Ukraine Digitized Government in the Middle of War.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/How Gen Z is Fueling Coach's Next Chapter.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/Fed Policymakers Cautious Over Rising Gas Price Concerns.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/Critical Minerals Africa’s Role in the New Global Economy Explained.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/At 'Shield of the Americas' Trump Addresses Military Actions in Iran.md
+- 2026-03-07 | 01_Videos/Bloomberg Television/AI’s Hidden Housing Boom.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Will Support Supplemental Funding Rep. Wasserman Schultz.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Why the US Submarine Strike Raises Risks for India’s Economy.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Wall Street Rattled by Weak Jobs Report  Closing Bell.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/US Unexpectedly Loses 92,000 Jobs in February.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/US Payrolls Shock Wall Street  Open Interest 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Trump Wants ‘Unconditional Surrender’ From Iran.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Trump Removes Kristi Noem From DHS Effective March 31  Balance of Show 03052026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Trump Demands Iran Surrender  Balance of Power Early Edition 3062026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Stocks Sink on Jobs, War, Credit Woes  The Close 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Stocks Lower on $90 Oil, Weak Payrolls  Bloomberg Businessweek Daily 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Shock Drops in US Payrolls, MFS Collapse Adds to Risk Control Questions  Real Yield 362025.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Petraeus Says Iran Objectives ‘Very Achievable’ From the Air.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/OpenAI, Oracle Won't Expand Flagship AI Data Center in Texas.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Netflix Drops Out of Bidding War for Warner Bros.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Ives on the Tech Trade, Anthropic-Pentagon Spat.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Is the US Ready to Host the FIFA World Cup.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Iran War Who Could Be the Next Supreme Leader.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Iran War Where Things Stand After Almost One Week.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Iran War US Grants India Russian Oil Waver, Hormuz in Near-Total Halt  The Opening Trade 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Iran War Trump Weighs Range of Options to Counter Oil Price Spike  Daybreak Europe 03062026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Iran War Tests Asia’s Resilience  Insight with Haslinda Amin 03062026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Iran Intensifies GCC Strikes; Trump Wants Say in Succession  Horizons Middle East & Africa 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/How One Ship Navigated Hormuz Amid Iran War.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/How Much Higher Can Oil Go.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/How Does The Iran War End, Asks Former EU Foreign Policy Chief  The Pulse 36.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Hassett on Oil Price Pressure, US Jobs Report.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Goldman’s Struyven Sees ‘Meaningful’ Upside to $100 Oil.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Gap CEO Wants to Control the Controllable.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Fed’s Christopher Waller on War-Related Inflation, Jobs, Private Credit.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Fed's Hammack Sees Two-Sided Risks to Interest Rates.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Fed's Goolsbee Weighs In on Jobs Report, Stagflationary Concerns.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Elevated Oil, Chip Woes Weigh on Asian Stocks  The Asia Trade 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/China Makes Stability No. 1 Priority Amid Iran War  The China Show 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Calculating Iran's Missile Math After First Week of War.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Bond Rout Deepens After Jump in Oil; US Jobs Report  Bloomberg Brief 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 362026.md
+- 2026-03-06 | 01_Videos/Bloomberg Television/BlackRock’s Rick Rieder Says US Economy Is ‘Doing Fine’.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Why the Iran War May Hurt Trump.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Why the Iran War May Hurt Trump (sEnT0KKzIqE).md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Why a US Torpedo Strike Sinking an Iranian Warship Puts India in a Bind.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/What to Expect From the February Jobs Report.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/War Powers Resolution Fails Vote in Senate  Balance of Show 03042026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/War Creates Uncertainty for Rate Path Says Fed's  Kashkari  (Full Panel).md
+- 2026-03-05 | 01_Videos/Bloomberg Television/US Set to Launch Strikes Deeper Into Iran.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Trump’s New Tariffs Face Legal Challenge From States.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Trump Says US 'Doing Well' In Iran War  Horizons Middle East & Africa 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Trump Replaces Noem as Homeland Chief  Balance of Power Early Edition 3052026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Trump Ousts Kristi Noem at DHS, Senator Mullin Named as Replacement.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Stocks Hit by Rout in Chipmakers, Oil Soars  The Close 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Stocks Are the Asset Class That's Wrong 3-Minutes MLIV.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/South Africa's Godongwana on Mideast War Shock, Debt, Investment.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Oil Tops $81, Trump Replaces Noem at DHS  Bloomberg Businessweek Daily 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Oil Could Top $100 If Traffic Through Hormuz Remains Restricted, Moniz Says.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Oil Advances as Iran War Enters Sixth Day  Bloomberg Brief 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Morgan Stanley to Cut About 3% of Workforce.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/LIVE Bloomberg Invest Day 2.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Kristi Noem Out at DHS After Months of Controversy.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Korea Leads Rebound, China Sets Lower Growth Target  The Asia Trade 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/JPMorgan Economist Sajjid Chinoy on India’s Biggest Dangers from an Extended Iran Conflict.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Iran War Trump Says US Doing ‘Very Well’, Oil Extends Jump  The Opening Trade 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Iran War Trump Says US Doing ‘Very Well’ & Iran Vows Retaliation  Daybreak Europe 03052026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Iran Conflict Whipsaw Investors As Market Volatility Surges  Insight with Haslinda Amin 03052026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/How Middle East War Could Expose AI Risks  The Pulse 35.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Goldman's Solomon on Iran, AI and Private Credit.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Former Secretary of State on the Two Keys to Ending Iran War.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Fed Is Still Assessing Impact of Iran War, Barkin Says.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/China Sets Lowest Growth Target Since 1991  The China Show 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Canceled Flights to Mideast Top 23,000 Since War Started.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Buying Into Close Lifts Flailing Markets  Closing Bell.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Broadcom Challenges Nvidia in AI Race  Open Interest 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 352026.md
+- 2026-03-05 | 01_Videos/Bloomberg Television/Big Take Antony Blinken On Two Keys To Ending War In Iran.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Zaslav Is Real Winner in WBD Deal, Gabelli Says.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Why We’re Living In A Golden Age Of Close-up Magic.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/What Is the End Game for Trump in Iran War.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/US Says It Will Strike Iran Harder  Balance of Power Early Edition 3042026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Trump's Hormuz Guarantee; Biggest Market Meltdown Since GFC  Horizons Middle East & Africa 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Trump Worries About Future Iran Leaders  Balance of Show 03032026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Trump Will Make Endorsement in Texas Senate Race.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Trump Says US Will Escort Tankers in Strait of Hormuz.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Trump Pledges Safe Mideast Oil Transit, Chance of Quick Iran War Fades  The Opening Trade 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Stocks Rise Amid Economic Surprise  The Close 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Stocks Higher on ISM, Apple's Cheaper MacBook  Bloomberg Businessweek Daily 3042026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Reeves Says UK Won’t Make Iran Decisions Based on US Trade Ties.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Panic Sweeps Korean Stocks  The Asia Trade 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Oil Swings as Iran Denies Report of US Outreach to End War.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Markets Rebound Following Yesterday's Dip  Closing Bell.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Marathon's Richards on Software Lending and Defaults.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Live from Bloomberg Invest Bloomberg Deals 3042026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Iran War Trump Pledges Safe Mideast Oil Transit & Threatens Spain  Daybreak Europe 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Iran War Major German Company Warns Investors Of Conflict Risk  The Pulse 34.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/How Large is Iran's Offensive Arsenal.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/How Build-A-Bear Went on an Nvidia-Like Run.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Gold Has More Downside Over Coming Weeks 3-Minutes MLIV.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Futures Rise on Iran Contact Report; Primary Election Results  Bloomberg Brief 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Former Secretary of State Antony Blinken on Iran.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Fed’s Beige Book Shows Benign Economic Outlook.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Fed's Miran Says It's Appropriate to Keep Cutting Rates.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Breaking Down the Texas Primary as GOP Struggle Goes On.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Bloomberg Invest AI, Credit, and Risk  Open Interest 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Asian Markets Could Get Hit Harder by a Prolonged Iran Conflict Insight with Haslinda Amin 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Asia Market Meltdown Worsens as Iran Concerns Mount  The China Show 342026.md
+- 2026-03-04 | 01_Videos/Bloomberg Television/Apple Unveils the $599 MacBook Neo.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Why the Iran Conflict Is One of India’s Toughest Geopolitical Tests Yet.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/What to Watch for China's 2026 NPC.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/War Powers Debate Escalates After US Strike on Iran  Balance of Show 03022026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/US Embassy in Riyadh Attacked, Iran Steps Up Strikes.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/UK's Reeves on Trade With US, Economy, Iran War.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Trump Says Iran's Air Force and Navy Are Gone.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Trump Says Iran Is In for 'a Lot of Hurt'.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Trump Questions Future Iran Leaders  Balance of Power Early Edition 3032026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Trump Promises to Secure Oil Tankers Through Strait of Hormuz, If Needed Amid Iran War.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Trump on Iran Whatever It Takes; Lobbying US For Off-Ramp  Horizons Middle East & Africa 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/The Pulse with Francine Lacqua 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Texas Primary Races Take Center Stage with Cornyn and Crockett Seats Up for Grabs.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Stocks Have Further to Fall on Iran War 3-Minutes MLIV.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Stocks Fall as Middle East War Widens  Closing Bell.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Stocks Extend Losses; Oil Surges as War With Iran Enters Fourth Day  Bloomberg Brief 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Stocks Bounce from Session Lows Despite Iran War  The Close 322026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Shipping Caught in the Crosshairs of Iran War.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Santander's Botin on US-Spain Ties, M&A and Hiring.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Reeves Says UK Had No Legal Basis to Attack Iran.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Pantera's Morehead discusses Crypto Prices, Firm's Investments.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Oil Price Indicators Showing Intense Near-Term Tightness.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Markets on Edge As Iran Conflict Escalates  Insight with Haslinda Amin 03032026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Markets Continue to Seesaw in Wake of Mideast Conflict  The Close 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/LIVE Bloomberg Invest Day 1.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Iran War Fuels Inflation Fears & Sparks Deep Selloff Across Markets  The Opening Trade 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Iran War Exposes China's Geopolitical Vulnerability  The China Show 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Iran War Enters Fourth Day, Trump says latest attack was 'pretty substantial'  (Full Q&A).md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Iran Latest Trump Vows ‘Whatever it Takes’, Rubio Warns More To Come  Daybreak Europe 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Investors face painful” 18-24 months, Soros CEO says shorts bloomberginvest investing.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Investors Face 'Painful' 18-24 Months, Soros CIO Says.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Huge Regulation Effort for Prediction Markets Vanderbilt's Yadav.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/How the Iran War Could Shape Australia's Foreign Policy.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Businessweek Live at Bloomberg Invest  Bloomberg Businessweek Daily 3032026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Bloomberg Invest Finance Power Players  Open Interest 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Bloomberg Crypto 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Blackstone Sees Record Redemptions From Private Credit.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Big Short's Moses If Private Credit Goes, Fed Has No Choice But to Bail Out.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Asian Stocks Extend Losses on Iran Risk  The Asia Trade 332026.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Arougheti Says Getting Larger in PE Might Make Sense for Ares.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Ariel's Rogers Sees Small Risk of US Recession.md
+- 2026-03-03 | 01_Videos/Bloomberg Television/Apollo's Rowan Warns About 'Shakeout' in Private Markets.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Why Oil May Not Surge Much Despite Iran Conflict  Insight with Haslinda Amin 03022026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Who Rules Iran If the Regime Falls Trita Parsi & Fereidun Fesharaki Debate Scenarios.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/US-Israel Iran Strikes Latest Trump Says Iran Operations To Continue  Daybreak Europe 0322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/US, Israel Conflict With Iran  Balance of Show 312026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Trump Signals All-Out Iran Push  Balance of Power Early Edition 3022026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Trump Says US Will Do Whatever It Takes to Win in Iran.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Trump Says Strikes On Iran To Continue  Horizons Middle East & Africa 232026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Trump Says Iran War Could Last Weeks, Tehran Remains  Defiant.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Trump Says Iran Bombing Could Last Weeks, Tehran Defiant  The Pulse 322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Treasuries Sink, Oil Jumps as Markets Weigh Iran  Bloomberg Businessweek Daily 3022026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/The Iran War Is Practically Over, Yardeni Says.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Risk-Off Moves Across Asia on Iran Attack  The Asia Trade 322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/OpenAI Sweeps In to Take Pentagon Deal After Rival Anthropic Was Rejected.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Oil Price Surges as US-Iran Conflict Continues.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Oil and Gasoline Prices Spike as War Disrupts Shipments.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Middle East Travel Chaos Airlines Extend Cancelations as Conflict Worsens.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/JPMorgan's Jhamna Predicts AI Will Revolutionize Credit Markets.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/JPMorgan's Dimon on Iran War, Inflation, Credit Cycles.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/JPM's O'Donnell Expects a Pickup in M&A Activity.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Israel Opens Up New Front in War With Iran-Backed Hezbollah.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Iran War Stocks sink to start the week as oil prices rise.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Iran Latest Trump Says Combat Operations to Continue Until All US Objectives Achieved.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Iran Is Still Dangerous, Says Carnegie's Miller.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Iran Crisis Oil Spikes, Trump Says Iran Attacks May Last Weeks  The Opening Trade 322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Iran Attacks May Last Weeks as Traders Debate Impact  Open Interest 322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/How Markets Are Reacting to Iran Strikes 3-Minutes MLIV.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Futures Fall and Oil Surges as Iran Strikes Enter Third Day  Bloomberg Brief 322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/ETF IQ 322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Energy Shares Surge Alongside Oil Futures  Closing Bell.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Did Trump Have the Right to Attack Iran Without Asking Congress.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Currie Risks to Energy Supply Chains Never Been Higher.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/China Condemns US-Israel Strikes on Iran  The China Show 322026.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/BNY CEO on how AI employees work alongside human staff.md
+- 2026-03-02 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 322026.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/What's Next for Military Action in Iran.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/What the Iran Attacks Mean for Oil, Gold Prices.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/What Are President Trump’s Objectives for Iran.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Senator Warner Says Iran Wasn't an Imminent Threat.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Next Steps in Iran After Supreme Leader's Death.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Iranian People Can Take Back Their Country, Says Rep. McCaul.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Iran Planning Had Several Options for Attack, Says Sen. Warner.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Iran Could Be 'Rendered Defenseless' Says Former Defense Secretary.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/How Sweden’s Housing Factories Could Fix US Home Prices.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Energy, Crypto Making Moves After Khamenei Death.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Congress Has War Powers, Must Use It, Says Rep. Crow.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Botswana Eyes Critical Minerals Boom.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Bloomberg This Weekend 312026.md
+- 2026-03-01 | 01_Videos/Bloomberg Television/Big Take Lloyd Blankfein on AI, Private Credit, and Politics.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Why Leaders Should Rethink the Way They Handle Mistakes.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/What Iran Attack Means For Oil.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Wall Street Week  Examining Trump’s Economy, Takeaways from Corporate & Government Mistakes.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/US, Israel Launch 'Operation Epic Fury' in Iran.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/US Strike Is 'Nightmare Scenario' For Middle East.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Stocks Slide as Credit Stress, War and AI Fears Weigh  The Close 2272026.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/President Trump’s Economy Boom, Bust, or Business as Usual.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/President Trump Announces Major Combat Operations in Iran Have Begun (full statement).md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Pentagon Declares Anthropic A Supply-Chain Risk  Balance of Show 02272026.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Former UN Ambassador Bolton Concerned About Iran Regime Change.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Dubai Prepares for the Worst as Iran Launches Drones and Missiles.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Critical Minerals Africa's Strategic Moment  Bloomberg Next Africa.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Bloomberg This Weekend 2282026.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/Anthropic Escalates Pentagon AI Feud.md
+- 2026-02-28 | 01_Videos/Bloomberg Television/'Interesting' to Hear Russia's Response to Iran Strike Rep. Auchincloss.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/What's Next for the Super Bowl.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/What You Really Get In a Super Bowl Suite.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/What to Watch for on 'Bloomberg This Weekend'.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/War in Ukraine Enters Fifth Year, When Will it End.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/US-Iran Talks to Resume; Netflix Drops Warner Bros. Bid  Horizons Middle East & Africa 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/US-Iran Nuclear Talks Look Like a Sham, Hochstein Says.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Trump ‘Not Happy’ On Iran  Balance of Power Early Edition 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Trump Tells US to Stop Using Anthropic Products.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Trump Tells US Agencies to Stop Using Anthropic's Tech.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/The Math Behind Drake’s Lucky Spins.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Stocks Slide as Wholesale Inflation Heats Up  Closing Bell.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Stocks Lower on Block, Credit Jitters  Bloomberg Businessweek Daily 2272025.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/SpaceX Said to Target Confidential IPO Filing as Soon as March.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Rep. Hakeem Jeffries on Iran, Border Security and Government Shutdown.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Raghuram Rajan Challenges Citrini Research's Gloomy India Prediction.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Private Credit Cracks Worry Investors  Open Interest 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Pentagon’s Michael on Anthropic Talks, Military Use of AI.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/OpenAI Finalizes $110 Billion Funding Round at $730 Billion Valuation.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Netflix Shares Rise After Exiting Bidding War; Credit Blowup in London;  Bloomberg Brief 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Netflix Drops Warner Bros. Bid, Block Slashes Nearly Half Its Staff  The Opening Trade 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Netflix Drops Warner Bid; AI Anxiety Hits Markets  The Asia Trade 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Netflix Bows Out of WBD Race & Anthropic Rejects Pentagon Offer  Daybreak Europe 02272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Navigating the US Economy, Investors Assaying Private Credit Risks  Real Yield 2272025.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/How Far Will AI Angst and Gold’s Historic Rally Go  Insight with Haslinda Amin 02272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Greens Win UK By-Election in Blow to Starmer's Labour.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Does Bill Clinton's Testimony Set a Precedent.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/China Tries to Slow the Yuan's Rise  The China Show 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/California AG on Paramount–Warner Bros., Tariff Lawsuits.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 2272026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Anthropic-Pentagon Feud Over AI Guardrails  Balance of Show 02262026.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Anthropic In a Lose-Lose Situation, Opinion's Lee Says.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/Anthropic Faces US Deadline Over Pentagon AI Feud  The Pulse 227.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/All the Excitement Is in AI Evolution 3-Minutes MLIV.md
+- 2026-02-27 | 01_Videos/Bloomberg Television/AI Shakes Up Trucking Stocks.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Warner Bros. Says Paramount Offer Is Superior to Netflix Proposal.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Victory Capital Tops Trian's Bid for Janus Henderson.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/US Stock Rally Stalls; Nvidia Shares Fluctuate After Earnings  Bloomberg Brief 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Trump's State Of The Union 'Avoided Issues' Says Tim O'Brien.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Trump Tariffs Customers Expecting Payback, Says Swiss Chemicals Business  The Pulse 226.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Trump Defends His Policies in State of the Union  Balance of Show 02252026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/The Opening Trade 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/The AI Trade Has Evolved Beyond Nvidia 3-Minutes MLIV.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Stocks Slip as Nvidia Drops Despite Earnings Beat  Closing Bell.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Stocks Rise as Nvidia Surges on Earnings Beat  The Close 2252026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Stocks Drop as Nvidia-Led Chip Selloff Weighs on Market  The Close 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/South Korea's Bull Market Goes Into Overdrive  Insight with Haslinda Amin 02262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Salesforce Stock Has Substantial Upside, Says Mizuho's Moskowitz.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Richards Not Too Worried About Software Worries Contagion.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Paramount Beats Estimates Amid Warner Bros. Bidding War.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Tepid After Earnings; US-Iran Talks  Horizons Middle East & Africa 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Gets US License to Ship Some H200 Chips to China.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Forecast Underwhelms  Open Interest 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Forecast Fails to Relieve Concerns  Bloomberg Businessweek Daily 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Fails to Wow & Cuba Shootout With US Boat  Daybreak Europe 02262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Fails to Impress Investors With Forecast  The Asia Trade 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Delivers 'Michael Jordan' Like Numbers, Ives Says.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Nvidia Delivered ‘Superstar Performance’ in Q4, According to Dan Ives.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Netflix Drops Out of Fight to Buy Warner Bros.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Merz, Xi Meeting What's Next for Germany-China Ties.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Jack Dorsey's Block Plans to Cut Nearly Half of Workforce in AI Bet.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Iran-US Talks to Resume in Geneva.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Iran Says Talks With US Were 'Very Intense and Serious'.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Iran Calls US Nuclear Talks Intense  Balance of Power Early Edition 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Hillary Clinton Says She Denied Ever Knowing Jeffrey Epstein.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Harvard’s Massive Land Grab Isn't Working Out the Way It Thought.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Chinese Yuan at 35-Month High as Dollar Weakens  The China Show 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/China's Yuan Hits 35-Month High As Dollar Keeps Falling.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/CalPERS 'Not Too Concerned' About Software Exposure, CEO Frost Says.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 2262026.md
+- 2026-02-26 | 01_Videos/Bloomberg Television/Anthropic vs. the Pentagon What You Need To Know.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/What to Make of Cuba Shooting Four People Dead in US Speedboat.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Wall Street Rallies Ahead of Nvidia Earnings  Closing Bell.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Virginia's Spanberger Delivers Democratic Response to Trump Address.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Victor Khosla Sees 'Fat' Tail Risk in Credit Markets.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/US Trade Representative Greer on 15% Tariff, USMCA, EU Trade Deal.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump's State of the Union, Traders Await Nvidia Results  The Opening Trade 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump's State of the Union Address Key Takeaways of Economy-Focused Speech.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump's SOTU Pitch Faces Headwinds  Bloomberg Businessweek Daily 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Touts Economic Record in State of the Union  Daybreak Europe 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Touts Economic Policies at State of the Union  Bloomberg Brief 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump to hike US tariff to 15% where appropriate, Greer says shorts tariffs trump trumptariffs.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump to Address Affordability in State of the Union  Balance of Power Late Edition 2242026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Stages State of the Union Pep Rally as Economic Mood Sours.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Says US Winning, Introduces Olympic Hockey Team.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Has Not Answered Key Questions About Iran, Says Rep. Goodlander.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Delivers Economic-Focused Address  Balance of Power Early Edition 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Defends Economic Policy During State of Union  Horizons Middle East & Africa 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Trump Calls Democrats 'Crazy' for Not Protecting Kids.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/This Is the Year for AI Deployments, Lightspeed Venture's Mhatre Says.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/The Key Takeaways From Nvidia's Earnings and Forecast.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/State of the Union Trump Calls Supreme Court Tariff Ruling 'Very Unfortunate'.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Private Credit Default Rates Could Hit 15%, UBS Warns.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Polymarket, Kalshi Showcase the Power of Prediction Markets.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Nvidia Says Customers Are Racing to Invest in AI Compute.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Markets Eye Nvidia Earnings Amid AI, Credit Concerns  Open Interest 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/LIVE President Trump Delivers State of the Union Address.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Incredibly Bullish Macro Environment 3-Minutes MLIV.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/HSBC CEO Elhedery on Earnings, HK Property & AI Strategy  Insight with Haslinda Amin 02252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Definitely Not Like Financial Crisis Brookfield's Flatt on AI, Private Credit  The Pulse 225.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/China Cargo Gap Shows Record US Tariff Evasion  The Asia Trade 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/China Benefits the Most From US-Canada Trade Spat, Freeland Says.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 2252026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/Balance of Power State of the Union 2242026.md
+- 2026-02-25 | 01_Videos/Bloomberg Television/AI Adviser Zack Kass Says Software May Have Been in a Bubble.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/US, Iran Pressure Mounts as Trump Pushes for Deal  Balance of Power Late Edition 2232026.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Trump's New 10% Tariff Takes Effect; Dimon Warns on Credit Risks  Bloomberg Brief 2242026.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Trump's 10% Global Tariffs Take Effect  Horizons Middle East & Africa 2242026.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Trump's 10% Global Tariffs Kick In  Daybreak Europe 2242026.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Trump Tariffs Create Chaos, Says Former Spain Official  The Pulse 224.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Stocks Slip as Software Selloff Sparks AI Concerns  The Close 2232026.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Russia-Ukraine War Enters Its Fifth Year.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Investors Hunt for AI Winners and Losers  The China Show 2242026.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Fed's Goolsbee on Inflation Risk, Tariffs and Powell.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/EU's Kallas Says US Should Put More Pressure on Russia to End War.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/Dimon Sees Rivals Doing 'Dumb Things' in Credit, AI Scare Trade Returns The Opening Trade 2242026.md
+- 2026-02-24 | 01_Videos/Bloomberg Television/AI Shock And Tariff Fears Split Markets Winners And Losers  Insight with Haslinda Amin 02242026.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Xi Gains Leverage Before Trump Summit  The China Show 2232026.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Winners & Losers as Trump Announces 15% Global Tariffs  Daybreak Europe 2232025.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/What Trump's New Tariffs Mean for China, US Congress, Dollar  The Pulse 223.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Trade Uncertainty Rattles Global Stock Markets  Open Interest 2232026.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Trade Policy Uncertainty; Trump's Iran Options  Horizons Middle East & Africa 2232026.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Stocks Slump on AI, Tariff Jitters  Bloomberg Businessweek Daily 22326.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Nassim Taleb Warns About Software Bankruptcies, Volatility.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/India a Winner on SCOTUS Trump Tariff Ruling, But For How Long.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Dollar Falls Amid Trade Uncertainty; NYC Disrupted Due to Blizzard  Bloomberg Brief 2232026.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Blizzard of '26 Shuts Down New York City, Mamdani Says Worst Is Over (full storm update).md
+- 2026-02-23 | 01_Videos/Bloomberg Television/Asia Faces Trade Uncertainty as Trump’s Tariffs Hit Legal Trouble  The Asia Trade 2232026.md
+- 2026-02-23 | 01_Videos/Bloomberg Television/'DUSA' Surpasses $1B In Assets, ETF Managers Tapping in Prediction Markets  ETF IQ 2232026.md
+- 2026-02-21 | 01_Videos/Bloomberg Television/Why Foreign Investors Are Seeing Opportunity in Japan.md
+- 2026-02-21 | 01_Videos/Bloomberg Television/Wall Street Week  Investment Opportunities, Corporate Transformation and the Private Capital Boom.md
+- 2026-02-21 | 01_Videos/Bloomberg Television/Supreme Court Strikes Down Trump's Tariffs  Balance of Power Late Edition 2202026.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Where to Invest ₹1 Million in India in 2026.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/What the Supreme Court Ruling Means for Stocks.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/US-Iran Trump Gives Tehran 10 to 15 Days for Nuclear Deal  Daybreak Europe 02202026.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/US Economic Resilience Weights on Rate Cut Bets, Private Credit Risks  Real Yield 2202026.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Trump Tariffs Are a Sales Tax, Krugman Says.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Trump Takes Affordability Message On The Road  Balance of Power Late Edition 2192026.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Trump Says US Will Release Files Related to Aliens and UFOs.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Trump Alternatives Will Be Used to Replace Rejected Tariffs (Full Presser).md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Supreme Court Axes Trump's Tariffs  Bloomberg Businessweek Daily 2202026.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/How the Trump Administration Botched the Epstein Redactions.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Bessent Says Tariff Revenue Will Be Little Changed in 2026.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/Andrew's Arrest Puts British Royal Family in Uncharted Territory.md
+- 2026-02-20 | 01_Videos/Bloomberg Television/AI Boom US Imports More From Taiwan Than China  The Pulse 220.md
+- 2026-02-19 | 01_Videos/Bloomberg Television/Stocks Slide as Oil Spikes on US–Iran Tension  Closing Bell.md
+- 2026-02-19 | 01_Videos/Bloomberg Television/Figma's AI Outlook, Blue Owl Stokes Credit Concerns  Bloomberg Businessweek Daily 2192026.md
+- 2026-01-20 | 01_Videos/Bloomberg Television/Microsoft CEO Nadella on How AI Can Change Workflows.md
+- 2025-11-24 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson Bullish on Stocks for 2026.md
+- 2025-11-02 | 01_Videos/Bloomberg Television/'Musk Will Get Richer, People Will Get Unemployed' Nobel Laureate Hinton on AI.md
+- 2025-05-28 | 01_Videos/Bloomberg Television/Nvidia CEO Jensen Huang Interview Bloomberg Technology Special.md
+- 2017-10-25 | 01_Videos/Bloomberg Television/Unknown.md
+- undated | 01_Videos/Bloomberg Television/Trump's Global Tariffs Struck Down by Supreme Court.md
+- undated | 01_Videos/Bloomberg Television/Trump Wants Iran Deal But Says Any Conflict Would Be 'Easily Won'.md
+- undated | 01_Videos/Bloomberg Television/Nike Races to Capture the Outdoor Market.md
+- undated | 01_Videos/Bloomberg Television/Japan’s Comeback Why the “Lost Decades” May Finally Be Ending.md
+- undated | 01_Videos/Bloomberg Television/Inside Sony, Panasonic and Japan’s Corporate Reinvention.md
+- undated | 01_Videos/Bloomberg Television/How Will Trump Respond to the Supreme Court Tariff Ruling.md
+- undated | 01_Videos/Bloomberg Television/How Fast is Japan’s Corporate Culture Changing.md
+- undated | 01_Videos/Bloomberg Television/Fed’s Hammack Expects Rates to Be On Hold for Some Time.md
+- undated | 01_Videos/Bloomberg Television/Fed's Miran Still Wants Rate Cuts Despite Iran War.md
