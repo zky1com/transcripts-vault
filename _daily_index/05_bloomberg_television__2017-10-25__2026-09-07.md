@@ -1,11 +1,23 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-03T21:20:53Z
-Date range: 2017-10-25 -> 2026-09-03
+Generated at (UTC): 2026-09-07T20:28:14Z
+Date range: 2017-10-25 -> 2026-09-07
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-07 | 01_Videos/Bloomberg Television/Iran, US Trade Tanker Attacks, Strong US Payrolls Fuel Fed Hike Bets  The Asia Trade 972026.md
+- 2026-09-07 | 01_Videos/Bloomberg Television/China Pours Billions Into Mega Banks and Insurers  The China Show  972026.md
+- 2026-09-06 | 01_Videos/Bloomberg Television/NBA Hits Clippers With Historic Penalties.md
+- 2026-09-05 | 01_Videos/Bloomberg Television/The Hidden Cost of America’s Bureaucracy.md
+- 2026-09-05 | 01_Videos/Bloomberg Television/By The Way Headlines You Should See.md
+- 2026-09-04 | 01_Videos/Bloomberg Television/Traders Bet On Fed Hold, BOJ Hike; Toyota Vice Chairman Exclusive  The Asia Trade 942026.md
+- 2026-09-04 | 01_Videos/Bloomberg Television/Stocks Fall as Blowout Jobs Report Fuels Rate Hike Bets.md
+- 2026-09-04 | 01_Videos/Bloomberg Television/Roubini Says He's Not Concerned About an AI Bubble.md
+- 2026-09-04 | 01_Videos/Bloomberg Television/Markets Weigh Energy Supply Strain Market Snapshot.md
+- 2026-09-04 | 01_Videos/Bloomberg Television/China Stocks Join Asia Rally As Fed Hike Bets Ease   The China Show  942026.md
+- 2026-09-04 | 01_Videos/Bloomberg Television/CEA Chair Phelan on Jobs Report, Inflation, Gas Prices.md
+- 2026-09-04 | 01_Videos/Bloomberg Television/Carry Trade Unwind Sparks Biggest Yen Rally in Months  Insight with Haslinda Amin 942026.md
 - 2026-09-03 | 01_Videos/Bloomberg Television/OpenAI's Sam Altman on Astra Model Debut, Benefits of AI.md
 - 2026-09-03 | 01_Videos/Bloomberg Television/ByteDance Gets $30B Loan to Fuel AI Ambitions  The China Show  932026.md
 - 2026-09-02 | 01_Videos/Bloomberg Television/Zelenskyy Threatens to Shut Russian Airspace.md
