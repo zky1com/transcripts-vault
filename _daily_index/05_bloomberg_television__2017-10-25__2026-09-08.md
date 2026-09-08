@@ -1,11 +1,13 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-07T20:28:14Z
-Date range: 2017-10-25 -> 2026-09-07
+Generated at (UTC): 2026-09-08T20:21:48Z
+Date range: 2017-10-25 -> 2026-09-08
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-08 | 01_Videos/Bloomberg Television/From Oil to Copper, Supply Risks Drive Commodities Higher  Insight with Haslinda Amin 982026.md
+- 2026-09-08 | 01_Videos/Bloomberg Television/Can Insilico's Drug Help Turn Back the Biological Clock  The China Show  982026.md
 - 2026-09-07 | 01_Videos/Bloomberg Television/Iran, US Trade Tanker Attacks, Strong US Payrolls Fuel Fed Hike Bets  The Asia Trade 972026.md
 - 2026-09-07 | 01_Videos/Bloomberg Television/China Pours Billions Into Mega Banks and Insurers  The China Show  972026.md
 - 2026-09-06 | 01_Videos/Bloomberg Television/NBA Hits Clippers With Historic Penalties.md
