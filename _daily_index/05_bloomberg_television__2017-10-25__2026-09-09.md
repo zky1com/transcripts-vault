@@ -1,11 +1,16 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-08T20:21:48Z
-Date range: 2017-10-25 -> 2026-09-08
+Generated at (UTC): 2026-09-09T20:18:24Z
+Date range: 2017-10-25 -> 2026-09-09
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-09 | 01_Videos/Bloomberg Television/US Destroys 5 Iranian Oil Tankers as Brent Nears $100  Horizons Middle East & Africa 992026.md
+- 2026-09-09 | 01_Videos/Bloomberg Television/Stocks Waver at Start of Week Filled With Key Inflation Data.md
+- 2026-09-09 | 01_Videos/Bloomberg Television/Stocks Fall as Brent Tops $100 Ahead of Key Inflation Data.md
+- 2026-09-09 | 01_Videos/Bloomberg Television/Brent Oil Hits $100 as US-Iran War Shows Little Sign of Abating  The Opening Trade 992026.md
+- 2026-09-09 | 01_Videos/Bloomberg Television/Bessent Dares Traders On Yen, Rhee Says Don't Panic Over Won Moves  The Asia Trade 992026.md
 - 2026-09-08 | 01_Videos/Bloomberg Television/From Oil to Copper, Supply Risks Drive Commodities Higher  Insight with Haslinda Amin 982026.md
 - 2026-09-08 | 01_Videos/Bloomberg Television/Can Insilico's Drug Help Turn Back the Biological Clock  The China Show  982026.md
 - 2026-09-07 | 01_Videos/Bloomberg Television/Iran, US Trade Tanker Attacks, Strong US Payrolls Fuel Fed Hike Bets  The Asia Trade 972026.md
