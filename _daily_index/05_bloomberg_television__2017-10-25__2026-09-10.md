@@ -1,11 +1,12 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-09T20:18:24Z
-Date range: 2017-10-25 -> 2026-09-09
+Generated at (UTC): 2026-09-10T20:16:45Z
+Date range: 2017-10-25 -> 2026-09-10
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-10 | 01_Videos/Bloomberg Television/Iran Ready to Escalate War, Trump at RNC Convention.md
 - 2026-09-09 | 01_Videos/Bloomberg Television/US Destroys 5 Iranian Oil Tankers as Brent Nears $100  Horizons Middle East & Africa 992026.md
 - 2026-09-09 | 01_Videos/Bloomberg Television/Stocks Waver at Start of Week Filled With Key Inflation Data.md
 - 2026-09-09 | 01_Videos/Bloomberg Television/Stocks Fall as Brent Tops $100 Ahead of Key Inflation Data.md
