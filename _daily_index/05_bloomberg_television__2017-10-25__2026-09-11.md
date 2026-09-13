@@ -1,7 +1,7 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-11T20:15:28Z
+Generated at (UTC): 2026-09-13T20:15:55Z
 Date range: 2017-10-25 -> 2026-09-11
 
 ## 01_Videos / Bloomberg Television
