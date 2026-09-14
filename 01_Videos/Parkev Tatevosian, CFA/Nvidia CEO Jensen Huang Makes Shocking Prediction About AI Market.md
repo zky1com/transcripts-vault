@@ -1,0 +1,48 @@
+---
+title: "Nvidia CEO Jensen Huang Makes Shocking Prediction About AI Market"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "h2WTkKyp-0w"
+url: "https://www.youtube.com/watch?v=h2WTkKyp-0w"
+publish_date: 2026-09-14
+publish_timestamp_utc: "2026-09-14T11:45:34Z"
+duration: "10:01"
+duration_seconds: 601
+views_at_import: 9574
+transcript_language: ""
+has_captions: null
+transcript_status: "done"
+word_count: 1486
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1486 words)</summary>
+
+Nvidia CEO Jensen Hong said that the size of the AI market will reach 3 trillion to 4 trillion by 2030. Now, on the surface, that might seem like a shocking prediction, but I'm going to discuss why that's a realistic forecast and give you the details on what it could mean for Nvidia stock investors and AI stock investors more broadly. I want to thank the Mly full for sponsoring this video. Visit full.com/parkkev for the 10 best stocks to buy now. So Jensen Huang reiterated his expectation that the size of the AI market will reach 3 to four trillion by 2030 during the talk at the Goldman Sachs Communicopia Tech Conference on Thursday. It was exactly one year ago that he made the initial prediction at the same event. So, one year later, I'm actually surprised that Jensen Huang didn't increase that forecast because the AI market has grown more than what we expected one year ago. Remember, in the beginning of 2026, all of the major companies surrounding and in the AI ecosystem gave their forecast for what they believed would happen in 2026. And almost every three months when these companies reported quarterly financial results, they've almost all unanimously increased their estimates, including Nvidia. And so that's why I'm saying I'm surprised that Jetson Huang didn't increase this forecast to a much higher number than what he estimated just one year ago. Now, it also is important to consider the person making the forecast. Okay, so Jensen Hang has been relatively accurate or underestimating the forecast that he's provided to stock market participants. And so that's important to consider with every CEO and every market forecaster. It's important to observe their history of forecasts and how accurate they've been. Are they habitually overly optimistic or are they habitually underpromising and overd delivering? Right? and you have to take that into consideration when you're incorporating these updates to your own investing projections. So with Jensen Juan, he's been relatively accurate or a little bit underestimating and overd delivering, especially when it comes to forecasts for Nvidia's quarterly results or Nvidia's annual results. He's been pretty much on target or the company has reported better than expected results. And this has been the case for at least the last uh four to eight quarters. Now compared that with let's say uh Tesla's Elon Musk and SpaceX's Elon Musk, he's been habitually overly optimistic, right? The forecasts he's provided have been roughly 90% offtarget, right? Nine out of the 10 forecasts that he's provided have been overly optimistic. And so you have to incorporate that in your estimates. Now, I always say that I don't want my CEOs or my company leaders to give me estimates that are overly optimistic, but also I don't like when management teams give me lower targets and then habitually exceed those targets. I don't want to have to make adjustments when you're providing me a forecast. I want you to provide me an accurate forecast. I don't want you to be optimistic or pessimistic. Just be accurate. And you know, that's what I teach my students at university. You don't want to be you don't want to think that, oh, it's safer to just provide a low number and then beat that number. And you also don't want to be overly optimistic. what your job is to provide accurate forecasts and accurate estimates so that the people that are using your research don't have to do extra work to make adjustments to your estimates. And that's what you have to do when you're dealing with the management team that's too optimistic or too pessimistic. You have to make adjustments. Then I have to do extra work to, you know, figure out how optimistic a manager has been or how pessimistic a manager has been. Anthony Noto of Sofi is notorious for providing lower forecasts and then beating those forecasts, right? The CEO at C3AI has also been notorious for providing lower estimates and then beating those estimates. Of course, this is before he had his healthc care issues. But again, I have to go back and I have to look at the amount of overestimation or the amount of underestimation and then incorporate that into my forecasts. And it's more difficult and it adds more risk to my evaluation because I'm not certain about the numbers that the management team is giving me. And so that's an important thing to remember. With Nvidia CEO Jensen Hang, he's been relatively accurate. And if if there was a bias, he's been biased towards underpromising and overd delivering slightly. He went on to say the semiconductor industry is just going to keep getting larger and larger, which is what we're seeing now with these two fundamental ideas that we have a new layer of computing with a new application and the end of Moore's law. People are expecting these AI models to be smarter and smarter because they don't like wrong answers. So, Nvidia is forecasting 70% revenue growth for its fiscal year 2028, which was above what analysts were expecting for that fiscal year. Now, there's an important part here. Jensen Huang added that their revenue growth would have been much larger if it wasn't for memory chip shortages, right? The kind of memory chips that Micron provides the marketplace. And remember, Micron reported revenue increasing by more than 4x in their most recently completed quarter, jumping to over 40 billion, up from 9 billion in the same quarter last year. And we're going to learn a lot more about Micron when they report quarterly results at the end of September. I'll be going live to cover those results. That's going to be exclusive for channel members. So, if you're interested in attending that, click that join button below, get yourself a channel membership. So, if there weren't these shortages in the memory market, Nvidia could have reported could have uh generated 80 to 100% revenue growth in its upcoming fiscal year. Nvidia CEO Jensen Hong during the quarterly conference call actually said that sales could be much larger in fiscal 2028 if it wasn't for these memory chip shortages. And for Nvidia CEO to say much larger, that means at least 80% or more, right? If it was just a few percentage points more, he would have just said it would have been larger, but he said much larger in the quarterly conference call. And then yesterday, Cororeweave CEO said that every GPU they have could be sold to multiple different clients. So undoubtedly demand for artificial intelligence is soaring and if you think about the three trillion to four trillion estimate for 2030 it seems realistic because this year alone just five companies right Amazon, Microsoft, Alphabet, Meta Platforms and Oracle will collectively spend over $850 billion just on the capital expenditures to build data centers. And that's just five companies. Just five companies already spending $850 billion on artificial intelligence, right? So that's not including the host of other companies. Nearly every company is every large company is thinking about AI incorporating it into their services in some way, shape or form. And so this estimate from Nvidia CEO seems realistic. And so current year estimates for how much AI spending is around $1.5 trillion for 2026. Nvidia already generated $33 billion in trailing 12-month revenue at the current spending pace. They have a dominant share of the AI data center market. Additionally, they have ownership interests in companies like Coreeave, like Intel, like Open AAI. They own pieces of these companies. So, Nvidia is likely to benefit from this multi-trillion dollar category in multiple ways. And that's great news for Nvidia stock investors, which is still trading at a relatively cheap valuation of a forward price to earnings of just 14.6. So, I know a lot of investors might think Nvidia stock is expensive when you think about the market capitalization at roughly 5 trillion, but when you think about it in terms of the value you're getting in the earnings per share and the earning power of the company, it's relatively cheap. Similarly, when you look at valuation on Nvidia using a discounted cash flow model, the one that I created and calculated for Nvidia sees the value of the business at $338 per share and today it's trading at 219. So, it looks cheap regardless of the way I evaluate Nvidia. I see an upside of over 54%. I own Nvidia stock and I've ranked Nvidia as the best stock you can buy right now in 2026. Hey everyone. So many of you have been asking about my investing strategy, and I'm excited to announce that I've written a book that's available for sale now that describes my six-step invest in investing framework for evaluating stocks. I've added the link in the description below.
+
+</details>
