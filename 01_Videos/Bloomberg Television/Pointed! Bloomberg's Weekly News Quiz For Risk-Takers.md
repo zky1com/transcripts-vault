@@ -3,17 +3,17 @@ title: "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "gCajB-fzngo"
-url: "https://www.youtube.com/watch?v=gCajB-fzngo"
-publish_date: 2026-08-30
-publish_timestamp_utc: "2026-08-30T15:32:36Z"
-duration: "6:29"
-duration_seconds: 389
-views_at_import: 2432
+video_id: "zdMUZVvENlQ"
+url: "https://www.youtube.com/watch?v=zdMUZVvENlQ"
+publish_date: 2026-09-19
+publish_timestamp_utc: "2026-09-19T15:43:04Z"
+duration: "6:24"
+duration_seconds: 384
+views_at_import: 6174
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1293
+word_count: 1185
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,141 +41,145 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1293 words)</summary>
+<summary>Click to expand full transcript (1185 words)</summary>
 
-All right.
-Now for the weekly public humiliation. That is this week's pointed news quiz.
-Bailey, I tried to get you stay for once.
-This once before, and you, like, ran out.
-You were like, do you really want to do it?
-I don't need to prove to a live television radio audience my IQ is.
-That's what we're gonna do it today. And I do it every week with the help of
-our quizmaster, Lisa Mateo. Uh oh, Bailey, I'm so excited for you.
-Okay, let me give you the rules, okay? Just so that you know how to play.
-Okay, so basically there are three categories right in front of you.
-You have three, um, rows of chips. Each row is ten.
-Okay. So you have 30 chips.
-Okay. So there's three categories I'm going to
-tell you the first, the second and third depending on how confident you feel
-about the first. Yeah you might want to keep ten.
-Or maybe you feel real confident. You want to put 20 on.
-But we don't like math here. So you have to do it in iterations.
-Yes, it has to be in ten. On the first question, you really can
-don't have to answer the second two. No, you still have
-to do it. Just doesn't count as much before I.
-Okay. And you write your answers on the
-whiteboards in front of you. And then when I tell you to flip it, you
-flip it and we see who got it right. Okay.
-Are you excited? Okay, here we go.
-The categories. The first category is toys.
-The second category is. I don't think I read any stories.
-There was one. Dolly Parton is number two and
-vegetables is number three. Also three.
-Okay, so how do I we we call this the genie I and I just do 1010 1010, ten.
-I'm sorry. Are you going okay?
-Okay. Okay.
-All right, all right. You're making it easy for me, math wise.
-Okay, let's see what we got. Here's your toys question.
-Which Denmark based toy maker reported record first half sales and said it will
-not let I design. Wait.
-I know that one. Oh, see, you said you didn't know.
-I'm going to try to draw one again. Oh, gosh.
-Getting creative again. Here we go.
-Oh it's going to be in there. So it's not American.
-No it is Denmark Egypt Syria Denmark. There's only one Korea.
-Come on. Denmark based toymaker I can tell by
-what you were writing. Okay, go for it.
-Leg Lego. Correct?
-Correct. Correct, correct.
-Yes. They said they were sticking with human
-designers. They want to do that and use AI for
-things like, you know, making their instruction manuals and things.
-I think that's really important because people have such an emotional attachment
-to Legos, and if you start building them and they're like, not good, because I
-haven't felt like you need human hands, you need to make sure people still enjoy
-the process. And did you know Lego actually comes
-from the Danish phrase that means play well?
-Who knew? I didn't know that so well, but I will.
-All right, so we're we're holding on to that.
-So you guys are good so far. I missed a question on Dolly Parton.
-I'm going to have to, like, move, but okay.
-What do you get that you're going to get this okay.
-Dolly Parton here it is. What was Dolly Parton's first number one
-hit on the Billboard Hot 100? And I know one.
-I don't I don't know if it's this one or any one.
-Dolly Parton I don't know if it's this one feeling you might be on the right
-track. I know that makes are you ready to hit
-it? Literally.
-What do you got? Jolene no, it's not Joel.
-It's 9 to 5. Five.
-What a way to make them see Billy. When did you mean come out?
-Jolene was after. Well, actually, it wasn't as
-commercially popular because that was, like, the one that was everywhere.
-It was really. It was written for motion picture, so it
-actually won an Academy Award nomination.
-The year that it came to know, you know, I will say 95 is streaming right now on
-Hulu. And if you have not seen it, it is still
-an amazing movie and it's just the best. You should everyone should watch.
-9 to 5. We lost the legend.
-All right. All right.
-We want to move on to vegetables. Okay.
-I mean, this is normally a subject I'm good at.
-Okay. Wait.
-Hold on. Thank you for your chips there, Bailey.
-You did hand them over very nicely. Vegetables.
-Okay. South Korea is tightening inspections.
-On what? Vegetable after sellers use formaldehyde
-for freshness. Mhm.
-That can't be good. I don't know if this is right or not.
-So what vegetable. And just one.
-Uh, pick a vegetable. Yes.
-Pick a vegetable. What do you think?
-I put duck choy, bok choy, cabbage, cabbage.
-Do you care? Are you kidding me?
-Exactly. So you're thinking critically?
-I'm just thinking, like, hypothetical vegetables that could be ground in your
-hands. We have talked about kimchi a lot on
-this show. We've talked about how it helps with
-microplastics. We've talked about.
-Yeah, I just want to say you act surprised that I didn't want to play
-this. I think we just saw are usually the
-worst showing. I, I had to read.
-I had to think through actually you get shot out.
-You still like. Because we have a bonus question and you
-can make these two back. I'll give it back to you.
-Lisa, I just changed the Christine who loves the back is not worse.
-She does this sometimes with the boys. She's like, oh, you can have all of your
-chips. Can I have all of your chips back?
-Okay. Your bonus question is Australia.
-Okay. Here's your question.
-Mystery packs of Disney. Oh she's I hope I said that right.
-You know what that is our boosting sales at Australia's Woolworths.
-What kind of store. Oh it's you know what that is okay okay.
-Woolworths in Australia. Oh is it not the same as the one I'm
-thinking. It's just letting you know.
-Um I only Australia's Woolworths. What kind of store is.
-See now I feel you know I mean there's only now you're saying you're going
-strong over again. I feel like I need me to diversify.
-I'm going for. I'm going for 90s control us.
-All right. What do you got?
-I because I have to make up for a bar about
-two. I thought it was a department store, but
-I thought maybe that's three. Store grocery.
-You choose it, you got it right. You
-know, because the you money's. The U.S.
-is a department store, right? That's why.
-So when they went to visit, they didn't license the name in Australia.
-So Australia took the name and now it's a grocery store.
-But these are the oh she's they're like all different characters.
-It's like Marvel Spider-Man. They're like little, little tiny little
-characters. And they gave them out as like these
-mystery prizes and became this huge thing.
-So that was a so it's like fishing grocery sales, I guess people like,
-didn't they enjoy they like the character right here, like Bailey,
-because she was such a joy this weekend. And we appreciate you so much.
-I will donate my chips to you and you can claim it like one.
-We never do that. We need to pay.
-So I won. Okay, you know what?
-Play long at home.com/pointed.
+Get comfortable.
+It's time for this weekend's sporting news scene to get across far away from
+the table. Sorry, I was helping with something.
+Uh, no. Always attentive to what's happening
+here on set. Getting anxious, I think.
+Maybe some anxiety. Apprehension about the quiz to come as
+real in the face of the tale. I have so much more useless knowledge
+than you do. But the useful knowledge you really,
+really much about. Pack it in.
+Uh, hi Lisa, this is everyone's favorite part of it is they tell you usually we
+get the emails and I love this. Okay.
+Yes. Um, when he wins, when he doesn't win,
+he doesn't like it. Fortunately for me, it is frequent.
+It it's it's picked up a bit. I'll give you this, but we shall see.
+I love that the tides will turn to. Oh, interesting.
+Here we go. Oh, I feel like this.
+For those of you were saying, what are these guys talking about?
+We talking this. I don't know who it is.
+A news quiz. You can play it online.
+Uh, they give actually multiple choice so they have a more difficult time
+because we are not giving them multiple choice.
+I will give them three categories. They have chips in front of them, 30
+chips into ten, ten and ten. Uh, so I will give you categories if you
+feel pretty good about the first one. Hey.
+Place your bets. See how you feel.
+Do you feel ten? Do you feel 20?
+Do you feel 30? I will say, I do think girl has been
+doing better since he started stealing my, uh, split across the board.
+Well. Last week I put 20 on the first.
+Fine, fine, fine. Lisa, I haven't forgotten.
+Okay, hush. Here we go.
+Category. Yes.
+Let's take it away. They are shipping is the first category.
+Shipping airlines is the second. And food and beverage is your third kind
+of recurring kind of shipping like we do.
+My favorite food and beverage shipping is in moving.
+Commodities are shipping is like I ship these two people to get into a
+relationship together. New shipping.
+Like shipping. Like on Celebrity Cruises, in
+containers. I write shipping on the water.
+I'm going to do the usual. I'm going to put 20 on the middle, on
+airlines, in the middle on airlines. And I think what airline I saw this
+week. Yeah.
+Well all right. Let's see if it works out for you David.
+Gary. So I can just sit back.
+Let's start with shipping which you placed nothing on.
+So. Okay, um, here's your question.
+The busiest U.S. container port for global trade foiled
+over 120 million cyber attacks in August.
+Which port is it? It is the busiest U.S.
+container for just the busiest, which is the busiest?
+We talk about it often. I know when we have the guy on it who
+runs it. That guy?
+Yeah. Listen, I, uh.
+Okay. All right.
+The port of the pier, long beach, new. Nice.
+Long beach is there.
+No, Gina, it's. No, it's not called the Port of Long
+Beach. It is the port of Los Angeles.
+Why did you get busy? Yeah, I didn't know that.
+Yeah. All right.
+Okay. You didn't lose any money on that, so
+that seems unfair. Oh, see, that's why he bet zero zero.
+So keep going. Let's see the airlines.
+Okay. You bet in 20 on this.
+All right. Which Irish airline is he?
+Yes. Is seeking an $8.6 billion expansion
+across Estonia, Latvia and Lithuania. Oh, interesting.
+So an Irish one. So I know this one.
+We're in trouble. That's a problem.
+Okay. I think you both.
+Ryan. I think you both have it yet, Ryan.
+A bit. Oh, no.
+I did it earlier. Oh, I don't know where.
+Lingus. Oh, no.
+No. Ryanair.
+Oh, wow. Oh, Christy.
+No. It's okay.
+He. Oh.
+He's okay. Yes.
+Thank you. Mateo gets the Ruffini chips.
+Yep. I'm sorry.
+Uh, are you sorry? Sorry.
+Sorry, Fernan. You know, they have lots of event like
+you can do scratch tickets in the middle and buy things.
+There's a lot of there's a lot of stimulation that happens.
+Oh, really? I just relax.
+I flew it once, and I remember a woman got in a fight because they wouldn't let
+her have her duty free vodka out of the bag.
+And drinking on the plane is or was an experience that's common in food and
+beverage. Beverage.
+Well, let's see what we got right to it. Uh, European farmers, they predict which
+staple crop will grow smaller after a summer of heatwaves and drought.
+Okay. All right.
+Okay. So what is this staple crop.
+Pick one. Name it and we'll see if you are
+correct. I hope we'll have it.
+You wrote wheat. I also wrote sweet potato, potato.
+And it was. But fortunately, because of my ambitious
+bet on the middle one. Yet leaves me with a sizable margin over
+my money.
+Uh, potatoes. But it's quite easy to make the smaller
+potato fries because of this. Your fries might gets me, and that's
+disappointing. You said waffle fries.
+Chips, as they call them. Uh, I do love them.
+Okay. Yeah, yeah.
+All right. Do we have a bonus question?
+Sweet potato fries. Oh, that's you who are so aggressively.
+How? If they want it, the energy is the next
+category. Here we go.
+Speaking of health is the next category. Category?
+So right away, I, um, I start up Sword Health is acquiring what?
+Meditation and mental health app for nearly 300 million years to exactly,
+exactly name a meditation and mental health app.
+But can you go home? Is it like.
+um. No.
+No, no. His head said the other one.
+I use it sometimes. Yeah.
+Look, it gets right. It was my zone.
+You've tried that? Yeah.
+It has, like, cute graphics. I gave it a shot.
+I didn't make it. I was surprised about.
+He's not going to say you have quite the tall little time.
+Look at that. 20 chips in front of me today.
+I'm just to count yours up for the radio audience.
+Looks like you can test your knowledge on all ten questions.
+Take the pointed news quiz that Bloomberg.com have planted on the
+Bloomberg business, and you surely will love that you.
+That's a good entreaty for people to try it out.
+Thank you. Listen, I mean, you're just.
+I can't tell you enough how many people love this part of the show.
+I get the emails and the tweets. I will say when we have to kill it for
+breaking news. I do get emails being like, where's the
+news quiz? But I think mostly they enjoy my
+humiliation. Well, they like the band anyway, and the
+beat isn't like banter and what we learn, I mean, we learn things as well.
+I think one of these days I should get to Quiz Lisa.
+I think that seems only fair. That would be a tragedy.
 
 </details>

@@ -3,17 +3,17 @@ title: "By The Way: Headlines You May Have Missed"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "EROGXIM_7BE"
-url: "https://www.youtube.com/watch?v=EROGXIM_7BE"
-publish_date: 2026-07-25
-publish_timestamp_utc: "2026-07-25T16:41:09Z"
-duration: "4:49"
-duration_seconds: 289
-views_at_import: 188
+video_id: "aSpCzKR5AMg"
+url: "https://www.youtube.com/watch?v=aSpCzKR5AMg"
+publish_date: 2026-09-19
+publish_timestamp_utc: "2026-09-19T15:35:24Z"
+duration: "6:46"
+duration_seconds: 406
+views_at_import: 5598
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1047
+word_count: 1472
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,115 +41,155 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1047 words)</summary>
+<summary>Click to expand full transcript (1472 words)</summary>
 
-I've done a fake beat.
-Let's get to the real beat here, at least of it, till you get to the Queen
-herself. She's been reading more deeply than I
-have him in the gang. Great story by Keith.
-Not. I know you've got more, Lisa.
-I do, I do, but I've seen those Cybertruck trying to park in parking
-spots. You're right.
-It is pretty scary to see that. See me in there.
-Um. All right, so let's start with this.
-Okay, so Play-Doh isn't just for kids anymore.
-Remember it as a kid who used to play with it?
-I used to, yeah, I used to. Okay, that explains a lot.
-Did you realize it was sports? Am I the only one who didn't eat
-Play-Doh? I did not I did not know that was a
-thing. Okay, so high carb load there.
-Here's the headline for you. Okay, so Hasbro it plants Play-Doh
-growth seed with blooms okay. So basically what blooms is it's this
-new line that's geared toward adults right.
-So it's flower arrangements. You can make flowers from the Play-Doh.
-They're hoping it can like, you know, catapult their growth.
-It's a $1.5 billion arts and crafts category.
-But I wanted you. Let's listen to the Hasbro CEO.
-His name is Christian Cox, and he spoke on open interest about it.
-Listen to this, okay. I think that build and display dynamic,
-that play being more than just something for kids, collection being more than
-something for just, uh, nerds like myself, uh, but much broader.
-I think that's powering the entire play industry right now and is a power trend
-that I don't think is going to go away anytime soon.
-Industry. Yeah.
-So, you know, here we are talking about collection.
-So think like trading cards okay. So Bloomberg is saying that looms may
-not be as big of a growth as trading cards.
-But they do see it kind of you know it could help.
-But it's just it's a tough it's a smaller category.
-So it's going to be tough I don't know. Do adults really want to do the Plato
-thing? Well they love coloring.
-They do leave. Adults like to leave their stress by
-coloring. I think I feel like just trying to
-compete with the Lego flower arrangements.
-Yeah, you can find those are like permanent, right?
-You put them together and they're not going to wilt or melts.
-You know, I'm assuming you're not baking this Play-Doh.
-It's just like you can go smush it if someone runs into it, you're going to I
-mean, and it's going if it's at target, it's at Walmart.
-It's even on TikTok. Shop like it's everywhere.
-Or at least you bring us Play-Doh and we will re-evaluate our answer.
-I should say there's Lego flowers, not edible.
-No, they are not edible playthings. Do not try hard enough to.
-All right. What else you got, Lisa?
-Okay. Um, okay.
-Are you pickleball fans? Do you guys play?
-No. Have you tried?
-I have played once for a story. Okay.
-Yeah, I've never played. Well, there's something new, guys.
-It's very popular. Forget pickleball.
-Move over. It is Paddle.
-Paddle. Okay.
-Yes. Wall Street Journal says inside the push
-to make paddle the next pickleball. So, uh, they share a lot of elements
-with squash and, um, tennis. Played mostly in doubles.
-This is what paddle is. So it's the rackets have holes, not
-string. The balls look like tennis balls, but
-not like the wiffle ball. Like how you have in pickleball.
-And you hear the clink. Clink.
-Oh, is that different? I was like, this looks the same.
-What in the court is a little bit bigger than the pickleball court.
-It's surrounded two by walls made of glass panels and match.
-So it's a little bit different than pickleball.
-But this is becoming huge. Like there are members who pay all over
-the lot of money. Yes.
-And it seems very I've heard it's very expensive now that's been my barrier to
-entry. No, but but I have at least in Central
-Park now I can remember it's I think it's paddle the whole lake where the ice
-rink is. Normally it's either pickleball or
-paddle, but there's people out there in one in Dumbo in Brooklyn, if it has the
-walls around it, it's the paddle. So okay.
-Oh no it doesn't. Okay.
-So once you hit well, we haven't asked you if you play pickleball.
-I do not know that pickleball. Not tennis.
-I've tried. Failed miserably.
-Uh, let's move on to this one. Okay.
-Washington's Union square. Okay.
-Cristina, I know you've been there two different times.
-Have you ever seen a little pig there. Okay.
-This is a union station. Yes.
-Union station? Yes.
-Sorry. Not used by Union station.
-Okay, so this little pig isn't the cutest thing.
-This is from the Washington Post. Mini pig has a big job.
-His job? His name is synergy.
-Okay, he's just over £5. Seven months old.
-Synergy the pig? Yes, it belongs to the owner.
-The founder of the H3 project, which is like a crisis intervention program.
-So this little pig goes into, uh, Union Station and walks around, and it helps
-them get clients. Right.
-Because if you're if you see a cute little pig, you're going to be more than
-willing to go up and say, like, oh, open up, because it's sometimes hard for them
-to get clients. So this little pig is like the hottest
-thing in the station right now. The hottest thing in the train station.
-Cutest little thing. All right, I am going through this train
-station next week with my tiny dog, Brutus.
-I think they would be best friends for that pig.
-If they meet, I will report back. I don't know how Brutus is going to feel
-about a tiny pig, but, um, we got this potato, thank you very much.
-But I'll get to say that this week. Uh, so how about that pig for radio
-listeners? It had a little beard.
-It looked like it was very cute. It's very mini.
-They get bigger, and we all do.
+Welcome back to Bloomberg this weekend
+or even bigger. Have you been in this copy?
+I got in to the copy, so I spelled it phonetically for you.
+And I gotta say, I'm trying to make this clean.
+W is in quotation marks. I'm doing better in the sense that you
+can take me in on that. Huh.
+That's great. All right.
+You infiltrate here to help. Are you.
+Are you helping? Oh, no.
+You know who is helpful? Please come with me to w yes, yes
+stories we might have missed during the week.
+Okay. Um, you guys like going to the movies,
+right? It's a fun time when I have time to do
+it. Okay, but what about extreme moviegoing?
+Okay, let me bring this one to you. This is from Bloomberg.
+Lionsgate and neon are turning moviegoing into a stunt sport.
+Okay, so let me give you an example. There was a treadmill screening.
+Okay. This was Stephen King is in town walk
+okay. That was a movie.
+The long walk. They came out, teenagers forced to walk
+a three miles an hour or or be shot by a military escort.
+Okay, so last year, moviegoers, they walked three miles an hour on a little
+treadmill for the full duration of the movie, which is pretty long.
+Um, and they had actors like dressing as drill sergeants, barking the rules at
+the people who were there to watch the movie and continue walking.
+Um, and then Lionsgate also had this, um, rock climbing thriller fall to Dead
+Point. Okay.
+So they basically place people in harnesses.
+Okay. Yeah.
+Wobbling on elevated platforms to kind of test their balance.
+This is all as you're watching the movie.
+Okay. So you're getting the full experience of
+the movie. That's why people say they like it.
+This is not for me. No experience.
+I thought we were talking about playing video games.
+There were too many, like, 40s or like, tails and all that, too.
+Okay. And that's.
+I thought you were talking about 40 where they, like, blow things that you.
+Which I would hate. Yes.
+That's like a recreation. This is the new sleep.
+If you're a tired dad, this is apparently the new thing.
+People just don't go to go watch a movie.
+They want to experience the whole thing, feel how the actors felt during it.
+You know how they feel that they don't want to do it.
+There is a gym. I think it's in Denver that used to be a
+movie theater, and the spin bikes are in the movie theater, and they just play
+movies on a loop, and you can just go in there and work out and watch a movie and
+like that, I would do that. So it has nothing to do with like ties
+to the movie. So it's just like a big it's a full
+screen and there are like spin bikes on there.
+I feel like I would work out longer if I got distracted by the giant movie, but I
+don't know. True.
+I don't need to experience. But yeah, it's just like something you'd
+like, listen to, like you like. I don't know if I could walk out on the
+treadmill for the entire length of a movie.
+It's for you, not a treadmill fan. No, I get bored very easily.
+I need to be out and about. Sorry.
+So I love it. All right.
+Okay. What else?
+You go. This next one is my biggest pet peeve on
+the commute home. Okay, wall Street Journal, for the love
+of God, please put on headphones. Okay, so this is it.
+You see it in cafes, buses, airports, right?
+I see it on the train all the time. You're using your phone on speakerphone,
+you're playing music, you're watching videos without headphones.
+Everyone else is listening to your TikTok scroll.
+Um, people are live streaming too, at the same time.
+So studies show Gen-Z is a big proponent of this.
+I agree, because my son talks on speakerphone all the time.
+It's very annoying. Um, but they say it's just because of
+the ease of technology. Like people think it's like the norm
+thing to do. Speakers are good.
+It's loud, you know? You can hear it.
+No, I'm not a proponent of it. You walking around, speaking on your
+speakerphone. David?
+You're up. No, I don't like to talk to people.
+Yeah, that's not that's accurate. I can vouch for that text, but, uh, this
+happens on your commute like an Andy Rooney style.
+You see a real soapbox like that. But do you see, like, people even trying
+to, like, interfere, like. Excuse me?
+Can you and people get mad? You know, because I got an explosion.
+Like a scene. Like, I aggressively, you know,
+headphones at people. And, you know,
+I believe that I've seen 100% every once in a while.
+It works. But most of the time people say, mind
+your business. You should.
+I say it is my business because I am in the park and it's lovely and everybody's
+enjoying themselves and we're listening to your like terrible.
+And they're flipping it and they're flipping it.
+Yeah, it's your scrolling. And the voice that people use is, you
+know what? I'm going to start a foundation called
+Do You Need headphones? And I'm going to walk around with cards
+and say, like, I'm so sorry. You clearly have been unable to pay.
+You could be like, collect Julia. You go collect them on flights.
+When they hand them out for 4000, precise them out again.
+Do you need headphones? With Christina Ruffini, a new segment.
+Kind of I love it. All right, Lisa, you number on.
+I'm on a very, very intense. But you know, what do you think?
+So you could say you have the point. But at that point I just put in my noise
+canceling headphones and I just say, forget it, I'm just moving here.
+It's bliss. Yes.
+Then I'm fine. Okay, let's move on, guys.
+During the during the show, we tried to talk to her.
+In the meeting. We got a check on her.
+Okay. Guess what's this weekend?
+Uh, Taylor fest kicks off, but it's Octoberfest.
+Kicks off in Germany this weekend. They actually started early because
+warmer weather, longer daylight. And so they started a little bit
+earlier. They started that years ago.
+Uh, but so what's happening is that there's this beer tradition from Germany
+that's coming here. Okay.
+So this is from the Washington Post. A German beer tradition brings all you
+can drink cold, I love to. Do you really?
+I hadn't heard of this tasty crisp here. That's what they say, you see.
+But what what what's different about it is that lighter, a lighter, and they
+serve it in these tiny little glasses. Yeah.
+So this is a tradition that's coming here.
+So basically that server comes around has these little that tray of all the
+little tiny glasses, elegant. Puts a coaster down and then puts a beer
+on it. When you're done drinking your beer, she
+puts a little tally mark to know that you finished one.
+And then you keep. She keeps bringing tally keeps the tally
+going. You don't have to get up like that.
+And that a lot actually. And also like I hate the big ones
+because then I feel bad if I can't finish them.
+So like, you know portion it out and they say cold.
+Yeah I think that's great. Another totally participation problem
+for me. And when you're done you just put your
+little coaster on top and ice appears to do.
+You're a better finisher. I am that is fair.
+Her. Let's see if I can squeeze this one in.
+Okay? Okay, okay.
+Um, 38 is just the number in the world of rock and roll.
+This is the Wall Street Journal. Not even a stroke can top these aging
+rock stars from going on stage. So we're talking about Lionel Richie,
+right? 77.
+Rod Stewart, 81, Barry Manilow 83. They're all still rocking it on stage.
+Bright young men. Yes, they are.
+And they say they have to keep going. They do have some health issues and they
+had to postpone a couple of things, but it just shows how these guys are still
+going to do it. And they're packing it in at these
+concerts. All right.
+Got to go see Manilow. Gotta go see Manilow.
+I think it's that's a great way to end the segment.
+I do not have to go see. All right.
+Thank you. Lisa, we're coming up on 8 a.m.
+in New York. The next episode of this weekend starts
+right now.
 
 </details>
