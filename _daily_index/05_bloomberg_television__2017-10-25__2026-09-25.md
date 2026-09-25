@@ -1,11 +1,29 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-24T20:09:33Z
-Date range: 2017-10-25 -> 2026-09-24
+Generated at (UTC): 2026-09-25T20:09:21Z
+Date range: 2017-10-25 -> 2026-09-25
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-25 | 01_Videos/Bloomberg Television/Yen at Risk as BOJ Lags Behind Its Peers Market Analysis.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Xi to Trump Oppose Taiwan Independence.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/US, Iran Said to Be Exploring Phased Hormuz Deal.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/US, Iran Said to Be Exploring Phased Deal to Open Hormuz.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/US, Iran Explore Hormuz Deal, Trump-Xi Summit Short on Substance.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/US, Iran Explore Deal to Reopen Hormuz, Saudi Oil Exports Hit War-Time High.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/US Sanctions Are Hobbling Cuban Economic Reform, Minister Says.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Trump-Xi Summit Small on Substance, Big on Pomp.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Trump-Xi Summit Goes Big on Ceremony But Small on Results.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Trump, Tech Titans Fete China's Xi at Lavish State Dinner.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Trump & Mamdani, Bond Markets Go Mainstream, Taylor Swift's New Songs.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Saudi Arabia Ramps Up Oil Exports Via Hormuz.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Open Interest 9252026.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Oil Declines as US and Iran Explore Agreement to Reopen Hormuz.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Meta's Muse Agent Makes Waves Market Snapshot.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Bond Selloff Fades, US-Iran Said to be Exploring Phased Deal, Trump-Xi Summit.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Bond Market Getting Mainstream Attention Rosenberg.md
+- 2026-09-25 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 9252026.md
 - 2026-09-24 | 01_Videos/Bloomberg Television/Xi Arrives in US for High-Stakes Summit With Trump.md
 - 2026-09-24 | 01_Videos/Bloomberg Television/US, China Extend Trade Truce as Trump Welcomes Xi.md
 - 2026-09-24 | 01_Videos/Bloomberg Television/US Unveils Truce Extension, Trump Greets Xi on Tarmac in Rare Protocol Shift.md
