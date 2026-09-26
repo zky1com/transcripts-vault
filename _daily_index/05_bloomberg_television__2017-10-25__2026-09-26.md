@@ -1,11 +1,29 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-25T20:09:21Z
-Date range: 2017-10-25 -> 2026-09-25
+Generated at (UTC): 2026-09-26T20:08:36Z
+Date range: 2017-10-25 -> 2026-09-26
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-26 | 01_Videos/Bloomberg Television/Why China's Biggest Strength Is About to Become Its Biggest Problem.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/What El Niño Could Cost Africa  Bloomberg Next Africa.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/US and China Seek Common Ground on AI.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Trump Xi Summit Leaves Big Issues Unresolved.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/The Commercial Real Estate Crisis Didn't End — It Moved.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Russia Ukraine War Becomes Economic Battle.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/NSE CEO on Growth After Landmark India Stock Market Listing.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Northeast Faces Wind, Rain and Coastal Flooding.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Mexico Stresses Sovereignty in US Cooperation.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Iran War Endgame Remains Elusive.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Inside the $100 Billion Bet to Bring Manufacturing Back to the Rust Belt.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/India's 'Cockroach' Protesters Target Election Chief Next.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Higher Bond Yields Mark a Return to Normal.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Trump Says No Iran Ceasefire, OpenAI Breaking Containment.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/Birding Apps Bring More People Into the Wild.md
+- 2026-09-26 | 01_Videos/Bloomberg Television/AI Gives Tech Firms New National Security Power.md
 - 2026-09-25 | 01_Videos/Bloomberg Television/Yen at Risk as BOJ Lags Behind Its Peers Market Analysis.md
 - 2026-09-25 | 01_Videos/Bloomberg Television/Xi to Trump Oppose Taiwan Independence.md
 - 2026-09-25 | 01_Videos/Bloomberg Television/US, Iran Said to Be Exploring Phased Hormuz Deal.md
@@ -159,14 +177,12 @@ Date range: 2017-10-25 -> 2026-09-25
 - 2026-09-19 | 01_Videos/Bloomberg Television/US Greenland Deal Shifts Focus to Investment.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/UN Talks Offer a New Opening on Iran War.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/Trump Moves to Bar Three News Outlets From White House.md
-- 2026-09-19 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/New York Builds Data Team to Target Consumer Ripoffs.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/MBA Programs Race to Adapt to the AI Era.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/JPMorgan Sees No Clear Endgame for Oil Markets.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/JD Vance’s Yale Years Offer Clues to His Politics.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/Governor Cox Says Americans Need Healthier Conflict.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/Diesel Prices Keep Pressure on Fed and Markets.md
-- 2026-09-19 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/Buffett Son Takes Chair as Berkshire Transition Ends.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Gemini AI Breakout, Greenland Deal.md
 - 2026-09-19 | 01_Videos/Bloomberg Television/AI Agents Test the Limits of Human Oversight.md

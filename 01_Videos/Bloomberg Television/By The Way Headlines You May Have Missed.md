@@ -3,17 +3,17 @@ title: "By The Way: Headlines You May Have Missed"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "aSpCzKR5AMg"
-url: "https://www.youtube.com/watch?v=aSpCzKR5AMg"
-publish_date: 2026-09-19
-publish_timestamp_utc: "2026-09-19T15:35:24Z"
-duration: "6:46"
-duration_seconds: 406
-views_at_import: 5598
+video_id: "7eT0oLSR9O0"
+url: "https://www.youtube.com/watch?v=7eT0oLSR9O0"
+publish_date: 2026-09-26
+publish_timestamp_utc: "2026-09-26T12:42:04Z"
+duration: "6:42"
+duration_seconds: 402
+views_at_import: 2245
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1472
+word_count: 1520
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,155 +41,153 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1472 words)</summary>
+<summary>Click to expand full transcript (1520 words)</summary>
 
 Welcome back to Bloomberg this weekend
-or even bigger. Have you been in this copy?
-I got in to the copy, so I spelled it phonetically for you.
-And I gotta say, I'm trying to make this clean.
-W is in quotation marks. I'm doing better in the sense that you
-can take me in on that. Huh.
-That's great. All right.
-You infiltrate here to help. Are you.
-Are you helping? Oh, no.
-You know who is helpful? Please come with me to w yes, yes
-stories we might have missed during the week.
-Okay. Um, you guys like going to the movies,
-right? It's a fun time when I have time to do
-it. Okay, but what about extreme moviegoing?
-Okay, let me bring this one to you. This is from Bloomberg.
-Lionsgate and neon are turning moviegoing into a stunt sport.
-Okay, so let me give you an example. There was a treadmill screening.
-Okay. This was Stephen King is in town walk
-okay. That was a movie.
-The long walk. They came out, teenagers forced to walk
-a three miles an hour or or be shot by a military escort.
-Okay, so last year, moviegoers, they walked three miles an hour on a little
-treadmill for the full duration of the movie, which is pretty long.
-Um, and they had actors like dressing as drill sergeants, barking the rules at
-the people who were there to watch the movie and continue walking.
-Um, and then Lionsgate also had this, um, rock climbing thriller fall to Dead
-Point. Okay.
-So they basically place people in harnesses.
-Okay. Yeah.
-Wobbling on elevated platforms to kind of test their balance.
-This is all as you're watching the movie.
-Okay. So you're getting the full experience of
-the movie. That's why people say they like it.
-This is not for me. No experience.
-I thought we were talking about playing video games.
-There were too many, like, 40s or like, tails and all that, too.
-Okay. And that's.
-I thought you were talking about 40 where they, like, blow things that you.
-Which I would hate. Yes.
-That's like a recreation. This is the new sleep.
-If you're a tired dad, this is apparently the new thing.
-People just don't go to go watch a movie.
-They want to experience the whole thing, feel how the actors felt during it.
-You know how they feel that they don't want to do it.
-There is a gym. I think it's in Denver that used to be a
-movie theater, and the spin bikes are in the movie theater, and they just play
-movies on a loop, and you can just go in there and work out and watch a movie and
-like that, I would do that. So it has nothing to do with like ties
-to the movie. So it's just like a big it's a full
-screen and there are like spin bikes on there.
-I feel like I would work out longer if I got distracted by the giant movie, but I
-don't know. True.
-I don't need to experience. But yeah, it's just like something you'd
-like, listen to, like you like. I don't know if I could walk out on the
-treadmill for the entire length of a movie.
-It's for you, not a treadmill fan. No, I get bored very easily.
-I need to be out and about. Sorry.
-So I love it. All right.
-Okay. What else?
-You go. This next one is my biggest pet peeve on
-the commute home. Okay, wall Street Journal, for the love
-of God, please put on headphones. Okay, so this is it.
-You see it in cafes, buses, airports, right?
-I see it on the train all the time. You're using your phone on speakerphone,
-you're playing music, you're watching videos without headphones.
-Everyone else is listening to your TikTok scroll.
-Um, people are live streaming too, at the same time.
-So studies show Gen-Z is a big proponent of this.
-I agree, because my son talks on speakerphone all the time.
-It's very annoying. Um, but they say it's just because of
-the ease of technology. Like people think it's like the norm
-thing to do. Speakers are good.
-It's loud, you know? You can hear it.
-No, I'm not a proponent of it. You walking around, speaking on your
-speakerphone. David?
-You're up. No, I don't like to talk to people.
-Yeah, that's not that's accurate. I can vouch for that text, but, uh, this
-happens on your commute like an Andy Rooney style.
-You see a real soapbox like that. But do you see, like, people even trying
-to, like, interfere, like. Excuse me?
-Can you and people get mad? You know, because I got an explosion.
-Like a scene. Like, I aggressively, you know,
-headphones at people. And, you know,
-I believe that I've seen 100% every once in a while.
-It works. But most of the time people say, mind
-your business. You should.
-I say it is my business because I am in the park and it's lovely and everybody's
-enjoying themselves and we're listening to your like terrible.
-And they're flipping it and they're flipping it.
-Yeah, it's your scrolling. And the voice that people use is, you
-know what? I'm going to start a foundation called
-Do You Need headphones? And I'm going to walk around with cards
-and say, like, I'm so sorry. You clearly have been unable to pay.
-You could be like, collect Julia. You go collect them on flights.
-When they hand them out for 4000, precise them out again.
-Do you need headphones? With Christina Ruffini, a new segment.
-Kind of I love it. All right, Lisa, you number on.
-I'm on a very, very intense. But you know, what do you think?
-So you could say you have the point. But at that point I just put in my noise
-canceling headphones and I just say, forget it, I'm just moving here.
-It's bliss. Yes.
-Then I'm fine. Okay, let's move on, guys.
-During the during the show, we tried to talk to her.
-In the meeting. We got a check on her.
-Okay. Guess what's this weekend?
-Uh, Taylor fest kicks off, but it's Octoberfest.
-Kicks off in Germany this weekend. They actually started early because
-warmer weather, longer daylight. And so they started a little bit
-earlier. They started that years ago.
-Uh, but so what's happening is that there's this beer tradition from Germany
-that's coming here. Okay.
-So this is from the Washington Post. A German beer tradition brings all you
-can drink cold, I love to. Do you really?
-I hadn't heard of this tasty crisp here. That's what they say, you see.
-But what what what's different about it is that lighter, a lighter, and they
-serve it in these tiny little glasses. Yeah.
-So this is a tradition that's coming here.
-So basically that server comes around has these little that tray of all the
-little tiny glasses, elegant. Puts a coaster down and then puts a beer
-on it. When you're done drinking your beer, she
-puts a little tally mark to know that you finished one.
-And then you keep. She keeps bringing tally keeps the tally
-going. You don't have to get up like that.
-And that a lot actually. And also like I hate the big ones
-because then I feel bad if I can't finish them.
-So like, you know portion it out and they say cold.
-Yeah I think that's great. Another totally participation problem
-for me. And when you're done you just put your
-little coaster on top and ice appears to do.
-You're a better finisher. I am that is fair.
-Her. Let's see if I can squeeze this one in.
-Okay? Okay, okay.
-Um, 38 is just the number in the world of rock and roll.
-This is the Wall Street Journal. Not even a stroke can top these aging
-rock stars from going on stage. So we're talking about Lionel Richie,
-right? 77.
-Rod Stewart, 81, Barry Manilow 83. They're all still rocking it on stage.
-Bright young men. Yes, they are.
-And they say they have to keep going. They do have some health issues and they
-had to postpone a couple of things, but it just shows how these guys are still
-going to do it. And they're packing it in at these
-concerts. All right.
-Got to go see Manilow. Gotta go see Manilow.
-I think it's that's a great way to end the segment.
-I do not have to go see. All right.
-Thank you. Lisa, we're coming up on 8 a.m.
-in New York. The next episode of this weekend starts
-right now.
+or BT dubs, as I like to call it. I'm not going to call you back here to
+make someone's grubby little figures and not get in and adjust the prompter.
+So it says, uh, BT dubs. Uh, but Alexis is here with some of the
+stories you might have missed over the course of the week, which you got
+Alexis. Whatever you call it, we've got it.
+Okay. We're going to go diplomatic.
+We're going to start with this. I get to him, Alexis.
+So we're starting. I'm staying neutral.
+We're going to start with this one for The New York Times.
+Um, if you're worried about your college kid and you have enough money, you can
+now pay for a local mom. Oh, my God, it's gone.
+It is. No, it's not.
+It's a thing. So at some universities, parents are
+paying services like Bama mama in Alabama.
+Campus mom in Texas. They say they are catering to a new
+generation of worried parents who, let's face it, are much more involved in their
+kids. Yes, the helicopter arrangements are
+real. Our lives.
+Yeah. So this is it could be a few hundred
+dollars up to a few thousand dollars. Here's what you'll get for the stand in,
+mom. They will do the kid's laundry.
+Uh, go clean up their dorm room. Help them.
+A pledge for fraternities. Oh, my God, the Balloons on their
+birthday and chicken soup when they. I love that, you know what?
+If you had a challenge learning these life skills.
+Well, that's the thing. And if you haven't heard from me, kid,
+they'll even go and say, knock, knock, send your pal your mother some photos
+or, you know, call your mother, your real mother, not the one that you're
+paying. I, you know, like this idea.
+You with this, with this have gone over well in your, uh.
+Absolutely not. My parents dropped me off and said bye.
+And then it was right on, you know, occasional stressed out phone call, but
+that was about it. What about you?
+Are you going to hire a mom? No, I definitely will not be doing that.
+But I do want I mean, uh, I have heard, you know, you go to school, you know,
+like, we have to get a prescription to go get food, or so, you know, have a
+car. What are you going to do to get you
+that? You got that?
+They actually said that they'd pick up prescription service, but that's called
+you. There are other ways to do that.
+You don't need the surrogate mom to come in.
+Now, I do know, having grown up in Chapel Hill, that it's, um, fraternities
+and sororities, there's like a woman who would live in the house and do some of
+the. Yes, I guess not like a bespoke, not
+like one on one in this way, I don't know, I think it's a little Bama.
+Mama mama mama. Alabama.
+Wow. Wow, mama.
+All right, Moving on. It's a growth industry.
+It sounds like it'll be a good sign. I think it is.
+They they found that they found the need and they are catering to it.
+Okay, so the high stakes pursuit of smuggling butter home from Paris.
+So this one story I'm into. Yeah.
+Me too. I'm with you.
+So this is the must have souvenir, by the way.
+Artisanal butter. Yeah.
+Uh, but the challenge, of course, is how do you get it back in one piece on,
+like, a nine hour flight to the city? Imagine that's the issue.
+Yeah. So, first of all, why is this trend
+happening? Well, first of all, you had the Olympics
+there in 2024. Things have gone crazy on social.
+So it's sort of like, you know, fuelling this trend.
+Here's what a lot of the places in France now are doing, because they
+understand this is what tourists want. They're vacuum sealing the butter.
+Then you bring it back to the hotel or the Airbnb and reason.
+Yeah. Yeah, basically.
+And then you're supposed to put it in your check in baggage, not your carry
+on. And here's why.
+Are you ready for it? It's the discretion of the security.
+Yeah, I say it because it looks like a plastic explosives.
+Oh my God, no, that's a better. Excuse me?
+Well, I'm like, you know, I like when you scan it.
+It might look like something not great. It looks like might look like some text
+or something. I feel like we have to delve deeper into
+this experience of the security, of security.
+There was one security guard at the, uh, airport in Paris who said it could melt
+and become a liquid, even though it's a solid now.
+So they kind of throw out their eight bars of butter and they're expensive.
+They can go anywhere from like eight bucks to $20 if it's magic sign.
+Why is it better? Why
+do you know it's higher fat content, more complex.
+You know, it's rich creaminess and rich creaminess.
+You had to get higher fat content for it.
+I'm here for it. Interesting.
+All right. Well, right now in Business Insider,
+actually, a few outlets have this one. To be fair.
+Is it? Here's the question.
+Is it unprofessional to bring iced coffee to January was everywhere.
+Okay, this has gone viral, but is it unprofessional to bring an iced coffee
+to a job interview? Yeah, it's because there was a recent
+TikTok posted by a recruiter. Yeah.
+Um, who's sparked the debate saying it is not professional, that it comes
+across as too casual, like your interview was sort of like on your way
+to running other errands. Interesting.
+And then here's a question that I didn't think about.
+The article is what have you have? If they go, oh, um, can we take a look
+at your resume? Now?
+You have to put the coffee down. You leave a watering on the person's
+desk. You wipe that.
+Yeah. That's the thing.
+It's like I've. I've.
+When I was younger, I used to think, like, having a little coffee, like, made
+me look professional. And I'd be like, oh, I'm here.
+But usually I would, like, leave it in the lobby, but I'll eat the iced coffee.
+It is messy, it is sloppy. And the recruiter was like, I don't want
+like, I'm going to shake your hand. It's going to be cold.
+You're to your point. It's going to your paper.
+It's just like you don't need your emotional support.
+Coffee for like 20 minutes of this interview.
+You're going to be okay. I say hot or cold, don't bring it in.
+Don't bring your own beverage. 20 minutes, an hour, half hour.
+Just don't do it, would you? You interview people for jobs I do here
+at Bloomberg World Headquarters. Do you bring an iced coffee to those
+interviews as the interviewer? Oh, interesting.
+No, I don't think I do that either. I would bring, uh, a traveler like this
+that seems compact and non-offensive. Um, and it wouldn't bother me if someone
+brought a coffee like this, but an iced coffee, and, you know, there was, like,
+shaking the ice, and, um, I just think, you know, if you can only make a first
+impression. I never drink iced coffee.
+But would you bring that coffee? Absolutely.
+Yeah, I think you would. I'm staying caffeinated.
+And you should know that no one drinks more Bloomberg coffee than David Gray.
+Thank you so much for all the coffee here.
+It is the greatest perk it is feeling the show, at least for us.
+All right. Last one.
+Do you know what the three most dreaded words are that no one wants to hear?
+David Gur is here. Oh, this is another story about.
+Ready? Okay, what's for dinner?
+Oh, yeah. Apparently this is a big pain point for
+American families. So half of U.S.
+families now have both parents working full time.
+By the time 4 p.m. rolls around on any given day, 80% of
+Americans still don't know what they're going to have for dinner.
+This is a this is a real issue. Yeah.
+And so this then leads people to, you know, searching for unhealthy options
+because oftentimes those are the quick options, the old chips and salsa
+to tide you over. You plan meals out for the week.
+I do not. I will say that because if I said we, I
+would get in trouble for saying someone in your family plan them out for.
+Um, uh, that's really the try to do this thing.
+Try to do that, you know, and I try and participate in the soup.
+Jeffery. Companies are trying to capitalize on
+this to coming up with, like, you know, quick meal kits and a Blue apron the
+like. Alexis, thank you very much.
+BT w uh, recurring segment here on Bloomberg this weekend weekend starting
+with the word the letter W.
 
 </details>
