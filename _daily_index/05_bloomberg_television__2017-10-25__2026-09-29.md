@@ -1,11 +1,78 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-26T20:08:36Z
-Date range: 2017-10-25 -> 2026-09-26
+Generated at (UTC): 2026-09-29T20:08:02Z
+Date range: 2017-10-25 -> 2026-09-29
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-29 | 01_Videos/Bloomberg Television/Yardeni Sees Revenge of the Bond Vigilantes.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Yardeni 'Not Convinced' 5.25% Is the Top in Yields.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/When Clarity Fails, Ambiguity Wins Cuomo.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/US Consumer Confidence Drops as Gas Prices Rise.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Trump Spurns Iran’s Latest Offer, OpenAI Scraps Debut of AI Model.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Trump Hosts AI Summit.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Trump Hosts AI Leaders at White House.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Treasuries Selloff Stabilizes As Oil Surges.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/There's Existential Risk About AI 'Not Aligning' with Their Humans, Says Gensler.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Stocks Waver Ahead of Jobs Data; Trump to Meet Tech CEOs on AI.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Stocks Battling AI Safety Headwind Market Analysis.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/SpaceX’s Starship Reaches Orbit Despite Engine Issue.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Saudi Arabia Restores Key Oil Pipeline as Hormuz Talks Stall.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/OpenAI Holds Back Astra Over Safety Risks, Iran Doubts US Deal Before Midterms.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Open Interest 9292026.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Oil Climbs With Iran Pessimistic About Trump Deal Before US Midterms.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Midterms Have Gotten 'Ugly' for Republicans Cook.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/JPMorgan, Ford to Invest Billions in Michigan Manufacturing.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Ives on Trump Tech Summit, Anthropic Possible IPO.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Iran Pessimistic on Deal With US Before Midterms.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/How Will Super El Niño Heat Affect Africa's Food, Power, Water  Bloomberg Next Africa.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/How the Rise of Prediction Markets Impacts Sportsbooks.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Goldman’s Waldron Seen as Possible Successor to Solomon.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Goldman Sachs' Waldron Edges Closer to Top Job.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Former Disney CEO Bob Chapek Says Company Needs a 'Growth Engine'.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Cuomo Seeks Clarity, Bitget Hacked, Peirce's Exit Interview.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/China Tightens Travel Rules for Families of AI Talent.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 9292026.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/Anthropic IPO to Be a ‘Watershed Event’ for Tech, Says Dan Ives.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/AI, Data Centers Face Scrutiny in Australia.md
+- 2026-09-29 | 01_Videos/Bloomberg Television/AI Spending Boom Tests Investor Faith in Future Returns.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Yields to Keep Climbing on US-Iran Stalemate Market Analysis.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/US, China Release Product List for $30B Tariff Deal.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/UK's Streeting on Iran Threat, Defense Budget.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Trump Rejects Iran's Hormuz Offer as US Borrowing Costs, Oil Rise.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Trump Meets Anthropic CEO  Balance of Power Early Edition 9282026.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Sushiro's New Chapter in the American Market.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Stocks Fall, Oil Rises as Iran Refuses to Soften Demands; US, China to Cut Tariffs.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Open Interest 9282026.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Oil Rise Piles More Pressure On Bonds.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Nvidia Rolls Out New Tools to Keep AI Agents in Line.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Meta Debuts Lightweight $1,299 VR Glasses.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Iran Stands Firm on Hormuz, OpenAI Pauses Top Model After Sandbox Escape.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Iran Says Won’t Soften Demands as Trump Rejects Hormuz Offer.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Iran Holds Firm on Hormuz, US-China Tariff Cuts Take Shape.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Cuba Warns US Sanctions Are Blocking Reform.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Bond Slide Resumes As Middle East Tensions Boost Oil.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 9282026.md
+- 2026-09-28 | 01_Videos/Bloomberg Television/Akamai CEO Leighton Calls Anthropic an Ideal Partner.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Why Humanoid Robots Might Be the Future of Elder Care.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/US Iran Talks Hit Familiar Sticking Points.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/US China Trade Truce Leaves Key Issues Unresolved.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Trump Rejects Iran Plan to Reopen Hormuz.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Rubenstein on the Billion Dollar Sports Boom.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Paramount Warner Deal Tests Hollywood’s Future.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Northeast Storm Brings Wind, Rain and Flooding.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Midterm Fight Expands Into Republican Strongholds.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Labour's Douglas Alexander welcomes social care reform.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Kennedy Center Musicians Find New Stages.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Inflation Keeps Pressure on the Fed.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/IAEA Says Iran Nuclear Oversight Can Resume Fast.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Data Center Boom Faces Wall Street Skepticism.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Burnham Faces First Labour Conference as PM.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/Bloomberg This Weekend 09272026.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/AI Safety Concerns Put Congress on the Spot.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/AI Data Centers Have a Heat Problem.md
+- 2026-09-27 | 01_Videos/Bloomberg Television/A Hockey Legend, a New Bridge, and the Trade War Tearing Neighbors Apart.md
 - 2026-09-26 | 01_Videos/Bloomberg Television/Why China's Biggest Strength Is About to Become Its Biggest Problem.md
 - 2026-09-26 | 01_Videos/Bloomberg Television/What El Niño Could Cost Africa  Bloomberg Next Africa.md
 - 2026-09-26 | 01_Videos/Bloomberg Television/US and China Seek Common Ground on AI.md
