@@ -1,11 +1,40 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-09-29T20:08:02Z
-Date range: 2017-10-25 -> 2026-09-29
+Generated at (UTC): 2026-09-30T20:11:40Z
+Date range: 2017-10-25 -> 2026-09-30
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-09-30 | 01_Videos/Bloomberg Television/US Dollar to Gain From Capital Flows Market Analysis.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Trump, Musk, AI CEOs Meet; OpenAI Eyes $1.4 Trillion Value.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Trump Rejects Need for New AI Safety Laws, OpenAI's Altman on IPO Plans.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/The Political Crisis That Could Topple Germany’s Merz.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Terror in Skies FlyDubai Pilot Stabs Other Pilot, Passengers Step In.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Tel Aviv-Bound Flight Averts Catastrophe After Battle in Cockpit.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Stocks Waver Ahead of PCE, Micron; Mideast Oil Flows Rebound; Trump Backs Outside AI Audits.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Singapore, Malaysia Cloaked in Haze Before Key Sports Events.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Robinhood CEO Says New AI-Driven Agent Apps Are Safe.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/OpenAI Seeks $30 Billion at $1.4 Trillion Valuation.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/OpenAI Holds Back Astra Model Over Safety Concerns.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Open Interest 9302026.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Oil Drops as Mideast Crude Hits 98% of Pre-War Flows; Man City Guilty Over $1.2B.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/JPMorgan, Goldman See Mideast Oil Flows Near Pre-War Levels.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/JPMorgan and Goldman See Mideast Oil Flows Near Pre-War Levels.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/How Abu Dhabi's Crown Prince Is Trying to Bypass Hormuz.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Goldman Sachs Euro Stocks Resilient to Macro Pressures.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Fed Watchdog Finds Renovations Legal.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Fed Watchdog Finds Nothing Criminal About Renovations.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Citadel's Griffin Gives $3 Billion to CMU for Miami Campus.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/China's Mortgage Subsidy Plan Fails to Impress.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/BofA’s Blanch on Global Impact of a US Diesel Export Ban.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 9302026.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Bassiri Tabrizi US Iran Moving Further Apart in Talks.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Amy Gower Says Gold Faces Rate and Dollar Headwinds.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/AI Buildout Powers On Despite Safety Concerns.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/AI 'Will Get Us Closer To Curing Cancer', Says Sen. Budd.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Ackman Talks Howard Hughes Plans, IPOs and Anthropic.md
+- 2026-09-30 | 01_Videos/Bloomberg Television/Ackman Says Markets Are Narrowly Focused on Big IPOs.md
 - 2026-09-29 | 01_Videos/Bloomberg Television/Yardeni Sees Revenge of the Bond Vigilantes.md
 - 2026-09-29 | 01_Videos/Bloomberg Television/Yardeni 'Not Convinced' 5.25% Is the Top in Yields.md
 - 2026-09-29 | 01_Videos/Bloomberg Television/When Clarity Fails, Ambiguity Wins Cuomo.md
