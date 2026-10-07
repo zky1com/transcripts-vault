@@ -1,11 +1,45 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-06T20:14:44Z
-Date range: 2017-10-25 -> 2026-10-06
+Generated at (UTC): 2026-10-07T20:19:40Z
+Date range: 2017-10-25 -> 2026-10-07
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-07 | 01_Videos/Bloomberg Television/Will Trump & Republicans Get ‘Absolutely Hammered’ in US Midterm Elections.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Wall Street Profits Could Top $90 Billion, Says State Comptroller.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/US 30-Year Yields Return to 2002 High.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Trump Tries Texas Rescue.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Trump Heads to Texas, But Won't See Governor Abbott.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Tropical Storm Isaias Could Turn Into Cat 2 Hurricane.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Subprime Auto Loans Make Wall Street Rich as Borrowers Struggle.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Stock Rally Fades on Higher Oil Prices; SpaceX in Talks to Buy Nvidia Chips.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/SpaceX Seeks $40B For Nvidia Chips; Iran Steps Up Hormuz Attacks.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/SpaceX Seeks $40 Billion to Buy Nvidia Chips in AI Bet.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/SpaceX Eyes $40B for Nvidia Chips, Asian Stocks Hold Near Record Highs.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/SpaceX Eyes $40 Billion Deal to Buy Nvidia Chips.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Raymond James Analyst Sees Nvidia Shares at $515.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Open Interest 1072026.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Oil Prices Rise as Flows Through Hormuz Increase.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Migrant Family Questions American Dream Under Trump.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/McKinsey's Kutcher Says AI Creates Jobs and Opportunity.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/McDonald’s Wants Franchisees to Spend Thousand on Renovations.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Kenya Sees First Ebola Case Imported From Congo.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Iran Ramps Up Ship Attacks in Hormuz as Oil, Gas Flows Climb.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Iran Ramps Up Ship Attacks in Hormuz as Oil Flows Rise, Ebola Spreads to Kenya.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/IMF Chief Warns Governments to Act Now on Record Debt.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/HSBC Said to Eye Job Cuts in Wealth Management Unit.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/From Bitcoin To Tokenization, Crypto Optimism Returns.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/French School Protests Draw More Than 250,000.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Fed Minutes Show Unity Behind September Rate Hike.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Europe Trades Fiscal Risk More Than US 3-Minutes MLIV.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Disney Confirms That Disney+ Will Stream The 2027 Super Bowl.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/DeepSeek Nears $12B Funding Round Ahead of Potential IPO.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Dalio Warns of AI Bubble, Hormuz Attacks Lift Oil.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Citi's Talent Fight with PE, Boots Deal, LIV's Lifeline.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1072026.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Big Take This Isn't Your Grandparents' UN.md
+- 2026-10-07 | 01_Videos/Bloomberg Television/Apple to Launch Doorbell, Lock and Thermostat Developed With LG.md
 - 2026-10-06 | 01_Videos/Bloomberg Television/Yemen Says It Retook Mocha Port as Hormuz Oil Transits Rise and Saudi Pipeline Runs Normally.md
 - 2026-10-06 | 01_Videos/Bloomberg Television/Yemen Regains City of Mocha on Red Sea.md
 - 2026-10-06 | 01_Videos/Bloomberg Television/Why Ray Dalio Sees Risk of US Debt Crisis.md

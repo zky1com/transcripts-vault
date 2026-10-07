@@ -1,0 +1,48 @@
+---
+title: "Massive Update for Microsoft Stock Investors! | MSFT Stock Analysis"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "8he7DPaNNX4"
+url: "https://www.youtube.com/watch?v=8he7DPaNNX4"
+publish_date: 2026-10-07
+publish_timestamp_utc: "2026-10-07T14:45:04Z"
+duration: "10:27"
+duration_seconds: 627
+views_at_import: 2378
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1455
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1455 words)</summary>
+
+When Microsoft stock crashed to below $400 per share earlier this year, I upgraded the stock to a high ranking, placing it on my list of top stocks to buy with a high conviction level. As the stock price continued to drop from 400 to $350, I reiterated that ranking multiple times, buying Microsoft stock for my own portfolio throughout those moments. Now, I'm grateful for those moves. Microsoft stock price has soared from a little over $350 per share up over $525 today. It's been one of my better moves this year. But is it too late? And is it time to sell? I wanted to take a look at Microsoft now that the valuation, the price has increased by so much in such a short time. Does it still look attractive? Is it still a buying opportunity? What will I be doing with my Microsoft shares at these levels? Let me answer those questions for you in this relatively short video here. I want to thank The Motley Fool for sponsoring this video. Visit fool.com/parKev for the 10 best stocks to buy now. One of the things I've been watching with Microsoft is developments in its AI investments, how it's using AI internally to enhance its products and services, to lower its cost of operations, and for its third-party rental business where it builds data centers and rents that computing [clears throat] power to companies like OpenAI. Recently, they've demonstrated success in Copilot, reaching over 30 million paid Microsoft 365 Copilot seats, with net seat adds more than doubling quarter over quarter. That's a significant acceleration and evidence that they are benefiting from the investments in AI. During the quarter, Microsoft is bringing Copilot experiences together, including code in one super app spanning both consumer and commercial experiences. Now, I switched away from Microsoft productivity suite a few years ago. So, I'm curious to hear from those of you that are using Copilot, have they demonstrated significant improvement in the user experience? Has it been worth the incremental price increase to subscribe to 365 with the added benefits of incorporating AI? I'm curious to hear your thoughts because I'm using Google's productivity suite, and I'm paying for the upgrade to incorporate AI, and I like the performance. I feel that it's worth the value of the dollars that I'm paying for that for our business. So, I'm curious to hear what's going on with Microsoft from those of you that are using Microsoft. They say that they've been steadily improving the quality and performance of Copilot. And of course, they are. Otherwise, they wouldn't be experiencing that significant growth in quarter over quarter from their customer base. Another area I'm watching with Microsoft is the return on invested capital, which curiously is moving downwards, right? In 2022, its ROIC peaked at around 33%, and that's fallen to about 26%. Contrastly, Amazon has demonstrated significant improvement in its return on invested capital even as its total assets have soared above 1 trillion. Still, a return on invested capital of over 26% is roughly 2x Microsoft's weighted average cost of capital, which means every dollar that Microsoft is investing in the company is bringing back a lucrative return on capital well above the company's cost of that capital. So, at this level the more investment that Microsoft is putting in, the better it is for shareholders, but the trend is concerning. Microsoft investors, myself included, I still own Microsoft stock, will want to see this trend stabilize and not move lower from here. Another concerning factor for me is Microsoft's revenue growth is the slowest among the hyperscalers when I compare it to Amazon, Alphabet, Meta Platforms, Microsoft's revenue growth in its most recently completed quarter at just 18% was among the lowest of those hyperscalers. And its operating income growing 21% was also among the lowest of these hyperscalers. Microsoft not seeing the benefits of their investment in artificial intelligence as strongly as some of the others as some of its peers are seeing through their financial performance. That isn't to say they're not experiencing the benefits, it's just to a smaller degree. Microsoft's operating profit margins increased to 45% and here's what's really impressive to me. Total company headcount decreased by 2% year over year. So, Microsoft generated 18% more revenue with 2% fewer people. That really impresses me because they were able to grow their revenue, grow their business with fewer people and that means that each individual is now more productive. Each individual, when we compare when we look at revenue per employee, each individual is contributing more. That's impressive to me. Those are the kinds of signs I like to see when a company is making significant capital investment into the corporation. And by significant, I mean $41 billion in capital expenditures, including higher memory prices that Microsoft noted to investors. Roughly 2/3 of this spending was for short-lived assets, GPUs and CPUs, as customers increasingly are building solutions that leverage AI and non-AI infrastructure. The remaining spend was for long-lived assets. In other words, when Microsoft spends on artificial intelligence, 1/3 of that spending is like the building, the shell, the land, etc. And then 2/3 of the spending is the components, the GPUs, the CPUs, the memory. I mentioned a couple of areas where Microsoft is trailing its big cap tech peers, but one of the areas it's leading is in cash flow, right? I mentioned Amazon and Meta Platforms. Those I estimate will generate negative free cash flow this year and next. Whereas Microsoft, I'm estimating significantly positive cash flow, and in fact, in their most recently completed quarter, their cash flow from operations were up 30% to 55.4 billion. And they generated free cash flow of 19.6 billion. Overall, I'm estimating Microsoft will generate $65 billion in free cash flow in 2026. 2027 will be lower as they ramp their investments in artificial intelligence and their cash flow from operations do not increase by a similar amount. And then 2028 will be another year of significantly positive cash flow at 45.7 billion. 2029 is when I speculate that many of these companies will start to reap the benefits of AI while decreasing the investments. I'm estimating this for Amazon, Alphabet, Microsoft, and Meta Platforms. I'm estimating their spending will remain elevated to 2028 and then start to moderate or decline starting 2029, which will lead to a significant burst in cash flow up to 125 billion. All that being considered, I calculated a fair value of Microsoft of $406 compared to the current market price at 525, it looks like it's overvalued now when measuring on a discounted cash flow basis. When measuring on a forward price to earnings, Microsoft is at 22, which still looks undervalued to me. I would say Microsoft stock would look undervalued all the way up to a forward price to earnings approaching 30. So, at these levels on a forward PE basis, Microsoft stock looks undervalued while measuring on a discounted cash flow basis, Microsoft stock looks overvalued. I mentioned I've been bullish since Microsoft stock price crashed below $400 per share. I last updated this on August 21st, ranking it a high conviction buying opportunity. However, today, I am downgrading Microsoft stock to a hold. I no longer think it's a great buying opportunity at these levels. Now, I still own Microsoft stock and I'm not interested in selling my Microsoft shares. I would love to come here and be bullish and recommend buying Microsoft stock. It would be great for me. My shares would increase as well. I just don't think that's the case. The data doesn't support that recommendation. I think if you own Microsoft stock and you hold it for the next 5 years, the next 10 years, the next 20 years, I think you'll generate a great return on that investment and that's what I plan to do. This will be a likely longer-term holding for me unless the market price continues to increase while the fundamentals of the business don't increase by a similar amount. So, I'll be holding on to my shares from now, but I'm not interested in adding any more Microsoft to my portfolio at anywhere near these levels of $500 or above until the business performance demonstrates a step above improvement, and then I'll re-evaluate that position and consider if it's a better opportunity then. Hey everyone. So many of you have been asking about my investing strategy, and I'm excited to announce that I've written a book that's available for sale now that describes my six-step investing framework for evaluating stocks. I've added the link in the description below.
+
+</details>
