@@ -1,11 +1,40 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-07T20:19:40Z
-Date range: 2017-10-25 -> 2026-10-07
+Generated at (UTC): 2026-10-08T20:07:22Z
+Date range: 2017-10-25 -> 2026-10-08
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-08 | 01_Videos/Bloomberg Television/Yardeni Sees Bond Yields Heading in ‘Danger Zone’ Direction.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Trump Rules Out Iran Attack for Now.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Stocks Drop, Oil Rises on Iran Report; TSMC, Samsung Disappoints Investors.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Special Bonus Pool for Goldman Executives to Top $500 Million.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/SpaceX Crew Capsule Splashes Down After ISS Stay.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Samsung Posts Record Profit but Investors Question Sustainability of AI Spending.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Rising Yields Creates Value JPMorgan's Berro.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/PepsiCo Lowers Guidance; Levi Strauss Sales Growth Disappoints  Stock Movers.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/OpenAI Investment Boosts Tiger Global's Hedge Fund.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Oil Tops $105, Goldman Execs Eye Massive Bonuses.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Oil Spoils the Global Stock Rally as Brent Tops $102.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Oil Spike Would Be Just The Worst 3-Minutes MLIV.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Oil Prices Rise as US Said to Consider Iran Strike Options.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Oil Gains as Iran Attack Risks Rise, Le Pen Asserts Control Over Far Right.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/NYSE's Lynn Martin on Skydance Debut, IPO Market, Competing in Texas.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Labor Market Is Hotter Than People Think, Says ADP's Richardson.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/LA, Florida Schools Face Budget Pressures.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Isomorphic Labs' $40B Valuation; WHO Urges Russia Plague Transparency.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Hurricane Isaias Nears Major Status Ahead of Gulf Coast Landfall.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/How To Buy Your First Rolex.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Houthi Attacks Hit Riyadh, Abha Airports, Killing Three; Tanker Attack Pushes Oil Higher.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Former Biden Energy Adviser Hochstein Says There's a 'Secret War' in Iran.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Europe 'Not Well Prepared for Winter' on Energy, Goldman's Della Vigna Says.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Ellison Family Invests About $17 Billion in Warner Bros. Takeover.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/China Stocks Dip As Soft Travel Data Drags on Sentiment.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/China Got Hold of F-35 Parts After Missed Email.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Broadcom in Early Financing Talks for OpenAI Chips.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1082026.md
+- 2026-10-08 | 01_Videos/Bloomberg Television/BlackRock’s Rieder on Yield Curve, Federal Reserve Rate Hikes.md
 - 2026-10-07 | 01_Videos/Bloomberg Television/Will Trump & Republicans Get ‘Absolutely Hammered’ in US Midterm Elections.md
 - 2026-10-07 | 01_Videos/Bloomberg Television/Wall Street Profits Could Top $90 Billion, Says State Comptroller.md
 - 2026-10-07 | 01_Videos/Bloomberg Television/US 30-Year Yields Return to 2002 High.md
