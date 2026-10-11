@@ -1,11 +1,88 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-08T20:07:22Z
-Date range: 2017-10-25 -> 2026-10-08
+Generated at (UTC): 2026-10-11T20:09:30Z
+Date range: 2017-10-25 -> 2026-10-11
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-11 | 01_Videos/Bloomberg Television/Trump's Russia Diesel Deal Raises Concern Over Ukraine.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Trump Presses Zelenskyy to Step Aside.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Tech Billionaires Amass $845 Billion in 2026.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Saudi Airport Attack Increases Middle East War Risks.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Riyadh Airport Attack, Trump To Ukraine “Time To Get A New President”.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Riyadh Airport Attack Kills 12 as Conflict Escalates.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Protests Trigger Security Crackdown in New Delhi.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Is AI Crowding Everyone Else Out of the Bond Market.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Inside Italy's Changing Papacy and Politics.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Globalization Challenges a Decade of Populist Pushback.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Former US Envoy Warns of broader Middle East Conflict.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Foreign Policy Takes Center Stage in Midterm Elections.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Exclusive Dimon, Farley, Gov. Whitmer on Rebuilding American Manufacturing.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Bookmarked Stories That Caught Our Eye This Week.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/Big Banks Prepare for Earnings Season.md
+- 2026-10-11 | 01_Videos/Bloomberg Television/'Windows of Opportunity' to End War in Ukraine, SACEUR Says.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Why Trump Accounts May Worsen Inequality.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Why This Canadian Community Is Betting on Coal Again.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Trump's Russian Diesel Deal Draws Criticism of Ukraine.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Trump Turns to Russia as Diesel Prices Continue to Rise.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Strong Earnings Could Revive US Stocks.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Some High Earners Stop Maxing Out 401(k)s.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Small Designer's Luxury Handbags Turn Viral.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Safety Concerns Raised By The Race for AI Supremacy.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Russian Diesel Deal Unlikely to Relieve US Prices.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Rising Dining Costs Due to Restaurant Theft.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Public Health Questions Raised After Russia Plague Scare.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Phenomenal Time To Be Investor, Not Consumer Amoroso.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Patagonia CEO Insist on Growing at Own Pace.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Hurricane Isaias Slams Gulf Coast.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Hurricane Isaias Could Cost Insurers Billions.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Cowboy Space Wants to Put an Energy Grid in Orbit.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Britain’s Great Wealth Dilemma.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Bloomberg This Weekend  Diesel Deal Struck with Putin, Isaias Makes Landfall.md
+- 2026-10-10 | 01_Videos/Bloomberg Television/Banana Ball Takes Its Show Nationwide.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/White House Steps Up Pursuit of Fed's Lisa Cook.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/White House Forms Committee to Probe Federal Reserve’s Cook.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Wall Street Week  Michigan Manufacturing, AI Debt Investments, Baby Bonds, Canadian Coal Fight.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Wall Street Sees Ominous Sign in Bond Market’s Latest Selloff.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Wall Street Rallies Ahead of Next Week's Earnings  Closing Bell.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/US Suspends Visa Program for Tech Firms Including Microsoft.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Trump Says Putin to Supply US With Diesel.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Trump Rules Out Iran Strikes Before Midterms, Oil Rises as Hormuz Attacks Continue.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Trump Rules Out Iran Attacks Before Midterms, AI Funding Rush Continues.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Trump Rules Out Iran Attack Before Midterms, OpenAI Eyes $70B Revenue.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Trump Putin To Release Diesel Into Global Market.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Surveillance Pricing, Orszag's Retirement Warning, Suburb Discount Dwindles.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Stocks Rise as AI Concerns Ease; Dollar Rally Persists.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Republicans 'Behind the Eight Ball' on Economy, Says Stephen Moore.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Rep. Wasserman Schultz Russia Diesel Deal Is ‘Desperate’.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Post Says White House Press Limits Could ‘Deform’ Coverage.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Pee Wees Confessions of a Hockey Parent, The Stories of John Cheever.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/OpenAI’s $70B AI Boom, Goldman Leads Wall Street Trading Surge.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/OpenAI's Revenue Report Deepens AI Bubble Fears, Firmus Shelves IPO.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/OpenAI Targets $70 Billion in Annualized Revenue by Year-End.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/OpenAI Sees $70B Revenue; Airtel Money Seeks Biggest UK IPO Since 2021.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/New Jersey Suburban Discount Dwindles.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Musk’s SpaceX Acquiring Crucial Swath of Spectrum.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Inside Fort Lauderdale’s Luxury Condo Boom.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Inside Brooklyn’s WNBA Boom and Barclays Revamp.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Indian Tech Workers Face New Uncertainty in US Visa Crackdown.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Health and Power 'Deeply Connected for Women' Melinda French Gates.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Domenicali Asia Is Important in F1's Growth Ambitions.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Delta Cuts Profit Outlook as Surging Fuel Costs Tighten Grip.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Consumers Wary About High Prices and Economy, UMich's Hsu Says.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/China Rejects Claims the Yuan Is Undervalued.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/China Rejects Claims the Yuan Is Undervalued (TK1oviPr8ak).md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Bond Vigilantes Are Coming Back Peter Orszag.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1092026.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Atomic Machines CEO on Developing 'Micro-Machines'.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/Americans' Living Costs Are Top of Mind as Midterms Near.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/AI Buildout is Boom 'Not Bubble,' Says Jared Gross.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/AI Angst Won't Pop the Bubble Yet Market Analysis.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/'Surveillance Pricing' Comes Under Scrutiny.md
+- 2026-10-09 | 01_Videos/Bloomberg Television/'Medieval' US Firing-Squad Execution Will Hurt Republicans in Midterms Reid.md
 - 2026-10-08 | 01_Videos/Bloomberg Television/Yardeni Sees Bond Yields Heading in ‘Danger Zone’ Direction.md
 - 2026-10-08 | 01_Videos/Bloomberg Television/Trump Rules Out Iran Attack for Now.md
 - 2026-10-08 | 01_Videos/Bloomberg Television/Stocks Drop, Oil Rises on Iran Report; TSMC, Samsung Disappoints Investors.md
@@ -134,7 +211,6 @@ Date range: 2017-10-25 -> 2026-10-08
 - 2026-10-04 | 01_Videos/Bloomberg Television/G7 Fuel Release Ease Prices.md
 - 2026-10-04 | 01_Videos/Bloomberg Television/Concerns Loom Over Trump’s Midterm Push.md
 - 2026-10-04 | 01_Videos/Bloomberg Television/Can America Break China’s Grip on Rare Earths.md
-- 2026-10-04 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
 - 2026-10-04 | 01_Videos/Bloomberg Television/AI Stocks Drive an Divided Market.md
 - 2026-10-04 | 01_Videos/Bloomberg Television/48 Hours in the Singapore With No Smartphone.md
 - 2026-10-03 | 01_Videos/Bloomberg Television/Why Philosophers Are Worried About AI.md
@@ -142,7 +218,6 @@ Date range: 2017-10-25 -> 2026-10-08
 - 2026-10-03 | 01_Videos/Bloomberg Television/Trump Campaigns Deep in Republican Territory.md
 - 2026-10-03 | 01_Videos/Bloomberg Television/Tiny Hotels Are Luxury Travel’s Next Big Thing.md
 - 2026-10-03 | 01_Videos/Bloomberg Television/Stocks Rise, Job Growth Cools, Trump Says No Diesel Export Ban  Bloomberg This Weekend.md
-- 2026-10-03 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
 - 2026-10-03 | 01_Videos/Bloomberg Television/G7 Fuel Release Offers Short Term Price Relief.md
 - 2026-10-03 | 01_Videos/Bloomberg Television/Fake Jobs Put Job Seekers at Risk of Identity Theft.md
 - 2026-10-03 | 01_Videos/Bloomberg Television/Egypt Flagged Hamas Threat Before Oct. 7.md
