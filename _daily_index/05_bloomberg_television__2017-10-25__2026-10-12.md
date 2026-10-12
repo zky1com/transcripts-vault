@@ -1,11 +1,37 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-11T20:09:30Z
-Date range: 2017-10-25 -> 2026-10-11
+Generated at (UTC): 2026-10-12T20:14:09Z
+Date range: 2017-10-25 -> 2026-10-12
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-12 | 01_Videos/Bloomberg Television/What Houthi Airport Attacks Mean for Oil Market, Trump.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/US Should Not Do Diesel Deal With Russia, Says Republican Mike Lawler.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/US Mortgage Rates Rise for Seven Straight Weeks.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Ukraine Should Be Free to Strike Russia, Says Trump's Ex-Envoy.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Trump’s Diesel Deal Stirs GOP Unease.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Trump Must Pressure Russia, Not Ukraine, Says Poland's Sikorski.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi Attacks on Saudi Airports Escalate.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Starbucks Says It’s Not Buying Chipotle, Dousing Deal Rumors.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Saudis Say New Missiles Intercepted After Deadly Airport Attacks.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Saudi Airport Attacks Raise Stakes for Regional Conflict.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Russia Sanctions Must Stay in Place, Says Dutch Defense Minister.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Russia Diesel Deal, Energy Ceasefire ‘Extremely Desperate,’ Sen Says.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Riyadh Airport Hit Again After Deadly Houthi Attack Leaves People Killed, Hundreds Injured.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Open Interest 10122026.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Oil Swings on Russia-Ukraine Progress, Saudi Attacks.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/McNally Oil Market Underappreciates Geopolitical Risk.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/India's Cockroach Janta Party Renews Call for Poll Body Chief to Quit.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/If Putin Rejects Energy Truce, Strikes Will Continue, Warns Zelenskyy.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Euro Area Rate Reprieve Capped by Political Risk Market Analysis.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Deadly Houthi Attacks on Saudi Arabia; EU Caps Chinese Hybrid Car Imports.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/China Reaches Deal with EU on Hybrid Car Shipments.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Charlamagne Tha God on Netflix Deal, Midterm Elections, Mental Health.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 10122026.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Big Banks Set to Report Trading Haul of $19 Billion.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Apollo's Slok on Housing, US Economic Growth, Fed Policy.md
+- 2026-10-12 | 01_Videos/Bloomberg Television/Anthropic AI Model Goes Rogue, Gives Cops a Fake Tip.md
 - 2026-10-11 | 01_Videos/Bloomberg Television/Trump's Russia Diesel Deal Raises Concern Over Ukraine.md
 - 2026-10-11 | 01_Videos/Bloomberg Television/Trump Presses Zelenskyy to Step Aside.md
 - 2026-10-11 | 01_Videos/Bloomberg Television/Tech Billionaires Amass $845 Billion in 2026.md
