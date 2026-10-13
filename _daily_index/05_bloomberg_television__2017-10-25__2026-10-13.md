@@ -1,11 +1,42 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-12T20:14:09Z
-Date range: 2017-10-25 -> 2026-10-12
+Generated at (UTC): 2026-10-13T20:08:44Z
+Date range: 2017-10-25 -> 2026-10-13
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-13 | 01_Videos/Bloomberg Television/We're Back to Normal Rates, Says Ed Yardeni.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/US Existing-Home Sales Rise for First Time in Four Months.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Trumps Heads To Alaska For Sullivan Rally.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Trump Says US Still Sharing Intelligence With Ukraine.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Saylor Talks Bullish Bitcoin, Clarity, MSCI Disappointment.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Saylor Exclusive, DC Fintech, Longshot Prediction.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Saudi Arabia Reports Fresh Attacks as Wider Conflict Could Push Oil to $120.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Rory McIlroy Would Welcome LIV Golfers Back to PGA Tour.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Pakistan Targets Growth of More Than 4% for 2026.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Open Interest 10132026.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Oil Eases From Three-Day Gain With Focus on Middle East, Russia.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Morgan Stanley's Wilson on Midterm Elections, Fed Policy, Bond Volatility.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Modi Touts India as Trusted Partner as Supply Chains 'Weaponized'.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Modi on Global Supply Chains Being `Weaponized'.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Meta's New Muse Wonder AI Model; LVMH Slumps After China Backlash.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/India-US Talks Head in Right Direction, Jaishankar Says.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/India's Modi Says Supply Chains Weaponized.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/India PM Modi Speaks at the 2026 New Economy Forum.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/In Full Blackstone's Gray on India's Modi, AI Buildout.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Houthi Attacks Intensify Threat of Wider War in Middle East.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Global Uncertainty Tests India’s Growth Story.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Firmus IPO Flop Raises Data Center Funding Questions.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Fed's Williams Says One More Rate Hike This Year Is Appropriate.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Chipmakers Under Pressure; Saudi Arabia Intercepts Missiles.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Chip Selloff Deepens Before Wall Street Earnings.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Chip Selloff bleeds into Asia.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/CFTC Staff Told to Retract Analysis of Suspicious Oil Trades.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Breaking Down Big Bank Earnings.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 10132026.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/Asian Chipmakers Fall on Breakthrough by China's CXMT.md
+- 2026-10-13 | 01_Videos/Bloomberg Television/$299 Device Puts Apple at Center of Homes.md
 - 2026-10-12 | 01_Videos/Bloomberg Television/What Houthi Airport Attacks Mean for Oil Market, Trump.md
 - 2026-10-12 | 01_Videos/Bloomberg Television/US Should Not Do Diesel Deal With Russia, Says Republican Mike Lawler.md
 - 2026-10-12 | 01_Videos/Bloomberg Television/US Mortgage Rates Rise for Seven Straight Weeks.md

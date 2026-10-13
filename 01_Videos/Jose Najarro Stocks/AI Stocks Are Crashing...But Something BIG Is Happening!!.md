@@ -1,0 +1,48 @@
+---
+title: "AI Stocks Are Crashing...But Something BIG Is Happening!!"
+people_mentioned: []
+channel: "Jose Najarro Stocks"
+channel_id: "UC5cEHfCr6WOE1R1zcohd1IA"
+video_id: "1fg4FpDs5Sg"
+url: "https://www.youtube.com/watch?v=1fg4FpDs5Sg"
+publish_date: 2026-10-13
+publish_timestamp_utc: "2026-10-13T02:48:10Z"
+duration: "8:38"
+duration_seconds: 518
+views_at_import: 15808
+transcript_language: "en"
+has_captions: null
+transcript_status: "done"
+word_count: 1589
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1589 words)</summary>
+
+Hey guys, welcome back to another episode. Today we're going to take a closer look at some recent news impacting the semiconductor market. Unfortunately, unfortunately, the market is seeing some intense red days today. But we do got some bullish news. We also want to take a closer look at some of the things impacting the bearish side. So, let's take a closer look in today's episode. But before we begin, if you're serious about semiconductor and AI investing, I break down major earnings and conferences inside my community. Institutional Quality Research built for retail investors. Get 33% off at whatthechipappen.com. All right, guys. Welcome back to the episode. Like I mentioned, right now, as we are recording, Cosby or the Korean market is down roughly 6%. Now, I do believe this is going to create some more bearish sentiments for the AI and semiconductor industry. And like I mentioned at the intro of this video, right, we saw a bit of a a red day in the semiconductor space. We had AMD down roughly 2%. We had Nvidia down roughly over 1% below 226. We had Credo Technologies down roughly 7%. We had Micron Technology now in the 900s again and after hours down an extra 1.4%. We had companies like Marll also down about 3%. So the whole semiconductor stock took a bit of a pull down and we are going to take a closer look at some bearish sentiments very top level in my opinion. What I see is I believe the market is going to continue to be very volatile, but there are semiconductor stocks that are looking very attractive right now. Now, I'll probably do another episode on that later on. I might share some of my thoughts in my overall community on what the chipappen.com of the stocks that I'm looking into right now, but I do believe there is opportunity. That doesn't mean we're close to the bottom or we bottomed just yet, but just that there are things that I'm keeping a closer eye on. Now, I I kind of want to start off with some of the recent news that impacted the market. And and and if you are a longtime viewer, you know, I'm not home right now. Right now, I am on vacation with the family, so I traditionally do these videos at the hotel bathroom. So, my apologies for not being back home with my normal setup, but we got a lot of great content. So the first thing the first thing that impacted the semiconductor market today is Microsoft plans to make the Maya its primary AI inference system for its products with multi- gigawatt deployment starting in 2027. Now personally I don't believe this is at all bearish for Nvidia. I know there's a lot of people that say look Microsoft is developing their own AI chip. Isn't this bad for Nvidia? No. The amount of compute that we need is so insane that these things don't end up impacting the demand that my opinion the demand that Microsoft has for Nvidia and Nvidia is still the best the best when it comes to total cost of ownership. Regardless, this is really really good. The current market believes and I do believe from the commentary that I have reading the Maya 300 is part of the Marll ecosystem that helps build that chip. So this should be very bullish for Marll as they continue continue to expand into the ASIC market. Now this isn't really expected to be planned for high production in until 2027. So things can change but right now does seem a little bit bullish for Marll. Now I did mention I do have a community and if you want to check it out go to what the chipappen.com. Right now we do have 33% off the annual access. I do exclusive live streams three times a week. We have deep dives on earnings, deep dives on conferences. I share my overall thoughts on the overall market. So, check it out at whatthechipappen.com. Now, the next thing I want to take a closer look at is Meta, right? Meta is killing it. It's funny. Just a few months ago and probably even a few quarters ago, the market thought the meta was dead in the AI race. But luckily, in this channel, we talked about it in a different perspective of what could go right. And that seems to be playing out just right. So Meta is now number three in kind of the AI model. The only one on top of it is Anthropic. So it's Anthropic, Meta, OpenAI, then Google, then some of the other players out there. But this is extremely bullish. I personally haven't played with Muse Wonder just yet. But I am going to try to learn to see how my some of my workflows move on to there because I want to continue to be using the best of the best models out there. Right now, OpenAI with DOTS is taking all my tokens, but it is extremely bullish to see Meta killing it. And I do believe with all the infrastructure that they have, they will be able to sell these tokens at some great value. Now, some other news impacting kind of the AI space. We have reports from Taiwanese media that Intel, Qualcomm, and AMD have all raised CPU prices or are planning to do so. Now obviously with this agentic tool we've heard from AMD's previous earnings that the total addressable market of the CPU space continues to grow and grow and the demand is far larger than supply and when demand and supply are in balance. The only way you can create balance is by increasing pricing. Right? So this is extremely bullish. We are going to see some margin increases in companies like Intel, companies like Qualcomm and companies like AMD. Personally, I am a AMD shareholder. I am starting to take a closer look at Qualcomm. Let me know in the comments below if we do have any Qualcomm shareholders. Now, we do have something from Tay Kim right here. Right now, we do have a semiconductor conference happening. The conference focuses mainly in the networking side and we're getting a lot of news today. So, take him showed a slide of Nvidia's 576 GPU Nv76. So connecting 576 GPUs together. This is great for total cost of ownerships. The other thing it does show scale up and scale out domains are improving. So this could be seen very bullish for companies like Marll for Marll for Credo for um Astera Labs. A lot of people that play within that networking space. So very bullish there. And I think we're going to continue to get more and more updates within this market as this conference continues throughout the next few days. Um, I kind of want to take this note from Amit, right? My boy Amit here. He kind of does the the daily review of what happens in the overall market. I personally do a review that happens in the semiconductor market. So, make sure to check out my uh profile at Jose Naro, but Broadcom, many people are blaming Broadcom CEO for the selloff today. Broadcom CEO supposedly warned that many investors are approaching AI like casino gamblers where you're just betting betting betting betting betting betting betting hoping for a big win. Now, I don't think Hogan made this in a negative bearish case. He just says that with capital, capital is going to be one of the biggest bottlenecks in AI development. So, just make sure to use it wisely, right? You don't want to chase random things, spend billions and millions of monies dollars on it. chase the things that are working. And in my opinion, Hawktan is going to say one of the things that's working is their own AI chip infrastructure solution. So again, the market might be taking it one way. I don't think it's that way. But regardless, the market is stupid at time like we saw with Meta. Now, continuing with that OCP news, right, that networking news, we did get a lot of reports from Nvidia that they are either updating working partnerships. Meta for example is adopting Nvidia's spectrum 6 networking for Vera Rubin AI factories while keeping its own networking software solution. So again many news like this impacting the networking space. Nvidia announced various solutions with Meta with Google. They even did one with Cisco. I don't think any of these are revolutionary products for any of these markets but it does just showcase innovation is continuing in the networking space. Now, that is what I like to see because if networking is innovating in the networking space, it tells me that the total cost of ownership for a lot of these AI data centers are going to get better and better and better and better. The cost of tokens are going to get better and that's going to increase the consumption and the demand for AI solutions in the long term of things. So again, partnerships with Cisco, partnerships with Meta, partnerships with Microsoft and Google, I don't think anything there was completely revolutionary. is more just they're all going in that positive trajectory. So that's a very quick update of what's happening in the overall market. Let me know if I missed anything in the comments below. Take care. Have a good day.
+
+</details>
