@@ -1,11 +1,28 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-13T20:08:44Z
-Date range: 2017-10-25 -> 2026-10-13
+Generated at (UTC): 2026-10-14T20:10:16Z
+Date range: 2017-10-25 -> 2026-10-14
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-14 | 01_Videos/Bloomberg Television/US Consumer Prices Rise at Fastest Pace in Five Months.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Texas Has Always Been Vexing for Democrats, Poersch Says.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Stocks Waver Ahead of CPI, Bank Earnings; Aramco Hit By Houthis.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Saudi Aramco Headquarters Hit in Houthi Attack as Iran Escalates Hormuz Ship Strikes.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Open Interest 10142026.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Oak Hill, Fortress at CAIS, Bumble Goes Private, Media Moves.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/India's Mittal Says His Satellite Venture Is Ahead of Musk's Starlink.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/India Courts Global Investment Amid Escalating Protest Crackdown.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Fed Signals Fewer Rate Hikes, Aramco HQ Hit in Houthi Attack.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/China's Trade Surplus Nears $1T as Exports Surge.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/BofA Takes US Regulatory Fines Seriously, CEO Moynihan Says.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 10142026.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/ASML Raises Full-Year Sales Outlook.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/ASML Boosts Outlook as Demand Outpaces Supply.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Asia The Pain Point for AI Jitters Market Analysis.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/Aramco Headquarters Attacked, ASML Struggles to Keep Up with Demand.md
+- 2026-10-14 | 01_Videos/Bloomberg Television/AI Anxiety Collides With the Midterms.md
 - 2026-10-13 | 01_Videos/Bloomberg Television/We're Back to Normal Rates, Says Ed Yardeni.md
 - 2026-10-13 | 01_Videos/Bloomberg Television/US Existing-Home Sales Rise for First Time in Four Months.md
 - 2026-10-13 | 01_Videos/Bloomberg Television/Trumps Heads To Alaska For Sullivan Rally.md
