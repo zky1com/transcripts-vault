@@ -3,17 +3,17 @@ title: "By The Way: Headlines You May Have Missed"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "pZn_C1w5Pis"
-url: "https://www.youtube.com/watch?v=pZn_C1w5Pis"
-publish_date: 2026-10-11
-publish_timestamp_utc: "2026-10-11T13:35:52Z"
-duration: "6:22"
-duration_seconds: 382
-views_at_import: 3161
+video_id: "PxH2L5Q9kA4"
+url: "https://www.youtube.com/watch?v=PxH2L5Q9kA4"
+publish_date: 2026-10-17
+publish_timestamp_utc: "2026-10-17T12:54:02Z"
+duration: "4:59"
+duration_seconds: 299
+views_at_import: 3055
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1378
+word_count: 1081
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,149 +41,111 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1378 words)</summary>
+<summary>Click to expand full transcript (1081 words)</summary>
 
-Lisa Mateo is with us.
-Uh, with some of the stories we might have missed this week.
-All right, I've got. We've got our coffee.
-You're ready. You're ready.
-Right. Okay.
-You're ready for it. Um, question for you guys.
-Do you remember your first internship? And, like, how much you got paid?
-What? I got paid $0.
-Zero. So you got to.
-I got $13 an hour, and I was limited to 20 hours a week, so I worked 40, but
-they would only pay me for 20 oh oh, I got ten.
-Okay. David, you lost out.
-Um, here's the story from the Wall Street Journal.
-The race is already on for next summer's $50,000 internship from college.
-I remember when this was happening in college, I felt $50,000 internship.
-Well, young kids going into finance for the finance.
-Just going to be here to make. Yeah.
-Yes. You were not part of that, were you not?
-Okay. So look at me now.
-But I knew no finance, bro. I was in college, so, uh, they're
-already going, but it's. Yes, it's $50,000 for a ten week
-program. Okay, so that's what they're getting
-paid. But the competition is tough because
-they they're competing for base salaries when they graduate for like $300,000
-when they graduate. So this is what they're competing for.
-Guys, the acceptance rate for these internships is less than 1%.
-As a kid growing up, it's like it's like smaller.
-It's easier to get into Harvard. Yes.
-That's what they say. Exactly what they say.
-Some lie about them. They say that they're.
-You know, I'm a junior. Really?
-They're like a sophomore. Because if you're a junior, that's what
-they're they're looking for to get into there.
-Uh, but a lot of firms are starting early, like they're already looking now
-for next summer. So it's a big process.
-It's like they go out and they're scoping not just finance people, but
-they're looking at like the chess club and poker tournaments.
-People who have a different mentality want they want that.
-They want the client. Yes, they want the quants.
-Quantitative wanted you to know.
-Yes. So that's what they're looking for.
-They wanted the they weren't the student paper.
-And you know what happened for me cuz I was literally this year for TCU, the
-daily paper I was at the Daily Targum at Rutgers.
-Yeah. Right.
-Well, and now we're all, they're not not making finance.
-And here we go. All right.
-So if that didn't make you feel bad enough, here's another one from from
-interns will go to the Goldman Sachs top executives.
-Okay. What are you doing?
-I know it's making you feel great on a Sunday.
-Uh, this from Bloomberg. Goldman.
-Special bonus for top brass at to exceed $500 million per million.
-How many? You say talk about 20.
-Oh, 20. Okay, so
-this is split between about 20 people. Yes.
-Okay. It's just split my power bill into two.
-Payment. Lisa, I've got the quant over.
-You're going to do the math here? 500 million divided by 20.
-Come on. What are we looking at there?
-I don't know, what are you math, but it's not split evenly, okay?
-Because you have, you know, David Solomon could get 100 million.
-When would you know? So it's not said how it's split.
-It's not set. If that is the definite number at the
-end, it still has, you know, a few more weeks to go at this.
-But you know, a lot of companies started doing this back in 2021.
-Goldman started doing it. But what they did different is they
-started awarding more employees instead of just like the top two executives.
-Um, so that's what they started. A bigger share of the bonus here.
-The Patricia, you know, you have to retain your employees now.
-It's more competitive. That kind of interesting set firm, of
-course, was a partnership for such a long period of time and when public.
-So there's still this adjustment, you know, more than ten years hence,
-figuring out that, um, compensation structure which I
-unfamiliar to me. Yeah.
-It is, it's it's quite tricky. I've never worked anywhere with a bonus
-before. Well, so, you know, welcome to corporate
-life. I'm pretty knock on wood waiting for me.
-So I'll let you all know. Your family Christmas present will be
-dependent on this, so please, um, I'm doing my best bosses and taking that
-tool. There you go.
-We'll split it. We'll split it up.
-Um. You love a good book, right?
-I see, I know, I love a good book. You in the summer, right.
-You read on the beach or. Here we go.
-Okay, but I could read serious things, but.
-Yeah, he does. He reads on the beach when he goes, I
-know, I know, but but what if that book has been sitting on a shelf for a very
-long time, and you pick it up and you open the pages and there are some little
-critters kind of moving around there. Okay.
-This is from the New York Times. Should you put your books in the
-freezer? Okay.
-So we're talking about silverfish book lice moles.
-So grow they I o in the bathroom, Wolf. They're a tough one.
-Uh, but. Yeah,
-but it's a problem with your books because they love to kind of go inside
-the pages and kind of, you know, get in there.
-But if you put the book in a plastic sealed bag in the freezer, you keep it
-in there for, let's say, three days, six days no longer.
-Okay. This is your space.
-And she's got a mini fridge. I've got extra freezers.
-I have space for you. I go to Costco.
-All right, I'll shoot my books out to the Matteo household.
-But it's going to. It's going to prevent, um, you know,
-from the from the little insects coming in.
-They say, don't put in your garage. Don't put the books in your ads.
-Damn. If you go to, like, a secondhand store.
-Give a little sniff before you take it. Like the old book smell.
-I do buy a lot of like. Yeah, but I buy, like, very old books.
-Well, that need to be checked. And really, they can really ruin a rare
-book, but I can't. But I can't put that in the freezer
-either. The little thing will, you know, if you
-zip it, zip it in the, in the size of your freezer bag, you do can come over
-and supervise my book. Freezing.
-All right. I'm nervous about this.
-I will help you. Like, you might be like somebody might
-open your freezer. They might think you're a little off.
-If they like. It's food.
-You know, it could explain a couple things.
-All right. Uh, let's get to work to this.
-Yeah. I don't think that's what's going to
-tell the my mom there's so many larger red flags.
-But anyway, continually said, uh, remember the good old days used to ride
-your bike as a kid going around the suburbs?
-Um, well, now kids are zooming off at speeds of up to 25mph.
-Because of those. Yes.
-And the electric bikes, the e-bikes. Okay, so this one, uh, this one is, uh,
-this title is hordes of teens on e-bikes for suburbs to rewrite the road rules.
-So basically, these bikes, you know, they're responsible for a ton more
-emergency room visits, a lot of deaths. Um, the government officials are kind of
-cracking down. So in new Jersey, did you know it has
-the toughest law? It bans anyone from under the age of 15
-from using those bikes. Yeah.
-So probably yeah, I see the kids all the time zipping around.
-No helmets. Just go in willy nilly.
-Do you see this scar? This scar, this scar.
-These are all from going too fast on a bike and riding handlebars.
-Now, imagine if you were going, like. That's what I mean.
-Yeah, yeah. It's crazy.
-So. And they kind of e-bikes.
-No way. I'm worried about you have all these
-bike accidents.
+Okay.
+Let's start. Um, Tesla.
+They wrote out their long delayed Roadster sports car.
+This video has been, like, all over the place.
+Okay, so it's a prototype EV, right? It was designed with SpaceX can complete
+with these air thrusters that allowed it to flip in mid-air or, um, it form like
+this if people are very suspicious. Yes.
+And that's the thing a lot of people are saying, you know what?
+That's not real. That didn't really happen.
+Others are saying it. They just, you know, it's a move to
+bring Tesla and SpaceX together. It looks like a model.
+Are we sure this is like an actual human sized right.
+We got the Tesla truther to my right. I just think it's not really flying.
+My main takeaway is you're not going to call.
+It's going to be a flying car. It's just like falling down.
+So it falls. And then the thrust.
+Yes, the thrust kind of pick it back up so it doesn't hit the ground.
+If that's considered flying. When you bring up prospects of this
+merger and there were some comments from Elon Musk, the kind of thing that maybe
+that he did, he said it would be a great like both companies are reporting
+earnings next week too. So that's like another kind of wow
+timing for this of course. So there's I don't know it's not
+starting production until 2028. So this is a long ways off.
+And we've been waiting for this Roadster for long.
+People have put money into it like it's just not happening any time soon.
+And what is the practical application of that?
+Have you met Elon Musk? It's all right.
+You know what they're all right to say. Lisa, what else you got?
+Okay. Uh.
+All right, we'll go from Elon Musk to another billionaire.
+Okay. We'll go to, um, this one.
+Not a flying car, but involves a pint of beer.
+Okay. This is in the Wall Street Journal.
+This is Mark Zuckerberg versus the pint of Guinness.
+Okay, so let me explain. This has become a viral mean okay meme
+for our radio audience. I'm going to describe it because we're
+going to show the video. And unfortunately you're not going to be
+able to do it. So he's sitting alongside okay.
+He takes a sip of beer and it's his facial expression, this is a sip of
+Guinness. Okay.
+So he's sitting alongside another media executive there at this Cheeky Point
+podcast or sitting in a pub, he goes to sip the beer and just his face.
+You don't just the color. He's like, yeah.
+He's like seeing it as he looks like he's consuming battery acid.
+And it's awkward, right? It's very awkward.
+But the thing is, is that, I mean, I'm not a Guinness fan, so I like it's
+weird, but he actually liked it. Like, he drank a cup and a half of this
+and a half. He came with the whole keg with it, you
+know, straight from the country, like Ireland.
+Yeah, he came with it straight from there.
+So apparently he likes it. He did, um, send a tweet and he said,
+you know what? That's just my face.
+This is facing Smyth. Yeah.
+You choose my fan. And I've sent a tweet like that.
+I've seen that expression to our bosses twice this week.
+That's just my face. So you know what, Mark?
+I'm gonna give him? You can go with this.
+And it's stout. Too good to let him have that happen.
+All right, um, so, Zuckerberg, you know, he's got a lot of money he doesn't need,
+uh, you know, to worry about retirement. But there's a lot of people who do.
+They're worried that they're going to run without that.
+I'm trying to work, and I work, and I work it.
+Yeah. This one's from Ben.
+Okay, here's a headline U.S. retirees are putting off fun.
+To protect their savings. They're not doing the fun things.
+Okay, so more than 6 in 10 retirees with investable assets of five, 10,000 or
+more. This is from a study they said they
+don't feel comfortable spending for enjoyment like they're worried.
+And more than half of them said that their biggest retirement concern is
+running out of money before they die. I mean, it's a viable concern
+considering costs are rising, right? Particularly health care, things like
+that. People are living longer.
+Um, so and security, social security benefits might be cut by Twitter really
+channeling Tom Kane on the big money right now.
+This is the instant this is this week. So we got money.
+We're getting older. Costs more.
+And is Social Security going to be there?
+That is the question. So there is the thing like not to not to
+bum us out. But life is only so long sometimes you
+just got to take the trip. My grandfather waited forever to take
+this trip to Ireland and he got sick and he never got to go.
+So like, if there's something you really want to do to me, like, don't go crazy,
+but life is short. Spend a little bit of money.
+Go do at least the fun thing. Have they don't have the Guinness.
+I'm sorry. Lisa, what are you getting?
+One more. This is a quick one because I know
+Christina loves a good. I worry that scares me.
+You guys have fun. Here you go.
+Well, the Washington Post scientists are finding I may make us remember things
+that never happened. Okay, see the mandala here?
+Here, here's what it is. Okay, so there was a group of people,
+right? They were showed photographs, a wedding,
+a city street, a race. After the break, what?
+Half of the group saw the same picture, but another group saw I altered
+versions. Okay, so some were like facial
+expressions change, climate change added.
+So the memory test afterwards showed that more people remembered, you know,
+the things that were fake instead of the things that were real.
+So I don't know. It's just going to show you.
+That is the question. David.
+Gareth, are you. That is the question.
+I love to wade into these existential. We do not have the bandwidth, that level
+of deep thought, a conversation here, this reality, this reality is testing,
+you know, okay, this is this is my real. Is any of this real?
 
 </details>

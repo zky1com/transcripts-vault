@@ -3,17 +3,17 @@ title: "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "eamuNzDkU-A"
-url: "https://www.youtube.com/watch?v=eamuNzDkU-A"
-publish_date: 2026-10-10
-publish_timestamp_utc: "2026-10-10T17:20:12Z"
-duration: "6:40"
-duration_seconds: 400
-views_at_import: 598
+video_id: "sGiLuwJErTo"
+url: "https://www.youtube.com/watch?v=sGiLuwJErTo"
+publish_date: 2026-10-17
+publish_timestamp_utc: "2026-10-17T14:37:48Z"
+duration: "6:19"
+duration_seconds: 379
+views_at_import: 3177
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1233
+word_count: 1200
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,152 +41,139 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1233 words)</summary>
+<summary>Click to expand full transcript (1200 words)</summary>
 
-It's time, you know.
-It's it's you. My name's
-blown by. So has the show.
-And lo, it is time for my favorite part of the show.
-You know, this used to not be your favorite part of the show, and then you
-started beating me routinely, and that I was resistant to this whole thing.
-And then I realized how much gratification I get out of winning week
-after week. And it's become essentially, it's at
-home. He's being genuine.
-Like he gets actually excited and skips this like he's me.
-To lift into Sunday's show, I feel like a little kid hopping out of here.
-Uh, yeah. At least on it.
-It did happen. My step.
-The point of news quiz. Let's get to it.
-Yes, I hope I beat you. You're going to do it.
-You're going to do it. Everybody play along at home, please.
-All right. And help out.
-Give Christina the vibes. Okay.
-So here's how it works. Let's see your penny.
-555 uh, three categories. Right.
-I'm going to give those to you in a second.
-You guys have your 30 chips in front of you.
-Place your bets after I announce some category.
-We'll see what you guys think about each one.
-And then you write your answers on the whiteboard, and you'll flip them, and
-we'll get right to it. All right.
-Let's start with the categories. Protest.
-Three of them. Yes.
-The three categories. First is protest okay.
-Second category is technology. And third category is investigations.
-Right. So how are we feeling on protest.
-Feels good on protest okay. Yeah.
-If you're less good on the one I guess she's not going to do anything out of
-the ordinary. Just ten, ten, ten.
-Fine. You know what?
-They're very good protest.
-Anything well, you both doubled up on. Yeah, I did okay.
-Okay. You have none on technology, Christina.
-Right. And on investing.
-David I've got none on invest. Investigate investigations.
-Okay. Let's see.
-Here we go. Had the right strategy.
-Let's get underway. Let's get to protests.
-Since you both doubled up. Okay, I feel like I'm going to get some
-chips on my plate here. Spanish Prime Minister Pedro said.
-I know there's gonna be France. Uh, okay.
-He called for a snap election after parliament rejected legislation.
-For which issue? So this was in Spain.
-There were protests there. For what?
-What were people protesting about? Um.
-Do you remember? You don't listen to my news.
-I always supports housing. Affordable housing?
-Yes. You both get it right.
-Ding ding ding. Oh, I'm so excited, you guys.
-All right, so you both keep those. So we're in good shape.
-We're in great shape and so well. We're doing so well.
-I'm so excited for this. Okay, uh, we'll move on to technology.
-Christina, you got nothing on this. David.
-You got ten, right? Interesting.
-So we'll see how you do. How he does.
-Okay. Jungian transition.
-All this is going well. All right.
-Is expected to list in Hong Kong. The tech company produces more than half
-of Africa's. What?
-Oh, I do know this one. Yes, I know I do.
-I just could never pronounce it. Jin Jin Jin's in Shenzhen.
-No. Should.
-Shenzhen is right now. It's the CDC, I think, to find, uh,
-direct messages are open on the cell phones.
-Oh, you guys are on a roll. Democracy.
-But you reap no reward for that. Oh, that's okay.
-That's because I got bullied into it. By way.
-David, girl. Well, now I've got 30 chips and no risk
-of losing anything. Right, Lisa?
-But it's actually known as the King of Africa.
-Yeah, it's the bell pan. I didn't know that.
-I thought it was going to be Huawei and it wasn't.
-Yeah, there's a very interesting piece on the terminal about it, too, um, which
-I found fascinating, but yes. Jinja.
-Um, investigations. This could be the determining factor.
-Could be. Okay.
-We'll see. Two factor.
-Japan's FTC is investigating several major beer makers.
-For what? Suspected financial violation.
-What was it? Oh, she is right in fast.
-David. Gary, you are slow to the pin.
-What is going on? I don't really have to worry.
-I could write a novel. I'll repeat the question for the people
-in the please. Because I really.
-When I'm writing a long answer. Japan's FTC is investigating several
-major beer makers. For what?
-Suspected financial violation. What is this?
-Intellectual property theft? Oh my goodness.
-It was like, ooh, price fixing. Like when I was like fixing.
-Oh, it's a tie. It is a Tina.
-It is a tie. But do you know what we do have?
-Beers was one that I liked. That's why I remember.
-What is. Yeah.
-What's the beer that you like? Uh, as I said.
-And boom, whichever one that is that I. Whenever you're at a good a good
-Japanese restaurant. Yeah, I see Japanese puro Sapporo is.
-Yeah. Hearing is good too.
-Yeah. That's right.
-It was a. I do have to give it to God.
-I was supposed to bring Amato in this week to do the failing across the wind
-Grove, Cesar and I. So we have a bonus.
-Bonus round. It's all coming on.
-The bonus. We can't.
-Another time. I guess.
-What happens with bonus if you just. It's.
-It's for bragging rights. Bragging rights?
-Here we go. It's so that I can depress David's
-currency is the category. Oh, was the David.
-Oh, this is a good one. Guys, I know you heard this story.
-Two four animals will soon be replacing historical figures on UK banknotes.
-Yes. Just name one of them.
-Uh, for me. One
-where you guys draw a picture. But they're, like random.
-They're not the ones that. Yes.
-So they're replacing the historical figures on UK banknotes.
-I wrote a koala because I think everyone loves a koala.
-That was a good guess. I think it's me.
-Um, well. to find work if I know.
-Oh, wow. We really have exhausted the cute
-animals list. The puffin.
-I mean, it's the owl, the puffin, the bee
-and the hedgehog. Well, I think, I mean, I don't know.
-Are those not the same? I don't, I don't know.
-And I think we're going to find out here.
-We're going to fact check that quickly. I guess a groundhog joins.
-Are not hedgehogs really. That's like oh no, I remember this.
-No, I don't think so. I know Director Tim is saying, is there
-anything to see? Uh, well, I'm right in.
-We are right in. But I think we're just going to leave it
-at a tie because the head the porcupine has him, like, I think there's there's
-are out. Oh, I'm sorry, naturalist Lisa Mateo,
-please explain to me the difference in the quills for porcupines and hedgehogs.
-Porcupines are like, yeah, so it's a dog.
-It's like, it's got it. All right, there they are.
-Oh, that's right, they are the big ones, aren't they?
-Right. Oh, right.
-You can plan it. Oh my gosh.
-You can test your knowledge on all ten questions as these two continue to do.
-Can I go please. And this was a Bloomberg.com slash
-pointed also available on the Bloomberg Business app.
+The point of news quiz we tied last
+week. I almost had you this.
+This could be my chance. Lisa Mateo refuses to let me cheat.
+I think it's a betrayal of our sisterly bond here on the show.
+Kate, you've discussed the prospect of cheating.
+I mean openly in front of you. Many times.
+I say, Lisa, give right here and she won't do it.
+But that's pretty much the extent of it, because I kind of exist until it comes
+up every week and I will call for an outside audit if the need arises.
+You are literally winning. If I was cheating, I would be better at
+it. Thank you for that reminder.
+I'm Lisa. Lisa.
+Great to see you. Let me save you.
+Okay, so I like you guys when we started this show.
+All right. What tortured you?
+Let's let's do the rules first, okay? The rules.
+Because we don't want any cheating, right?
+Okay, so you each have your category of chips in front of you.
+30 chips. We have three categories.
+I'm going to start with each category. And you guys place your bets.
+You write your answers on the whiteboard and then you flip them and we see if
+you've got it. It's as simple as that.
+That's simple. It isn't.
+Except it is not multiple choice. And you have to go off the top of your
+head for the answers. Uh, let's start with the category.
+Yes. Let's do that first.
+Okay. So you can place your bets.
+First category is food and beverage. Retail categories do very well often
+every day. Like it?
+He loves his beverages. Cartels is the second one and Smart
+Homes is category number three, I remember.
+So on one of these I think about the stories that happened to the others.
+All right, I'm just going to do 1010 and let's just get you.
+Oh and then not what are you doing? Not cartels and you're doubling up on I
+have to put all ten on this. Yes.
+You do like math. It's early.
+Math has to be easy. Okay.
+All right. You're putting doubling up on smart.
+No cards, no cartels. All right.
+Food and beverage. Food and beverage.
+All right. You both have ten to remember.
+Here we go. Beverage story okay.
+This is a government. Starbucks issued a statement on October
+12th that it would not buy with fast casual restaurant.
+I know you guys have this because you are writing Fast and Furious two.
+What is the name of that fast casual restaurant that Starbucks said?
+We are not good. This is not a good illustration.
+I was going to try to draw a burrito. Oh, that's just not going well.
+She gave a hint. Okay, I know, Where do you get to
+personally? Yeah, Chipotle is my grandma.
+Chip-at-all. All Chipotle.
+Yeah, yeah. Brian Nicole used to run Chipotle.
+So it kind of you know was it just that people were assuming that or everyone
+loves a burrito and if you know, you know, a pumpkin spice burrito.
+Oh hello. Can I be excused?
+Meg in the Cranmer bathroom. I'm gonna keep my chips.
+Okay, I might as well let us call ourselves off to a good start, guys.
+And I guess is the rest. This is the rest I got.
+This is a dude. Here we go.
+Here on cartels. Okay.
+All right. The Philippines antitrust watchdog said
+it's imposing a record fine on a cartel engaging in a scheme containing which
+vegetable. I did read this one.
+That's I need. Yeah, totally missed this.
+I did, because I still don't understand the
+scheme, but I remember what the vegetable was, so maybe you could
+explain the scheme. Oh, I don't know about that exact
+question again. The Philippines antitrust watchdog, said
+it's imposing a record for evaluating Patel, engaging in a scheme containing
+witch vegetable. Okay, come on, pick a vegetable.
+I said potato. Yeah.
+Onions. Right.
+Onions, Christine. All right.
+Okay. So what it was like to do with something
+else, and somehow the onions were involved.
+So back in 2022, okay, it increased the price of the vegetable, making it three
+times the price of chicken, 25% higher than the cost of beef.
+And we all know beef can be expensive. So yeah, it was not.
+There's a couple of words in here that I cannot pronounce.
+So we've. Okay so we're gonna move on.
+I love that. So we're gonna see um, I don't know what
+this one is, so. All right.
+Smart home. Smart home.
+See what this might be. All right, let's see how we're doing.
+Here we go. Apple.
+It announced a push to into smart home devices, including a partnership with
+which company to design doorbell, thermostat and other accessories.
+So which company did Apple partner with to do this?
+This was a big story. Let's see if you guys get it.
+David is doubling up for a Samsung. Oh, no.
+David Gura, what do you have? G l g yes.
+Wow. The other Korean conglomerate.
+Oh, look at that. We didn't even have to cheat.
+I mean, I'm going to take this big. No, you don't take them.
+You give them to her. Well, yeah, but you get to take them
+while you pass them over. So I want to duplicate your process
+here. Oh, look at that.
+Giving them to Lisa. Uh, do you think.
+Look at that. Wow.
+That was like a dude. You doubled up on that one.
+I did right now, but then I crossed it out.
+You did okay. See, it was a smart move.
+But smart, huh? You have a chance to win back these
+chips. I mean, the bonus.
+Yeah. Let's try it.
+David, go get ready. Sports.
+Oh, God. You guys proved my prowess on this
+front. Oh,
+I got this one. You can't just let me have this.
+Christina, I don't make the questions, okay?
+No, but I feel like you're going to get this one.
+Okay? Ready for making eye contact.
+You're going to get this. You're going to get this.
+All right? Okay, okay.
+Listen closely. Moola kicks Itis, sports, Sash and RecA
+are all brands of a set of shoes that cater to specifically, which group of
+customers. Who are these shoes catering to them?
+Oh yes, I wrote golfers. No.
+What do you say, Christy? It's women.
+Yes. Now we're going to bring that one too.
+After. So we're gonna go through Kristina's
+history and see if she's played the point of News quiz for the week.
+I. I find this eerily anomalous.
+Sports question. Ever.
+It's a fashion question for me right now, but it's time.
+Well, for you. I really appreciated that, Li said.
+It's good to stay humble. You do.
+And stay hungry. As well as a loan to Christina Ricci.
+Yeah, she got the chicken up. And at this stack of today, you can test
+your knowledge on all ten questions. You can take the morning news quiz at
+Bloomberg Commodities Edge. Find it on the Bloomberg Business app.
+Thank you very much.
 
 </details>
