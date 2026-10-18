@@ -1,11 +1,29 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-17T20:09:57Z
-Date range: 2017-10-25 -> 2026-10-17
+Generated at (UTC): 2026-10-18T20:08:00Z
+Date range: 2017-10-25 -> 2026-10-18
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-18 | 01_Videos/Bloomberg Television/Why Globalization Is Getting Harder to Navigate.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Trump Faces GOP Backlash Over Russia Sanctions.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Starshield Dispute Exposes US Ukraine Divide.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Senate Control Moves Toward a Toss-Up.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Riots in France, US Ukraine Disagree on Starshield, Watching Wall Street.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Rethinking America’s Faith in Innovation.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Rep. Veasey Calls for Scrutiny of Trump Russia Ties.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Rep. Pappas Says New Hampshire Race Is Not in the Bag.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Pope Leo Looks Ahead After Cancer Surgery.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/OpenAI Arrest Raises AI Espionage Concerns.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Inside Trinity Rodman’s Record-Breaking Payday.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Inside Andreessen’s Growing Political Influence.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/France Faces Unrest Over Rising Living Costs.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Chicago Tops Travelers’ Favorite US Cities.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Can America Rebuild Trust With Its Allies.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
+- 2026-10-18 | 01_Videos/Bloomberg Television/AI Debt Boom Faces Bond Market Reality Check.md
 - 2026-10-17 | 01_Videos/Bloomberg Television/Why China Is Racing to Build the Ultimate Robotic Hand.md
 - 2026-10-17 | 01_Videos/Bloomberg Television/Trump Puts New Russia Sanctions on Hold.md
 - 2026-10-17 | 01_Videos/Bloomberg Television/The EV Bust Creating a New Battery Boom.md
@@ -16,7 +34,6 @@ Date range: 2017-10-25 -> 2026-10-17
 - 2026-10-17 | 01_Videos/Bloomberg Television/Global Aid Cuts Deepen Humanitarian Strain.md
 - 2026-10-17 | 01_Videos/Bloomberg Television/Freeland Warns US Alliances Are Fraying.md
 - 2026-10-17 | 01_Videos/Bloomberg Television/Can the Fed Fight Inflation Without Hurting Farmers.md
-- 2026-10-17 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
 - 2026-10-17 | 01_Videos/Bloomberg Television/AI Selloff Tests Investor Confidence.md
 - 2026-10-17 | 01_Videos/Bloomberg Television/AI Debt Concerns, Russia Sanctions Waived, Making 'GTA VI'.md
 - 2026-10-16 | 01_Videos/Bloomberg Television/Zacharia Out as Trump's White House Press Secretary.md
