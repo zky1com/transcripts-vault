@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-10-18T20:08:00Z
-Date range: 2017-10-25 -> 2026-10-18
+Generated at (UTC): 2026-10-19T20:14:17Z
+Date range: 2017-10-25 -> 2026-10-19
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-10-19 | 01_Videos/Bloomberg Television/Zelenskyy Says Trump Pushing Ukraine to Yield to Russia.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Zelenskyy Says Trump Pushing Ukraine to Surrender, France Reels From Violence.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Warren Buffett’s $150 Billion Legacy Falls to His Children.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Violence Rocks France as Protests Flare Across Europe.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/US Stocks Rebound Ahead of Earnings; Zelenskyy Says Trump Pushing Kyiv to Yield.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Trump Accounts, Bonds Barometer, ‘Dividend Nomads’.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/TGI Fridays CEO on Company Turnaround, Expansion Plans.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Saudi Arabia Intercepts Drone Waves, Trump Says Riyadh Welcomes US and Israeli Support.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Open Interest 10192026.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Market Stress Mostly Driven by Technicals, Says HSBC’s Kettner.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Market Rightfully Lowering ECB Hike Expectations, Says Morgan Stanley’s Sheets.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Indonesia Selloff Deepens as Emerging-Market Status Comes Under Threat.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/How Apple Helped Build China’s Tech Power.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Germany's Merz Says Russia's Push to Destabilize Europe Is Underestimated.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/French Violence Raises Alert, Zelenskyy Says Trump Is Pushing Ukraine to Yield.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/France Riots Over Cost of Living as Macron Urges Calm.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/France PM Calls Crisis Meeting After Weekend Riots.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Fed Could Raise Rates in October, Says Bhave.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Europe Should Release More Diesel Fuel From Its Stockpiles, Says US Energy Secretary Wright.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/David Rubenstein on New Book, “Speaking of America”.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/China's Growth Rebounds While Home-Price Slump Eases.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/China On Track To Meet GDP Goal as Support Moves Kick In.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 10192026.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Asian Chip Stocks Extend Losses.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Anti-AI Trade Drives Buyers Into Bonds Market Analysis.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/Anthropic May Put Some Shares in 'Public Good' Fund.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/AI Will Empower India's Space Missions, Says Minister.md
+- 2026-10-19 | 01_Videos/Bloomberg Television/AI Selloff Nears Turning Point as Mag 7 Earnings Loom.md
 - 2026-10-18 | 01_Videos/Bloomberg Television/Why Globalization Is Getting Harder to Navigate.md
 - 2026-10-18 | 01_Videos/Bloomberg Television/Trump Faces GOP Backlash Over Russia Sanctions.md
 - 2026-10-18 | 01_Videos/Bloomberg Television/Starshield Dispute Exposes US Ukraine Divide.md

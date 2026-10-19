@@ -1,0 +1,48 @@
+---
+title: "Why I Don't Own Rocket Lab Stock! Analysis & Upside"
+people_mentioned: []
+channel: "The Patient Investor"
+channel_id: "UCowj3bHIz47dMIe8n37qTlw"
+video_id: "O1xXhYEiclI"
+url: "https://www.youtube.com/watch?v=O1xXhYEiclI"
+publish_date: 2026-10-19
+publish_timestamp_utc: "2026-10-19T18:48:31Z"
+duration: "10:00"
+duration_seconds: 600
+views_at_import: 365
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1607
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1607 words)</summary>
+
+Many of you are asking me for an update on Rocket Lab. Rocket Lab is down 33% year-to-date. The stock peaked about $150 per share. Since then, the stock is down 66% from its all-time high. Absolutely crazy. I also did a video on ASTS SpaceMobile when it was like 10 or $15. So, I'm going to be talking about this one again, but this one is mainly on Rocket Lab. I'm mainly going to focus on the valuation. But, Rocket Lab is now an integrated space powerhouse, you could say. They're in launch, they're in spacecraft, and they're also in space application. In terms of launch, they have two rockets. The flagship one is the Electron rocket. The Electron rocket is a lightweight rocket, you could say, designed for lighter-weight applications, like small satellite launches, Earth observations, and just really light applications in general. They're really the best in this area, a little bit better than SpaceX, say. And it's not a reusable rocket, which is why the company is coming up with Neutron. Neutron competes a little bit more with SpaceX, you could say, cuz it's a much heavier rocket. It's a reusable rocket, and it's also designed for more practicable, and you could say, heavier applications in general, like deploying satellite constellations, and and large national security stuff, and they could be winning a lot of contracts potentially with Neutron. And it could be an alternative to the monopoly SpaceX has in space. Now, Neutron's first flight target is 2027. This is one reason why the stock keeps on going down, cuz they keep on delaying the launch. I think it was supposed to be like mid-2026, then it was late 2026. Well, now it's 2027. So, hopefully it doesn't get delayed again, but this is really affecting the sentiment around the stock and its potential future growth for the company. Now the company in terms of space launch, they have a huge backlog, $437 million with 26 new launches booked for 2026-2027. Space systems or I I should say launches in general is about 40% of the overall backlog and 60% is in space systems. In space systems, this is a very interesting business model in my opinion. It has been growing much faster than total than launch revenues. Launch here in the blue has been growing a little bit, but space systems has been growing like crazy, especially over the last few quarters. It's a much higher margin business than launching. Launching is typically a more competitive, lower margin business. They won a contract from the Space Force, a $160 million contract. Pretty amazing. Now one reason why I like Rocket Lab so much is because they're investing a lot outside the United States. So the United States has SpaceX, Europe has nothing so far, and other nations have nothing. So the company is investing in those areas. They have Rocket Lab Germany, where they're doing things for Europe like, you know, manufacturing satellites and things in space and then and you know, strategic autonomy and space sovereignty and you know, they're investing a lot in Europe. This is good to see. This is a niche where they could potentially win as Europe needs their own version of SpaceX, you could say, and maybe Rocket Lab could somewhat come in to fill in the void. Now very recently the company has acquired another company called Iridium. Iridium has 63 satellites in orbit. The company is generating $871 million revenue. I believe they overpaid a little bit for the acquisition, but I remember the stock went up on the news because that could somewhat enhance their competitive position against SpaceX Starlink, although it's not a direct competitor, but you know, it would help the company's space systems in general and it would get the company into a higher margin. They have 57% EBITDA margin. So, it could get the company in higher margin segment. Uh the company's been killing it. They're growing 62% revenues and 16.8% quarter over quarter. Uh the company is still unprofitable on a free cash flow basis, on an EBITDA basis, and on an a GAAP earnings per share basis. It's still unprofitable, but the company is expected to be profitable in 2027 with 6 cents of earnings per share and to skyrocket to 26 cents of earnings per share by 2028. So, the company was losing a lot of money, is getting better, and they should be profitable as soon as next year. Now, my main problem with Rocket Lab and reason why I avoided Rocket Lab is because of the valuation. I could not make sense of the valuation. Rocket Lab was trading as high as 94 times forward sales, not trailing sales, not earnings. This is sales. 94 times forward sales for Rocket Lab. Right now, it's still trading at 29 times forward sales despite the stock down 63 66% from its all-time high. Now, if you compare it to SpaceX, SpaceX is trading at 22 times sales. Rocket Lab is trading at 29 times sales. So, Rocket Lab is more expensive than SpaceX. This is absolutely crazy to see. Now, maybe it's more expensive because Rocket Lab is growing faster than SpaceX, but this is not the case. Uh in 2025, SpaceX or 2026, SpaceX is expected to grow 142% in revenues, Rocket Lab 60%. Next year, SpaceX is expected to grow 158% revenues, Rocket Lab is expected to grow 39%. In 2028, SpaceX is expected to grow 71%, Rocket Lab two to three times faster than Rocket Lab, and it's trading cheaper than Rocket Lab. That makes no sense. I think Rocket Lab had a major premium because it was the only you could say I would say is the best space stock available to bet on space in general. But then SpaceX went public, I believe that would warrant a lower multiple for Rocket Lab because now you have an alternative to bet on space, which is SpaceX. I think that's what's happening here, and that's one reason why the multiple of Rocket Lab is going down, and I don't see a reason why Rocket Lab should be trading at a higher multiples than SpaceX. And by the way, I'm using fiscal.ai to come up with all those charts. If you want to try it out, they give you 15% off if you want to use the link in the description. But in terms of my valuation model on Rocket Lab, analysts are expecting 59% this year, 40% next year, 32% the year after. I personally believe this is fair. If this is comes up to be true, they would get 1.7 billion in total revenues by 2028. I took this number for 2028, and then for the next 3 years for 2031, which is a 5-year target, I put in 30% revenue growth for following 3 years, which I also believe is fair. I got 3.8 billion dollars in revenues for 2031, which is 5 years from now. So, if I use 3.8 billion for a 2031 valuation, I use 10 times sales and 20 times sales. Now, I've personally never pay more than 10 times sales for any growth stock whatsoever unless it's something special. But if you're paying more than 10 times sales, you're most likely going to lose money because there's a lot of expectations priced in the company. But so if we use 10 times sales, using 3.8 billion revenue, we get 38 billion market cap. This is only 24% on the upside over the next 5 years or $63 per share. Now if we use 20 times sales, which is the best case scenario, then we would get 149% on the upside or $126 per share. And to be honest with you guys, 149% upside is not bad, but it's not even enough for me to take risks on a company like Rocket Lab, on a growth stock. Like when I'm buying a growth stock, I want three, four, five X over the next five, six, seven years. Now even on 20 times sales, I'm not even getting three or four X, maybe two X, two and a half X. So I'm not seeing a good risk-to-reward setup, you could say. If I want to double my money on the worst-case scenario with Rocket Lab, which 10 times sales is the worst-case scenario, could be lower, but let's assume it was, I would have to buy Rocket Lab at about $30 per share. If the five-year target is 63, I would have to buy it at around $30 per share. I don't know if Rocket Lab will ever get there, but I have a price target of $35 per share. If it gets to $35 or below, I would say that I'm getting at least a double on the worst-case scenario. I would say it's too cheap to ignore, and I would see it as an amazing opportunity. But based on the valuation today, Rocket Lab again is a good stock, could surprise to the upside, could grow faster, but this is not a bet that I'm willing to take personally. I'm happy to miss out on the space sector in general, but if we do get $35 or under $40 at least, then it would get interesting, but at the current valuation, I think there's better opportunities elsewhere. And that's my opinion on Rocket Lab. Hope you enjoyed it. It was not financial advice. If you did enjoy it, please press the like button, and maybe consider subscribing. So, I'll talk to you in another video.
+
+</details>

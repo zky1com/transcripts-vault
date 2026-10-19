@@ -1,0 +1,48 @@
+---
+title: "The #1 AI Payments Stock Isn’t Visa or Mastercard"
+people_mentioned: []
+channel: "Brian Stoffel"
+channel_id: "UCEhigSJQgvj9ADwYRYLkapA"
+video_id: "9pewwl2MPLc"
+url: "https://www.youtube.com/watch?v=9pewwl2MPLc"
+publish_date: 2026-10-19
+publish_timestamp_utc: "2026-10-19T19:04:04Z"
+duration: "8:55"
+duration_seconds: 535
+views_at_import: 280
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1588
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1588 words)</summary>
+
+On September 8th, Meta launched Muse, a agent that could do anything for you, like shop for you, book your travel, buy that thing that you were waiting to get at the store. And not long thereafter, Microsoft refreshed its autopilot and Open AI even launched its Dots agent. So, how is this going to change the landscape of ecommerce? Well, in this video, I'm going to show you three companies that I think could really stand to benefit, including number one, which might be a surprise. Now, previously I've talked about how a Aentic AI is really changing the landscape in today's business world. I talked about how there are some companies that really count on you signing up for their product and then forgetting to cancel because the prices are so low, but agents are going to cancel those stocks. And other companies where ads are displayed in a way that really isn't engaging to you, the user. It's just your eyeballs happen to be there. And Agentic AI is going to hurt those companies, too. So, we've covered the losers, but today we're going to cover the winners. And this all kind of kicked off with Muse, which had 2.5 million downloads in its first 13 days alone. Now, the bottom line behind all of this is that agents skip steps in navigating the internet, in buying products, in going about their daily business that people usually cannot skip. They scroll past ads, which is why those ad companies stand to lose. They compare prices across platforms, which is why your instinctual behavior to go to a certain platform is no longer a differentiator. They no longer wait to cancel. They can cancel right away. And so those skip steps are earning nothing. The companies that really counted on human beings being human beings are put at risk. But there is one and actually there's a couple but for today's video there's one step that cannot be skipped and that is moving the money transferring the money from you to the merchant from whom you are purchasing something. So if there is a company that stores the card proves that it has permission to execute a purchase that can send the payment and that can fix the mistakes those are not going to be cut out of the pie. And in fact, as you'll see in a minute, they stand to benefit from Agentic AI because every purchase already, whether they say Aentic AI or not, every purchase for some of these companies, they pay a fee. And a company collects a fee for every single transaction that happens. But in the past, friction killed sales. And that frictionkilling sales stopped merchants from earning a lot. And because merchants use certain payment processors, it's not payment processors for earning a lot. Believe it or not, several studies have shown that seven in 10 carts that get things put in it. And by carts, I mean on the internet, not in your cart when you're walking around the grocery store, but seven and 10 get abandoned. You put things in there, but you never come back. You never purchase them. And Agentic AI can change that because agents can finish the purchase. Now, will there be puts and takes in there? Will agents all of a sudden buy more than they should? Yes, absolutely. But by and large, on the whole, agents show that there is an ability to actually have a further carry through and actually not abandoning those carts. Now, Adobe Analytics actually did a study where they found that with Agentic AI, there is 54% better conversion with AI traffic on merchants websites. and Amazon's Rufus actually oneuped it. They said that when people use Rufus, there is a 60% increase in conversion in those abandoned carts. So, that is good news. There's no magic here. It's not like there's some extra fee that's being paid. It is simply that there are certain companies that don't get cut out of the process with Agentic AI and might have more business coming to them because the agents complete the purchases. More purchases, same fees, more revenue. Now, these results are not yet in the numbers, and that's important to understand, but I believe there's three companies that stand to gain the most. The first two won't be any surprise. The third one might be. And starting out at number three is Mastercard. No surprise here. They built Agent Pay. They have a standin for your credit card number, so it's not out there floating around the web. And they are a trusted source to help complete these purchases. And they are paid, as they always are, on every purchase. The bull case is that agents grow card use everywhere. The base case, which is still pretty good, is that there's steady growth and maybe just a small lift from agentic AI. I don't think we have to worry too much about the bare case, but we do need to acknowledge it, which is that agent fees, if Muse layers on fees on top, merchants push back and perhaps squeeze Mastercard. Though again, I don't see that happening, that could lower their margins, lower their take rate on each one. Number two again is no surprise and that is Visa. They've built intelligent commerce and really they win whichever agent wins. Whether it's Muse, whether it's autopilot, whether it's Dots, Visa can win because they have the ability to collect on every purchase. So again, the bull base and bear is very much the same where agents purchase runs on Visa. That's the bull case. The base case is that there's only a small lift. And the bare case is that agents figure out a way to pay another way. But again, I'm not too worried about that. But you might be surprised by the company that I think stands to gain the most from Agentic AI Shopping. Now, before I get to that, I want to let you know that if you enjoy presentations like this, you would love my investing program. Stock Investing Mentor has three pillars. You get live real-time access to my portfolio. You get access to the anti-fragile stock universe where every stock is ranked according to their anti-fragile score. And this is the one that people sleep on. You get access to one hour of every week live weekly training and 247 access to a private online investing community. David here just joined SIM and he said he was genu genuinely impressed with the breadth and depth of those one-hour live weekly sessions. He wished this existed 10 to 15 years ago. And look, if you join now, you get a 100 plus hours of learning material that's targeted towards beginner and intermediate investors. And you can apply the topics all over the market. And if you sign up using the top link in the show notes below, you can get Stock Simplifier Pro $400 value included for free. So top link in the show notes below for 10% off. But one other thing that I want to add in there is David was super impressed with the lessons. So, if you click the second link in the show notes below, you can see the lesson that we gave many months ago explaining why the chaos that's happening in the AI market right now, especially with Neoclouds, is happening. Go check that out to see what those live sessions are like. All right, the number one stock that really could benefit the most from Aentic AI shopping is Shopify. Now, look, Shopify has millions and millions of merchants that are on their platform selling things. There are large merchants, but there's millions of smaller merchants. And agents are going to find these merchants better because they aren't habituated to just visiting Walmart.com or Amazon.com. And Shopify Pay does hold the saved card. And if seven and 10 of those carts are abandoned, it is the exact type of merchants that Shopify caters to that could have the most uplift from those abandoned carts actually not being abandoned and having those purchases completed. The checkout is moved to the merchances. And so the bullcase is very clear that those recovered carts, seven and 10, if they even get three out of those seven or two out of those seven, that is a massive uplift for Shopify. its merchants and its merchant solutions uh revenue. So the bull case is that they are able to recover them. The base case is just that agent orders add slowly although the data so far says that that's not the case that it's actually adding quite a bit. The bare case is that agent favor Amazon's fast delivery and that could be the case but remember this is an ecosystem that is already strong already proven and the fact of the matter is that they're not going to be visiting Amazon habitually the same way that humans do. Remember agents change who's shopping and they make it more efficient which favors those smaller merchants and Shopify caters to those merchants more than anyone else. So, that's the number one company that I think could benefit in the payment space from Aentic AI. Let me know what you think in the comments section below. Don't forget to hit subscribe and that top link will get you 10% off Stock Investing Mentor. Until next time, Brian
+
+</details>
