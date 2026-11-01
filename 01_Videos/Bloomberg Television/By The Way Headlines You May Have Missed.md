@@ -3,17 +3,17 @@ title: "By The Way: Headlines You May Have Missed"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "DVlgK0Fr14g"
-url: "https://www.youtube.com/watch?v=DVlgK0Fr14g"
-publish_date: 2026-10-18
-publish_timestamp_utc: "2026-10-18T12:35:25Z"
-duration: "6:36"
-duration_seconds: 396
-views_at_import: 2798
+video_id: "6bKLf0yc8pU"
+url: "https://www.youtube.com/watch?v=6bKLf0yc8pU"
+publish_date: 2026-10-24
+publish_timestamp_utc: "2026-10-24T13:39:03Z"
+duration: "6:39"
+duration_seconds: 399
+views_at_import: 3667
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1466
+word_count: 1469
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,150 +41,92 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1466 words)</summary>
+<summary>Click to expand full transcript (1469 words)</summary>
 
-Welcome back to Bloomberg this weekend
-I'm David Drew with Christina Ruffini. Well, as we all know it, I was excited
-to have the read so I could shake my flag here.
-But by the way Bloomberg this weekend stories you may have missed.
-Lisa Mateo, get us up to speed. Where'd you go?
-Well, I will, okay. What are you got on your feet there,
-David? Okay.
-Shoes or. Okay.
-You have your shoe, guy. I am a shoe.
-Okay, so I do not have Birkenstocks. I used to wear them on heels.
-I think they should have a price tag on me.
-This has to do with the shoes. Okay, so this is from Bloomberg.
-The sneaker bubble is bursting around investors.
-So remember how people used to wear the sneakers with the suits and the, you
-know, that kind of thing. And it was the fun and the you know,
-you've tried it. I've know I've seen you.
-That's why I was checking to see what are their feet with jeans though.
-Yeah, I mean, I if I'm coming into work sometimes I'll put them on with the
-suit. But yeah I don't I do it, I don't do it
-to kind of cool. Hakeem Jeffries it's not cool to do it
-anymore. It's the minority leader okay.
-Yes. The Nike Air Jordans that people use to
-wear. This is no no longer they are out.
-They are out. Um, people still like to wear sneakers
-for sports, but who's doing well? Steve Madden, Birkenstock heels, things
-like that. Because you know what's in now?
-The low for the loafer. The loafer is making a comeback I'm
-after. I've seen them all in the diner on the
-racks. I'm actually tempted to get a pair of my
-men and women for men and for women. So that is the new thing.
-Um, apparel is changing, too. Like, remember, it was athleisure.
-Be comfortable. Athleisure is not doing well.
-Oh, no, it's not doing well. So you have we've heard about Lululemon
-how they've been doing their leggings not doing well.
-But they're saying that what athletic apparel people have to do is they have
-to make more formal wear. Interesting.
-So they're saying that's a change that needs to happen.
-I've seen it a little bit like Alo. I've kind of see put out a little bit
-more formal stuff like but work pants by Alo or you know, like has those two
-like, they look like work pants stretch. Yeah.
-But the problem is Lulu's having too much competition from clothes.
-So it's a problem. So yes, comfort is out.
-You have to dress nice. That is the thing now, I guess.
-Apparently. All right.
-That's according to all these companies. I didn't see the put up the bonito
-Adidas sneaker behind you. Oh, for Bad Bunny, $140.
-I inquired about this. You know what was egregious?
-I don't know, for a pair of sambal, its low numbers are still hot.
-Okay. But the snow for.
-That's another thing that's out. The snow sneaker loafer.
-Yes, Adidas has those. So keep an eye out for this.
-Like just the thing for a lazy man like myself.
-Don't touch the shoes if I don't need to.
-That's not a big, more ugly shoes for men.
-Please, please. All right, all right.
-Next, we do a lot of stuff for, um, for dogs.
-Right? But I'm going for the cats this time for
-all your cat lovers. You can do this for the Wall Street
-Journal. Yes, David.
-Hardware stores actually have a secret weapon for wooing customers.
-And it is cats. If you ever go into a hardware store,
-it's like a bodega kitty. Yes, exactly.
-Like they have them because of the mice, right?
-That's what they are for the collect, you know, they go look at them scare the
-mice around, but they're becoming social media influencers.
-And now people are going into the hardware stores and maybe the bodega
-too, who knows. Had to go after the cat.
-And it's helping actually boost sales because people are coming in and they're
-like, I want to go see the cat, but while I'm here, let me buy something.
-So they're becoming stars in their own right.
-Just have like Brutus is a star when he goes into the studio.
-Brutus cost me money because the stores around me have figured out kind of the
-opposite party. They've got free treats, they have free
-treats. So everybody comes in with their dog,
-and then you feel obligated because we've gone to the liquor store every day
-this week. I don't even drink that much, but I have
-all these bottles of wine because I feel guilty because they're constantly
-feeding my dog. Um, Djebel.
-Djebel. Excuse me.
-Yes? Pull back the curtain here.
-Park slope scandal. A couple went in and just stole a cat
-out of a bodega named. Anyway, he has been returned, but it was
-a two week period where there were signs all over the neighborhood where this had
-happened. And who?
-Who? He knows who this couple was and what
-motivated them. But maybe they thought that napping
-never get it back. Did it just show me that?
-I don't know, that's a good question. Let's stay tuned.
-Stay tuned next week as I do some hard attack on this.
-I just know from the local Reddit it has been returned to me if I do.
-Your kids write in cursive yesterday I see.
-Okay, so this is a losing thing out there.
-This is from Bloomberg, okay, kids should learn cursive.
-Print needs to work too. Is the title.
-Um, a lot of states who have dropped the mandates, but now more than a dozen have
-reintroduced some new Jersey, Pennsylvania, two of them.
-They're reintroducing these mandates. A kid should be learning cursive in
-school. Uh, they're saying classroom technology
-is concerned. Kids can't read.
-The Declaration of Independence is a problem.
-And letters on the ground here are the national.
-And then you get to when the kids get older.
-Like my daughter didn't know how to write her signature.
-She never really said they're like, put your signature here.
-She's like, well, what do you mean it?
-It's an issue if you think about it. They're not learning cursive.
-How do they write their signature? Well, either.
-It's amazing to me because yeah, that too is so messy now.
-And when I was in school, this is something I struggled with.
-Uh, for various reasons we always get into.
-But I was always really self-conscious because all these girls always had,
-like, cute, perfect handwriting. And it was such a sense of pride.
-And it is surprising to me now when younger women write and it looks like my
-handwriting, it's messy because it was penmanship.
-Cursive was you got you have your GPA, you got rates for this.
-You got graded on. You did in writing penmanship.
-You didn't know what. Oh my goodness.
-No. Yeah, I like school buddy.
-We got you I got God okay. All right, all right.
-Last we'll take you last one from writing to reading.
-This is a new trend okay. This one Bloomberg the weekend.
-The new Literary literary Night Out is a live audiobook reading.
-So, you know, you have book clubs and you go out and you discuss the book.
-No, this is different. These are groups hosting free live
-readings of works that are performed not by the authors, but they're read by
-professional voice actors. So it's, you know, people more people
-are reading audiobooks. I don't know if you guys do.
-Um, yeah. I'm audiobook.
-You're an audio. I give them so much money on audible.
-Yeah, because I like to read, but I don't have time.
-And that way I can run or clean or and then still feel like I'm tying up on
-books. Yeah.
-Okay. So that's that's what's kind of pushing
-this. Um, and more people are doing this in
-the city. They're going to these events and
-people, they just sit there and listen to people, read some of them and totally
-do everything. It's a different thing now.
-But it's this debate does does listen, I have my beer and not have to listen to
-somebody reading a book aloud. You can do that separately.
-This is like communal and you're learning together.
-And I am I being more pro human today? That's not usually how that's going to
-go and report back. All right, Lisa, thank you very much.
-A tour of all the papers with Lisa Mateo here on Bloomberg this week.
+Welcome back to Bloomberg this weekend or BT
+Dubs. I'm Christina Ruffini with David Gura. You absolutely loves it when I pronounce it that way. Taking notes. I don't have to reinforce my You feel like you've said your... You've spoken
+your piece. We've got, like, a Reddit community of people
+who are on my side. Okay. I'm gonna Google, in fact, check that
+in the break. However, this is the part of the show where David Gura and I
+sit back with our coffee and so that Lisa Mateo do all the work. Well, know. I'm here to open it great.
+Shine in as needed. I gotta stop track. You can You contribute so much. Lisa, what are some
+of stories the you got for us today? So it is apple picking.
+Right? Pumpkin picking time. Everybody loves it. It's fun. I do love You do love You're a meat eater. I was like, don't hate
+on this. I love it. Okay. Well, Wall Street Journal has this
+headline, the excruciating delight that is modern day apple picking. Okay. So let me explain. So
+now apple picking has quite changed. There are state troopers directing traffic. There's parking one mile
+away from the orchard. You have to take a shuttle all the way over. Yeah. It's
+gross. For the porta potties, long lines for the cider donuts. Okay? Apple theft is actually
+up as well. People are putting out People have no shame. Pockets, and I'm telling you. Yeah. Some even
+have searches at the exits to see if people are taking the apples with them. And
+then there's the more add ons. Right? It's not just the apple picking and all that
+fun stuff. David Gura, you can now spend more money because there are pig races and
+rock walls. Races. And line line dancing and VIP service. You
+can get wristbands for your children. There is the maze maze, the corn maze.
+I always enjoy the corn maze. We didn't have a maze that we went
+to in Virginia. It was a very long drive, but they had one of those really
+fun slides that you go down on the rugs. To bowling? Oh, no. No. Just like a a big
+a big slide, you get on a rug and just go down it. But
+it was included in our our ticket. I took Brutus down the slide. He did not
+enjoy it. Oh, I could imagine not. No. And I
+just come away with more apples than I need. How many do you need? You need
+ton. Bushel, but I think we're good. Pies. You can make apple
+muffins. You can make a lot of apple sauce. Stuff. I
+do. Yeah. Like, by hand? Well, sure. You just, you know, boil it
+up and he's gonna bring us some peel it, then you have to some applesauce. Because you... Invariably, you come home with, like,
+a ton of apples that you can't... There's nothing to do with, and you're tired of
+eating them. It's a lot. That is true. You do a lot baking after apple picking. About it. Yeah.
+Yeah. Alright. Do you do you like going, Lisa? Have you gone? I I I do. But lately,
+like this article says, it's got a little Too much. It's little stressful for me now.
+Like, it... It's a little too crowded. And you're pretty late the season. The apples weren't in
+such good shape, but we were the only ones there, we had a great time to do a
+rotten apple when they're on the ground. It's a very satisfying Oh, David Gura. Lisa, next story. So much about you in
+this too much. Possibly too much. Too much. Alright. We'll go from the changing
+apple orchard orchard to changing country clubs. Alright. This one's with the Wall Street Journal too. It feels like a very Bloomberg story. They are getting less exclusive and more fun.
+So it's the shift. Right? You had this old money stiffness. Right? And it's a boys
+club, but now it's changing to a family playground because some of the members, they wanna
+bring their family and make it into, like, this whole family experience. So now these country
+clubs and and yacht clubs and all them have water slides and kids activities. They have
+wellness centers, pilates classes, cold plunges, a casual restaurant. You don't need to bring the jacket
+and dress on a like this. I don't like this redefinition of
+that experience. It's not kind a Not a good night. Trivia. Karaoke night. Yes. It's
+the pickleballization of country clubs. Pickleball courts, they do have that too. That's
+good. I'm telling you. But the price tag, ah, yes. Still not. Fee of $60,000. Okay.
+I mean, they're absolutely insane. Those without the golf course, you can get it for $30.
+That's a bargain. On country clubs is my theory on boats.
+Have a friend with a boat. Have a friend with a country club, and then just
+go and enjoy. Yeah. Tag along. Tag along. Get their little number that you say, and
+people just pay for things. Sneak in. No. They give you your number. Oh, been
+to I thought you'd be like, I'm here, and
+then come back as though you're a member. No. No. But you really can't pay for
+things a lot at country clubs. It goes on your account. So be transacted with at the country club. It's just not the vibe. So
+you have to give them the member number. So your friend gives them the member number,
+and then you just... It's great. It's great. Oh, I'll hug you next time. Okay. Please. Take me next... With you next
+time. Do you guys go to Airbnb I do. On vacation? I do. You know when you go out to Airbnb,
+okay, with the checkout list, do you ever look at it and see all the things
+you have to do before you leave the Airbnb? It says, why do garbage out of the driveway? Airbnb. The sheets. The beds. The dishes. No. All that kind of
+stuff. Okay. So this is the Still, there's, a $300 fee on top of
+that. And the... And there's a cleaning fee. Insane.
+Okay. So this is my complaint. Things are changing, you guys. So some good news for
+you, David Gura. Okay? Airbnb guests will no longer have to wash dishes or strip the
+beds. Okay? So you don't have to do all that stuff because complaints... A lot of
+people are complaining. You know, they're saying, I'm on vacation. Like, I don't have to come
+and wash sheets when I leave and and wash dishes. They said it was getting out
+of hand. So I'm asked to kinda start the laundry too. So it's gonna be changing.
+Changes are coming to Airbnb starting November 20. Okay. K? So keep that in mind. Yeah. Read that you can no longer require
+guests to take garbage off-site, which implies that some people were asking guests to, like, put
+trash bags in their car and drive them to a dumpster or something. Fair. Some places you have to
+because there are bears, and they don't allow Just the Germans can't to be outside. Alright. Let's go to the world series. It's not that crazy. Quink. Quink. I have to end with the world series. Alright. Okay. World series. Milwaukee sports rules. Right? Yes. They
+they got it out the first game. Okay. But what's also making the rounds is the,
+unofficial, I guess you could say, anthem of the Milwaukee brewers. Take a listen. Milwaukee brewers. Milwaukee brewers. Milwaukee brewers. Brewers. Let's
+play some baseball and get some home run. Let's baseball and get some home run. You
+are gonna have this song in your hands. What was that? You're welcome. Wow. So let let me explain.
+Okay. So the song's creator, Phonim, his name is Rudy Jackson. Okay? He was born... He's
+a Wisconsin guy. He did a song for the central library. No. He did a song for the library, for the county zoo. Okay. And now he came out with this song,
+but it's gone viral. Like, they're playing it in the locker room. They're playing it all
+over the place. The mayor was playing it, posted a video. It was shot outside the
+stadium. I'm I'm telling you, it's it's their song. He's a person from Milwaukee. It's main biking in the Sony. Yes. It is a hit, David Gura. I don't think that'll be on my, you know, heavy
+rotation list. About it. We got the rights to play that. The
+only music that you're gonna get is Phonim's YouTube hits. Right here at the second Whatever brings you joy.
 
 </details>

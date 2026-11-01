@@ -1,0 +1,48 @@
+---
+title: "Meta Stock Analysis: Buy or Sell? (My Final Verdict)"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "MFKKNTh8Lr8"
+url: "https://www.youtube.com/watch?v=MFKKNTh8Lr8"
+publish_date: 2026-10-27
+publish_timestamp_utc: "2026-10-27T14:45:15Z"
+duration: "10:14"
+duration_seconds: 614
+views_at_import: 26273
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1503
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1503 words)</summary>
+
+Meta Platforms reported 26%revenue growth and forecast further growth ahead. Additionally, they beat expectations on a number of other fronts, but it wasn't all sunshine and rainbows. The initial investor reaction was positive and the share price jumped by about 4%in the after-market hours following the announcement. On the day after, as I'm recording this, Meta stock price fell by as much as 8%. So, that was a big reaction there. Going up by four and then being down by eight, that's a 12% turnaround. A lot of investors are curious why that happened. I'll talk a little bit about that here. I'll also update you on my estimates for Meta Platforms, what I think is a fair value for the stock now after the company reported their results. And do I still think it's one of the best stocks you can buy right now? And what will I do with my shares? Will I be adding to my Meta Platforms position, or am I now interested in selling? I'll answer all of those questions in this relatively short video, so let's get right into it. >> I want to thank The Motley Fool for sponsoring this video. Visit fool.com/parkev for the 10 best stocks to buy now. >> So, revenue was up 26%year-over-year to 64.2 billion as the company showed more advertisements to more people who were logging on more frequently and staying longer when they did log on. Ad impressions increased by 10%as they added more users and those users added more frequency and engagement. The average price per ad also increased by 14%as they improved their ad performance and improved macroeconomic conditions helped the company capture a better price per advertisement. This is a difficult thing to do when you're increasing the supply of advertisements, the inventory is increasing, it's more difficult to increase price. But because they've made so significant of improvements in the performance of the advertising being able to target better, being able to determine user interests better, and match those interests with the right advertisement at the right time those kinds of improvements, utilizing artificial intelligence, or delivering improved performance in the company's core category. Total expenses soared in the most recently completed quarter to 51.6 billion, but 10 billion of that, or roughly 20%of that, was due to the legal settlement achieved in August of 2026. But actually, they operated significantly more efficiently as they're able to deliver 26%more revenue compared to the same quarter last year with 12%fewer employees. That's again more evidence that the company's getting the benefit of their AI investments. Ad impressions are increasing, user engagement is increasing, the price per advertisement is increasing, performance of advertisements are increasing, and they're doing all of this with fewer people. Productivity is the core there, and that's what a lot of investors are optimistic about not just with Meta Platforms, but the entire economy, especially in the United States, the productivity improvements given all the AI investments being made. As a shareholder, one of my bigger concerns is the pace of this investment being ahead of how much cash flow they generate. So, free cash flow turned negative in the quarter to 2.1 billion, and I'm estimating that free cash flow will remain negative for the next couple of years for Meta Platforms. And so, the balance sheet is becoming increasingly important. They ended the quarter with $82.4 billion in cash and marketable securities, and they already have $83.7 billion in debt. That's one of the things and one of the reasons why I think the stock price is down on the day after the announcement as for the reporting resulted that meta CEO Mark Zuckerberg may need to sell a significant amount of stock in order to pay for a potential tax bill in California. Remember, if you're not already aware, there's legislation on the ballot in California. If it passes, billionaires will have to pay a percentage of their total assets in tax. And so if that law passes, meta CEO Mark Zuckerberg may need to pay billions of dollars in tax, which he doesn't have the cash potentially, and he'll need to sell stock in order to pay that tax. So that's a concern there that's rising. Additionally, with the new class of stock that was announced, investors are concerned, including myself, that meta might need to sell and will sell more stock to fund these AI investments. And so those concerns are leading to, in my opinion, the reason why the stock is down. You might be looking at this $82 billion and seeing it as a big number, but they already spent their plan to spend over $135 billion this year in capital expenditure. Next year, they're probably going to spend even more than that, so they'll go even more negative. And this money will potentially run out in a couple of years if they continue this pace of investment. And the meta muse personal agent is already achieving great success, but it's not monetized just yet. And so they'll need to invest significantly means that expanding the user base will require significant investment, and they expect total serving costs to rise. But, they do expect to improve efficiency by more than tenfold next year by better utilizing off-peak capacity, more efficient models, and inference optimization. Overall revenue in the fourth quarter is forecast to come in at about 74.5 billion at the midpoint. That would be up by roughly 10 billion from the current quarter, so an incremental increase of about 10 billion in revenue, which will be very good for Meta Platforms to fund a lot of their AI investment. I was looking forward to their 2027 estimates for revenue and capital expenditure. We didn't get specifics, but we did get some vague statements. They said, "We're still developing our budget and capacity plans for next year, but we expect to continue investing aggressively to support both our core business and emerging AI initiatives." Now, to me, that means a number that's at least 150 billion dollars next year. This year, they estimated between 135 and 150. Next year, I think it's at least 150, maybe as high as 175. Because they're saying continue investing aggressively. They didn't say we will grow our investment from this year. They didn't say we will continue to invest. They said invest aggressively. So, I take that to mean uh meaningful growth from the current year. Now, that remains to be seen. They'll probably give us a more specific number when they update us for their fourth quarter results, but for now, my estimate is between 150 and 175 billion in CapEx next year from Meta. All right, so given today's sell-off, Meta is now trading at a forward price to earnings of 21. Which is relatively cheap for a business that's growing revenue close to 30%, 26% to be more precise, and growing cash flow from operations by a similar number. But of course, they're also spending a lot of money and the risks are higher now that they're engaged in this game of hundreds of billions of dollars in spending on artificial intelligence, which is a relatively new category, one that they don't dominate as strongly as they dominate with social media. So understandably, it's trading at a lower valuation than historically it would if it was demonstrating these kinds of growth rates. So today, I updated my discounted cash flow valuation model for Meta Platforms. And one of the things I updated was the cash flow expectations going forward. I now expect significantly more negative over these next 3 years in free cash flow. So this year, I revised lower to negative 10 billion in free cash flow. Next year, I revised lower at negative 41 billion in free cash flow. And the year after that, negative 3 billion in free cash flow. Not until 2029 do I think the business will start generating positive free cash flow again, starting with 60 billion and growing from there. So given these updates, I now calculate a fair value for this business at $913 per share. The current market price is $649 per share. I calculate a meaningful upside here for Meta over the next 12 to 18 months of 40%or more. You can understand why I own Meta as one of the larger positions in my portfolio and why I've ranked Meta as the one of the best stocks you can buy. And so, I will reiterate that top 10 rating for Meta stock as one of the best stocks you can buy right now. And if you're interested in Meta, you're probably interested in the other hyperscalers, Amazon and Alphabet, which will be reporting quarterly results on October 28th and October 29th. I will be going live to cover those results. So, if you're interested in attending, that'll be available exclusively for channel members. Click that join button below and I'll see you there on that day.
+
+</details>
