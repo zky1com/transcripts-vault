@@ -1,11 +1,31 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-01T20:16:54Z
-Date range: 2017-10-25 -> 2026-11-01
+Generated at (UTC): 2026-11-02T20:10:02Z
+Date range: 2017-10-25 -> 2026-11-02
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-02 | 01_Videos/Bloomberg Television/Will Stevens' Support Flip the Race for Rogers.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/What 'The Greatest' Tells Us About Boxer Muhammad Ali.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/US Midterms & AI Strain The Global Trader’s Guide.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Trump's Veto Threat Looms Over Midterms.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Trump Says He May Become ‘Mr. Veto’ if Democrats Win Midterms.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Trump Banks on Rallies to Turn Out MAGA Faithful Again.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/This Bounce in Stocks Appears Premature Market Analysis.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Open Interest 1122026.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Oil Prices Retreat, Apple Results on Deck.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Midterm Elections 2026 Democrat Feud Erupts in Michigan.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Markets Are Violently Rotating, Wu Silverman Says.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/How Valterra's Forging the Future of Platinum  Chief Financial Officer (Correct).md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Hormuz Reopening Talks Advance as Iran Warns of Wider Response if Attacked.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Gulf States Push for US-Iran Diplomatic Off-Ramp.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Elon Musk-Starlink Row Ryanair CEO Rules Out Making Up.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/China Stocks Rise on Reports of Market Support Measures.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1122026.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Asia's Traders Weigh Tech Selloff, US Midterms.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Anthropic Revenue Hits Nearly $17 Billion Before Mega-IPO.md
+- 2026-11-02 | 01_Videos/Bloomberg Television/Alphabet Opens Fresh Euro Bond Sales; Trump Weighs Iran Diplomacy; Countdown to Midterms.md
 - 2026-11-01 | 01_Videos/Bloomberg Television/Why Socialism Is Back in American Politics.md
 - 2026-11-01 | 01_Videos/Bloomberg Television/Trump Struggles to Sell Voters on the Economy.md
 - 2026-11-01 | 01_Videos/Bloomberg Television/The Political Debate on Daylight Saving Time.md
