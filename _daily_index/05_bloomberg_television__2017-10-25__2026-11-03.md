@@ -1,11 +1,30 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-02T20:10:02Z
-Date range: 2017-10-25 -> 2026-11-02
+Generated at (UTC): 2026-11-03T20:17:45Z
+Date range: 2017-10-25 -> 2026-11-03
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-03 | 01_Videos/Bloomberg Television/Wall Street Heavyweights Weigh the Risks to the AI Boom.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Wall Street Bosses See Risks But Remain Bullish On AI.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/US, Iran Signal Willingness to Keep Talking.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/US Midterms Test Trumpism as One Nation Surges in Australia.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/US Job Openings Jump as Factory, Durable Orders Also Rise.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/US Hits Iran’s Qeshm Island as Hormuz Talks Keep Oil Markets on Edge.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/US Election Day Trump Risks Losing Control of Congress.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/US Election Day Kicks Off Stocks Slip, Oil Rebounds.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Trump’s Midterm Election Test Begins.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Trump Talks Reflecting Pool in Midterm Closing Message.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Stocks Waver as Voters Head to Polls; US, Iran Pursue Diplomacy; Tech Earnings.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Open Interest 1132026.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Oil Is the Biggest Binary Risk Market Analysis.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Midterm Elections 2026 Young Black & Latino Voters, Affordability in Focus says Former Ambassador.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Kumar Costs, ICE Are Pushing Latinos Toward Democrats.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Inside Indonesia’s Wash-Trade Scheme.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Dan Ives Sees Anthropic IPO Facing Valuation Pressure.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1132026.md
+- 2026-11-03 | 01_Videos/Bloomberg Television/Asian Stocks Fall Ahead of US Midterms.md
 - 2026-11-02 | 01_Videos/Bloomberg Television/Will Stevens' Support Flip the Race for Rogers.md
 - 2026-11-02 | 01_Videos/Bloomberg Television/What 'The Greatest' Tells Us About Boxer Muhammad Ali.md
 - 2026-11-02 | 01_Videos/Bloomberg Television/US Midterms & AI Strain The Global Trader’s Guide.md
