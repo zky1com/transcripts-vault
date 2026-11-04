@@ -1,11 +1,47 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-03T20:17:45Z
-Date range: 2017-10-25 -> 2026-11-03
+Generated at (UTC): 2026-11-04T20:13:50Z
+Date range: 2017-10-25 -> 2026-11-04
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-04 | 01_Videos/Bloomberg Television/What Issues Drove Voters to the Polls for Midterms.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/US Midterm Blue Wave Puts AI, Data Centers in Spotlight.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Trump Says He's Not Worried About Impeachment.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Trump Praises Democrats, Deflects Blame for GOP Loss.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/This was 'Most Devastating Midterm Defeat' for a President in 68 years, Say Gautam Mukunda.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/This Is a 'Bloodbath' for GOP, Says Patrick McHenry.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/This Election is a 'Massive Rebuke' of Trump Says Mukunda.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Stocks, Bonds Fluctuate After Democrats Win Control of US Congress.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Rahm Emanuel Democrats have a chance to be transformational.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Pollster Luntz Says Republican Voters Feel Betrayed.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Open Interest 1142026.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Oil Market Starting to Embed Geopolitical Risk, Says Rapidan’s McNally.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Ohio's Brown Coming Back to US Senate.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Musk's Tesla and SpaceX Slide on Midterm Results.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Morgan Stanley CEO Sees Up to $15T AI Investment Wave.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Midterms 2026 Democrats Win Control of Congress in Election Landslide.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Midterm Elections 2026 El-Sayed Speaks After Winning Michigan Senate Race.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/It's Time for an Unloved Stock Rally Market Analysis.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Inside Indonesia’s Wash-Trade Scheme.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Goldman’s Solomon Sees ‘Very Robust’ Demand for AI Deals.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Election 2026 Special Coverage  Part 2.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Election 2026 Special Coverage   Part 4.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Election 2026 Special Coverage   Part 3.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Election 2026  Midterms Special Coverage (Hour 1).md
+- 2026-11-04 | 01_Videos/Bloomberg Television/El-Sayed, Rogers in Tight Race for Michigan Senate Seat.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Democrats' Texas Shocker Caps Rebuilding by Party Chief.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Democrats Win in Landslide, US Stock Futures Rebound.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Democrats Take Control of Congress in Midterm Landslide.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Democrats Sweep House and Senate in Midterm Rebuke of Trump.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Democrats Projected to Win Control of US House.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Cook Says 2026 Could Reshape the Political Map.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1142026.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Bain Capital Chair Expects $30 Billion of Exits This Year.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Apple’s Narrowing Margins Overshadow Upbeat Holiday Forecast.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/Abby Joseph Cohen Calls for More Realistic Approaches to Policy.md
+- 2026-11-04 | 01_Videos/Bloomberg Television/'An Unmitigated Repudiation of Donald Trump and a Very Clear Message' says Former DNC Chair.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/Wall Street Heavyweights Weigh the Risks to the AI Boom.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/Wall Street Bosses See Risks But Remain Bullish On AI.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/US, Iran Signal Willingness to Keep Talking.md
@@ -21,7 +57,6 @@ Date range: 2017-10-25 -> 2026-11-03
 - 2026-11-03 | 01_Videos/Bloomberg Television/Oil Is the Biggest Binary Risk Market Analysis.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/Midterm Elections 2026 Young Black & Latino Voters, Affordability in Focus says Former Ambassador.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/Kumar Costs, ICE Are Pushing Latinos Toward Democrats.md
-- 2026-11-03 | 01_Videos/Bloomberg Television/Inside Indonesia’s Wash-Trade Scheme.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/Dan Ives Sees Anthropic IPO Facing Valuation Pressure.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1132026.md
 - 2026-11-03 | 01_Videos/Bloomberg Television/Asian Stocks Fall Ahead of US Midterms.md
