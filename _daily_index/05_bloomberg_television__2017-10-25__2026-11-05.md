@@ -1,11 +1,36 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-04T20:13:50Z
-Date range: 2017-10-25 -> 2026-11-04
+Generated at (UTC): 2026-11-05T20:11:03Z
+Date range: 2017-10-25 -> 2026-11-05
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-05 | 01_Videos/Bloomberg Television/Yardeni Yields Attractive at 5%; Nasdaq to Outperform.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/UBS Cuts London Jobs, European Stocks Hit Fresh Record.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Trump Faces Backlash After Midterm Election Rout.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Treasuries Soar as Tech-Stock Selloff Lures Investors to Havens.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/The BOE Decides  Special Coverage.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/SocGen’s Kabra Sees the End of Derating Phase for S&P 500.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Siri AI's Biggest Upgrade Yet + John Ternus's First Apple Earnings Call  Power On with Mark Gurman.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Ritholtz on What's Causing the Stock Selloff.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Open Interest 1152026.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Miran on Midterms, Trump Tariffs, Fed Forward Guidance.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Midterm Results Fuel Stock Rotation; Republicans Trade Blame For Losses.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Korea Crushed as China Cheers US Midterm Market Analysis.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/JD Vance Criticizes Iran War as GOP Blame Game Starts.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/JD Vance Breaks With Trump on Iran and Israel After US Midterms Collapse.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Hormuz Diplomacy Gains Ground as Trump Plays Down New Iran Strikes.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Global Stock Selloff AI Investment Will Continue, George Colony Says.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Democratic Sweep Redraws Political Map.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/China Stocks Surge As Blue Wave Sinks Korea's Heavyweights.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/China Stocks Surge As Blue Wave Sinks Korea's Heavyweights (VdckdqADp48).md
+- 2026-11-05 | 01_Videos/Bloomberg Television/BofA’s Cabana Says It’s Premature to Call End to Fed’s Hiking Cycle.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/BOE's Bailey Says Second Hike More Likely If Oil Stays High.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1152026.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/Asian Chip Stocks Slide, Oil Plunges After US Midterms.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/AI Selloff Is a 'Modest Wave' in a Multiyear Cycle, Bernstein's Chaloff Says.md
+- 2026-11-05 | 01_Videos/Bloomberg Television/AI Fears Rattle Wall St., Safe Havens.md
 - 2026-11-04 | 01_Videos/Bloomberg Television/What Issues Drove Voters to the Polls for Midterms.md
 - 2026-11-04 | 01_Videos/Bloomberg Television/US Midterm Blue Wave Puts AI, Data Centers in Spotlight.md
 - 2026-11-04 | 01_Videos/Bloomberg Television/Trump Says He's Not Worried About Impeachment.md
@@ -1841,7 +1866,6 @@ Date range: 2017-10-25 -> 2026-11-04
 - 2026-07-30 | 01_Videos/Bloomberg Television/Washington Commanders President Mark Clouse  Bloomberg Newsmakers.md
 - 2026-07-30 | 01_Videos/Bloomberg Television/US Launches New Wave of Attacks Against Iran.md
 - 2026-07-30 | 01_Videos/Bloomberg Television/Trump Faces Iran War Conundrum  Balance of Power 7302026.md
-- 2026-07-30 | 01_Videos/Bloomberg Television/The BOE Decides  Special Coverage.md
 - 2026-07-30 | 01_Videos/Bloomberg Television/Starbucks Seeing Strong Sales Across the Board, CEO Says.md
 - 2026-07-30 | 01_Videos/Bloomberg Television/Microsoft Surges, Meta Slides  Open Interest 7302026.md
 - 2026-07-30 | 01_Videos/Bloomberg Television/Microsoft Rallies on Earnings as Meta Slides with AI in Focus  The Pulse 7302026.md
