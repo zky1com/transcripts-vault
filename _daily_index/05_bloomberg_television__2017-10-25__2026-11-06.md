@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-05T20:11:03Z
-Date range: 2017-10-25 -> 2026-11-05
+Generated at (UTC): 2026-11-06T20:14:35Z
+Date range: 2017-10-25 -> 2026-11-06
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-06 | 01_Videos/Bloomberg Television/What the Democratic Wave Means for Trump and 2028.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/UK & Europe Avoid Worst of Stock Rout.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Trump Names Stephen Miller to Replace Susie Wiles.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/There Was No Big Trigger for the Selloff, Page Says.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Tech Selloff Hits Asia After US Market Rout.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Stocks Selloff Pauses Rebound After Tech Rout; Jobs Report Ahead.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Stocks Rout AI Selloff Deepens as Japan, South Korea Tumble.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Stocks Primed for a Rough Ride Today Market Analysis.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Stock Selloff Eases After $3 Trillion Rout.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Sell Off Turns to Uncertainty.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Rubio Tells NYT He Plans To Stay With Admin Until the End.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Markets Focused More on AI Than Jobs Report, BlackRock's Rosenberg Says.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Markets Are Reevaluating AI 'Speed Limit,' Schwab's Sonders Says.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Jobs Report Doesn't Mean Fed Should Hike Rates, Hassett Argues.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Iceland PM Says There's No Need for Permanent US Troops.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Iceland Does Not Need Permanent US Troops in Country, Prime Minister Says.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/HSBC’s Max Kettner The AI Trade Hasn’t Fundamentally Changed.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Goldman Goes Quiet on Women Partner Promotions.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Global Tech Selloff Deepens as US Midterms Trigger AI Fears.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/French Protests More Than Half a Million Join Cost-of-Living Demonstrations.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Fesharaki Says Oil’s Right Price Is $80-$90.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Eisenkot Wins 67 Backers as Israel Awaits Government Decision, Oil Slides on Iran Talks.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Data Centers Will Get Built, Even With More Regulation, Bryson Says.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/China Tech Stocks Slide in Broad Market Rout.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1162026.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/BlackRock's Rieder Sees an Epic Rebalancing of Equities.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/Asia Stocks Sell Off As AI Rout Deepens.md
+- 2026-11-06 | 01_Videos/Bloomberg Television/As Stocks Reel From AI Rout, Investors Seek Safety Beyond Tech.md
 - 2026-11-05 | 01_Videos/Bloomberg Television/Yardeni Yields Attractive at 5%; Nasdaq to Outperform.md
 - 2026-11-05 | 01_Videos/Bloomberg Television/UBS Cuts London Jobs, European Stocks Hit Fresh Record.md
 - 2026-11-05 | 01_Videos/Bloomberg Television/Trump Faces Backlash After Midterm Election Rout.md
