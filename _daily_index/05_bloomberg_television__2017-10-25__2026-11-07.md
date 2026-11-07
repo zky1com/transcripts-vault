@@ -1,11 +1,28 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-06T20:14:35Z
-Date range: 2017-10-25 -> 2026-11-06
+Generated at (UTC): 2026-11-07T20:10:57Z
+Date range: 2017-10-25 -> 2026-11-07
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-07 | 01_Videos/Bloomberg Television/Young Travelers Are Warming Up to Cruises.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Wall Street Week  Blue Wave Economic Impacts, European Welfare Woes.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/US Jobs Surge Raises Odds of December Fed Hike.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Texas and Georgia Enter a New Political Era.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Miller Elevation Sets Up Clash With Democrats.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Ken Chenault on Leadership in an Age of AI.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/How the Iran War Is Making Alaskans Both Richer and Poorer.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/How the Blue Wave Could Reshape America’s Economy.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Economy and Democracy Drove the Blue Wave.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Democrats Could Reshape Trump's Foreign Policy.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Chain Reaction Tech Selloff, New Chief of Staff.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Bremmer U.S. Retreat From Global Leadership Is a Long-Term Shift.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/Berkshire Makes Record $9.6 Billion Buyback.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/AI Trade Faces a Post-Election Reality Check.md
+- 2026-11-07 | 01_Videos/Bloomberg Television/A Historic First for Women at the Metropolitan Opera.md
 - 2026-11-06 | 01_Videos/Bloomberg Television/What the Democratic Wave Means for Trump and 2028.md
 - 2026-11-06 | 01_Videos/Bloomberg Television/UK & Europe Avoid Worst of Stock Rout.md
 - 2026-11-06 | 01_Videos/Bloomberg Television/Trump Names Stephen Miller to Replace Susie Wiles.md
@@ -154,7 +171,6 @@ Date range: 2017-10-25 -> 2026-11-06
 - 2026-10-31 | 01_Videos/Bloomberg Television/Tech Stocks Tank, Final Countdown to Midterm Elections.md
 - 2026-10-31 | 01_Videos/Bloomberg Television/Stadiums Rethink the Women’s Restroom.md
 - 2026-10-31 | 01_Videos/Bloomberg Television/Rep. Meeks Puts Affordability Atop Democrats’ Agenda.md
-- 2026-10-31 | 01_Videos/Bloomberg Television/Pointed! Bloomberg's Weekly News Quiz For Risk-Takers.md
 - 2026-10-31 | 01_Videos/Bloomberg Television/New Balance CEO Joe Preston on NYC Marathon Partnership.md
 - 2026-10-31 | 01_Videos/Bloomberg Television/Midterm Fight Comes Down to the Final Days.md
 - 2026-10-31 | 01_Videos/Bloomberg Television/Israel’s Election Leaves Netanyahu in Limbo.md
@@ -390,7 +406,6 @@ Date range: 2017-10-25 -> 2026-11-06
 - 2026-10-24 | 01_Videos/Bloomberg Television/Has Election Spending Hit a Tipping Point.md
 - 2026-10-24 | 01_Videos/Bloomberg Television/Gershkovich Says Putin Seeks His Terms, Not a Deal.md
 - 2026-10-24 | 01_Videos/Bloomberg Television/France Faces New Protests After Week of Violence.md
-- 2026-10-24 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
 - 2026-10-24 | 01_Videos/Bloomberg Television/AI Rout Hits Asia as Investors Rush to Safety.md
 - 2026-10-24 | 01_Videos/Bloomberg Television/AI Boom Faces a Growing Public Backlash.md
 - 2026-10-24 | 01_Videos/Bloomberg Television/AI Boom Brings New Business to Matchmakers.md

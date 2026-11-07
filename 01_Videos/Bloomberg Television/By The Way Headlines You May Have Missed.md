@@ -3,17 +3,17 @@ title: "By The Way: Headlines You May Have Missed"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "6bKLf0yc8pU"
-url: "https://www.youtube.com/watch?v=6bKLf0yc8pU"
-publish_date: 2026-10-24
-publish_timestamp_utc: "2026-10-24T13:39:03Z"
-duration: "6:39"
-duration_seconds: 399
-views_at_import: 3667
+video_id: "hfDpS-amhs0"
+url: "https://www.youtube.com/watch?v=hfDpS-amhs0"
+publish_date: 2026-11-07
+publish_timestamp_utc: "2026-11-07T13:27:55Z"
+duration: "6:40"
+duration_seconds: 400
+views_at_import: 2096
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1469
+word_count: 1428
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,92 +41,154 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1469 words)</summary>
+<summary>Click to expand full transcript (1428 words)</summary>
 
-Welcome back to Bloomberg this weekend or BT
-Dubs. I'm Christina Ruffini with David Gura. You absolutely loves it when I pronounce it that way. Taking notes. I don't have to reinforce my You feel like you've said your... You've spoken
-your piece. We've got, like, a Reddit community of people
-who are on my side. Okay. I'm gonna Google, in fact, check that
-in the break. However, this is the part of the show where David Gura and I
-sit back with our coffee and so that Lisa Mateo do all the work. Well, know. I'm here to open it great.
-Shine in as needed. I gotta stop track. You can You contribute so much. Lisa, what are some
-of stories the you got for us today? So it is apple picking.
-Right? Pumpkin picking time. Everybody loves it. It's fun. I do love You do love You're a meat eater. I was like, don't hate
-on this. I love it. Okay. Well, Wall Street Journal has this
-headline, the excruciating delight that is modern day apple picking. Okay. So let me explain. So
-now apple picking has quite changed. There are state troopers directing traffic. There's parking one mile
-away from the orchard. You have to take a shuttle all the way over. Yeah. It's
-gross. For the porta potties, long lines for the cider donuts. Okay? Apple theft is actually
-up as well. People are putting out People have no shame. Pockets, and I'm telling you. Yeah. Some even
-have searches at the exits to see if people are taking the apples with them. And
-then there's the more add ons. Right? It's not just the apple picking and all that
-fun stuff. David Gura, you can now spend more money because there are pig races and
-rock walls. Races. And line line dancing and VIP service. You
-can get wristbands for your children. There is the maze maze, the corn maze.
-I always enjoy the corn maze. We didn't have a maze that we went
-to in Virginia. It was a very long drive, but they had one of those really
-fun slides that you go down on the rugs. To bowling? Oh, no. No. Just like a a big
-a big slide, you get on a rug and just go down it. But
-it was included in our our ticket. I took Brutus down the slide. He did not
-enjoy it. Oh, I could imagine not. No. And I
-just come away with more apples than I need. How many do you need? You need
-ton. Bushel, but I think we're good. Pies. You can make apple
-muffins. You can make a lot of apple sauce. Stuff. I
-do. Yeah. Like, by hand? Well, sure. You just, you know, boil it
-up and he's gonna bring us some peel it, then you have to some applesauce. Because you... Invariably, you come home with, like,
-a ton of apples that you can't... There's nothing to do with, and you're tired of
-eating them. It's a lot. That is true. You do a lot baking after apple picking. About it. Yeah.
-Yeah. Alright. Do you do you like going, Lisa? Have you gone? I I I do. But lately,
-like this article says, it's got a little Too much. It's little stressful for me now.
-Like, it... It's a little too crowded. And you're pretty late the season. The apples weren't in
-such good shape, but we were the only ones there, we had a great time to do a
-rotten apple when they're on the ground. It's a very satisfying Oh, David Gura. Lisa, next story. So much about you in
-this too much. Possibly too much. Too much. Alright. We'll go from the changing
-apple orchard orchard to changing country clubs. Alright. This one's with the Wall Street Journal too. It feels like a very Bloomberg story. They are getting less exclusive and more fun.
-So it's the shift. Right? You had this old money stiffness. Right? And it's a boys
-club, but now it's changing to a family playground because some of the members, they wanna
-bring their family and make it into, like, this whole family experience. So now these country
-clubs and and yacht clubs and all them have water slides and kids activities. They have
-wellness centers, pilates classes, cold plunges, a casual restaurant. You don't need to bring the jacket
-and dress on a like this. I don't like this redefinition of
-that experience. It's not kind a Not a good night. Trivia. Karaoke night. Yes. It's
-the pickleballization of country clubs. Pickleball courts, they do have that too. That's
-good. I'm telling you. But the price tag, ah, yes. Still not. Fee of $60,000. Okay.
-I mean, they're absolutely insane. Those without the golf course, you can get it for $30.
-That's a bargain. On country clubs is my theory on boats.
-Have a friend with a boat. Have a friend with a country club, and then just
-go and enjoy. Yeah. Tag along. Tag along. Get their little number that you say, and
-people just pay for things. Sneak in. No. They give you your number. Oh, been
-to I thought you'd be like, I'm here, and
-then come back as though you're a member. No. No. But you really can't pay for
-things a lot at country clubs. It goes on your account. So be transacted with at the country club. It's just not the vibe. So
-you have to give them the member number. So your friend gives them the member number,
-and then you just... It's great. It's great. Oh, I'll hug you next time. Okay. Please. Take me next... With you next
-time. Do you guys go to Airbnb I do. On vacation? I do. You know when you go out to Airbnb,
-okay, with the checkout list, do you ever look at it and see all the things
-you have to do before you leave the Airbnb? It says, why do garbage out of the driveway? Airbnb. The sheets. The beds. The dishes. No. All that kind of
-stuff. Okay. So this is the Still, there's, a $300 fee on top of
-that. And the... And there's a cleaning fee. Insane.
-Okay. So this is my complaint. Things are changing, you guys. So some good news for
-you, David Gura. Okay? Airbnb guests will no longer have to wash dishes or strip the
-beds. Okay? So you don't have to do all that stuff because complaints... A lot of
-people are complaining. You know, they're saying, I'm on vacation. Like, I don't have to come
-and wash sheets when I leave and and wash dishes. They said it was getting out
-of hand. So I'm asked to kinda start the laundry too. So it's gonna be changing.
-Changes are coming to Airbnb starting November 20. Okay. K? So keep that in mind. Yeah. Read that you can no longer require
-guests to take garbage off-site, which implies that some people were asking guests to, like, put
-trash bags in their car and drive them to a dumpster or something. Fair. Some places you have to
-because there are bears, and they don't allow Just the Germans can't to be outside. Alright. Let's go to the world series. It's not that crazy. Quink. Quink. I have to end with the world series. Alright. Okay. World series. Milwaukee sports rules. Right? Yes. They
-they got it out the first game. Okay. But what's also making the rounds is the,
-unofficial, I guess you could say, anthem of the Milwaukee brewers. Take a listen. Milwaukee brewers. Milwaukee brewers. Milwaukee brewers. Brewers. Let's
-play some baseball and get some home run. Let's baseball and get some home run. You
-are gonna have this song in your hands. What was that? You're welcome. Wow. So let let me explain.
-Okay. So the song's creator, Phonim, his name is Rudy Jackson. Okay? He was born... He's
-a Wisconsin guy. He did a song for the central library. No. He did a song for the library, for the county zoo. Okay. And now he came out with this song,
-but it's gone viral. Like, they're playing it in the locker room. They're playing it all
-over the place. The mayor was playing it, posted a video. It was shot outside the
-stadium. I'm I'm telling you, it's it's their song. He's a person from Milwaukee. It's main biking in the Sony. Yes. It is a hit, David Gura. I don't think that'll be on my, you know, heavy
-rotation list. About it. We got the rights to play that. The
-only music that you're gonna get is Phonim's YouTube hits. Right here at the second Whatever brings you joy.
+Welcome back to Bloomberg this weekend
+or Bet we had such a great time saying the name of this segment when you all
+know there was no difficulty. He was smiling ear to ear saying it were
+you have you back from Dubai? Smug and gleeful?
+I don't think so, Lisa, but I would say a little smug.
+Yes. You know, self righteous and correct
+pronunciation. Correct.
+I miss you, so good to have you back. Um.
+Thank you. Thank you for this segment in
+particular. Yes.
+Uh, what amazing stories might we have? Because during the week, here we go.
+So we're in the time of this ultra long movie, right?
+You have the Odyssey, you have Avengers Doomsday, you have the the, um,
+Elizabeth Holmes documentary, all about 33 hours, struggling with attention
+spans. The movie seems very long.
+So the problem is, when do you go to the bathroom?
+Right. So there is help.
+Never fear. Wall Street Journal has a story.
+Hollywood's new superhero is the guy who tells moviegoers when to pee.
+Okay, this is an app. It's called Run pee.
+I kid you not. It recommends the best time to go to the
+bathroom. It includes a synopsis of what you've
+missed in case you decided to go. Then it has a built in stopwatch that
+users start when the film begins, and then you get a notification just ahead
+of each bathroom break that's recommended.
+That would stress me out, though. It's Lisa.
+You do have a feature on your watch that tells you understand this is true.
+It does not tell me where to go to the bathroom.
+It could do that push update and I just have to tell you that as well.
+I don't know, but, um, it's a problem. It's a problem.
+But let's take it old school. Let's go back to the days of Chitty
+Chitty Bang Bang. And it's a mad, mad, mad, mad world
+where there was an intermission. It was built in.
+True, true. We don't have that anymore.
+It's just like a dispirited you. Where that I reference those two, I just
+say Chitty bang bang is right up there though.
+But it is a long movie. It is long.
+This has been around for like 20 years. But the thing is, it's starting to get
+new users. Like with the Elizabeth Holmes
+documentary, like 7000 people signed up for.
+Is it that long? No, it's three.
+It's about three. I think Elon Musk one is five.
+To be fair. Yes, we were talking about that this
+morning. All right.
+So it's a lot okay. So this might help you I've been for
+those of you out there your boss is like maybe I'll have to take the day to see
+both of those because it would be like if you did back to back, it could be
+like. That is quite close to eight hours for
+research, for research and journalistic purposes.
+Absolutely, absolutely. I have to read this again.
+What a surprise. Here we are.
+We don't know what you're gonna go from movies to gaming.
+Okay? This is something, Chris.
+You know, you and I was talking about. This is from Business Insider.
+The real reason your coworker is taking time.
+Oh, yeah. This month.
+Okay. It is to play video games.
+And it was documentaries and people are doing it with GTA.
+GTA six. It's coming out November 19th.
+Um, but it's not that's not the only video game.
+And this is why so many people are taking off this week.
+You also get two releases. World of Warcraft Forever came out this
+weekend also. Sorry gamers, the Legend of Zelda, Zelda
+Ocarina. Oh, that's really cool.
+That's a kind of play live in my ear to hear.
+Thank you gamers. Absolutely is.
+Ocarina is a clay flute. I don't know how David is mine.
+Sometimes it scares me. It is this place we do not want to
+visit. So random flute knowledge aside, yes,
+all these three big games. That's why a lot of people are putting
+in, like, companies are telling Business Insider that PTO requests are coming in
+like crazy. Some people are probably going to call
+out sick. And then there are those PR companies
+who are involved in, like gaming, that are giving the people a day off.
+They're like, just take it out, take it on holiday, take the holiday.
+Lisa, you and I just talked to some folks that will air later.
+Yeah. Stay tuned about holiday travel and how
+expensive everything is getting. I get it if you want to do a staycation
+and hang out and play video games, why don't you go at it?
+You use that PTO. That's what it's for.
+I guess I love that teams keep us wanting.
+That's right. What happens when you're not here?
+So here we go. You got them?
+Okay, so forget data centers. Remember that's on the ballot, right?
+Okay. Denver and D.C.
+residents. You heard about this?
+They voted on Tuesday in favor of a citywide ban on Guam.
+Okay. Yes I do.
+My team says yes. Okay, so this is why I brought it up to
+you. Christine, this is a Washington Post
+D.C. restaurant says it will keep serving
+foie gras after voters agree to ban. Have you been to Butterworth's?
+Christina. It is a French bistro.
+They have not. But this is a very popular hang out with
+members of the nation. Is it?
+No no no no. That's a different French to French
+Louis or some other DC related French restaurant.
+Central. Still there.
+Central is still there. Yeah.
+Okay, continue. Okay.
+That's it. Okay, so this restaurant says, you know
+what? We're going to keep serving it.
+And it doesn't matter what this ballot says or when anything says we're going
+to keep serving it. But the problem is that, um, it might
+not happen, right. Because the CFO said it's going to cost
+about $314,000 to kind of educate people, to bring in an inspector, to do
+all the things. So it probably won't happen.
+If you remember, there was a brand New York City.
+Yeah. Because there's no enforcement.
+Correct. Like New York City did the same thing
+back in I think 2019. They banned it and it's still being
+served. So so the funny thing about that bill in
+D.C. is it also banned, like making foie gras
+in D.C. and everybody was like, are we doing
+that? Exactly.
+Are we secretly force feeding geese behind Capitol Hill or something?
+So it was a very popular Halloween costume in D.C..
+What is it for? Yeah, because I love I love my town of
+Paris like some would be as a goose and some would be the farmer wearing them.
+Yeah, well, growing. And that's a new historical thing that
+we're that. All right, one more, one more.
+Okay, so back in the day, our parents kind of didn't understand the music we
+listened to. That was kind of thing.
+They're like, what are you listening to now?
+Kids are listening to what we used to listen to.
+Okay, bring this into Wall Street Journal.
+The Metallica diehards who love to rock out with Mom and dad.
+We're talking about little kids, okay? They're going to concerts with mom and
+dad. Rock it out to Metallica, um, listeners
+between 13 and 24, they actually expressing more interest in songs from
+the 90s or before. And the reason why is because they can
+do it. They can just go on Spotify or YouTube
+and pull up the music. Easy.
+Back in the day, you know, you had a grab a record or a cassette or something
+like Find It now it's like at the touch of the fingers.
+I mean, you went to an intergenerational college.
+It was, to be fair, a bluegrass show. So maybe not in the Metallica concert,
+but it wasn't a generational and we had a good time doing it.
+See, tickets are also expensive, so must be nice to have the parents picking up
+the. Yeah.
+No kidding. Yeah, sure.
+You go the show. If you go to the show, I want to go.
+Right. But it's a good time.
+Good time for all. Oh, my daughter just went to a Google
+Dolls concert series. Yes, they are starting to get into the
+music that we used to listen to. Really good.
+All that was my jam and.
 
 </details>
