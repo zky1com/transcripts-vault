@@ -1,11 +1,29 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-07T20:10:57Z
-Date range: 2017-10-25 -> 2026-11-07
+Generated at (UTC): 2026-11-08T20:12:39Z
+Date range: 2017-10-25 -> 2026-11-08
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-08 | 01_Videos/Bloomberg Television/What America’s Factories Reveal About the Economy.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Watching Wall Street, Back to Work After Blue Wave, Deadly Mass Shooting in Poland.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Voters Put the AI Data Center Boom on Notice.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Ukraine Peace Push Returns to Abu Dhabi.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Seattle and Las Vegas Make Their NBA Pitch.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Poland Probes Krakow Shooting as Terrorism.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/New House Democrats Set Their Priorities.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Miller Pick Tests Prospects for Cooperation.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Markets Brace for Washington Policy Battles.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Luxury Gyms Turn Fitness Into a Family Affair.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Israel’s Election Fight Shifts to Coalition Building.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/How Everyday Apps Feed Police Surveillance.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Congress Returns to a New Political Reality.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Can Europe Afford Its Welfare State.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Asia Markets Brace for More AI Volatility.md
+- 2026-11-08 | 01_Videos/Bloomberg Television/Affordability Fuels Populist Politics.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/Young Travelers Are Warming Up to Cruises.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/Wall Street Week  Blue Wave Economic Impacts, European Welfare Woes.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/US Jobs Surge Raises Odds of December Fed Hike.md
@@ -18,7 +36,6 @@ Date range: 2017-10-25 -> 2026-11-07
 - 2026-11-07 | 01_Videos/Bloomberg Television/Economy and Democracy Drove the Blue Wave.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/Democrats Could Reshape Trump's Foreign Policy.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/Chain Reaction Tech Selloff, New Chief of Staff.md
-- 2026-11-07 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/Bremmer U.S. Retreat From Global Leadership Is a Long-Term Shift.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/Berkshire Makes Record $9.6 Billion Buyback.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/AI Trade Faces a Post-Election Reality Check.md
@@ -162,7 +179,6 @@ Date range: 2017-10-25 -> 2026-11-07
 - 2026-11-01 | 01_Videos/Bloomberg Television/Democrats Eye House and Senate Gains.md
 - 2026-11-01 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed (cdt5apDplCk).md
 - 2026-11-01 | 01_Videos/Bloomberg Television/Brooks Steps Up Global Push as Running Boom Builds.md
-- 2026-11-01 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
 - 2026-11-01 | 01_Videos/Bloomberg Television/Big Tech Earnings Coming, Final Midterm Election Push.md
 - 2026-11-01 | 01_Videos/Bloomberg Television/AI Talent War Spreads to Wall Street.md
 - 2026-11-01 | 01_Videos/Bloomberg Television/AI Concerns Move to Center of Midterm Campaigns.md

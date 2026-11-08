@@ -3,17 +3,17 @@ title: "Bookmarked: News Stories On Our Reading List"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "c2kj0tzpzNk"
-url: "https://www.youtube.com/watch?v=c2kj0tzpzNk"
-publish_date: 2026-11-01
-publish_timestamp_utc: "2026-11-01T15:58:32Z"
-duration: "6:06"
-duration_seconds: 366
-views_at_import: 1897
+video_id: "VSrpmavd1W8"
+url: "https://www.youtube.com/watch?v=VSrpmavd1W8"
+publish_date: 2026-11-08
+publish_timestamp_utc: "2026-11-08T16:32:28Z"
+duration: "6:20"
+duration_seconds: 380
+views_at_import: 1957
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1235
+word_count: 1342
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,125 +41,139 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1235 words)</summary>
+<summary>Click to expand full transcript (1342 words)</summary>
 
-Now we have this segment bookmarked.
-We all love it. People love it.
-Yes, some of the stories on our reading polling is in.
-The early polling is and we do love it. Uh, Nathan, you're going to kick us off
-with this. Okay.
-These are stories that we each kind of found and picked that we liked.
-Yeah. Resonated this one because it's kind of
-close to home in Washington, DC. Uh, maybe a little bit of a homework
-assignment if I ever break out of my shell and go out on a Friday or Saturday
-night, maybe this is something that's familiar to you all in New York City.
-But in the Washington, D.C. area, the DMV, as, uh, some of us like
-to call it, not myself, but nonetheless, turntables and vinyl are starting to
-become a central part of the dining, the bar experience, going out there
-listening bars. And the Washington Post reviewed six of
-them. Going to try to see how many of these I
-can get through. So again, unchain yourself from the AI
-generated playlist and listen to some deep cuts while you're out.
-There's a place called Roxy Millay that's right in the heart of downtown
-D.C. their weekend DJ lineup features local
-artist spinning, dance, hip hop, house and soul.
-liberties on K Street. If lobbyists need somewhere to go
-unexpected, check out the cafe by day and the listening room at night, paired
-with a huge natural wine list that turns out to be cool.
-If you can't be bothered to head into DC itself on a Saturday and if there's a
-spot in Fairfax, Virginia called B-side appropriately, it's got a huge stack of
-records right behind the bar. The staff makes it like it's a free form
-FM radio station, a little closer to the city in Arlington's very popular
-Clarendon neighborhood. As I recall from my 20s, there is a
-weekend spot called Oasis, The Listening Bar.
-The place is stacked top to bottom with records and Japanese touches as well,
-along with a huge playlist. They have a huge list of Japanese saké
-and whiskey sushi rolls as well. The post says.
-The best day for the full vinyl experience at the Oasis is Tuesday.
-Oh no, that's not happening for me. Good for you.
-It's a Nathan Hager in his 20s. Go!
-Yeah. Who knows?
-Another show. And.
-Yeah. Okay.
-Yeah, I'd love that. Um, okay.
-So trick or treaters, you know, you had your fill yesterday, David.
-I'm sure you did. But what was in your kids bags when they
-came back? Because this one is from the Boston
-Globe. Okay.
-Trick or tuna? Uh, some of the weird things that people
-give to trick or treaters. Uh, onions and potatoes.
-You did? Well.
-One. An onion and a potato.
-But yeah, it was. Oh, is there some no explanation?
-Yes. Okay, so some of the things yes, onions
-and potatoes are on the list. Um, soy sauce packets, like, you know,
-because you had there was a ketchup as well.
-Yes, I like it. Serious trussell sprouts were some of
-the things, uh, Bible's walnuts. Is there any explanation of the onion?
-You know, I think the issue is kids come to your door and you feel bad, and you
-have no candy. So what do you do?
-You go to the cupboard, you unload the cupboard, you find out.
-You know what? I used to get you pennies.
-That was a big thing. I used to get the pennies all the time.
-The coupons to Wendy's for the free Frosties.
-I would not actually treat it is a treat, but this one kills me.
-Okay, so there was one family, um, who gave out juice boxes to the kids and,
-um, Bud lights to the pain. And the bottle of rum.
-She was giving out rum last night with, uh, a measuring spoon.
-She was dressed up like Lucy from Charlie Brown, and she was giving out
-spoonfuls of rum. But it goes to tell you.
-And the kids were saying, mommy, why are we going back to this house again?
-Get the moms out. I went quiet, serious.
-But it just goes to show you things are changing.
-Trick or treating. They are.
-Um. I found this piece on Bloomberg.com in
-the terminal by our colleagues in Seoul, South Korea, looking at Seoul now as a
-new hub for reading, that there has been such blowback to people being on their
-phones all the time consuming, a lot of short form video reading has become more
-and more popular. It may represent the future of reading
-social aesthetic and bound up with identity.
-So you're seeing more young Koreans reading books.
-I was charmed by one quotation Lee Jeong Ji saying, I pretend to read books.
-She's addicted to short term content on our phone and tries to read and write
-the diary to get rid of the dopamine hit quote.
-I hope it will become my hobby and change my life.
-Maybe. But there was a more cheering quote here
-from the Seoul Metropolitan Library. For young people, reading is a flex.
-It's also fashion that there is an aesthetic to being seen holding a book.
-So while do you look smarter or look smarter physically better?
-Well, I think so. I guess that's all that's, you know,
-it's subjective, she said. With Infinite Jest in their lives that
-David Foster wanted to do it all year. He got through the entire book.
-Um, this is spurned a bunch of, uh, outdoor libraries in South Korea, book
-clubs as well. And I think the open question as
-articulated in this piece is how long will this last?
-So many trends, of course, come from South Korea.
-Will it last longer than a year? Who knows?
-Korea. Beauty?
-Yes, yes. Okay.
-Books, books. You've got the producer, pig.
-All right. We do have time.
-You're here. Half of the producers of the show.
-Yes. Our producer picked up a story from the
-BBC, a company that you may have heard of, but it's out of the UK called Just
-Eat. It's like their version of Uber.
-Just eat em. They have issued an apology over AI
-generated images of restaurant food. The online food deliverer was testing
-out the tech. They say, uh, to feature items that
-doesn't have pictures for just yet. So, uh, in one instance, they put in a
-prompt for bacon and eggs soda bread, which apparently is a popular item in
-Belfast. There it goes.
-And there it is. Eggs and bacon and a glass of cola.
-What else we need for baking soda? Bread?
-I can't fault the technology. It's what you're literally asking about.
-It defeated the words, that outcome. The pictures that the restaurant wanted
-to put cheese rolls on its online menu. So the.
-I spat out blocks of cheese wrapped in a sushi roll.
-Of course, you know, you know, you ask and you shall receive and you shall
-receive. So they've corrected this, the butter
-chicken, which viewers can now see on the screen involving chicken just in a
-thick layer of yellow butter, doesn't stop.
-I don't know, it actually doesn't seem quite bad that I get.
-Okay, I give them some idea.
+These are some of the stories on our
+reading list this week. Guys.
+It's been a heck of a week. I don't know how much bandwidth we had
+for non emergency reading. Um, but I did see that the Met Gala.
+You're going to go first. I am your prerogative.
+Go ahead. And I looked at neither of you looked
+incredibly enthusiastic. I seem to be saying something deeply
+philosophical, so I was just going to let that play out for me.
+No, that's your for me. Okay?
+Okay. No, no, I'm not going.
+David, what you got? Oh come on, you already teased.
+You have to go to go. All right.
+So the Met Gala has come, I will produce the segment is by us.
+Right. We really have put some thought into who
+goes first. Has picked a new theme.
+This is the gala at the Metropolitan Museum of Art.
+So when you went in the red carpet first Monday in March, legendary.
+Fancy all the celebrities in their crazy outfits.
+Yes, they had chosen controversial designer John Galliano, who a couple of
+years ago said some very anti-Semitic comments.
+He was basically canceled gender, the industry.
+He's had a bit of a resurgent. His clothing, for better or worse, is
+huge and theatrical and stunning. And fashion people were very excited
+about this. This was a misstep on there, but it was
+a huge I mean, I'm going to editorialize and just say it was a silly move.
+It was kind of crazy. And he's also been persona non grata
+because he's not somebody you want fronting the Met Gala.
+Yeah. So they had to pull it back and cancel
+it. And now they have decided extraordinary
+fashion and the politics of every day. So people are joking with him.
+Yeah, people are joking. They finally did it.
+You can show up to the Met Gala in jeans and a t shirt with Dockers.
+Unclear. It's always a little bit amorphous and
+kind of open to interpretation, but this is not generally what people want to see
+from the met. You're not excited by this?
+No. You want to see your most absurd,
+outlandish outfit? That's the whole point.
+The year they did the Vatican theme was incredible.
+You know, camp was a great theme. What was the theme this year?
+Do you remember actually where we were? I can't remember.
+We were there with. Wow.
+We both guys were killing me. All right.
+You keep reading it all. Remember?
+I'll remember. Anyways, um, here's an article that
+caught my attention, published by the New York Times.
+We. I was on a plane this week.
+I flew from Raleigh to LaGuardia. Apparently the FAA still relying on
+floppy disks for the day to day work that it does.
+Unbelievable. Actually, this is an amazing piece
+looking at the history of floppy disks and how they're still part of a lot of
+the technological infrastructure that Washington relies on.
+And I remember going to the FCC when I was a reporter in Washington, and I was
+astonished by how much of the computers that they use are still like mainframes
+from many decades ago. But anyways, floppy disk, my kids
+wouldn't be able to recognize them or know what they are.
+Um, but these are like the three and a quarter, sorry.
+Three and a half. Four, five and a quarter.
+I can't even remember the size. I don't know, I did see a thing online
+where someone was explaining why the save icon looks like that to a young
+person, and I just felt like, oh, yeah, that's right.
+It's true. They don't know what that means.
+Smart thing was costume art. Yeah.
+I just wanted to test you. They're unfairly putting you in that
+spot, but they still make these for you. That's a good question.
+And according to this article, um, they're used for data, including pilot
+reports and advisories. They put them into their consoles.
+And I will say that the silver lining here is the FAA is reforming its air
+traffic control systems. Uh, and they're beginning to change all
+of this. So this is on the way out, but still
+astonishing that in 2026, floppy disks are still being used.
+Maybe. Maybe they wait.
+Maybe they're AI hacking proof. Maybe this is a good thing to have a
+harder copy of that information. That's a very good point.
+Not addressed in the article. I will say here it closes by saying.
+As for the FAA plans to fully install the new system at 400 sites by the end
+of 2028, so still some time for this. So we'll be back with this to be
+continued. That is crazy.
+Yeah. All right.
+I'm going to jump in. Um, because I always go out there.
+This one is about McDonald's McRib here. This was the this was the top of the
+Little League game yesterday. Was it really?
+Yes. Okay, so the McRib, but were they in
+1980? 1981 is when it started.
+Okay, cult following that the whole thing was McRib.
+So it's processed pork in the shape of a rib rack, but is okay.
+But that is the question. Okay, so there was this judge in Chicago
+ruled that the class action lawsuit, because there is one against it, could
+Persist because okay, the question is yes.
+Is it made of rib. So it's it's pressed into the shape.
+Right. Um, rib is in the name.
+But rib meat, which is pricier than in other parts of the pig is nowhere to be
+found. Okay, so the question is what exactly?
+Okay. So let's see what's in it.
+Okay. So this is like with the thing with like
+this account is really meat. Okay.
+Can I get I can't um so okay what about this I focus what our favorite McRib
+sandwich is made with one. This is from the company.
+100% pork, sourced from farmers and suppliers across the U.S..
+There are no hearts. There are no tripe.
+There is no scalded stomach. Because those were things that people
+were saying, we're in it. That's not in it.
+They're saying it's scalded stomach. Scalded stomach.
+I know it is not in the McRib. Um, but it's different portions of the
+pig. I guess you could say Lisa, but I mean
+your entire life. Yes.
+Have you ever eaten in a gram there? God.
+And it's me. It's not Filet-O-Fish.
+Uh, I think I actually have done. The fish had a fillet.
+Um, anyways, this was very much the talk among the lawyer dads of the game.
+And what did they say? Oh, it's a creative lawyer and they're
+going to win. I think they won.
+Right. Or it's like, I don't know where we are
+in the status of all of this, but it sounds like it's looking more toward the
+people who filed a class action so they might lose it.
+I don't know what happens with it, but we'll see.
+I don't know if people were excited when they brought it back because they took
+it away for a while. We have a producer.
+I have a producer pick for you a lot of time.
+This is the National Toy Hall of Fame. We have a few new ones.
+Okay, okay. This is fun.
+Bingo. Care bears, the Pokémon trading card
+game, and the humble playground slide. All now in the toy.
+I don't know if that's the same boy. Okay?
+Like it? Just like how many years it bears.
+It's also just slight gravity. I mean, people have been sliding down
+things, I know, but the Care Bear, the Care Bear stare.
+I love the game Prince. They were fun.
+They said bingo is now with the younger generation.
+They play bingo now. So that's why the joined by the old and
+the other favorite game, Human Care Bear.
+Uh, yeah, we did bring muffins. Thank you.
+Thank you all.
 
 </details>
