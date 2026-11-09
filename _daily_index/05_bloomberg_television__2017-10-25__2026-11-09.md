@@ -1,11 +1,33 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-08T20:12:39Z
-Date range: 2017-10-25 -> 2026-11-08
+Generated at (UTC): 2026-11-09T20:15:59Z
+Date range: 2017-10-25 -> 2026-11-09
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-09 | 01_Videos/Bloomberg Television/What Nvidia Probe Could Mean for US-China Chip Sales.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/UniCredit CEO Plots Commerzbank Governance Overhaul.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Stocks Rise as Investors Shrug Off Nvidia Probe; Trump Says Iran Strikes Unlikely.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Stocks Climb as Buyers Step In Despite Nvidia Woes.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Rubio Plays Down Chances of Breakthrough in Iran Talks.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Open Interest 1192026.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Oil Prices Lower on Trump's New Iran Comments.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Nvidia Shares Fall As Huang's Affair Triggers China Spying Probe.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Nvidia Probe Into CEO's Affair Adds to AI Trade Risks.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe (7_vcgyI4yKk).md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Nvidia CEO Jensen Huang Admits Affair With Suspected Chinese Spy.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Jensen Huang’s Affair with Suspected Chinese Spy Adds New Risks to AI Trade.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Huang's Affair Engulfs Nvidia in Chinese Spying Probe.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Hacked Records Put Russian War Deaths at  400,000.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Democrats Risk Misreading Midterm Landslide, Trubowitz Says.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/CFR's McGuire Nvidia Probe Just Tip of Iceberg.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 1192026.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/Aramco Tower Targeted in Riyadh as Eisenkot Gets Israeli Government Mandate.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/An AI Bust May Not Cause a Financial Crisis, Dudley Says.md
+- 2026-11-09 | 01_Videos/Bloomberg Television/AI Turbulence to Keep on Running Market Analysis.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/What America’s Factories Reveal About the Economy.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Watching Wall Street, Back to Work After Blue Wave, Deadly Mass Shooting in Poland.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Voters Put the AI Data Center Boom on Notice.md
