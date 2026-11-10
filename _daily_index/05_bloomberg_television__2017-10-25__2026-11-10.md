@@ -1,11 +1,40 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-09T20:15:59Z
-Date range: 2017-10-25 -> 2026-11-09
+Generated at (UTC): 2026-11-10T20:21:24Z
+Date range: 2017-10-25 -> 2026-11-10
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-10 | 01_Videos/Bloomberg Television/White House CEA Chair Says Fed Rate Hike Is Premature.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Wall Street Bonuses Expected to Rise by 30% For Some.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Trump Says FBI Reviewing Nvidia CEO Huang's Affair.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Stock Rebound Eases Ahead of CPI; Anthropic IPO Marketing.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Skydance to release New Paramount+, HBO Max Bundle.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Oil and Gas Fall on Iran De-escalation Hopes.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Nvidia Turmoil Raises Stakes for the US-China Tech Rivalry.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Nvidia Lawyer Intervened in US AI Chip Smuggling Probe.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Nvidia Faces Scrutiny Over US Chip-Smuggling Probe as AI Stocks Rebound.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Nagel ECB Rate Hike in December Looks ‘Rather Obvious’.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Lane Says ECB Shouldn't Deploy Tools to Ease France Woes.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Inside the Nvidia Spy Scandal Shaking AI.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/How a Bank Collapse Brought Down a President.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Hochstein on Nivdia CEO Scandal, AI and China, Elections.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Hegseth Says Move to Impeach Him Is a 'Farce' and a Stunt.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Hegseth Has Been 'Disaster' as Secretary of Defense, Says Rep. Stanton.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Hegseth Calls Massie Impeachment Bid an Attack on Troops (Full Press Conference).md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Great for Investors, Tough for Traders Market Analysis.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Grand Theft Auto VI Finally Comes Out Nov. 19.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Food, Gas Prices Push October CPI Higher.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Fed’s Waller Sparks Larger Rate Hike Debate After Hot Inflation.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Fed’s Waller on Rates, Market Pricing and the US Economy.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Fed's Logan Calls For at Least Two More Rate Hikes.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Fed Needs to Raise Rates at Least Two More Times, Logan Says.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Defense Secretary Hegseth Hits Out at Critics as Massie Pushes Impeachment.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Citi's Fraser China License Gives Bank Edge on Rivals.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/China Trade Surplus Tops $1 Trillion for Second Time.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11102026.md
+- 2026-11-10 | 01_Videos/Bloomberg Television/Anthropic Prepares to Market IPO as Nvidia Scandal Stokes AI Jitters.md
 - 2026-11-09 | 01_Videos/Bloomberg Television/What Nvidia Probe Could Mean for US-China Chip Sales.md
 - 2026-11-09 | 01_Videos/Bloomberg Television/UniCredit CEO Plots Commerzbank Governance Overhaul.md
 - 2026-11-09 | 01_Videos/Bloomberg Television/Sweetgreen CEO Says Sales Rebound After Cyclospora-Related Traffic Drop.md
