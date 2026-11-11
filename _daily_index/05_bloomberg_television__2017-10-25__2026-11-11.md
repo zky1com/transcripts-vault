@@ -1,11 +1,39 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-10T20:21:24Z
-Date range: 2017-10-25 -> 2026-11-10
+Generated at (UTC): 2026-11-11T20:19:17Z
+Date range: 2017-10-25 -> 2026-11-11
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-11 | 01_Videos/Bloomberg Television/Why Anthropic's IPO Is Make or Break for the Markets.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/US Envoy Nvidia Affair Shows US Should Stay 'Diligent' on China.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/This Is Not the End of the AI Trade, Says Shah.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Stocks Gain on AI Optimism Despite US Inflation Concerns.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/OpenTable CEO on 2027 Dining Trends Report.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Open Interest 11112026.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Nvidia's Future Rests Squarely on Shoulders of CEO Huang.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Nvidia Scandal Raises China Stakes.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Nvidia Is Playing Out Like a Greek Tragedy, Says Seaport's Goldberg.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Nvidia Is Core Part AI-Basket of Stocks, Emanuel Says.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Nikki Haley on Nvidia Scandal, Iran and Midterms.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Massive Demand for Anthropic IPO, Megadeals After Midterms.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Major Blockchains Have Not Been Hacked Securitize CEO.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Kai-Fu Lee Questions Soaring AI Valuations.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Investor Selby on Why Anthropic's IPO Puzzles Him.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Hegseth Impeachment Blocked by House Republicans.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Gulf States Deepen Military Coordination as Iran Diplomacy Faces Hormuz Risks.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/CoreWeave Quiets Doubts, US CPI Fuels Fed-Hike Bets.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/CoreWeave Gives Bulls a Green Light Market Analysis.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Coinbase Crypto Exchange Gets National Bank Charter Approval.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Chile Is in Recession, But Will Rebound, Says Finance Minister Quiroz.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Chile Finance Chief Sees 4% Growth by 2028 After Slump.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11112026.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Asia Tech Rally Defies SoftBank AI Concerns.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Anthropic IPO Said to Be Multiple Times Oversubscribed.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Anthropic IPO Demand Surges as AI Trade Roars Back.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/Airbnb Is Building Its Own AI Travel Agent, Co-Founder Says.md
+- 2026-11-11 | 01_Videos/Bloomberg Television/AI Stocks Rally After Coreweave's Results; Treasury Market Closed.md
 - 2026-11-10 | 01_Videos/Bloomberg Television/White House CEA Chair Says Fed Rate Hike Is Premature.md
 - 2026-11-10 | 01_Videos/Bloomberg Television/Wall Street Bonuses Expected to Rise by 30% For Some.md
 - 2026-11-10 | 01_Videos/Bloomberg Television/Trump Says FBI Reviewing Nvidia CEO Huang's Affair.md
