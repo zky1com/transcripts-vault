@@ -1,11 +1,37 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-11T20:19:17Z
-Date range: 2017-10-25 -> 2026-11-11
+Generated at (UTC): 2026-11-12T20:15:36Z
+Date range: 2017-10-25 -> 2026-11-12
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-12 | 01_Videos/Bloomberg Television/Why The Fed Is A Bigger Risk For The AI Boom Than Nvidia.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/What Huang's Departure Means for the Future of Nvidia.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/UN Secretary-General Warns of ‘Perfect Storm’ of Global Risks.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/The AI Chip Race with Apple’s Former Chief Chip Architect  Power On with Mark Gurman.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Stocks Fall on Nvidia Worries; Nvidia Board Considers Huang's Future.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Ruchir Sharma on AI Bubble Risks, Opportunities in India.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Open Interest 11122026.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia's Board Weighs Huang's Future After Affairs.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Weighs Ousting Jensen Huang as Infidelity Scandal Deepens.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Shake-Up Is a Buying Opportunity, Says Analyst Chkaiban.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Scandal Could Change US-China Relationship.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Preparing to Oust CEO Jensen Huang WSJ.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia CEO Crisis Deepens as Board Weighs Jensen Huang Future.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Board Weighs Huang’s Future as Congress Prepares Subpoena.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Board Meets to Consider Replacing Jensen Huang.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Board Meets As Jensen Huang Fallout Widens.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Board Considers Replacing CEO Jensen Huang.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Nvidia Board Considers Jensen Huang's Future After Affair.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Jensen Huang's Influence on Washington.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Jensen Huang Resigns as Nvidia CEO.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/How Chevron Is Maintaining Prominence in the Permian Basin.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Delta Sees No Pushback on Higher Fares, CEO Says.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/China and Korea Will Outperform Taiwan Market Analysis.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Chief Future Officer Eimear Bonner, Chevron  Patience Sustains Progress.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11122026.md
+- 2026-11-12 | 01_Videos/Bloomberg Television/AI Trade Roars Back, Anthropic IPO Outlook, Nordstrom Co-CEO on Going Private.md
 - 2026-11-11 | 01_Videos/Bloomberg Television/Why Anthropic's IPO Is Make or Break for the Markets.md
 - 2026-11-11 | 01_Videos/Bloomberg Television/US Envoy Nvidia Affair Shows US Should Stay 'Diligent' on China.md
 - 2026-11-11 | 01_Videos/Bloomberg Television/This Is Not the End of the AI Trade, Says Shah.md
