@@ -1,0 +1,48 @@
+---
+title: "What's Going on With CoreWeave Stock? | CRWV Stock Deep Dive Part 1"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "H0-3514112k"
+url: "https://www.youtube.com/watch?v=H0-3514112k"
+publish_date: 2026-11-13
+publish_timestamp_utc: "2026-11-13T13:45:22Z"
+duration: "9:55"
+duration_seconds: 595
+views_at_import: 1907
+transcript_language: "en"
+has_captions: null
+transcript_status: "done"
+word_count: 1518
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1518 words)</summary>
+
+POW delivered quarterly financial results that pleased stock market investors. On the day after the company reported these results, its stock prices up by 26%. And I got to give credit to the management team here. They did a great job explaining what markets feared most about the company. They went into detail during their quarterly conference call with Wall Street analyst, explaining their positions regarding the biggest risks that investors see. So, I'm happy about this because remember I upgraded Core Weeb stock to a buying opportunity just about a month and a half ago and I'm happy to see the share price soaring. But do I still think is a buying opportunity is what I'll answer in this video as well as evaluating the latest results and listening to what the management team had to say about the biggest concerns from stock market investors. I want to thank the Mly Fool for sponsoring this video. Visit fool.com/parkev for the 10 best stocks to buy now. There was a lot to like about Coreweave's latest results. For one, the management team said that their margins are rising faster than planned. Additionally, their newest contracts are among the most profitable that they've ever underwritten. And this goes to validate what the industry has been delivering to investors for several years now. Every single 3month period since the launch of Chat GPT, I've been evaluating these companies and seemingly every 3 months they provide us with these huge numbers and great forecasts. And investors as they go through those periods between these quarterly statements, investors grow increasingly concerned and increasingly concerned. And then the companies report their quarterly statements and they're like, "Oh, okay. It's still okay." And this has been going on since seemingly 2022. Since the launch of chat GPT, demand for artificial intelligence is soaring and it just continues and investors are always fearful between these three month periods about a potential bubble bursting and then the companies report their quarterly results and then investors are like, "Oh, okay, good. There is no bubble bursting. The company is still doing well." And that's pretty much what happened here with Core Weeave. There was so much concern coming into this quarterly result and then investors saw what core reported and they were like oh okay this company is not going bankrupt. One of the biggest concerns and the management team goes into great detail about this later on in this conference call is funding. How will the company fund its growth ambition? And I've been talking about this. The unit economics of the AI industry is interesting in that it requires a lot of capital upfront to build this data center and then you get the benefits of that data center over time. So there's a mismatch between cash flow. You need a lot of cash to build the data center right now and then you get back the cash over time and that mismatch is creating problems for the entire industry. Companies like Coreweave especially are at the forefront of that concern. They are the most vulnerable to that cash flow mismatch. The management team said that their funding is anchored by secured lending, customer prepayments, and operating cash flow. Companies are getting more creative in how they're bridging that gap, and that's creating a lot of concern from investors saying that it's circular financing, this or that, or another reason. But it's just these companies with smart individuals leading them, figuring out ways to bridge that gap, to bridge that timing difference between the large upfront cash flow you need to build a data center and then the cash flow that comes in over time. I compare it to building, let's say, an apartment building. You need a lot of cash up front for purchasing the land, the permits, all of the work that's required to get that apartment building up and set up and then you need to rent it out to individuals and then you collect the rent over time. It'll take years before you recoup that investment. However, over the longer term, it's a profitable investment in most cases. And this is just for apartment buildings where demand is not as robust as data centers. And to get a picture of demand, look at their revenue which reached 3.7 billion and it was up 168% year-over-year and above the higher end of their guidance. And they were able to deliver better performance because they were able to get these data centers up and running quicker than they anticipated which was different from INE which I covered yesterday. I did a deep dive into Ian yesterday and I's results were worse than expected in their most recently completed quarter because their construction or their building up of data centers was slower than expected. They pushed out some targets by a couple of months, whereas Core Weave pulled forward some targets by a couple of months. And that's the difference between making a few hundred million more during a quarter or a free hundred million less because the customers are waiting to consume that computing as soon as it's ready to go. So if you get it ready to go sooner, you generate revenue sooner. If it takes you a couple of months longer, then it takes you a few months longer to generate that revenue. Core, we've added $1 billion of revenue just from the previous quarter. And adjusted operating income reached 379 million. That was above the 230 million the company forecasted at the midpoint. The backlog, these are orders that Cororeweave receives, which will eventually turn into revenue, grew to approximately 133 billion. And they grew active power to more than 1.7 gawatt, doubling their active footprint since the start of the year. So this $133 billion will eventually turn into revenue if the company can build up and secure the data centers required to serve what these customers are waiting to purchase. The risk here is that they will only generate the revenue if they get access to the computing power. And so they don't already have this thing that the customers are ordering. They need to get that thing that the customers are ordering and it's going to cost a lot of money, several billions of dollars to get those things up and ready to rent out to their customers. That's the big risk for Core Reef considering that they already have over $50 billion in long-term debt and investors are concerned about the cost of the company's ability to get more capital. But since the company delivered better than expected results in this current quarter and explained very clearly how they will be able to finance those new buildings to serve those customers, it assuaged some investor concerns and that's why you saw the stock price soaring by over 25% on the day after they reported these results. Even after this increase, Cororeweave stock is still selling at near its cheapest valuation when measuring on a forward price to sales ratio. It's now selling at a forward price to sales of 1.283, which as you can see from this chart here is near the lowest you've been able to buy Coreweave stock going back several years. Similarly, I've been working with my discounted cash flow model, incorporating these new results from Core Weave into my valuation estimates for the company, and I calculated the business to be worth $94. And the current market price after today's increase is $6153. So, it's still considerably undervalued even after the price jumped by over 25%. But of course, I'll remind investors this is one of the riskiest stocks you can buy. It is one of the riskier Neoclouds and Neoclouds are one of the riskier segments of the markets right now. One of the way Coree is financing this buildout is through support from Nvidia which is one of its strongest strategic partners. Nvidia will report quarterly financial results on November 17th after the stock markets close and I'll be going live to cover that event and that will be a hugely important event especially after the news about Jensen Juan. If you want to attend that event, it'll require a channel membership. So, click that join button below, get yourself a channel membership. We have three different levels, so pick the one that's right for you and we'll see you at that live earnings analysis. As for core weave and if it's a buying opportunity even at these levels, well, the valuation is attractive to be sure. However, this should only be considered for investors with a relatively high risk tolerance because it's one of the riskiest stocks in the market. But that being said, I do think the risk versus reward is attractive. And I reiterated that buy ranking today for Core Weave. Remember, I upgraded it to a buy on October 14th, and I upgraded my conviction and confidence level on that ranking on November 5th. So, I'm thrilled to see the share price booming as it is
+
+</details>

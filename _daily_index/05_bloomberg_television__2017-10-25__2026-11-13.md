@@ -1,11 +1,37 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-12T20:15:36Z
-Date range: 2017-10-25 -> 2026-11-12
+Generated at (UTC): 2026-11-13T20:10:29Z
+Date range: 2017-10-25 -> 2026-11-13
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-13 | 01_Videos/Bloomberg Television/What's Next for Nvidia and Huang Gene Munster and Dan Ives Weigh In.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/We’re Living In An Inflationary Environment Morse.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Twitch CEO GTA VI Could Be Our Biggest Moment.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Traders Digest Jensen Huang's Exit from Nvidia.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Tech Tries to Soldier On Without Huang Market Analysis.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Stocks Rise Ahead of PPI; Microsoft Outage; Nvidia Fallout.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Stocks Fall as Huang Resigns, Nvidia Turns to CFO.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Open Interest 11132026.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Nvidia Replaces Huang as Lutnick Faces Scrutiny on China.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Nvidia Names Kress Interim CEO After Huang Exit as Trump Cools on Iran Deal.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Nvidia Fallout Looms Over Trump-Xi Meeting.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Nordstrom Co-CEO on Going Private, Customer Experience, Retail Space.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Microsoft Races to Fix Outage, Stocks Slip of Inflation Test.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Microsoft Outage Hits Businesses, Nvidia Scandal Deepens.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Jensen Huang Saga Tests AI Trade Ahead of Anthropic IPO.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Jensen Huang on AI Optimism and Nvidia’s Next CEO.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Hard To Get A Retirement System ‘Right’ Ed Morse.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Grading Global Retirement Plans, US Receives C+.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Fed's Collins Talks Inflation Risks, Rate Policy and AI.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Ed Morse Says Oil Can Drop to $50 a Barrel.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Democratic Senator Coons Says Secretary Lutnick Let America Down.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Dan Ives Cuts Nvidia Price Target, But Stays Bullish Post-Huang.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Dan Ives Cuts Nvidia Price Target, But Stays Bullish Post-Huang (3WoWK6fsJlU).md
+- 2026-11-13 | 01_Videos/Bloomberg Television/China’s AI Sector Caught in the Crossfire After Nvidia Ousts Huang.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11132026.md
+- 2026-11-13 | 01_Videos/Bloomberg Television/'Completely Misguided' to Blame Israel for Midterm Losses, Says Nikki Haley.md
 - 2026-11-12 | 01_Videos/Bloomberg Television/Why The Fed Is A Bigger Risk For The AI Boom Than Nvidia.md
 - 2026-11-12 | 01_Videos/Bloomberg Television/What Huang's Departure Means for the Future of Nvidia.md
 - 2026-11-12 | 01_Videos/Bloomberg Television/UN Secretary-General Warns of ‘Perfect Storm’ of Global Risks.md
