@@ -1,0 +1,48 @@
+---
+title: "Why Is Everyone Talking About CoreWeave Stock Right Now? | CRWV Stock Deep Dive Part 2"
+people_mentioned: []
+channel: "Parkev Tatevosian, CFA"
+channel_id: "UCwKB_00dPL3x5XmHF9IJCrg"
+video_id: "VNQSXEPHdyg"
+url: "https://www.youtube.com/watch?v=VNQSXEPHdyg"
+publish_date: 2026-11-14
+publish_timestamp_utc: "2026-11-14T15:45:22Z"
+duration: "10:12"
+duration_seconds: 612
+views_at_import: 1129
+transcript_language: "asr-en"
+has_captions: null
+transcript_status: "done"
+word_count: 1545
+content_type: ""
+delivery_mode: ""
+broad_category: ""
+subcategories: []
+series_name: ""
+episode_id: ""
+primary_person: ""
+host_names: []
+interviewer_names: []
+interviewee_profiles: []
+speaker_profiles: []
+organizations_mentioned: []
+locations_mentioned: []
+tools_mentioned: []
+companies_mentioned: []
+topics: []
+tags: []
+---
+
+
+
+
+
+
+## Full Transcript
+
+<details>
+<summary>Click to expand full transcript (1545 words)</summary>
+
+I think the primary reason why everyone is talking about CoreWave stock right now is because the stock price is up by over 25% and the reason why the stock price is up by so much is because the company delivered fantastic quarterly results that relieved a lot of investor concerns. So I wanted to share with you what the management team said and what they delivered in their most recently completed quarter that's sending shares soaring and I'll also answer if I think the stock is a buy right now and I'll share with you what I believe to be the fair value of this stock after these fantastic results. I want to thank the Motley Fool for sponsoring this video. Visit fool.com/parkev for the 10 best stocks to buy now. So the management team reported that at the end of the third quarter their weighted average cost of debt across their entire business was 7.9% and this was down 250 basis points year over year. But there's been a lot of reports that CoreWave's yield to maturity has soared to around 50 15%. So what's the difference between the 15% that's being reported and the 7.9% that the management team is highlighting here? Well, the biggest difference is that this 7.9% that the management team is highlighting is based on the collective cost of debt for the company throughout its history versus the 15% that 's being reported would be the amount that CoreWave would likely have to pay if it were to try to borrow money right now in these unsecured debt markets. So these are historical costs of debt versus the current cost of debt. So things have changed and the cost of debt in the marketplace has increased and the response is CoreWave is saying looking ahead we won't use the new unsecured debt market to fund our business at current yields nor do we need to. Nor do we need to. So the management team saying like yeah, we acknowledge that the yield to maturities have increased and the cost of debt have increased. So we just won't borrow because these are unattractive rates right now and we won't use these sources of capital to fund our expansion plans. And that makes sense, right? Interest rates fluctuate based on several factors and when interest rates are unattractive for a business [clears throat] or an individual, you don't utilize that source if you're not in a situation to need to use that source. And Core Weave is not in that situation. They're not in a desperate situation where they need that capital. That's a big difference, right? I compare that to if you remember the cruise lines, uh Carnival Cruise Line for example, during the pandemic it was forced to shut down all of its operations. It was losing billions of dollars and it was in a desperate situation and it needed to borrow money to keep the company alive during those moments when its business was nearly completely shut down in terms of offering services to its customers. So that company had no choice. They needed to borrow money. They needed to sell stock. It didn't matter if the rates were unattractive. It didn't matter if the stock price was depressed. They were in a desperate situation. They needed to do this. Core Weave is not in a desperate situation. They are in a situation where they have a storing backlog, customers waiting in line to purchase the products they're delivering. And if they want to serve that market, they need to build new data centers. And they have several forms of financing that they can deploy in order to raise those data centers in order to serve customers. And if the rates are unattractive across the board, then they don't need to build that data center. They can tell their customers, you know what, it's going to take longer than expected or we're unable to meet this contract. Here is your money back or for they can say, you know what, unprecedented circumstances, we apologize, but we can't meet this contract obligation, etc. Or they can ask them, would you like to fund this data center because we're unable to get the funding for it. You can give us a prepayment and it'll help us build this data center which you can then use. So they have options on what they can do. The business is not going to go bankrupt if they don't borrow money, right? And that's the big thing to remember there. So they're saying they're not going to use those unsecured debt markets. That's the one source of debt that the cost is soaring. But they do expect to finance the majority of the remaining CAPEX needed to deliver their backlog through delayed draw term loans matched to specific customer contracts. So these are less costly. These are loans that are connected to customer contracts and lenders feel more comfortable making these loans because they're connected to a customer contract. As soon as this data center gets built, the customer pays CoreWeave on a monthly, quarterly, or biannual, whatever the terms are, and then CoreWeave can use the money to pay back that term loan. So the loan has clauses in it that suggest this loan is to be used specifically for this purpose and it's backed by the customer contract. That's one way CoreWeave can finance its expansion. They go on to say that for the facilities funding long-term commitments, by the time the customer contract ends, the debt is repaid and the infrastructure is owned free and clear by CoreWeave. So these are attractive terms for lenders and it's attractive terms for CoreWeave. They have a certain customer contract, let's say five years, $8 billion and that's going to be connected to a certain data center or a certain portion of a data center. And so they borrow money at five years for building this data center and the amount of cost it will require is fully offset by this customer contract. So at the end of those five years, they've paid off the debt, they've served this customer contract, and now they have this data center that they can re-lend to another customer. Maybe it's the same customer that renews that contract and after the initial period, that will be profit for the company in terms of cash flow. It'll match already the amount of money that it costs to build it. It'll offset that completely. And then after that, it'll just be cash flow that's coming to the company. So the terms that the management team arranges these data centers and debts and contracts are favorable for the company longer term. They're favorable for the company, otherwise the management team wouldn't undertake these contracts. So for now, they'd been taking an economic approach to prepayments, weighing the impact of pricing against the cost of financing. In the past, that led them to use the unsecured debt markets. But in the current environment, prepayments are more attractive. And I'm seeing this across the board. Oracle is doing the same thing as the debt markets. The cost of debt is increasing. Previously, these companies could borrow money at a lower cost and so they were able to offer those attractive terms to their customers. But now that they can't borrow money at lower cost, they can no longer offer those attractive terms to their customers. So they're telling their customers, look, if you want this data center to be built, you got to give us a prepayment of X amount. And the customer says, fine, we'll give you that prepayment of X amount, but you got to give us better terms on the monthly cost. And so Core Weave would have to offer that as well. So it's the changing dynamics of the AI industry. It's not a situation where Core Weave is going to go bankrupt, which I've been getting a lot of questions about that. But it's more a matter of how Core Weave can optimize the financing of these data centers and offer terms to their customers and balance their growth with their balance sheet. So all that being said, this is still a risky stock. It's still in a risky situation. That shouldn't take away from the fact that the stock is still risky, but the risk here lies in not the company going bankrupt, but perhaps the company's growth rate slowing down because it's not borrowing. It's not able to tap the debt markets to borrow and then build and then generate the revenue growth, right? That's the risk here is that its revenue growth rate slows down from the triple digits rate it's been growing to a much slower growth rate because it won't be able to fund all of these new data centers as quickly. So after these results, I calculated the business is worth about $94 per share. It still looks undervalued. It still looks undervalued even after the 27% increase today. So after I evaluated the results, I reiterated my buy ranking for Core Weave, which I had upgraded to a buy on October 14th and upgraded my confidence level on November 5th.
+
+</details>

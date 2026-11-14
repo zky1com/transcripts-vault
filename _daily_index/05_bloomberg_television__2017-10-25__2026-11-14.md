@@ -1,11 +1,33 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-13T20:10:29Z
-Date range: 2017-10-25 -> 2026-11-13
+Generated at (UTC): 2026-11-14T20:15:37Z
+Date range: 2017-10-25 -> 2026-11-14
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-14 | 01_Videos/Bloomberg Television/“Bigger Than a Business Story” Nvidia Shakeup.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Wall Street Week  Nvidia Shakeup, Midwest Stadium Bids, Care Work Gap, India’s Wedding Economy.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Ukraine Peace Push Turns to NATO and Donbas.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Trump Heads to China for Talks With Xi and Putin.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/The Stadium Bidding War Shaking Up the Midwest.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/The Entrepreneurs Behind Poppi Start Over.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/The Billion-Dollar Business of Virtual Public Schools.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/SpaceX Pushes Starship Reusability to New Test.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Nvidia’s Leadership Shakeup Tests AI Chip Giant.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’s Longest Test Flight.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Nvidia Looks for a New Era After Huang.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Looking Beyond Tech’s Recent Market Turmoil.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/How China’s Intelligence Operations Target Tech.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/David Cameron Sees Hope in Alzheimer’s Research.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Couples Are Bringing AI Into Their Arguments.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Carrie Underwood on Her New Wellness Brand, HiNote.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Bessent, Lutnick Clash Over Nvidia China Curbs.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Anthropic IPO Tests Investor Appetite for AI.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/All Airports Are Ground Stopped Until Further Notice FAA.md
+- 2026-11-14 | 01_Videos/Bloomberg Television/Air Travel Chaos Puts FAA Systems in Focus.md
 - 2026-11-13 | 01_Videos/Bloomberg Television/What's Next for Nvidia and Huang Gene Munster and Dan Ives Weigh In.md
 - 2026-11-13 | 01_Videos/Bloomberg Television/We’re Living In An Inflationary Environment Morse.md
 - 2026-11-13 | 01_Videos/Bloomberg Television/Twitch CEO GTA VI Could Be Our Biggest Moment.md
@@ -151,7 +173,6 @@ Date range: 2017-10-25 -> 2026-11-13
 - 2026-11-08 | 01_Videos/Bloomberg Television/How Everyday Apps Feed Police Surveillance.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Congress Returns to a New Political Reality.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Can Europe Afford Its Welfare State.md
-- 2026-11-08 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Asia Markets Brace for More AI Volatility.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Affordability Fuels Populist Politics.md
