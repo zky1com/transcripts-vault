@@ -3,17 +3,17 @@ title: "By The Way: Headlines You May Have Missed"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "RY69c67XJpQ"
-url: "https://www.youtube.com/watch?v=RY69c67XJpQ"
-publish_date: 2026-11-14
-publish_timestamp_utc: "2026-11-14T16:19:48Z"
-duration: "6:40"
-duration_seconds: 400
-views_at_import: 1429
+video_id: "Qum4GUdOoaY"
+url: "https://www.youtube.com/watch?v=Qum4GUdOoaY"
+publish_date: 2026-11-15
+publish_timestamp_utc: "2026-11-15T15:47:58Z"
+duration: "6:43"
+duration_seconds: 403
+views_at_import: 2059
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1415
+word_count: 1453
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,155 +41,154 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1415 words)</summary>
+<summary>Click to expand full transcript (1453 words)</summary>
 
-Welcome back to Bloomberg this weekend.
-Or Bet it's unfair. You always get to do the intro to this
-segment. It's almost like I have allies in the
-control room before the way. And I say beat dubs versus the way you
-say BT does the right way. So I got to tell you, loyal viewer of
-the show and not the brightest crown in the box.
-My brother Joey Ruffini, I was talking about this morning Joe
-and he said, oh, BT dubs Bloomberg this weekend.
-I never put that together. He never understood it.
-So in case other Charlie, we missed it. Bloomberg this weekend bt w Joey they're
-making fun of you. I'm not I just want to point that out
-here. So if you'd like to change the way that
-you saying please feel free. Sorry okay.
-That have you released on the show. So she's going to catch us up on some of
-the stories we might have missed. Let's go.
-So we've been talking right about Gen wrong Nvidia of course.
-Okay, so now some talk about the famous leather jackets that he wore.
-That has been it's been crazy. Okay.
-So this one specifically is from New York magazine's The Cut.
-Okay. It says Jensen Huang's leather jacket
-confessed before he did. Okay.
-So he's known for wearing them, right? Just like Steve Jobs had the black
-turtlenecks, you know, it's like a thing.
-Um, everyone wants it in July. Wanted by Thompson.
-Everyone wants it. Someone paid $960,000.
-Do you remember that? So there be this.
-Do we know? Who know?
-And do we know how much it's worth now? Much less.
-Well, yeah. No kidding.
-That's the question. But the thing is, is that the cut of,
-say, a $9,000 leather jacket is a Tom Ford wearing of a man.
-Yes. Who faithfully goes home to his wife and
-kids after a long day of work. They say that's a man in a midlife
-crisis. Okay, so it sparked so many other
-stories, like The Washington Post had this story saying Jenson One's leather
-jacket were telling us something, right? It says it reads as a textbook midlife
-crisis. I think of the New York Times saying,
-this is an opinion piece. Gentleman betrayed the leather jacket
-community. It is somebody who wears leather jackets
-saying, you know what? You're making us look bad.
-Kara swisher saying the very same thing to me yesterday really said reclaiming
-it. She said from Jensen, when I saw one
-this morning, that was it's not any leather jacket.
-It's that type of leather jacket, the very stiff leather with the, you know,
-it's not worn in. It looks almost overly polished.
-That specific leather jacket? No rivets.
-Is the midlife crisis jacket. I have no kidding on this now.
-I like the motorcycle, just to be clear about that.
-You know. Oh, well, hang out with Matt Miller.
-Were I to buy one, it would be from, like, the boot barn.
-I would want a distressed one, or I just.
-I did just buy one that has, like, studs and stuff in it.
-That's not too fancy for not does not have rhinestones.
-It has rivets. Oh, I
-don't know. Okay.
-Anyway. All right, all right.
-What did take a good one. The other top story okay Microsoft
-outage okay. Remember we were just talking about this
-earlier. Okay.
-So this one's from Bloomberg. Microsoft outage sends traders back to
-phones and fax if they remember how to use the fax machine.
-Okay, Sheen, we have one here Bloomberg. It's part of the printer.
-But do you know how to use it? Is it hooked up?
-Does it work? She doesn't print.
-She doesn't print. It does.
-Oh, God. Let me get you back on track and out of
-trouble. Literally printed for you yesterday.
-Yeah. So.
-All right. People were struggling, right?
-They couldn't get access to all these things.
-But the thing is, it's goes to back what you were saying, Christina.
-People call it like a snow day. So people were enjoying different things
-that they didn't get to do before. Like they said, you know what?
-Forget this. I'm going for coffee.
-I'm going to the gym. I'm going to go do some yoga.
-I'm going to. Do you know what you were doing?
-Let's switch to the gym. And yoga.
-Yes, gym and yoga. And of course, social media.
-People were saying, you know, test it out for a few days.
-Hashtag for day. Weekend.
-Okay. So people wanted to kind of go a little
-bit longer because they were enjoying kind of this detachment moment that they
-were getting. I don't know, I'm even Burger King did
-tweet something and it said whoever's troubleshooting and working on the
-outage, take your time, go out and get a Whopper.
-Very nice. See here.
-So everyone is pitching and pitching, unfortunately for us, the terminal.
-That's great. It was excellent emails.
-Great team. Very good.
-Take care of the bird. All right.
-Everybody was like, did it bother you? I was like, absolutely.
-I don't even know. It was going on for quite a while.
-Yeah, exactly. Okay.
-The competition for air talent we know is huge.
-Right? Okay, so this one's in the Wall Street
-Journal. Listen to what they're getting offered.
-Companies dole out mega paydays and luxury trips to compete for air talent.
-Okay, so we've known that a lot of tech workers have been getting laid off,
-right, due to technology. But there are certain corners of that
-sector where they're heavily recruited. So let me give you example.
-This is a startup serval. They're looking for software engineers.
-Here's what they're offering them. $30,000 signing bonus three.
-Tom, for the jacket. That sure is you.
-Thank you for that math. There might be a deal with you by three.
-I don't know, they're called discount offering.
-It doesn't stop 30,000 to any employees who recommend somebody who gets hired.
-Okay, six leather jackets. And you can do this the whole time.
-Ready? One more leather jacket, David, because
-they're throwing in a vacation worth of 0,000.
-Wow. Which you could wear the leather
-jackets. I could see an attempt, a leather
-jacket, depending on the climate. But the problem, OpenAI anthropic, like
-they're taking all the talent. So now there's a smaller pool, and
-everyone's kind of going for these software engineers.
-And that's why they're being offered these things.
-And it's not just software engineers. People are in construction
-manufacturing. They're getting more by switching jobs,
-because now you need those people for like data center building and things
-like that. Yeah.
-Of course. So these people are in high demand.
-They're getting vacations. I want a nine 0,000 figure trying to
-think if I have any skills, that I'm good enough to warrant that kind of
-recruitment. And as I'm sitting here, I'm coming up
-empty. Next story.
-You got one more place, Thank you. Let's switch first.
-Okay. There's a bargain for a first class
-ticket. Guys, did you know that?
-Okay. Sorry.
-I'm busy getting David. Is there any, like, spoiled?
-Okay, I see this ID. This is from the Los Angeles Times.
-Okay. Frontier.
-Frontier Airlines offering first class seats starting at 29.
-Okay, so it starts March 5th, but it's not what you think.
-Okay, so you have a defined first flight.
-First class for frontier is a little more legroom right okay.
-There's no middle seat. They've eliminated that.
-So you only have two rows each passenger you get your own power port okay.
-Which would you I know I know, but here's the thing.
-It does not include meals or snacks. You kind of pay for your own food if
-first class is kind of in quotation marks.
-Yeah, yeah yeah, yeah. So I mean, the points guy is saying that
-the seats don't even realize you're sick, but it's a bargain.
-You get an outlet. I mean, you get a you get a port to
-charge your phone. I mean, if it is slightly less miserable
-than the experience in the back of the plane, I would probably pay for it.
-But it's a sad state of affairs that can't even have pretzels in a worm.
-So I know you can't. Now you got to pay for that.
-Yeah, right. Well.
+The Match Blu ray game.
+Where are you going? Back to Bloomberg this weekend or b w I
+am David Gura with Christina Ruffini, Lisa Mateo here as well.
+Lisa, with some stories you may have missed.
+Did you force like bribe the control room with bagels to switch these read I
+could obnoxiously say meaty bribery. I'm already under examination for the
+moves I made in pointed yesterday. Yes, that's right, the pocket chips
+trying to come back. Pocket chips.
+Cheaty McCheat. Yeah, it's true.
+There's a lot of talk where our surveillance footage is right there is
+going to do you. It's going to go online.
+I'm going to turn to our more IRA colleague, Lisa Mateo.
+All right. Let's start with this.
+Did you guys know that you can have an I bought actually make a purchase for you.
+Like if you wanted something and it's it can do it.
+I did, but once I turn this on, like, how do you make sure it's not going
+rogue and filling your camera? It's causing a lot of problems.
+Okay. This in the Wall Street Journal.
+Duh, duh. I know I bought using credit cards.
+Banks are racing to keep up so you don't no longer have to click buy right?
+You could set the AI system to do it for you, but you have banks, payment
+companies, merchants. They're all worried about this because
+they're thinking, you know, whether bots are going to lead to elevated cases of
+fraud returns, open new legal risks like these.
+Come on, let's roll. I mean, I don't know if I would have a
+kind of do the make the okay for me. What's on one of the airlines is
+blocking boarded, right. Yes.
+And there are. Yeah.
+So there's different cards though, like Bank of America, Capital One, Citigroup.
+They're being used by the agents. But JPMorgan Chase a little bit more
+skeptical. They're not too on board with it.
+Um, but it's a big problem if you think about it.
+Like you're giving this. I bought control over your money.
+I find the liability side of this fascinating.
+There was a dad I was talking to who said, uh, the agent signed a permission
+slip for, like, son turned in a permission slip for his kid, you know,
+taking care of, like, clerical work. But then what do you mean?
+What does that count? If something happens, I don't know.
+You tell me. I'm not a lawyer.
+I'm not a lawyer. I don't know.
+This is good news for legal. Just raising this is an issue,
+potentially with another issue. I am shocked at how willingly people are
+putting their trust and giving over their lives.
+You're not doing this? No, I don't do any of this.
+Are you gonna get a credit card? Leave her alone.
+I have a credit card. Calm down.
+I don't use it, but I do have. Okay.
+I used debit card. I really do, it's bad.
+So yeah, I do. I use my debit card.
+It's for another segment. I don't like spending money.
+I don't have. Lisa, continue.
+Now we're gonna have to have an off camera kind of say should I?
+Missing out on a lot of points. I'm working on.
+Yes, yes, but just, uh, we'll get to that.
+Okay. Um, okay.
+This one is a good deep dive, um, from Businessweek into how much tech
+companies they're willing to pay to avoid these high profile trials that
+they have with teenagers. So this one's from, uh, Bloomberg
+Businessweek. The confidential payments made, uh,
+mirror and TikTok made to addicted teens.
+So they basically went into it a past few months, biggest social media
+companies, they reached a dozen confidential settlements with teen
+plaintiffs over claims that the platforms damaged their mental health.
+So Bloomberg Businessweek did all the numbers.
+They said they range from about 2 million to 2.5 million.
+So this is what they're paying for settlements, because they don't want to
+go to trial and see what what can happen after that is the threshold.
+What do you have to prove in order to get in front of them to get a
+settlement? It's just it's tough, but there's a lot
+like you don't understand. There's 9800 personal injury cases
+pending. Okay, so it's a lot.
+Um, state and federal courts. Um, that's for YouTube methods.
+Google, uh, for Google's YouTube snap and for TikTok.
+Um, but then you have the school districts, like 2000 School District
+two, um, that have filed all these similar suits.
+So all of these are kind of pending still, you know, to come, but it just
+goes to show you how much is being paid in the settlement so far.
+So it's just kind of a good like business week overall.
+Yes. Very comfortable reporting from Olivia
+Carville, her colleague. Yes.
+And Olivia, she's really been on this story from the beginning.
+Yeah. Um, okay.
+This next story is trending among wealthy families who want to keep the
+kids at home. You know, they kind of like having the
+family time. This is the Wall Street Journal.
+This is the parents building bowling alleys and wellness bars to keep their
+kids home. Okay.
+Yeah, absolutely. He says.
+Do you have an extra $30 million in your apartment to take out another part of
+the 3 million? That's what some parents are spending.
+Yes. To redesign the house.
+Like, now we're talking about bowling. Bowling?
+Well, the sports, but also golf simulators, arcade games, movie rooms,
+golf simulator, I'll give you, because that takes up like five square feet.
+But this is very old school dance studio.
+Kristen. Christina.
+Dance studio and studio. Karaoke room.
+Pickleball courts. The whole shebang.
+Okay, because I feel like this is so late 90s when people did this and then
+never used them, so people stopped building them.
+Well, that's the problem. So parents are spending all this money
+and the kids deals with this. So they're also let yourself go anyway.
+So I know I can go do things in the real world.
+Yes, they will be fine at the bowling alley.
+They will. They're the most horrible thing they'll
+be exposed to is those bowling shoes. They're going to be okay.
+They're going to be okay. But the grandparents are doing it too,
+because the grandparents want the grandkids.
+So the grandparents are going to these like, you know, high end buildings where
+they have, um, teen rooms. Yes.
+So they're paying like millions of dollars for these condos because they
+have the teen rooms and they think their grandkids are going to come visit them.
+Kids are cool now, I don't know, they're not going to see much of the teen room.
+My parents did this when they moved. They built a bar in their basement, and
+they're like, all you and your friends can come over and drink at the bar.
+That's my friends are not driving to the suburbs of drink.
+And I love you, Mom and Dad, but we haven't gotten our invite to go.
+Any time you would like to go to the suburbs of Maryland, my dad would be
+happy to have all I can Lisa, you all right?
+Thank you. This last.
+What? This is a story that went viral last
+year. Okay, so let me kind of paint the
+picture of the story. Okay?
+So this is a raccoon that broke into a Virginia liquor store.
+Okay. Yes.
+He helped himself to about 14 bottles of alcohol.
+And the store manager found him passed out next to a toilet.
+So that went viral, right? It was the essentials getting
+everything. So it brings you to the Washington Post,
+who said the drunk raccoons boozy night has helped raise $290,000 for an animal
+shelter. Okay, this is the drunk raccoon by the
+drunk ranger and personally raised this money to.
+Yes, well, well, they created things like T-shirts,
+cups, mugs. Everybody wanted the merch.
+Okay? It was called Trash Panda.
+That's what it went along with. Okay.
+But then they realized they were making so much money that they did Hot trash
+summer. They did trash trick or trash.
+So they started getting all this money and they reached $290,000.
+There is also are you ready for sports fan back?
+There was a baseball team named the Trash Pandas.
+Okay, maybe it's a connection zone, huh? Well, we'll check that out during the
+break. They got great merch.
+They have great rivers. That's why I hope the record's around.
+He was right. He survived.
+Yes. All right.
+Thank you. So.
 
 </details>

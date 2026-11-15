@@ -1,11 +1,24 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-14T20:15:37Z
-Date range: 2017-10-25 -> 2026-11-14
+Generated at (UTC): 2026-11-15T20:07:54Z
+Date range: 2017-10-25 -> 2026-11-15
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-15 | 01_Videos/Bloomberg Television/White House Braces for Democratic Investigations.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Trump Heads to Asia With Trade, Security at Stake.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/The 1973 Oil Crisis Still Matters Today.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Router Failure Exposes Risks in FAA Network.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Nvidia Fallout, FAA Router Failure, Next Mega IPO.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Nvidia Crisis Reshapes Washington’s Tech Debate.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Inside India’s $130 Billion Wedding Economy.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Congress Presses Nvidia Over China Chip Access.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Can America’s Next Jobs Boom Build a Middle-Class Life.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/Anthropic IPO Arrives at a Pivotal AI Moment.md
+- 2026-11-15 | 01_Videos/Bloomberg Television/AI Investors Brace for Data Center Restrictions.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/“Bigger Than a Business Story” Nvidia Shakeup.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Wall Street Week  Nvidia Shakeup, Midwest Stadium Bids, Care Work Gap, India’s Wedding Economy.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Ukraine Peace Push Turns to NATO and Donbas.md
@@ -23,7 +36,6 @@ Date range: 2017-10-25 -> 2026-11-14
 - 2026-11-14 | 01_Videos/Bloomberg Television/David Cameron Sees Hope in Alzheimer’s Research.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Couples Are Bringing AI Into Their Arguments.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Carrie Underwood on Her New Wellness Brand, HiNote.md
-- 2026-11-14 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Bessent, Lutnick Clash Over Nvidia China Curbs.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Anthropic IPO Tests Investor Appetite for AI.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/All Airports Are Ground Stopped Until Further Notice FAA.md
@@ -173,7 +185,6 @@ Date range: 2017-10-25 -> 2026-11-14
 - 2026-11-08 | 01_Videos/Bloomberg Television/How Everyday Apps Feed Police Surveillance.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Congress Returns to a New Political Reality.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Can Europe Afford Its Welfare State.md
-- 2026-11-08 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Asia Markets Brace for More AI Volatility.md
 - 2026-11-08 | 01_Videos/Bloomberg Television/Affordability Fuels Populist Politics.md
 - 2026-11-07 | 01_Videos/Bloomberg Television/Young Travelers Are Warming Up to Cruises.md

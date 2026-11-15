@@ -3,17 +3,17 @@ title: "Bookmarked: News Stories On Our Reading List"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "VSrpmavd1W8"
-url: "https://www.youtube.com/watch?v=VSrpmavd1W8"
-publish_date: 2026-11-08
-publish_timestamp_utc: "2026-11-08T16:32:28Z"
-duration: "6:20"
-duration_seconds: 380
-views_at_import: 1957
+video_id: "-Fp1_gSbR3E"
+url: "https://www.youtube.com/watch?v=-Fp1_gSbR3E"
+publish_date: 2026-11-15
+publish_timestamp_utc: "2026-11-15T15:52:53Z"
+duration: "6:28"
+duration_seconds: 388
+views_at_import: 1753
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1342
+word_count: 1284
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,139 +41,133 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1342 words)</summary>
+<summary>Click to expand full transcript (1284 words)</summary>
 
-These are some of the stories on our
-reading list this week. Guys.
-It's been a heck of a week. I don't know how much bandwidth we had
-for non emergency reading. Um, but I did see that the Met Gala.
-You're going to go first. I am your prerogative.
-Go ahead. And I looked at neither of you looked
-incredibly enthusiastic. I seem to be saying something deeply
-philosophical, so I was just going to let that play out for me.
-No, that's your for me. Okay?
-Okay. No, no, I'm not going.
-David, what you got? Oh come on, you already teased.
-You have to go to go. All right.
-So the Met Gala has come, I will produce the segment is by us.
-Right. We really have put some thought into who
-goes first. Has picked a new theme.
-This is the gala at the Metropolitan Museum of Art.
-So when you went in the red carpet first Monday in March, legendary.
-Fancy all the celebrities in their crazy outfits.
-Yes, they had chosen controversial designer John Galliano, who a couple of
-years ago said some very anti-Semitic comments.
-He was basically canceled gender, the industry.
-He's had a bit of a resurgent. His clothing, for better or worse, is
-huge and theatrical and stunning. And fashion people were very excited
-about this. This was a misstep on there, but it was
-a huge I mean, I'm going to editorialize and just say it was a silly move.
-It was kind of crazy. And he's also been persona non grata
-because he's not somebody you want fronting the Met Gala.
-Yeah. So they had to pull it back and cancel
-it. And now they have decided extraordinary
-fashion and the politics of every day. So people are joking with him.
-Yeah, people are joking. They finally did it.
-You can show up to the Met Gala in jeans and a t shirt with Dockers.
-Unclear. It's always a little bit amorphous and
-kind of open to interpretation, but this is not generally what people want to see
-from the met. You're not excited by this?
-No. You want to see your most absurd,
-outlandish outfit? That's the whole point.
-The year they did the Vatican theme was incredible.
-You know, camp was a great theme. What was the theme this year?
-Do you remember actually where we were? I can't remember.
-We were there with. Wow.
-We both guys were killing me. All right.
-You keep reading it all. Remember?
-I'll remember. Anyways, um, here's an article that
-caught my attention, published by the New York Times.
-We. I was on a plane this week.
-I flew from Raleigh to LaGuardia. Apparently the FAA still relying on
-floppy disks for the day to day work that it does.
-Unbelievable. Actually, this is an amazing piece
-looking at the history of floppy disks and how they're still part of a lot of
-the technological infrastructure that Washington relies on.
-And I remember going to the FCC when I was a reporter in Washington, and I was
-astonished by how much of the computers that they use are still like mainframes
-from many decades ago. But anyways, floppy disk, my kids
-wouldn't be able to recognize them or know what they are.
-Um, but these are like the three and a quarter, sorry.
-Three and a half. Four, five and a quarter.
-I can't even remember the size. I don't know, I did see a thing online
-where someone was explaining why the save icon looks like that to a young
-person, and I just felt like, oh, yeah, that's right.
-It's true. They don't know what that means.
-Smart thing was costume art. Yeah.
-I just wanted to test you. They're unfairly putting you in that
-spot, but they still make these for you. That's a good question.
-And according to this article, um, they're used for data, including pilot
-reports and advisories. They put them into their consoles.
-And I will say that the silver lining here is the FAA is reforming its air
-traffic control systems. Uh, and they're beginning to change all
-of this. So this is on the way out, but still
-astonishing that in 2026, floppy disks are still being used.
-Maybe. Maybe they wait.
-Maybe they're AI hacking proof. Maybe this is a good thing to have a
-harder copy of that information. That's a very good point.
-Not addressed in the article. I will say here it closes by saying.
-As for the FAA plans to fully install the new system at 400 sites by the end
-of 2028, so still some time for this. So we'll be back with this to be
-continued. That is crazy.
-Yeah. All right.
-I'm going to jump in. Um, because I always go out there.
-This one is about McDonald's McRib here. This was the this was the top of the
-Little League game yesterday. Was it really?
-Yes. Okay, so the McRib, but were they in
-1980? 1981 is when it started.
-Okay, cult following that the whole thing was McRib.
-So it's processed pork in the shape of a rib rack, but is okay.
-But that is the question. Okay, so there was this judge in Chicago
-ruled that the class action lawsuit, because there is one against it, could
-Persist because okay, the question is yes.
-Is it made of rib. So it's it's pressed into the shape.
-Right. Um, rib is in the name.
-But rib meat, which is pricier than in other parts of the pig is nowhere to be
-found. Okay, so the question is what exactly?
-Okay. So let's see what's in it.
-Okay. So this is like with the thing with like
-this account is really meat. Okay.
-Can I get I can't um so okay what about this I focus what our favorite McRib
-sandwich is made with one. This is from the company.
-100% pork, sourced from farmers and suppliers across the U.S..
-There are no hearts. There are no tripe.
-There is no scalded stomach. Because those were things that people
-were saying, we're in it. That's not in it.
-They're saying it's scalded stomach. Scalded stomach.
-I know it is not in the McRib. Um, but it's different portions of the
-pig. I guess you could say Lisa, but I mean
-your entire life. Yes.
-Have you ever eaten in a gram there? God.
-And it's me. It's not Filet-O-Fish.
-Uh, I think I actually have done. The fish had a fillet.
-Um, anyways, this was very much the talk among the lawyer dads of the game.
-And what did they say? Oh, it's a creative lawyer and they're
-going to win. I think they won.
-Right. Or it's like, I don't know where we are
-in the status of all of this, but it sounds like it's looking more toward the
-people who filed a class action so they might lose it.
-I don't know what happens with it, but we'll see.
-I don't know if people were excited when they brought it back because they took
-it away for a while. We have a producer.
-I have a producer pick for you a lot of time.
-This is the National Toy Hall of Fame. We have a few new ones.
-Okay, okay. This is fun.
-Bingo. Care bears, the Pokémon trading card
-game, and the humble playground slide. All now in the toy.
-I don't know if that's the same boy. Okay?
-Like it? Just like how many years it bears.
-It's also just slight gravity. I mean, people have been sliding down
-things, I know, but the Care Bear, the Care Bear stare.
-I love the game Prince. They were fun.
-They said bingo is now with the younger generation.
-They play bingo now. So that's why the joined by the old and
-the other favorite game, Human Care Bear.
-Uh, yeah, we did bring muffins. Thank you.
-Thank you all.
+Bookmarked some of the stories on our
+reading list over the course of this week, and I hope again, we talk a lot
+about fancy travel on this show. The things that you can do at a resort.
+I got a lot of, you know, go to a resort, sun and fun about foraging,
+foraging, looking for vegetables and fruits like the grasses you might
+truffles. Sure.
+Like for a higher end. Well, this is a thing that many places
+like Native Desperation leased and not sold on this side down nature retreats,
+remote restaurants around the world, off the types of places and featured local
+ingredients on their menus for years are now offering foraging excursions.
+This from a piece of the New York Times Travel Magazine story style magazine in
+the travel section. Um inns and restaurants all over the
+world offering these pros. You stay at a fancy inn.
+Okay, uh, known for its good cooking, and you spend, uh, maybe an hour or two
+hiking around the grounds. So is it, like flipping grass?
+Like, way back? And then you cook the way I think the
+farm to table more is like, they're doing that for you.
+And cooking from the fruits of the farm, I got it.
+This involves you actually having to go do it.
+I got to tell you, this is giving like Marie-Antoinette playing milkmaid is.
+Have these people never worked on a farmer.
+Well, I know. Or is it expensive?
+It is expensive. Oh, I knew it.
+Come on. Lisa.
+There's an app called Falling Fruit you can use to map your current environs, to
+see if there are things that you might forage for.
+A crowdsourced online map of edible plants around the world.
+Um, look, it's happening with entrees. It's happening with drinks as well.
+There's a bartender quoted in the piece. He sets up an alfresco bar, teaches the
+guests to muddle the fruit and herbs they found to make their own.
+This is peak mocktails, not just in Britain, though.
+They have it on Prince Edward Island, the edit Bay fortune, Peru's sacred
+valley. There's a restaurant that's doing this
+as well. Um, one involves a guided walk around a
+4.2 acre property and a thousand acre resort next door.
+Uh, you can pick meadowsweet. Hadn't heard of meadowsweet before.
+A grass which apparently tastes a bit, I think, like cilantro.
+Wild garlic. You can pickle those in pieces.
+Just tap anyway to expand your horizons for vacations.
+I'm going to go next because if you are out foraging, whatever the cilantro
+grass was um, you may, if you're in Hungary, come across some cash.
+We've talked about the credit crunch. People are worried about their tech
+investments. Maybe a way to mitigate that is go for a
+walk in Hungary, where investigators have found $20 million in cash.
+So don't take a metal detector. We're talking about a paper bill Tabor
+bill stashed in forests, barns and warehouses in the countryside.
+This stems back to an investigation of former President Viktor Orban.
+Some of his ministers, um, they went out and looked for.
+These guys are accused of taking bribes. And, uh, Peter Matter, who was covered?
+Yes. War bonds.
+Yes. One of the reasons he got swept into
+office is, much like we've heard in the United States, this desire for
+anticorruption and for investigations. And they went out and they found a lot
+of cash. And there's photos of it on social
+media. Um, Orban says all of my ministers were
+immaculately clean and untouched by graft.
+But the visuals, um, the bills look pretty clean, too.
+Wrapped in that duct tape and black plastic bag you got to keep you gotta
+keep the rodents out of them. This is what I've learned from watching,
+you know, movies about drug dealers. They always.
+Would you be back here next week if you found $20 million in bills in Central
+Park, I would, but only for an eight year wait, wait, wait only for a short
+period of time. A short period of time with you, I got
+it. I got a slow roll.
+My exit plan. Lisa, what do you got?
+All right. This story actually, um, it ties into
+how you were lovingly kind of putting your brother to shame yesterday.
+Yeah, I do remember. I hope that was loving.
+Okay, so it was lovingly just for those of you who missed it.
+Um, take a listen. Let us refresh your memory.
+Lisa, I got to tell you, loyal viewer of the show and not the brightest crayon in
+the box. My brother, Joey Ruffini, I was talking
+about this morning, and he said, oh, Betty Dubs this
+weekend. I never put that together.
+Joey, they're making fun of you. I'm not.
+I just want to point that out here. There is a giant nerd in the Ruffini
+household. They're very upset about this.
+Yeah, well, he. Because he's a member of the founding
+team of Marvel, and he's going to be a drag on the show today.
+It's in your poor brother. Okay.
+So. Yes, please.
+What is your pick? The science is in.
+Big sisters are good for everyone. Yay!
+There you go. Okay, so this is eldest daughter
+syndrome. Okay.
+Let me see the term. This is a
+a cocktail of perfectionism, self-sacrifice, guilt and sibling
+resentment. Thanks to the double whammy being the
+oldest and a girl. Is this how you feel, Christina?
+Do you want to. I feel like you want to lie on the couch
+right there and feeling deeply sick. You to therapy?
+No, I have no idea what aggressive perfectionism or any of those things
+are. But you know who might.
+We have someone here for you to talk to. Joey.
+No way. Yeah.
+No he's not. Good morning.
+Joey. Are you kidding me?
+Good morning. Hi, Joe.
+Great to talk to you first. You know, I did my defense of you, my
+vociferous defense of you on the show yesterday.
+Uh, Joe, I have appreciated both you and Lisa defending my.
+Thank you so much. As I sit here in my boot pod racing
+Championships t shirt. Wow.
+The nerd crowd is real, but I feel as though I do take a lot of unnecessary
+abuse for the services that I provide for this service.
+Tell us more about the services we provide because it's.
+That's big sister Joey. She actually was she was a spiritual
+leader of me. When she was not beating me up, she was
+beating up my bully. That's true.
+Only I am allowed to pick on my brother. If anyone else picks up my brother that
+night, and that's that's not okay. But like, she let me live on her couch
+for six months while I was figuring out my professional life.
+And after college, she's kind of like a porcupine.
+Like the sweetness and the big hair are all just an act.
+There's actually a very kind heart there.
+Oh, Joey. Yeah.
+Oh, this is so sweet, Joey. I'm afraid that's all the time we have
+for. Oh, my God, I will be like, six minutes
+by control. Oh, my God.
+We need the post Thanksgiving debrief as well, so we'll get him back on the show
+on that one. We do.
+Thank you to Joey. Wonderful and all of you for that
+moment. That was a surprise to me as well.
+So my gosh, you guys are the worst of our producers a porcupine.
+All right, this is it. I'm I'm going to get your family
+members, your pets here. Psychoanalysts.
 
 </details>
