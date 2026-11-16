@@ -1,11 +1,38 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-15T20:07:54Z
-Date range: 2017-10-25 -> 2026-11-15
+Generated at (UTC): 2026-11-16T20:26:49Z
+Date range: 2017-10-25 -> 2026-11-16
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-16 | 01_Videos/Bloomberg Television/Will a Train Disaster Shift Spain Right.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/What to Watch for in Nvidia Earnings.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/What to Expect From Trump’s Trip to Asia.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/US Reportedly Eyeing Tougher Curbs on China Chip Access.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Trump, Xi, Putin To Meet as Jensen Huang Reportedly Eyes Nvidia Comeback.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Trump To Meet Xi, Putin in China After US Midterm Loss.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Trump Supports Nvidia Bringing Back CEO Jensen Huang (Full remarks).md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Trump Says Jensen Huang Did Not Put National Security at Risk.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Stocks Fall Ahead of Nvidia, Trump-Xi-Putin Summit; Huang’s Potential Return to Nvidia.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Shenzhen’s Manufacturing Power Draws Wave of Innovators.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Retail Traders’ Power Fuels Volatility Market Analysis.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Open Interest 11162026.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Nvidia’s CEO Search Draws Fire; ‘Max Overweight’ on Stocks.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Nvidia’s CEO Search Draws Fire With Bessent’s Shakeup Call.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Nvidia Fallout Puts ASEAN's Tech Boom in Focus.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Nvidia Crisis a ‘Boon’ for US AI, Says Nouriel Roubini.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/JPM’s Michele ‘Looks a Bit Silly’ Fed Missed Oct. Hike.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Jeff Currie Says He’s Bearish on Copper Due to China.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Iran Targets Bahrain, US Deploys Aircraft Carrier.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Iran Targets Bahrain Base as US Deploys Third Aircraft Carrier to Middle East.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Fed's Warsh Says Staff Are Sketching Out AI Contingencies.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Cleveland Fed's Hammack on Rate Policy, Inflation Targets, AI.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11162026.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Before Trump Gets to China, He's Stopping in Manila.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Bank of America CEO Moynihan on IPO Pipeline, AI, Consumer Strength.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Anthropic IPO, Nvidia Fallout in Focus; World Leaders Gather in Asia.md
+- 2026-11-16 | 01_Videos/Bloomberg Television/Anthropic IPO Is Delaying Some Deals, Says Bank of America CEO Moynihan.md
 - 2026-11-15 | 01_Videos/Bloomberg Television/White House Braces for Democratic Investigations.md
 - 2026-11-15 | 01_Videos/Bloomberg Television/Trump Heads to Asia With Trade, Security at Stake.md
 - 2026-11-15 | 01_Videos/Bloomberg Television/The 1973 Oil Crisis Still Matters Today.md
