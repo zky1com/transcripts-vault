@@ -1,11 +1,34 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-16T20:26:49Z
-Date range: 2017-10-25 -> 2026-11-16
+Generated at (UTC): 2026-11-17T20:24:36Z
+Date range: 2017-10-25 -> 2026-11-17
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-17 | 01_Videos/Bloomberg Television/Widespread Gloominess Is Already Priced Market Analysis.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Vance Says US Won’t Stay in Iran War for Years as Oil Drops on Supply Recovery.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/US to Curb China's Nvidia Access as Trump Goes to Asia.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/US Targets China's Remote Chip Access With New Curbs.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/US October Retail Sales Slow, But Beat Estimates.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/US Moves to Curb China's Remote Access to Nvidia's AI Chips.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/United Airlines Says It Has a Widespread System Outage AP.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Trump Kicks of Asia Visit in Manila Ahead of Xi, Putin Talks.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Trump Focuses on Chips and AI Security at Quad Meeting.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Continues.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Stocks Waver Ahead of Nvidia Earnings; Trump Kicks Off Asia Trip.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Open Interest 11172026.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Nvidia Fallout Hits Southeast Asia Hard.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/New Street's Ferragu Sees Strong Case to Buy Nvidia Shares Ahead of Earnings.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Exemplar Luxury CEO Says Growth Plan Is on Track.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/El-Sayed on Working With Trump, RFK Jr. in Washington.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Clampdown on China Chip Loophole; Nvidia Earnings Countdown.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Canada's Carney Meets China's Xi in Shenzhen.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Breaking Down US Order to Restrict China's Access to High-End AI Chips.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11172026.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Anthropic's IPO Is Here And The US Economy Is Riding On It.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/Anthropic IPO What Australian Investors Need to Know.md
+- 2026-11-17 | 01_Videos/Bloomberg Television/2026 is Year Where the 'AI Boom Became Debt Finance,' Says Wigglesworth.md
 - 2026-11-16 | 01_Videos/Bloomberg Television/Will a Train Disaster Shift Spain Right.md
 - 2026-11-16 | 01_Videos/Bloomberg Television/What to Watch for in Nvidia Earnings.md
 - 2026-11-16 | 01_Videos/Bloomberg Television/What to Expect From Trump’s Trip to Asia.md
