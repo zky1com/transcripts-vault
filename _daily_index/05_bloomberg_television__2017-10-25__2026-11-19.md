@@ -1,11 +1,75 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-17T20:24:36Z
-Date range: 2017-10-25 -> 2026-11-17
+Generated at (UTC): 2026-11-19T20:16:44Z
+Date range: 2017-10-25 -> 2026-11-19
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-19 | 01_Videos/Bloomberg Television/Xi Hosts Trump at APEC Summit in Shenzhen.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Xi Hosts 'Groundbreaking' Trilateral With Trump, Putin.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Walmart Boosted from E-Commerce, Agentic Shopping.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/US Futures Rally on Anthropic Record IPO; Trump, Xi, Putin Meet.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Trump, Xi, Putin Set New Priorities After Historic Meeting in China.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Trump, Xi and Putin Hold Talks at APEC Summit.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Trump, Xi & Putin Hold ‘Groundbreaking’ China Summit.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Trump Calls Putin 'My Friend' as Xi Prepares to Host Trilateral Meeting.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Seeing More Asset-Management Consolidation Goldman’s Nachmann.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Open Interest 11192026.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Nvidia is 'Biggest Case of Industrial Espionage' in US Stock Market History, Says George Noble.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Jane Fraser on IPO Pipeline, AI, & Interest Rate Outlook.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/How India’s Tata Is Embroiled in a Succession Battle.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Grand Theft Auto VI Lives Up To Hype.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Flight To Quality in AI Financing Raghavan.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Europe Won't Go Back to Buying Russian Energy, Says Secretary Wright.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Dollar and Commodities Hint at Cooler Growth Ahead Market Analysis.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Dario Amodei Says Safety Is Part of Anthropic's DNA.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Citigroup CEO Jane Fraser at Bloomberg Newsmakers Event.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/CITI CEO Jane Fraser  Bloomberg Newsmakers Interview.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11192026.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Apple’s Software Problem with Joanna Stern  Power On with Mark Gurman.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic’s Valuation Seems Justified Thakker.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic's Record-Breaking IPO.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic's IPO Is Here and the US Economy Is Riding On It 2.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Tops SpaceX With $107.3B Raise as Trump and Xi Meet at APEC.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Shares Soar Above IPO Price, Then Fall.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Shares Set to Soar.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Shares Indicated to Open 25% Above IPO Price.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Sets Record With $107 Billion IPO - What's Next.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Set for Historic Debut on the Nasdaq.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Raises $107.3 Billion in Watershed AI Debut.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Is Said to Price IPO at $83 Per Share.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic IPO Raises $107.3B to Top SpaceX's Record Debut.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic IPO Fuels AI Enthusiasm.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic IPO Draws 'Massive Enthusiasm' From Investors Ludlow & Bloxham.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Gray Markets Indicate First-Day Pop After Record IPO.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic CFO on 'Democratizing Access' to Company Stock.md
+- 2026-11-19 | 01_Videos/Bloomberg Television/Anthropic Begins Trading on Nasdaq at $111.50.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-Huang Earnings.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Xi Greets Trump Ahead of Bilateral and Trilateral Talks.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Warsh Is Closer to Waller on Fed Policy, Gopinath Says.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/US Strikes Iran’s Qeshm Island as Bahrain and Kuwait Face Fresh Drone Attacks.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Trump, Xi Hug Ahead of Unprecedented Talks with Russia’s Putin.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Trump Set to Meet With Xi and Putin in China.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Trump Heads to China for Xi, Putin Summit.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/The End of Big Law Transparency  Kirkland and Paul Weiss Stop Reporting Financial Data.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Stocks Rise After Nvidia Earnings; Xi Welcomes Trump.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Stocks End Lower For A 4th Straight Session, Nvidia Earnings.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Rubio Tries to Calm Fears Over Tech Outages and Failures.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Putin and Xi Close Ranks Ahead of High-Stakes Trump Summit.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Open Interest 11182026.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Nvidia's CEO Issues May Only Be the Tip of the Iceberg, Great Hill's Hayes Says.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Nvidia Says It Can Thrive Without Jensen Huang.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Nvidia Offers Relief to AI Trade, US Hits Island in Hormuz.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Nvidia Is Still a Buy With or Without Huang, Ives Says.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Metal Prices In Free Fall Flash Warning Market Analysis.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Mahindra Three-Wheeler EV Firm Considers IPO, New Plant.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Fed Minutes Leave Door Open to Larger December Rate Hike.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11182026.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Balance of Power Late Edition 11172026.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/Anthropic IPO Is Fairly Priced, Says Dharmesh Thakker.md
+- 2026-11-18 | 01_Videos/Bloomberg Television/AI Trade Is ‘Alive and Well,’ Says Edward Yardeni.md
 - 2026-11-17 | 01_Videos/Bloomberg Television/Widespread Gloominess Is Already Priced Market Analysis.md
 - 2026-11-17 | 01_Videos/Bloomberg Television/Vance Says US Won’t Stay in Iran War for Years as Oil Drops on Supply Recovery.md
 - 2026-11-17 | 01_Videos/Bloomberg Television/US to Curb China's Nvidia Access as Trump Goes to Asia.md
