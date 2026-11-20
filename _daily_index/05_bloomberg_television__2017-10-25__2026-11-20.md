@@ -1,11 +1,30 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-19T20:16:44Z
-Date range: 2017-10-25 -> 2026-11-19
+Generated at (UTC): 2026-11-20T20:15:03Z
+Date range: 2017-10-25 -> 2026-11-20
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-20 | 01_Videos/Bloomberg Television/USTR Greer on Chip Curbs, Rare Earths, US-China Trade.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/US-Iran Conflict Escalates as Senate Rejects Bid to Block Further Strikes.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/US Chip Curbs Ignite Fresh AI Jitters Market Snapshot.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Trump Tells European Leaders That Putin Wants Peace.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/The City at the Center of AI.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Open Interest 11202026.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/India-US Trade Ties After Shenzhen Meeting.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Goldman’s Tim Moe on Upgrading India, Prefering Korea Over Taiwan.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Global Tech Stocks Tumble Has the AI Bubble Burst.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Global Stocks Set for Worst Run Since 2023 as AI Enthusiasm Fades.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/European Tech Stocks Fall As AI Trade Buckles.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Documents Released by House Panel Show AI Chip Approvals.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Can Manchester United's New Coach Fix All the Problems.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11202026.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Asia Stocks Drop in Wake of Anthropic's Record Debut.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Anthropic Soars Then Slips as AI Trade Fears Linger.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Anthropic Slumps as AI Selloff Deepens.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/Anthropic Pop Is Followed By a Fizzle Market Analysis.md
+- 2026-11-20 | 01_Videos/Bloomberg Television/AI Trade Unravels; Anthropic Drops After Strong Debut.md
 - 2026-11-19 | 01_Videos/Bloomberg Television/Xi Hosts Trump at APEC Summit in Shenzhen.md
 - 2026-11-19 | 01_Videos/Bloomberg Television/Xi Hosts 'Groundbreaking' Trilateral With Trump, Putin.md
 - 2026-11-19 | 01_Videos/Bloomberg Television/Walmart Boosted from E-Commerce, Agentic Shopping.md
