@@ -3,17 +3,17 @@ title: "Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "0jC6z__3gJs"
-url: "https://www.youtube.com/watch?v=0jC6z__3gJs"
-publish_date: 2026-11-14
-publish_timestamp_utc: "2026-11-14T16:22:14Z"
-duration: "6:18"
-duration_seconds: 378
-views_at_import: 1418
+video_id: "e2Z0wpq72F8"
+url: "https://www.youtube.com/watch?v=e2Z0wpq72F8"
+publish_date: 2026-11-21
+publish_timestamp_utc: "2026-11-21T15:50:11Z"
+duration: "6:03"
+duration_seconds: 363
+views_at_import: 7047
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1297
+word_count: 1150
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,78 +41,132 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1297 words)</summary>
+<summary>Click to expand full transcript (1150 words)</summary>
 
-I would like tea like you've got tea
-to spill. I do like my ambitions for this segment.
-Wow. Alright. It's gonna be fantastic. You guys are
-gonna love this. Okay. Set the stakes. I will... Here it is for you. Okay?
-Yes. So for those of you playing along, please do play with us because it's a
-lot of There are three categories, and they each have 30 chips in front of them.
-As they hear each category, they are going to place their bets. It's harder than usual on how they feel
-about finger categories. She has hurt her finger. We should note
-that. How's the finger doing? It's good. I took the cast off so
-you wouldn't mock it on TV. It's doing much better for stop me. I'm sorry. Nothing will stop it. Nothing will
-stop it. Alright. Are you ready for your three categories? Absolutely. And then you're gonna write your answers on your whiteboards. Okay. Let's
-get to the categories first, and then you place your bets. That's the first move. Uh-huh.
-Okay. First is IPOs. Okay. Second category is movies, and third category is m and a.
-Wow. Mergers and acquisitions. Wow. I see who am or saved this week. How? I know. So how do you feel
-then? So maybe you won't put it all on m and a? I don't know. No. I'm I was tempted to do that, but
-I don't have much more faith in these other categories. So I might just pull the
-Raffini Even? Even Steven. Even Steven. Split. Yeah. And Steven. Oh, you're both doing the same. Boo. Okay.
-Here we go. Let's go to the. Happy Saturday to you too. Category
-question. Our international audience, Lisa Mateo. Let's go to IPOs. IPOs. Oh, wait. Anthropic
-is set to go public with a valuation of $1,400,000,000,000. So name what company valued higher
-during its debut. Okay. Well Who valued higher than that? Okay. There was
-one company who did. Yeah. Okay. You ready? Are you ready? I'm
-ready. I'm ready. SpaceX. Let's see. Christina? No. I thought it was Google. No. SpaceX. It was SpaceX.
-Oh, that was alright. No. That was that was easier than I thought it was. You know? You made it harder than it was. Because when we were getting ready to talk
-to Barry, was looking at easy with your finger. Something something about the oversubscriptions and the...
-Alright. Well I get your chips. Actually, SpaceX debuted at
-1,800,000,000,000. That was really dumb of me. Yes. Yes. Okay. Overthought it. There we go. No worries. No worries. I will hold on
-to these because you can get them back in the bonus back in the bonus round. Back, Christine. Save me to grow up. Be a little less smug.
-Little less. Sorry. Lisa, let's go to movies. Movies. You're Okay. You've got this. Jeremy Lacham has been tapped by Skydance to
-be the president of what studio? Oh, I do know this one. Oh, yes.
-Yes. I love it. I love it. What is the name of
-that studio? He's thinking he's thinking tick tock tick tock. Jeremy Lacham. Okay. I wrote Paramount. DC. DC, Christina. Alright. Well So what does that mean, Christina? Tied. That means So James Gunn is out. This
-guy is in. Wow. You knew the names. I did. Wow. How is that the case? I... There is a giant nerd in the
-Raffini household who's very upset about this. Yep. Well, he... Because he's a member of
-the founding team of Marvel. Then right at Marvel is so drag on this show
-today. It's in your poor brother. But that's the
-whole thing with this. So he... He's one of the founding teams of a Marvel, know,
-who does Iron Man and Guardians of Galaxy and all those things. So And very successfully. Yes. Yes. Yes. Controversial. So it's been... Except for Supergirl, which
-was me. Yeah. This is... There's but always one. Winners. Can't all be winners. There's only one. Supergirl. So we're at a
-tie right now because I have both of yours. Thanks for your to Yeah. It's an M and A. It's gonna be the exciting factor. Thanks for
-this, Lisa. Alright. Here is your question for M and A.
-What artificial intelligence on demand doctor service was recently acquired by Aura? You know, the artificial intelligence What is the name of this artificial intelligence on doctor service? I know if not. It's a tough one. I don't know. This
-one, I I I have not heard of, so I will give it to you if
-either of you get this. I don't know. It's something to do that was also a
-legal word. It... Was it counsel? You did not get it right. Really? Yes. It is. I wrote what's up doc. It's not what's up doc. Counselor advocate. It was counsel?
-It's counsel. Wow. Christine, at that. Late search coming for the Alright. That was as shocking
-as me for me. So they acquired them for $625,000,000. Council is
-actually in the Oura app, so it allows you to kind of ask questions about your
-health and then receive AI answers to draw on that Oura data that's already in there.
-So, Council, who knew? I did this video. That means that I get your chips. Come on. Pass them
-along. Pass them. Thank you very much. Christina is in the lead. But we have a
-book. Wait a minute. You can't steal her chips.
-Wait a minute. Okay. For our radio listeners, David Gerard just piled a... He just took
-a stack of chips out of his pocket that we received. Camera. There's no evidence of
-that. Tim, we gotta talk to director Tim. I
-can't believe you missed this shenanigans. Why were we implicating you? Very sly with that. That was a very smooth move. Put those
-away. Back in my pocket? Put them back in your pocket from whence
-they came. Alright, Lisa. I swear if I don't get this phone, I'm coming for you. He's watching. You know? Pulled him out of his pocket. It was very fast. Alright. She... You could earn him back, so
-don't worry. Okay? You keep them in your pocket, David girl. Food and beverage is our
-bonus. You don't deserve them back. Alright. Food and beverage. Food and beverage. You're gonna get this. You're gonna get this. Which popular
-brand of fruit based treats is getting $60,000,000 investment from Mars. Fruit based treats? Yes. They are fruit based treats. Oh. And
-they're getting 60,000,000 from Mars. I know what this is. Because they're good. Keep them in the fridge. I eat them. I still can't remember what they're called. Yes. Yes. They're so yummy. I love these
-things. Okay. I actually don't know what you're It's something like tootie fruity, but it's not
-tootie fruity. You're correct. It's not tootie fruity, but you're
-close. You keep not even a guess. I couldn't even guess lifesavers. No. No. It's not a lifesaver. Fruit. Fruit.
-Fruit. Fruit. Yes. These are really good. They are good. They're like a frozen, like,
-snack dried fruit, and they're covered in, like, dark chocolate or milk chocolate. They're so They're great. They have fewer calories than giant
-hunk of chocolate. I love them. They are quite expensive, I will say. The lady at didn't get the the bonus, but you can't Oh, look at that. Tied it up again. Thank
-you very much. You can test your knowledge on all 10 questions. You can take the
-point of your quiz at bloomberg. While playing this quiz. Point. Nobody's gonna judge you. You can play
-it yourself on the Bloomberg business app or bloomberg.com.
+It's time now for this weekend's Point
+of News quiz. Lisa Mateo here, as always, to quiz us
+on and keep us honest. She was in lesser known stories, the
+ones we should have read but didn't. Yes, it is the best way to put this is
+going to be a tough one. But yeah, no, I have no.
+We got so much entertainment this week. I know, I don't know how many bad
+stories. This week we had a presidential trip.
+We had stock market shenanigans. Yeah I know that's right.
+It's a it's a lot guys. But when you are in our three categories
+or right category that's all we have because you have your 30 chips safe to
+place your bets on how confident you feel about each category of this.
+How do you feel about video games? Video games for kind guy
+who's doubling up on that double up with David Gura doubling up on that.
+Okay, second category in the video. Um, maybe I should double up on that.
+I'm worried about that. I'm worried it's going to be something
+like, oh, no, I'm a devil. You are okay if you lose them all.
+Well, and the third category is South South Korea, Republic of Korea.
+Are you putting nothing on that? I'm getting nothing on.
+All right. Why do you split?
+Let's do it. Even Steven across the board will be a
+bonus for the way to preserve this very agreeable bonus round.
+Yeah. All right, you guys have your bets set.
+Let's start with our first question for video games.
+Ready games. You got this.
+You got this one. Okay.
+What American city is the newly released Grand Theft Auto of my day?
+I think you should play, Don. It's an easy one.
+I know you guys got this. Okay.
+Ready? You want to flip it?
+What do you got? Miami.
+My city. Correct?
+Correct. You should have saved your second guess
+yourself every second. Guess myself.
+But actually, local leaders in Miami are worried because they're thinking, you
+know, we the this is like, you know, this family friendly police and this car
+theft. And listen to Miami.
+It is a mix of all it is a mix of. That is why it's it's a great place
+okay. But it did pretty good 3.79 billion in
+sales and the household was Response will tell you the household is playing
+strong and still going. Have you watched the game being played?
+I have it looks like a movie. It looks really cool.
+I don't know what I really like. I'm not a gamer, I'm not either and I
+don't know how I'm bad at it, but it is cool and it's cool.
+And they will DoorDash throughout the night to get that game finished.
+Let's go on to it. Okay.
+All right. I won't ask any more questions.
+So I'm doing a video as of could I get my son in trouble?
+Uh, here is your question for Nvidia. What is the name of the data center chip
+model that in video is no longer selling to China?
+I know, Christina, my apologies. That's it.
+Like, I'll I'll repeat the question just in case.
+Okay. So what is the name of that data center
+chip model that Nvidia is no longer selling?
+I actually read this and thought, I've never heard of that before, and it
+definitely didn't stick in my brain. I wrote the 1001 thousand.
+Good, good try. Good try.
+No, the less awesome one, the less. Those are good try, guys.
+I'm impressed. It is Hopper.
+Um, yeah. I never heard of the actual name.
+Maybe. Can we check that?
+No, no, no, we we can't check that. If it's Hopper is the nickname of it.
+You just. Oh.
+Uh, yeah, I get the points. Oh.
+They're checking. Okay.
+Oh. Maybe real.
+Oh. No room.
+Let's get that. I just want to make sure it's not.
+No, no, no, I continually said I will. I am the judge of this quiz.
+And I say no is we have a team of arbiters.
+Negative. Yeah.
+Go ahead. Okay.
+Yeah. Let's move on to South Korea okay.
+Shall we? All right.
+What do we have to score here? The game is a wood chipper when it comes
+to the world trade because you doubled up on Nvidia David.
+So I guess you press hubris okay. Okay.
+South Korea here it is. Okay.
+South Korea suspended flights and they delayed its stock market opening for so
+noon. Um what type of event is that.
+So news. So news A
+is that the problem? It's a big can I call a it's a new.
+Yes. Cannot spell today or son what type of
+event. What type of event is it.
+Yes. What is that.
+It's a big thing. They're there.
+Suspending flights, deleted stock workload, a weather event, a weather
+event, some sort of test. Yes.
+I will give it to you. It is.
+It is a standardized exam there.
+Correct. Well, see, there you go.
+Right on. Perfect.
+But they did. It's a big thing.
+It determines where you were. Um uh, University of Michigan.
+So it's a huge there's some controversy. I read this briefly, but there was some
+controversy last year with somebody cheated.
+And so they wanted to make sure it was like extra good testing conditions this
+year they're trying to make up for. They have to make up for further
+consequences. We saw this in India, too.
+This is what kicked off the student protest there and led to the cockroach
+movement. So know national dance exams are a bonus
+round when I can be myself. I seem to be missing your Nvidia chips.
+Christina. When the Hopper two.
+Yeah. You got that room?
+Yeah. Hand them over.
+Hand them over. Yeah.
+We got to keep track the score here. 20 David ten.
+Because the bonus. Here we go.
+This is mascot is the bonus. This is a visual.
+So you're gonna have to look at this radio audience I will describe it.
+What company is making this purple rabbit its new mascot?
+Okay. Radio audience.
+What is it? Japanese company.
+Yeah, but what company is making it the new mascot?
+How? How to.
+You're going to be a Japanese company. Japanese companies do I know I wrote
+Sony, Sony. Now what do you dream?
+But I don't know. The name of the game is Japanese train
+East Japan railway. What do you think?
+What do you. That's a train.
+Really? That's a train manufacturer, a railway
+bridge. Yeah.
+All right, well, I guess. Okay, okay.
+No, it is huge. Japan doesn't matter because I think
+anyway, despite your best attempts at it, I hope this provides shorter,
+redemptive fodder at the Ruffini Thanksgiving in the days ahead.
 
 </details>

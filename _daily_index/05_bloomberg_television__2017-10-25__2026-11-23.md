@@ -1,11 +1,69 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-22T20:12:30Z
-Date range: 2017-10-25 -> 2026-11-20
+Generated at (UTC): 2026-11-23T20:16:46Z
+Date range: 2017-10-25 -> 2026-11-23
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-23 | 01_Videos/Bloomberg Television/Yardeni Cuts S&P 500 Target After Stock Selloff.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/What’s Next for AI Trade & Asia Tech Stocks.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/What Jensen Huang's Return Means for Nvidia.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/US Stocks Set to Rebound After AI Selloff.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Trump Praises Return of Huang to Nvidia.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Stocks Rebound After AI-Driven Correction; Crowdstrike to Buy ZScaler.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Stock Rotation Will Go International Market Analysis.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Open Interest 11232026.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Nvidia Reinstates Jensen Huang as CEO and President.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Nvidia Is Too Important for US Government to Ignore, Herro Says.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Nvidia Board Reinstates Jensen Huang as CEO.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Nvidia at 'Heart' of National Security, AI Future, Says Christopher Smart.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Is The AI Selloff A Buying Opportunity.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Iran Targets Bahrain as US-Iran Tensions Escalate Over Fresh Strikes.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/European Chip Stocks Bounce After AI Rout.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Europe's Cold Snap Threatens Natural Gas Inventories.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11232026.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Asia’s Stock Rescue Efforts Gather Pace.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/Asian Stocks Drop AI Fears Outweigh Support Measures.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/AI Stocks Rebound After S&P 500 Enters Correction.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/AI Selloff Hammers Asian Stocks, India Bucks the Trend.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/A Great Time To Diversify Todd Sohn.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/'GTA VI' Is a 'Booster Shot' for Gaming, Shawn Layden Says.md
+- 2026-11-23 | 01_Videos/Bloomberg Television/'Great to See' Huang Back at Nvidia, Ferragu Says.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Why Your Health Insurance Keeps Getting More Expensive.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Trump’s Asia Trip Leaves Key Issues Unresolved.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Trump Tests Common Ground With Democrats.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Tech Outages Fuel a New Prepping Boom.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Rep. McCaul Seeks Answers From Jensen Huang.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Rahm Emanuel Says Trump Is Playing Into China’s Hands.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Nvidia Board Faces a Governance Reckoning.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Market Anxiety Over Tech Trade, Governors Release AI Framework, Game On for the Holidays.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Luxury ADUs Test California Housing Rules.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/How AI is Accelerating Cyberattacks.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/GTA VI Takes Over Thanksgiving Week.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Governors Push States to Lead on AI.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Fed’s Inflation Fight May Require More Hikes.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Democrats, Republicans Eye the 2028 Field.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
+- 2026-11-22 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Wall Street Week  Gaming Blockbuster, Healthcare Costs, Cybersecurity Meets AI.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Wall Street Confronts AI Reality Check.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Venezuela’s New Leader Walks a Political Tightrope.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Trump’s Putin Ties Draw Focus After Summit.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Trump’s Putin Outreach Tests Ukraine Talks.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Trump Vows To Tax US Companies Building Data Centers Abroad.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/The 1982 War Still Haunts the Middle East.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Thanksgiving Dinner Is Moving to Restaurants.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Shenzhen Wants to Become a Cultural Capital.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Putin Gains From Trump, Xi Summit Spotlight.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Just Ice Tea Builds on Honest Tea’s Legacy.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Is AI a Bubble History Offers Some Clues.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/GTA 6 The Blockbuster That is Changing Gaming Forever.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Anthropic Makes Its Public Market Debut.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Anthropic IPO Fails to Halt AI Selloff, Ditching the Kitchen for Thanksgiving.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/Anthropic IPO Fails to Calm AI Jitters.md
+- 2026-11-21 | 01_Videos/Bloomberg Television/'Raise Taxes, Cut Spending' Bill Dudley on the Debt.md
 - 2026-11-20 | 01_Videos/Bloomberg Television/USTR Greer on Chip Curbs, Rare Earths, US-China Trade.md
 - 2026-11-20 | 01_Videos/Bloomberg Television/US-Iran Conflict Escalates as Senate Rejects Bid to Block Further Strikes.md
 - 2026-11-20 | 01_Videos/Bloomberg Television/US Chip Curbs Ignite Fresh AI Jitters Market Snapshot.md
@@ -148,8 +206,6 @@ Date range: 2017-10-25 -> 2026-11-20
 - 2026-11-15 | 01_Videos/Bloomberg Television/Inside India’s $130 Billion Wedding Economy.md
 - 2026-11-15 | 01_Videos/Bloomberg Television/Congress Presses Nvidia Over China Chip Access.md
 - 2026-11-15 | 01_Videos/Bloomberg Television/Can America’s Next Jobs Boom Build a Middle-Class Life.md
-- 2026-11-15 | 01_Videos/Bloomberg Television/By The Way Headlines You May Have Missed.md
-- 2026-11-15 | 01_Videos/Bloomberg Television/Bookmarked News Stories On Our Reading List.md
 - 2026-11-15 | 01_Videos/Bloomberg Television/Anthropic IPO Arrives at a Pivotal AI Moment.md
 - 2026-11-15 | 01_Videos/Bloomberg Television/AI Investors Brace for Data Center Restrictions.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/“Bigger Than a Business Story” Nvidia Shakeup.md
@@ -160,7 +216,6 @@ Date range: 2017-10-25 -> 2026-11-20
 - 2026-11-14 | 01_Videos/Bloomberg Television/The Entrepreneurs Behind Poppi Start Over.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/The Billion-Dollar Business of Virtual Public Schools.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/SpaceX Pushes Starship Reusability to New Test.md
-- 2026-11-14 | 01_Videos/Bloomberg Television/Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Nvidia’s Leadership Shakeup Tests AI Chip Giant.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’s Longest Test Flight.md
 - 2026-11-14 | 01_Videos/Bloomberg Television/Nvidia Looks for a New Era After Huang.md

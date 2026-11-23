@@ -3,17 +3,17 @@ title: "By The Way: Headlines You May Have Missed"
 people_mentioned: []
 channel: "Bloomberg Television"
 channel_id: "UCIALMKvObZNtJ6AmdCLP7Lg"
-video_id: "Qum4GUdOoaY"
-url: "https://www.youtube.com/watch?v=Qum4GUdOoaY"
-publish_date: 2026-11-15
-publish_timestamp_utc: "2026-11-15T15:47:58Z"
-duration: "6:43"
-duration_seconds: 403
-views_at_import: 2059
+video_id: "T54mL9ReWCk"
+url: "https://www.youtube.com/watch?v=T54mL9ReWCk"
+publish_date: 2026-11-22
+publish_timestamp_utc: "2026-11-22T16:19:06Z"
+duration: "6:40"
+duration_seconds: 400
+views_at_import: 4807
 transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1453
+word_count: 1454
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,154 +41,155 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1453 words)</summary>
+<summary>Click to expand full transcript (1454 words)</summary>
 
-The Match Blu ray game.
-Where are you going? Back to Bloomberg this weekend or b w I
-am David Gura with Christina Ruffini, Lisa Mateo here as well.
-Lisa, with some stories you may have missed.
-Did you force like bribe the control room with bagels to switch these read I
-could obnoxiously say meaty bribery. I'm already under examination for the
-moves I made in pointed yesterday. Yes, that's right, the pocket chips
-trying to come back. Pocket chips.
-Cheaty McCheat. Yeah, it's true.
-There's a lot of talk where our surveillance footage is right there is
-going to do you. It's going to go online.
-I'm going to turn to our more IRA colleague, Lisa Mateo.
-All right. Let's start with this.
-Did you guys know that you can have an I bought actually make a purchase for you.
-Like if you wanted something and it's it can do it.
-I did, but once I turn this on, like, how do you make sure it's not going
-rogue and filling your camera? It's causing a lot of problems.
-Okay. This in the Wall Street Journal.
-Duh, duh. I know I bought using credit cards.
-Banks are racing to keep up so you don't no longer have to click buy right?
-You could set the AI system to do it for you, but you have banks, payment
-companies, merchants. They're all worried about this because
-they're thinking, you know, whether bots are going to lead to elevated cases of
-fraud returns, open new legal risks like these.
-Come on, let's roll. I mean, I don't know if I would have a
-kind of do the make the okay for me. What's on one of the airlines is
-blocking boarded, right. Yes.
-And there are. Yeah.
-So there's different cards though, like Bank of America, Capital One, Citigroup.
-They're being used by the agents. But JPMorgan Chase a little bit more
-skeptical. They're not too on board with it.
-Um, but it's a big problem if you think about it.
-Like you're giving this. I bought control over your money.
-I find the liability side of this fascinating.
-There was a dad I was talking to who said, uh, the agent signed a permission
-slip for, like, son turned in a permission slip for his kid, you know,
-taking care of, like, clerical work. But then what do you mean?
-What does that count? If something happens, I don't know.
-You tell me. I'm not a lawyer.
-I'm not a lawyer. I don't know.
-This is good news for legal. Just raising this is an issue,
-potentially with another issue. I am shocked at how willingly people are
-putting their trust and giving over their lives.
-You're not doing this? No, I don't do any of this.
-Are you gonna get a credit card? Leave her alone.
-I have a credit card. Calm down.
-I don't use it, but I do have. Okay.
-I used debit card. I really do, it's bad.
-So yeah, I do. I use my debit card.
-It's for another segment. I don't like spending money.
-I don't have. Lisa, continue.
-Now we're gonna have to have an off camera kind of say should I?
-Missing out on a lot of points. I'm working on.
-Yes, yes, but just, uh, we'll get to that.
-Okay. Um, okay.
-This one is a good deep dive, um, from Businessweek into how much tech
-companies they're willing to pay to avoid these high profile trials that
-they have with teenagers. So this one's from, uh, Bloomberg
-Businessweek. The confidential payments made, uh,
-mirror and TikTok made to addicted teens.
-So they basically went into it a past few months, biggest social media
-companies, they reached a dozen confidential settlements with teen
-plaintiffs over claims that the platforms damaged their mental health.
-So Bloomberg Businessweek did all the numbers.
-They said they range from about 2 million to 2.5 million.
-So this is what they're paying for settlements, because they don't want to
-go to trial and see what what can happen after that is the threshold.
-What do you have to prove in order to get in front of them to get a
-settlement? It's just it's tough, but there's a lot
-like you don't understand. There's 9800 personal injury cases
-pending. Okay, so it's a lot.
-Um, state and federal courts. Um, that's for YouTube methods.
-Google, uh, for Google's YouTube snap and for TikTok.
-Um, but then you have the school districts, like 2000 School District
-two, um, that have filed all these similar suits.
-So all of these are kind of pending still, you know, to come, but it just
-goes to show you how much is being paid in the settlement so far.
-So it's just kind of a good like business week overall.
-Yes. Very comfortable reporting from Olivia
-Carville, her colleague. Yes.
-And Olivia, she's really been on this story from the beginning.
-Yeah. Um, okay.
-This next story is trending among wealthy families who want to keep the
-kids at home. You know, they kind of like having the
-family time. This is the Wall Street Journal.
-This is the parents building bowling alleys and wellness bars to keep their
-kids home. Okay.
-Yeah, absolutely. He says.
-Do you have an extra $30 million in your apartment to take out another part of
-the 3 million? That's what some parents are spending.
-Yes. To redesign the house.
-Like, now we're talking about bowling. Bowling?
-Well, the sports, but also golf simulators, arcade games, movie rooms,
-golf simulator, I'll give you, because that takes up like five square feet.
-But this is very old school dance studio.
-Kristen. Christina.
-Dance studio and studio. Karaoke room.
-Pickleball courts. The whole shebang.
-Okay, because I feel like this is so late 90s when people did this and then
-never used them, so people stopped building them.
-Well, that's the problem. So parents are spending all this money
-and the kids deals with this. So they're also let yourself go anyway.
-So I know I can go do things in the real world.
-Yes, they will be fine at the bowling alley.
-They will. They're the most horrible thing they'll
-be exposed to is those bowling shoes. They're going to be okay.
-They're going to be okay. But the grandparents are doing it too,
-because the grandparents want the grandkids.
-So the grandparents are going to these like, you know, high end buildings where
-they have, um, teen rooms. Yes.
-So they're paying like millions of dollars for these condos because they
-have the teen rooms and they think their grandkids are going to come visit them.
-Kids are cool now, I don't know, they're not going to see much of the teen room.
-My parents did this when they moved. They built a bar in their basement, and
-they're like, all you and your friends can come over and drink at the bar.
-That's my friends are not driving to the suburbs of drink.
-And I love you, Mom and Dad, but we haven't gotten our invite to go.
-Any time you would like to go to the suburbs of Maryland, my dad would be
-happy to have all I can Lisa, you all right?
-Thank you. This last.
-What? This is a story that went viral last
-year. Okay, so let me kind of paint the
-picture of the story. Okay?
-So this is a raccoon that broke into a Virginia liquor store.
-Okay. Yes.
-He helped himself to about 14 bottles of alcohol.
-And the store manager found him passed out next to a toilet.
-So that went viral, right? It was the essentials getting
-everything. So it brings you to the Washington Post,
-who said the drunk raccoons boozy night has helped raise $290,000 for an animal
-shelter. Okay, this is the drunk raccoon by the
-drunk ranger and personally raised this money to.
-Yes, well, well, they created things like T-shirts,
-cups, mugs. Everybody wanted the merch.
-Okay? It was called Trash Panda.
-That's what it went along with. Okay.
-But then they realized they were making so much money that they did Hot trash
-summer. They did trash trick or trash.
-So they started getting all this money and they reached $290,000.
-There is also are you ready for sports fan back?
-There was a baseball team named the Trash Pandas.
-Okay, maybe it's a connection zone, huh? Well, we'll check that out during the
-break. They got great merch.
-They have great rivers. That's why I hope the record's around.
-He was right. He survived.
-Yes. All right.
-Thank you. So.
+Welcome back to Bloomberg this weekend.
+T w I'm David Garrow with Christina Ruffini.
+Here are some stories you might have missed this week.
+Lisa Mateo has them, as she always does. Wait a minute.
+I haven't read it. We're going.
+We need you every week now. The sudden you've got the date.
+He changed it. I still have a taste.
+That is not true. I believe the allegations about you.
+Just like you didn't take some chips out of your pocket the other day.
+And we've been across the table and proven allegations.
+Lisa, what did you say? Allegedly, when you realize.
+Yes. Okay.
+Not because it's confirmed you're going to catch up from yesterday.
+Um, okay. GTA six.
+Right. Everybody working with it.
+You got it. David.
+Just going to have to be talking about this game this 13 years 13 years.
+You get a five and six. Yes.
+So gamers they're still going strong right.
+But some girls I wanted to check in on the gamers.
+No it's not the gamers. It's the girlfriend friends the gamers
+who you have to talk about. Okay, so this is in the Economic Times.
+Uh, girlfriend's gifts man. GTA six with contract with four
+conditions. Okay, so there's a guy on social media,
+right? He said his girlfriend bought him the
+game, um, with some rules about how much time you can spend playing it.
+Um. How much?
+They must prioritize their relationship. Okay, so there's four rules.
+Are you ready for them? First, I wish you the best relationship.
+This seems like a warning sign. I'm surprised my son's girlfriend didn't
+do this. You have to check in with the girlfriend
+at least once every few hours. Number two, you have to pause GTA six
+whenever she is talking to him. Okay.
+Three time limit. So you worried after this couple can't
+spend more than 50% of your time playing?
+And for just a reminder, Lucia, which is the game's main character, didn't know
+that it's not your girlfriend. She, the one depicted in the art that I
+keep. She is the one, yes.
+Who? My son keeps complaining that he has to
+buy flowers for her. Oh, really?
+Maybe I'm coming around on a game. Not as a regressive scheme for young men
+to buy flowers. Let's see.
+Maybe there are some life lessons in here.
+This one. You.
+But you're sincere. But this seems very generous with us.
+Asking for 50% of his own. Buy Lucia flowers.
+Buy me flowers. Oh, that's a good.
+That. That's not what it says.
+It could be. Then it's not his girlfriend.
+He has to be reminded that this is not a girl.
+Yes, yes. Okay.
+Uh. Next one.
+I don't know, I'm sorry we linger longer on this, but I think I've made my
+opinion known. I think word on anything about this
+couple? They want to join us.
+I'd be happy to talk to both of them, but it's hurting a lot of relationships.
+Um, okay. Did you guys see SNL?
+They came out with the sketch that hit home with a lot of people last week.
+It was a fake ad. It was insane, son.
+Yes. Struggling with care for his elderly
+father until he found a simple answer. Take a listen.
+I didn't want to put him in a nursing home, but a private health aide could
+cost thousands a week. I didn't know where to turn.
+That's when I heard about sister. Sister is a living 24 seven elder care
+provider that is sleeping free. And also your sister.
+Now, I don't have to worry about dad getting the care and attention he needs,
+because my sister will do it. Sisters come in and rescue a lot of
+cultural resonance. It has.
+It has. I know you're the sister.
+Well, uh, actually, calling in is going to be in our family.
+Joey is sister. Joey is the one you say.
+But in my family, my grandmother lives with my parents, and my mother has two
+siblings who are nearby, and my mother does almost all of well.
+So I told her I was like, have you seen the sketch?
+Could you send it to our relatives? We live all our relatives in that.
+I don't know, mom. I don't know if you said to them or not,
+she said. But it's true.
+Like I always say, like be nice to my daughter because she's going to be the
+one taking care of me when I get older, you know, not my son, I don't know.
+But in other countries there are better safety nets for the elder care.
+And you can you can put your family member in assisted living or get home
+health aides without it bankrupting your family.
+In the U.S., you really can't. You have to spend all of their money,
+and only then can you get assistance from the government.
+Exactly. And that's what this article in the New
+York Times starts to get into, like some of those challenges that people are
+facing with this, um, and it's really goes into like a number of those between
+Medicare and between Medicaid too, like everything, all the payments and
+transportation paperwork. Oh, and also my parents are aging as
+well. So you're aging and you're caring for
+aging parents. It's can be really tough.
+It can be. And especially so to some of them who
+had, um, children later in life. And they're caring for their parents and
+their sandwich. Yes, I've seen that as well.
+So it's it's a lot. It's a lot.
+All right. Um, have you seen the new James Bond?
+Yes, it is recently that was made. Yes.
+Okay, so the announcement was made. Um, uh, it's Robert Patterson.
+He's replacing Daniel Craig. But is it the right choice.
+And this was that the Atlantic gets into.
+They say the real reason Robert Pattison is the new James Bond.
+So it makes sense on paper right. He's 42.
+He's about six one okay. He's got the swagger.
+He's got the British thing going on like it was a requisite.
+He does. He looks good in a tuxedo look.
+Oh my gosh. Um okay.
+So usually okay. Least what happens is that bond goes
+after like an unknown. Right.
+That's how a bond is kind of known for. But Robert Patterson is like an
+A-lister. So he is known.
+So they're saying maybe this is different because Amazon is a new owner
+of the. Yes, Jeff Bezos reportedly had a lot of,
+um, sway. And.
+Oh really? Yeah.
+He seems a little too commercial to me. Seems like I loved Daniel Craig.
+That was I like a I, like I know we're big bond people there saying, um, I do
+like bond. I was interested in that.
+Robert and I had this like huge career post Hunger Games, which I didn't know
+about. Like, he's done a lot of like, indie
+films. Oh yeah, he does really weird films.
+He looks so weird about, like, being commercial.
+He's also Batman. Well, I guess he's also Batman.
+It's a versatile. No no no no no no no no no You don't
+have the right James Bond. Okay.
+All right. My last one looks like David, you spend
+a lot of money on a kid's extracurricular toy, do I?
+Christina, I'm sure your parents spent a lot on dance lessons.
+They really did. He really did.
+Okay, so now parents are spending big on having their kids become the next F1
+sport person. Okay, this is the Wall Street Journal
+made by my son. Who's you really?
+And I said, we don't live in Europe. You have to be in Europe to do this.
+I was going to ask, can you even do this around here?
+Go ahead. Sorry.
+We've interrupted. We've interrupted.
+You can go to the Catskills. That's where you can go, David.
+Because of the David. Lisa.
+Nice relationship, but he got stuck in the cartoon.
+It's a journal. They're turning six year old into F1
+drivers, so. And they're paying sometimes tens,
+sometimes hundreds of thousands of dollars for memberships to these certain
+organizations so their kids can race around the track and maybe live to be an
+F1 driver, live that dream live. But this is one of those sports that you
+kind of have to be. There are very few people have to
+choose. Hamlin is one of them who got help in
+this career early on, but you usually have to have a lot of money to dare to
+dream. Children in mine take a job.
+All right.
 
 </details>
