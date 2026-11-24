@@ -1,11 +1,30 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-23T20:16:46Z
-Date range: 2017-10-25 -> 2026-11-23
+Generated at (UTC): 2026-11-24T20:25:36Z
+Date range: 2017-10-25 -> 2026-11-24
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-24 | 01_Videos/Bloomberg Television/Zurrer Huang’s Credibility in Industry Too Important.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/What Senator McCormick Wants to Hear From Nvidia CEO Jensen Huang.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/US Set to Raise Tariffs on China, EU and Others.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Stocks Fall as Nvidia Rally Fades; US Blacklists Megaspeed, Alibaba Unit.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Stock Rally Takes Breather as Nvidia Euphoria Wears Off.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Open Interest 11242026.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Odd Lots Minerva Co-Founder on the Risks of “Abliterated” Models.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Nvidia's Board Members Should Resign, Cleo Capital's Kunst Says.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Nvidia Reinstates Huang as CEO as US Sanctions Iran’s Shadow Banking Network.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/New Balance Turns 'Dad Shoe' Into Trendy Hit With Gen Z.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Jensen Huang’s Nvidia Rally Cools as Citadel Warns on Growth Outlook.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Jensen Huang's Return to Nvidia Lifts Asian Markets.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Jensen Huang The Boomerang Nvidia Boss Backed By Trump.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Return.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Consumer Mood Improves Into Holidays, But Risks Loom.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Chaotic Market Narrative Cuts Both Ways Market Analysis.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11242026.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Asia Stocks Jump as Huang’s Return Lifts AI Trade.md
+- 2026-11-24 | 01_Videos/Bloomberg Television/Anthropic Shares Fall Below IPO Price of $83.md
 - 2026-11-23 | 01_Videos/Bloomberg Television/Yardeni Cuts S&P 500 Target After Stock Selloff.md
 - 2026-11-23 | 01_Videos/Bloomberg Television/What’s Next for AI Trade & Asia Tech Stocks.md
 - 2026-11-23 | 01_Videos/Bloomberg Television/What Jensen Huang's Return Means for Nvidia.md
