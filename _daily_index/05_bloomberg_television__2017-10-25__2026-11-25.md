@@ -1,11 +1,30 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-24T20:25:36Z
-Date range: 2017-10-25 -> 2026-11-24
+Generated at (UTC): 2026-11-25T20:13:04Z
+Date range: 2017-10-25 -> 2026-11-25
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-25 | 01_Videos/Bloomberg Television/What Jensen Huang’s Second Act Means for AI.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/US Set to Announce New Tariffs on China, EU.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/The Battle Between China's Huawei and the US Government in 10 Minutes.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Thanksgiving Holiday Travel Faces Outdated US Air Traffic Technology.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Tech Selloff Rolls On as AI Worries Persist.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Tech Selloff Pesists Ahead of PCE; US Prepares Tariff Hikes.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Open Interest 11252026.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/One More Late-Cycle Mania in AI Trade Market Analysis.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Nvidia’s Huang To Face Scrutiny on Capitol Hill.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Nvidia Drops After Jensen Huang’s Return.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Mark Answers Your Apple Questions  Power On with Mark Gurman.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Data Center Boom.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Huang Apologizes to Nvidia Staff After Returning as CEO.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Houthi Drone Hits Riyadh Financial District, Injuring 11 Amid Near-Daily Saudi Attacks.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Dangote Refinery Set to Start Trading in Lagos on Dec. 1.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/China Hits Back at New Trump Tariff Prospects.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11252026.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/AI Rout Spills Over Into Asia, US Readies Tariff Hike.md
+- 2026-11-25 | 01_Videos/Bloomberg Television/AI Rally Fizzles as US Readies New Tariffs on China.md
 - 2026-11-24 | 01_Videos/Bloomberg Television/Zurrer Huang’s Credibility in Industry Too Important.md
 - 2026-11-24 | 01_Videos/Bloomberg Television/What Senator McCormick Wants to Hear From Nvidia CEO Jensen Huang.md
 - 2026-11-24 | 01_Videos/Bloomberg Television/US Set to Raise Tariffs on China, EU and Others.md

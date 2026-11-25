@@ -3,17 +3,17 @@ title: "The UNTHINKABLE is About to Happen to Stocks (Emergency Update)"
 people_mentioned: []
 channel: "Tom Nash"
 channel_id: "UCJwKCyEIFHwUOPQQ-4kC1Zw"
-video_id: "s-H0yY1OPII"
-url: "https://www.youtube.com/watch?v=s-H0yY1OPII"
-publish_date: 2026-11-08
-publish_timestamp_utc: "2026-11-08T17:23:33Z"
-duration: "8:49"
-duration_seconds: 529
-views_at_import: 35902
-transcript_language: "asr-en"
+video_id: "sYNLzOQbFCc"
+url: "https://www.youtube.com/watch?v=sYNLzOQbFCc"
+publish_date: 2026-11-25
+publish_timestamp_utc: "2026-11-25T18:12:09Z"
+duration: "21:49"
+duration_seconds: 1309
+views_at_import: 31714
+transcript_language: "en"
 has_captions: null
 transcript_status: "done"
-word_count: 1686
+word_count: 3916
 content_type: ""
 delivery_mode: ""
 broad_category: ""
@@ -41,8 +41,286 @@ tags: []
 ## Full Transcript
 
 <details>
-<summary>Click to expand full transcript (1686 words)</summary>
+<summary>Click to expand full transcript (3916 words)</summary>
 
-This market is going to make me a lot of money and I'm going to share with you exactly how in this video. So, if you want to use this very unique setup we got right now to create generational wealth, stay with me. Don't click nothing, don't smash nothing, don't buy nothing. So, over the past 5 days, we are down 3% on the S&P 500. Over the past 30 days, we're down 5%. The market is full of anger and panic and fear. All this emotion reactions of people who are absolutely terrified about what's going on. Now, if you take a look at the S&P 500 over the past 15 years, we have gone up 500%. 500% in 15 years. And this chart makes it look easy as if this was some some joy ride. But it wasn't. This line is fiction. This line is complete horse manure. It's fake. It's a lie. Because the honest truth is that the line was not like that. We had a lot of drops. We had a lot of scary moments. And every single time people in the media, people in the mainstream media and the social media, click baiters and emotional triggers try to persuade you. Why this time it's different. This time it's the real deal. This time, no, no, no. All the other times, yeah, we get it. It was fake. But this time everything is falling apart. And every time it didn't. Every single time it's the same scenario. And every time people get roped into this, sell out and miss out. Now look, I'm not saying we're going to go straight to the moon, but all I'm saying is look at the S&P 500. This is the past 15 years. Look, 30% drops happen. They happened last time, just 6 years ago, we had two drops of 20% on the SP just for the past five, six years. One that lasted 10 months in 2022. 10% drops happened six times in 15 years. And how many times did we have a 5% drop just like the one we had on Friday, 1.7 per year, 25 times this happened. What you've seen on Friday feels like it's unique. Oh my god, it feels horrible. This stuff happened 25 times over the past 15 years. It's very common and is very normal, contrary to all this you're hearing from people who are trying to clickbait you into emotional decisions. Now look, Microsoft, one of the biggest companies in the world, no doubt. Okay, if you held it for the past 15 years, you're up 1,800%. But again, this line is fiction. It's a lie. It's never been like that. You know what Microsoft did? Microsoft went down 30% twice. It went down 20% twice. It went down 10%, nine times. It went down 5%, 10 plus times. I lost count at some point. These stocks never just go up in a straight line. And every single time that was a buying opportunity. Why? Because the earnings kept improving because the business kept improving because the fundamentals kept improving. When the sentiment makes this happen, you buy. And that's exactly the point I'm making. It's not just Microsoft. What about Nvidia? One of the biggest companies in the world. just over the past 5 years. While it did 500%, which is wonderful, look how many drops. It dropped 54% in 2022. It dropped twice 20% and once 36% just April of last year. Even the great Nvidia and of course we got to talk about Palunteer. Palanteer since it went public has changed my life. No doubt it has changed a lot of lives. Up 600%. Look how many times it dropped. I did 40 plus, but I mean it's a lot higher than 40. 40% drops plus three times. 30% drops plus five times. 20% drops plus six times. Seven times you drop 10%. Look at all these opportunities to create better positions and decrease your cost basis. And most of the people actually fail here. They fail on the emotional and the actual psychological game, not the mathematical and the modern game. This is the failure point. A lot of people think they know the market and they know this chart and they're like, "Oh, I know what's going to happen, Tom. We're gonna have depression, then euphoria. So, all I'm going to do, I'm going to time the top. I'm going to time the bottom because I understand market cycles." No, you don't. No, you don't. You don't understand market cycles. Market cycles work like this. Every single market cycle leads to a higher high and a higher low. Every time we complete a cycle, we go up. The trend keeps going up. Just look at the chart for the past 100 years. And every time people get burnt trying to time the top and the bottom of these. Well, all they need to do is just hold it. Just hold it. Hold it in dollar cost average. You don't need to time this. All you got to do is hold it and add to it non-stop. Now, Friday was the worst day since COVID for stocks, especially for AI stocks. We got chip stocks down 12%, NASDAQ down 6%. Everything got hit as long as it had anything to do with AI. And a lot of people panicked. I've got so many texts and DMs from people trying to figure out what the hell is going on, Tom. Nothing's going on. Nothing. Look, guys, look at what's happening. You got 11 sectors out of 11 sectors down. Six to one decliners to advancers and some of the strongest most incredible earnings in the world in the history of these companies. And these companies are down 20 30% in a matter of five days. Come on. You have two types of crashes in the market. Okay? When you have a fundamental crash, not talking about that, that's a serious issue, right? Profits are falling, you're losing clients, you earn less, the value of the business coming down, this thing, this can take years to recover from. When you have a sentimental crash, which is based on sentiment, well, profits keep growing only the price changes and the value goes up of the business. Recovery takes weeks or months. Last time this happened, here we go. 2008, massive fundamental crash. took us 5 years to recover. 2025 tariffs took us 12 weeks. COVID took us 60 days. Now, none of this is new. Everybody knows this. Profits right now are growing at 30% on the S&P 500. The guide for the fullear estimate is 33%. So, profits check. Profits are growing at record levels. I'm not concerned about that. Now, a lot of people are saying, "Well, Tom, but you know, the profits are not going to continue to grow because the whole Texas thing and the blue wave data centers are going to get banned. All of this AI companies are going to get hammered." BTF4 not happening. Back to the future for not happening. This is a back to the future for situation, folks. Texas and the federal level, both not happening. First of all, on the federal level, no matter what some people say, they don't got the votes. They didn't get the votes. 60 to beat a filibuster. 67 to override a veto. They don't got it. And even if they had it, you'd have to assume that the United States selected representatives will perform suicidal economic acts to absolutely destroy the United States in order to virtue signal. I don't think that's the case. But even if they wanted to, they don't have the votes. On the Texas level, all of this already happened. It happened back in September. In September, all of this already passed. The previous governor already said, "Hey, we're going to pause until we figure this out. Nothing happened to the stock prices then." Okay. But existing projects in 26, 27, 28, they're going to go forward. But what about the next ones, Tom? Do you think Texas wants to perform suicidal acts economically and lose all these construction jobs and investments and tax dollars and let Wyoming and Oklahoma and West Virginia have this? It's crazy. No governor is going to do this and then not get elected because they lost all this money. It's silly. It's never going to happen. And if it does, there's plenty of other takers. If it's not this governor, another governor, if it's not this state, another state, if it's not the US, other countries would love to get this business. Saudi Arabia, Southeast Asia, they would love to have some data centers. There's plenty of places to go when you have demand. The money will find a way. what I'm doing. Zero shares sold, zero changes to plan, zero intentions of turning paper losses into actual losses. Not going to do that. That's silly. Okay? Don't take a small problem and make it into a huge problem. You got beat on defense, no problem. Let the guy have a layup. Don't commit a flagrant foul. It's silly. We have prep for this. We have our budget. We know exactly our DCA amount. Very, very simple. We have a threshold of 20% or 10% below the 52- week high. And we actually never invest more. And for the past two years, if you've been a part of my system, we have trimmed all along because we trim at 50% at 100% and 150%. So we have all this money on the sideline to deploy right now when the prices are super cheap, which is exactly my point. If you want to get better at this game, if you don't want to chase stock picks and ideas of other people, if you truly want to get better, join us. 41,000 students academy patreon.com/tomnash. would love to make you a better long-term investor to help you create generational wealth for you and your family. I'll see you inside.
+This is an urgent warning to every
+single investor out there. Please pay attention. The information in today's
+video is one of the most important things I've ever shared and it will
+certainly save you and your portfolio from a world of pain if you stay with me
+for the next few minutes. Don't click nothing. Don't smash nothing. Don't buy
+nothing. Just listen and pay attention. So, right now, we're in a world of pain.
+The market is down again today. And I know what a lot of you are feeling right
+now. On Monday, we had one of the best days since April 2025. Gentlemen was
+back. Everybody were euphoric. Now yesterday, it was down again. Now again,
+everybody's depressed. We're back down and coming down hard. Now today, as I
+record this video, the S&P is down 2 and a half%, the NASDAQ is down 4%, might be
+different by the time you're watching this, but it's a red day. So, we're
+talking about three days and we're almost back to where we were on Friday
+after all this emotional roller coaster. Now, I told you this might not be end of
+the pain multiple times. Yesterday, I actually said we might go lower in my
+meeting with my academy members and I told them, "Hey guys, we might go a lot
+lower. Don't get fooled into this false sense of security because Jensen came
+back because it doesn't solve every single problem that the market cart is
+seeing." I basically said, "Look, we got five AI fears dominating the market
+right now." And Jensen coming back is just one of them. And the huge day
+really doesn't tell you anything about the stock market in general. Certainly
+not when you have a lot of dark clouds circulating in the sentiment department.
+I wasn't trying to be a smart ass. I was just being real. And today, I want you
+to do the same thing. Look at the data calmly.
+Now, there are many different reasons why people are giving in into the
+sell-off. And while it sounds terrifying, but when you put them in
+order, they really just fall into three main groups. We've got the AI fears, the
+Nvidia, Capix, debt, anthropic, the chip stocks, the AI politics. We've got the
+market itself with the fail rally, the Thanksgiving. We got the economy with
+the tariffs that were just announced. We got the inflation, Fed, jobs, GDP, oil.
+None of these, not a single one of these is new to the stock market. And none of
+these changes the long-term approach for myself and every single long-term
+investor out there. I want to start with what actually happened because I want to
+explain to you what in the world are you seeing right now. So, first of all,
+yesterday about 350 out of 500 stocks in the S&P 500 actually went up. Only about
+150 went down. So, that's like twothirds of the S&P 500 that actually had a green
+day. So, how did the index fall? Well, healthcare actually went up. Consumer
+staples went up. Dow went up. Nine out of 11 sectors on the S&P 500 actually
+went up. On the other hand, technology was down 3.3%.
+Chips were down more than 7%. So at least on Tuesday, you know, money
+didn't leave the stock market. It kind of rotated out of AI and chips and into
+everything else into defensives. That's a very different thing from a crash, a
+proper crash where everything goes down together. Today is a lot uglier. Today
+the selling is a lot broader because of the tariff news and the inflation
+numbers. when you have new tariffs announced, inflation coming in hotter
+than expected, then it's a broad market selloff like we're seeing today and
+that's why you're feeling the pain. Now, here's where all of this basically
+leaves us as investors and that's the important part because we're only here,
+you know, because we want to talk about our situation at the end of the day.
+It's not about macro for us. Now, on Friday, the S&P 500 was 11.6% below the
+record. On Monday, we climbed back to 7.4. 4% below. Today, as of the making
+of this video, at least it's about 10% below again. So, we're back. We're back
+like we've never left into correction territory. Just to kind of uh explain
+this, correction means 10% drop. Bare market means 20% drop. Now, it's
+uncomfortable. Of course, it is. And it's one of the most normal things that
+the stock market does at the same time. very very uncomfortable, very painful,
+very unpleasant, but yet extremely normal and very predictable. It happens
+a lot. So, right now, what's going on is that, you know, the Trump administration
+somehow thought it's a good day to come out with new tariffs on China, Japan,
+South Korea, and the EU, and many other countries, and basically saying, "Well,
+look, China is going to get the brunt of it. We're putting an extra 20% on
+China." Now, obviously, the market absolutely hated it, but first of all,
+I'm not really that emotionally impacted by this because we've seen this movie
+before. We've been on this rodeo before. You remember the April tariffs and how
+they ended up. So, number one, hey, let's put it out there. We're only
+talking about a proposal. It's not final. It still has to go through
+through public comment, through hearings. It could actually slip all the
+way into January. by that time it's going to be the Democrats running the
+show and basically they already said hey for people already have deals with us
+like the Europeans the Japanese the South Koreans we basically will stay
+with inside the limits of those deals so nothing really changes for them
+and by the way it almost it will certainly be challenged in court I mean
+like 100% last time it happened the Supreme Court literally struck down the
+big tariffs from April 2025 so it started with a big bang and it
+ended up like a fart in the wind. Is this a risk? Yes, of course, because
+there's always a chance of this thing going south, but we've seen this movie
+before. Like I said, it's not our first rodeo. In April last year, the tariff
+announcement took the S&P down 19%. We were back at record highs, you know,
+12 weeks later. Lots of money was made on that round trip. Lots of money will
+be made again. Now, the second reason is the usual suspect these days, which is
+inflation. The PCE report came out this morning. That's the inflation number the
+Fed watches the most, by the way. It's their favorite number. Headline
+inflation was 3.8. Last month, it was 3.6. Core was 3.3 when the expected
+number was actually 3.2. So, we actually missed. So, inflation is going the wrong
+way. And obviously, that's not bueno. No good. We're at 3.3% and rising with the
+target, you know, basically being way way behind us at 2%. Not ideal, but this
+is not dramatic. Like you want to see dramatic, go back to June of 2022 when
+we were at like 9%. So yeah, it's not dramatic, but yeah, could be better. But
+especially with oil being the biggest catalyst of this inflationary spike, I'm
+not really that worried because these are all readings. Oil has already kind
+of fallen more than 20% since October. It's not going to show up in this
+readings. It only going to show up in the next one. So, while I do take this
+number seriously, I'm not brushing it off. I also kind of think that the next
+reports are going to have a good chance of looking way better than this one due
+to the fact that we know already that oil prices dropped. Which brings us to
+our friends at the Federal Reserve. So the market is now pricing in almost
+pretty much 100% chance of a rate hike in December 9th. So yeah, it's
+certainty. Yes, we'll have an interest rate hike coming in very very shortly.
+Now high rates are bad for gold stocks for obvious reasons, but also really bad
+for AI because AI builders borrow a lot of money, a lot of copics. The borrowing
+now becomes more expensive. It's not good. It's going to cut into the
+earnings. But on the other side, this hike is not a surprise. We knew about
+this for weeks. It was already at 98% before today. So it's not like today we
+just jump from 98 to 98. We already were pretty much 100% before that. This was
+already priced in. So the real question is uh what the Fed says about January,
+not so much about December. And that's purely going to depend, we don't know
+that yet. That's purely going to depend on the next inflation report on December
+10th, which I expect to be significantly better due to the fact that oil prices
+have already dropped. Now, two of the reasons are actually pretty amusing.
+Those are GDP growth and jobs. So, get this. Weekly jobs actually fell to
+189,000. The market thought we're going to be at 200. The third quarter GDP
+growth was revised from 3.4 to 4.3. Personal income rose by.7% this month.
+So we have fewer people losing jobs. The economy is growing faster than we
+thought and people are earning more and more. So that's a head scratcher. That's
+on the list of reasons market is down. Yes. Okay. Yes. Why? You have to
+understand the logic. When you have a strong economy, it kind of gives the Fed
+more leeway to increase rates. The logic makes total sense, but think about what
+it means. The market is falling because the economy is strong. I'll take that
+problem any day of the week, right? That's not a long-term problem. It's
+more of a short-term sentiment thing that's going to fade away like a fart in
+the wind. You know what really destroys portfolios? Not this. You know what? How
+about when you have an actual recession? When people actually lose jobs, when
+companies lose customers, when earnings collapse? uh not what's happening right
+now. I'll take this problem again and again. This is the opposite. The economy
+is booming. We're growing at 4.3%. The companies are growing earnings is more
+than 30% right now, the SP500. So yes, higher rates can push stocks prices up
+on the short term, but they can't make strong businesses weak. It's just not
+going to happen. On on top of this, we have obviously we've got oil. Oil is the
+bad boy of this whole story. There's reports now of a new yet another attack
+on the Saudi refinery. Oil is up again today. Crude went up again today. So oil
+is what pushed inflation so far. H but I want you to look at the chart. Brent was
+almost at 120 bucks a pop just a month ago. Went back to 89 Monday. Now it's
+around 91. So it's up like 2%. It's still more than 20% below the highs of
+October. That drop from October hasn't shown up in the inflation numbers yet.
+remember that and it will. Obviously, oil is not the only thing
+that spooks people. You know, we have the perfect storm because, you know,
+like in those shopping networks, but that's not all. You're also getting AI
+fears. And I'll I'll tell you the most important thing about this group right
+now. There's nothing new about it. Nvidia basically gave back a big chunk
+of Monday's jump. It's down again today. People are basically worried of the
+political pressures. Jensen's testimony in the Congress is meanwhile all I look
+at is the business. The business hasn't changed revenue of 116 billion up from a
+year ago by 103%. That is my only focal point. On top of that, the semiconductor
+index fell hard. So did AMD. Chips are always going to be the most volatile
+part of the market. It's never going to change. They went up the most on Monday.
+Pay attention. They didn't complain back then. So they came down the hardest on
+Tuesday. That's pretty much what stocks in the
+semiconductor space do. If you want to be in the chip stocks, you got to have
+the stomach for this. You got to be a tuna fisherman. It's not It's not easy.
+It's not for everyone. And of course, there is the capex, the debt, and the
+Democrats, the CDD. So, the big tech companies plan to spend, get this, more
+than 740 billion this year. And that scares a lot of people. They're also
+borrowing a lot of money to build. And now we know interest rates are going up
+which is no good. And on top of this we know that the dem Democrats are going to
+take office in January and may restrict data sitters chip experts might actually
+hurt a lot of these companies. Now look at it this way. The biggest five
+spenders in capex brought in 543 billion of operating cash flow in the first nine
+months of this year. They spent 557 billion of capex. So they're spending
+more than they bring in and they're boring the difference with the Fed
+raising rates. Obviously that boring becomes more expensive. That is a fair
+concern because it hurts profitability. But their cash flow is growing 29% a
+year and capex is literally a dial they can turn down should they decide to do
+so. They don't have to. A company that can slow down its spending whenever it
+wants is a very different animal than somebody who has to spend capex to keep
+it going. Think about an old hotel. An old hotel you have to spend a lot of
+money to keep it running. Otherwise, the pipes are going to burst. The floor is
+going to cave in. So, you have no choice but to spend this massive money. You
+can't make any money because you're spending so much upkeep. That's not the
+case. This is guys who are running one hotel. It is fully booked 10 years into
+the future. So now they're building four more hotels and these four more hotels
+are already booked as well 10 years into the future and if they build 10 more
+they'll be also fully booked. That's good capex. That's not bad capex. I'm
+not worried. Not in the least. And of course we have our friends from
+Anthropic who I literally told you this is going to happen. I told you beware of
+the Anthropic IPO. Go watch my video. I warned you this is going to happen. It
+went public at 83. We ran up to 115. Closed at 82. Obviously, people call it
+a huge disappointment. Something I've heard from my parents many times in the
+past. I see it differently. I I told you before the IPO, it has nothing to do
+with entropic. Don't buy on day one. I said, you look these things, they go
+nowhere. There's the dead money period after every IPO for 6 to 12 months. It's
+not a huge secret. It's the same company you you you saw at 115. What changed
+except for panic and fear. You know, if you look at the growth revenues of
+Anthropic, if you look at how fast these guys are growing, there's no problem
+with this company at all. It's one of the fastest growing companies we've ever
+seen. But also, as the barometer of the entire AI industry, looking at
+anthropics revenue growth, there is no argument to be made about an AI slowing
+down. That would be ridiculous. Now, when you talk about AI fears, let's
+talk about this. In the third quarter, the technology sector grew earnings by
+73%. The whole S&P 500 grew 33%. You have to
+remember in the short term, the stock market is always going to be a voting
+machine. In the long term, it's going to be a weighing machine. If earnings will
+keep growing like this, the prices will catch up.
+Now, of course, we have to talk about the market. Uh Monday's rally didn't
+hold and people are pulling out the white flag saying this was a dead cat
+bounce. I'm out. And I told you this many times before, you know, a huge
+green day. Shout out to Green Day. And doesn't tell you anything. That's why I
+told you, don't FOMO into this market on Monday. I literally posted this on
+Twitter saying, "Hey, don't FOMO into this. We don't know where the bottom is.
+If you listen, you're fine today. If you didn't and you still boot, you know,
+good companies, you bought quality, you'll still be fine. Just hold them,
+let them do the thing. Don't trade them into a loss. And on top of this, you
+know, people are kind of not happy about the fact that the the dopamine rush is
+going to be gone. The market's going to be closed tomorrow for Thanksgiving.
+Friday is half a day. A lot of traders are already out the door. So, you got
+fewer volume and then fewer, you know, sell orders basically move the entire
+market. That's kind of the recipe for an ugly-looking day like you got today.
+Does it change that you know anything about Microsoft or Google Amazon's
+earnings in 2027? Of course not. I want you to remember late 2018. Okay. Late
+2018 the Fed was actually raising rates. A lot of you were not in that market
+back then. Okay. And what happened is on top of the rates
+we also had a trade war with China. Sounds familiar?
+The S&P 500 went down 20%, almost 20%. It was the worst December since the
+Great Depression. People were sure a recession is 100%
+coming. Earnings that year grew more than 20%. The businesses were fine. The
+mood was absolutely terrible. Then 2022, same story. Inflation went to a 40-year
+high, like 9%. The Fed started hiking. S&P dropped 25%. Stayed there for 10
+months. What happened? You know the story. What about the liberation day in
+April 2025? S&P was down 19%. Come on. You saw what happened right
+after that. So, could this get worse? Yes. Could this get much worse? Yes. Uh,
+we could definitely go lower. I'm not going to say it's not, but you have to
+zoom out and look at it long term. After the lows in December 2018, the S&P
+was at a new record four months later. Liberation Day took three months. The
+2022 bare market, it took 15 months. Okay, a little bit slower, but we still
+got there. Every one of them ended with a new all-time high pretty quickly. And
+in all these three, people who sold at the bottom were the ones who got
+absolutely hurt the most. Since 1980, the average year in the stock market has
+had a drop of 14% in it. So, we're at now down 12%, maybe hit 14% by the time
+this video is out. Okay, it's terrible, but it's absolutely normal. So, what am
+I doing? Okay, I'll start with what I'm not doing. I'm not going to sell good
+businesses because the price are red. A red day isn't going to change my view on
+the company. If you want to check something this week, you want to get
+busy, check the business, check the fundamentals, check revenues, margins,
+competitive advantages. If the answers are everything's good, you just got a
+discount on a great business. Okay? If the business is broken, you should have
+been out anyways. It has nothing to do with price. And I'll tell you what I
+will do. I'm going to follow my schedule. You know mine. You know,
+$1,000 a month on three speeds. Basically, to use this as a plug number,
+whatever you you could be 10,000, $100,000, $100, doesn't matter. But
+basically, three speeds. Normal times, you invest 500 out of a,000. If the
+stock drops 20% below the 52- week high, or if the S&P drops 10% below the 52-
+week high, you go half speed. You go to triple speed. Instead of 500, you go to
+1500. And if something flies up after this might happen more than 20% 30 days
+or less, boom, you go to quarter speed at 250. That's it. That's all you do.
+You just follow the schedule. So why don't you turn off your screen, go enjoy
+Thanksgiving. I mean it. I mean, your portfolio doesn't need a chaperon.
+Doesn't need a babysitter. Just remember, S&P 500 companies grew
+earnings by 33% in the third quarter. 84 of them beat expectations. The estimate
+for the fourth quarter is 29% for the full year 33.7%.
+16.4 for next year. Not one of the reasons we talked about
+we went through today about have nothing to do with these numbers. None of the
+things we talked about changes those numbers. You know stock price is going
+to follow headlines but over years stock price is going to follow earnings.
+That's the only thing that matters. Look, at the start of this year, the S&P
+traded at 22 times forward earnings. The 10-year average is 19. Today, we're at
+17. So, you're buying faster growing earnings at a lower price than the
+average we had in 10 years. Think about it. Okay? We have faster growing
+earnings at a lower price versus the 10-year average. Now, every red day
+makes that number more attractive for somebody who's a long-term investor. And
+as long as you're on schedule, you're still going to be buying. On top of
+this, if you look under the hood, GDP is growing 4.3%. Jobless claims are under
+200,000, which we thought would be. Income is rising. I mean, companies have
+to sell to people who have jobs and money. Right now, people have both.
+Now, if you hold the S&P 500 for one day, I want you to remember this
+statistic. Your chance of making money is about 54%. That's a coin toss. You
+know, if you hold it for 10 years, that's 94%. 20 years 100%, one year is
+75%. But a 10 year horizon brings you up your success rate in the market. 10 year
+horizon from 54 to 94. That's incredible. That's why dead people keep
+beating the living in every single brokerage. The people who are dead
+literally can't touch their account. They beat the ones who are active.
+That's why the top 1% of America during COVID, 99% of them never sold. Think
+about timelines and discipline. Look, I'm not selling. I'm going to be
+following my schedule. I'm very optimistic about the future long term.
+I'm going to stay calm, disciplined, and trust the process. Happy Thanksgiving
+for those of you celebrating. I'll see you in the next one. And should you
+choose to join our academy now almost at 45,000 members, patreon.com/domnash.
+You know where to find me. You can hang out with us in the Thanksgiving. talk
+about how funny this thing is and look for discounts in this market because
+there's a lot of opportunities. Join the community. We'll help you find them.
+Peace out.
 
 </details>
