@@ -1,11 +1,21 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-25T20:13:04Z
-Date range: 2017-10-25 -> 2026-11-25
+Generated at (UTC): 2026-11-26T20:21:50Z
+Date range: 2017-10-25 -> 2026-11-26
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-26 | 01_Videos/Bloomberg Television/Vance Don’t Think Jensen Huang Needs a Pardon.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/Trump’s China Tariffs Threaten Fresh Trade Tensions.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/Trump Aims to Keep Leverage Over Xi With 40% Tariff Threat.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/Spain's De Cos Set to Succeed Lagarde as ECB President.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Arabia Intensify.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/Global Stocks Climb as AI Trade Rebounds.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/China Tech Stocks Rebound From Record Slump.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/Can Trump Gain Any Leverage Over China With the 40% Tariff Threat.md
+- 2026-11-26 | 01_Videos/Bloomberg Television/Asian Stock Markets Are Cheap Enough Now Market Analysis.md
 - 2026-11-25 | 01_Videos/Bloomberg Television/What Jensen Huang’s Second Act Means for AI.md
 - 2026-11-25 | 01_Videos/Bloomberg Television/US Set to Announce New Tariffs on China, EU.md
 - 2026-11-25 | 01_Videos/Bloomberg Television/The Battle Between China's Huawei and the US Government in 10 Minutes.md
