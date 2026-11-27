@@ -1,11 +1,40 @@
 # Bloomberg Television
 
 Auto-generated daily routing shard.
-Generated at (UTC): 2026-11-26T20:21:50Z
-Date range: 2017-10-25 -> 2026-11-26
+Generated at (UTC): 2026-11-27T20:27:56Z
+Date range: 2017-10-25 -> 2026-11-27
 
 ## 01_Videos / Bloomberg Television
 
+- 2026-11-27 | 01_Videos/Bloomberg Television/What to Know Ahead of Spain’s Snap Election.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/US Investors Will Have to Chase Rally Market Analysis.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Underlying AI Demand 'Much Bigger' than Market Pricing In, Says Ives.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/The Shopping Mall Experience Is Coming Back, Telsey Says.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/The Debate Over Where Anthropic’s New Millionaires Should Donate Their Money.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Tech Stocks Rebound After Thanksgiving Holiday.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Stock Futures Rally as AI Trade Gathers Pace; EU Budget Talks Falter.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Still Mispricing in Private Markets Weinstein.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/SAP Weighs 10,000 Job Cuts as AI Reshapes Tech Industry.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/SAP Prepares Plan to Cut at Least 10,000 Positions.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Nvidia, AI Fears Jolt Markets Market Snapshot.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Nvidia Chips Turn Up at China Site Linked to Alice Huang.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Next 20 Days Is ‘Mission Critical’ for Retailers Yih.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/McDonald’s Bets on Crispy Chicken and AI Drive-Thrus.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Kuwait Says Iranian Drone Strike Kills Two as Houthi Attack Hits Jazan Refinery.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Huawei Teases AI Chip to Rival Giants SK Hynix, Samsung.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Huang Is Worth Up to $10 Trillion to the Market, Ives Says.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/How AI Is Changing Black Friday.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/GTA VI’s Record Launch Makes the Case for Human-Made.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Gold Slumps on Rate Hike Outlook, AI Stocks Selloff.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Ford CEO on Le Mans, New Electric Pickup and Trade Talks.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Financials, Healthcare Will Be Big AI Winners Yardeni.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Everybody’s Business Relax. It’s Probably Not a Cyberattack.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/EU Budget Talks Break Down; Spain Set to Vote.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Bloomberg Surveillance 11272026.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/Asian Stocks Extend Recovery as AI Trade Rebounds.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/AI Rally Faces Fresh Test Nvidia Curbs & Trump Tariffs.md
+- 2026-11-27 | 01_Videos/Bloomberg Television/AI Can Level Playing Field for Travelers, Kelly Says.md
 - 2026-11-26 | 01_Videos/Bloomberg Television/Vance Don’t Think Jensen Huang Needs a Pardon.md
 - 2026-11-26 | 01_Videos/Bloomberg Television/US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebounds.md
 - 2026-11-26 | 01_Videos/Bloomberg Television/Trump’s China Tariffs Threaten Fresh Trade Tensions.md
